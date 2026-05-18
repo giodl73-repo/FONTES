@@ -340,6 +340,22 @@
       "rights_boundary": "OCW course page metadata cleared; official course sites, lecture playlist, GitHub labs, notebooks, dependencies, data, and current-year repository drift require child-resource review."
     },
     {
+      "work_id": "fontes:mit:ocw:15-773-hands-on-deep-learning-spring-2024",
+      "title": "15.773 Hands-on Deep Learning",
+      "domain": "ai-ml",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\mit\\ocw\\15-773-hands-on-deep-learning\\work.json",
+      "custody_record": "sources\\mit\\ocw\\15-773-hands-on-deep-learning\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\15-773-hands-on-deep-learning\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-15-773-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW pages and schedule cleared; lecture media, assigned textbook, public dataset sources, programming assignment artifacts, and student projects require child-resource review."
+    },
+    {
       "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
       "title": "6.036 Introduction to Machine Learning",
       "domain": "ai-ml",

@@ -1,0 +1,21 @@
+{
+  "schema": "fonte.course-sessions.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:15-773-hands-on-deep-learning-spring-2024",
+  "source_url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/",
+  "row_grain": "one row per schedule session",
+  "rows": [
+    {"session_id": "session-1", "display": "Session 1", "title": "Introduction to neural networks and deep learning; training deep NNs", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": ""},
+    {"session_id": "session-2", "display": "Session 2", "title": "Training deep NNs continued; introduction to Keras/Tensorflow; application to tabular data", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": ""},
+    {"session_id": "session-3", "display": "Session 3", "title": "Deep learning for computer vision: building convolutional neural networks from scratch", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": "HW assignment #1 posted"},
+    {"session_id": "session-4", "display": "Session 4", "title": "Deep learning for computer vision: transfer learning and fine-tuning; introduction to HuggingFace", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": ""},
+    {"session_id": "session-5", "display": "Session 5", "title": "Deep learning for natural language: basics, tokenization, n-grams, bag-of-words", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": "HW assignment #1 due"},
+    {"session_id": "session-6", "display": "Session 6", "title": "Deep learning for natural language: embeddings", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": "HW assignment #2 posted"},
+    {"session_id": "session-7", "display": "Session 7", "title": "Deep learning for natural language: transformers", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": "Project proposal due"},
+    {"session_id": "session-8", "display": "Session 8", "title": "Deep learning for natural language: transformers, self-supervised learning", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": ""},
+    {"session_id": "session-9", "display": "Session 9", "title": "Generative AI: large language models and retrieval augmented generation", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": "HW assignment #2 due"},
+    {"session_id": "session-10", "display": "Session 10", "title": "Generative AI: adapting LLMs with parameter-efficient fine-tuning", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": ""},
+    {"session_id": "session-11", "display": "Session 11", "title": "Generative AI: text-to-image models", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "lecture", "fetch_policy": "derived_text_allowed", "key_dates": "Projects due"},
+    {"session_id": "session-12", "display": "Session 12", "title": "Project presentations", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "kind": "resource", "fetch_policy": "derived_text_allowed", "key_dates": ""}
+  ]
+}

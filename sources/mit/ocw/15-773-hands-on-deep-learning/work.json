@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:15-773-hands-on-deep-learning-spring-2024",
+  "title": "15.773 Hands-on Deep Learning",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/",
+  "license_status": "cc-by-nc-sa-4.0-with-per-resource-exclusions",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["deep learning", "business analytics", "computer vision", "natural language processing", "large language models", "retrieval augmented generation", "text-to-image models"],
+  "sources": [
+    {"id": "fontes:mit:ocw:15-773:course-page", "kind": "course_page", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/", "fetch_policy": "derived_text_allowed", "notes": "OCW course description and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."},
+    {"id": "fontes:mit:ocw:15-773:syllabus", "kind": "syllabus", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "Syllabus includes prerequisites, deep-learning business framing, grading, textbook boundary, teams, and project policy."},
+    {"id": "fontes:mit:ocw:15-773:schedule", "kind": "schedule", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/pages/schedule/", "fetch_policy": "derived_text_allowed", "notes": "Schedule lists 12 sessions and key assignment/project dates."},
+    {"id": "fontes:mit:ocw:15-773:schedule-table", "kind": "normalized_session_table", "url": "sources\\tables\\mit-15-773-schedule.json", "fetch_policy": "derived_text_allowed", "notes": "Normalized 12-session schedule table."},
+    {"id": "fontes:mit:ocw:15-773:lecture-notes", "kind": "lecture_notes", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/lists/lecture-notes/", "fetch_policy": "derived_text_allowed", "notes": "Lecture notes list page is present but sparse in fetched output; individual artifacts need resource-level inventory."},
+    {"id": "fontes:mit:ocw:15-773:lecture-videos", "kind": "lecture_videos", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/video_galleries/lecture-videos/", "fetch_policy": "local_cache_allowed", "notes": "Video gallery page is present; student presentations on final day were not recorded."},
+    {"id": "fontes:mit:ocw:15-773:download", "kind": "course_download", "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/download/", "fetch_policy": "bundle_allowed", "notes": "OCW download page says package contains the online course content except audio/video materials."},
+    {"id": "fontes:mit:ocw:15-773:textbook", "kind": "assigned_textbook", "url": "https://www.manning.com/books/deep-learning-with-python-second-edition", "fetch_policy": "metadata_only", "notes": "Assigned Chollet textbook is metadata-only unless separately cleared."}
+  ]
+}
