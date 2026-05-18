@@ -324,6 +324,22 @@
       "rights_boundary": "OCW course page metadata cleared; external course site, recordings, slides, GitHub problem sets, and course platforms require child-resource review."
     },
     {
+      "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020",
+      "title": "6.S191 Introduction to Deep Learning",
+      "domain": "ai-ml",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\mit\\ocw\\6-s191-introduction-to-deep-learning\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-s191-introduction-to-deep-learning\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-s191-introduction-to-deep-learning\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-s191-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page metadata cleared; official course sites, lecture playlist, GitHub labs, notebooks, dependencies, data, and current-year repository drift require child-resource review."
+    },
+    {
       "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
       "title": "6.036 Introduction to Machine Learning",
       "domain": "ai-ml",

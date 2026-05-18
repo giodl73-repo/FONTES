@@ -1,0 +1,14 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020",
+  "row_grain": "one row per mapped OCW or external source surface",
+  "rows": [
+    {"surface_id": "ocw-course-page", "title": "OCW course landing page", "url": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/", "owner": "MIT OpenCourseWare", "license_status": "cc-by-nc-sa-4.0", "fetch_policy": "derived_text_allowed", "proof_status": "candidate"},
+    {"surface_id": "ocw-download", "title": "OCW course download page", "url": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/download/", "owner": "MIT OpenCourseWare", "license_status": "cc-by-nc-sa-4.0-page-with-unclear-package", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "official-site-2020", "title": "MIT 6.S191 official 2020 site", "url": "https://introtodeeplearning.com/2020/index.html", "owner": "MIT Introduction to Deep Learning course team", "license_status": "external-terms-not-captured", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "official-site-current", "title": "MIT Introduction to Deep Learning current site", "url": "https://introtodeeplearning.com/", "owner": "MIT Introduction to Deep Learning course team", "license_status": "external-terms-not-captured", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "github-labs", "title": "MITDeepLearning/introtodeeplearning lab repository", "url": "https://github.com/MITDeepLearning/introtodeeplearning", "owner": "MITDeepLearning GitHub organization", "license_status": "mit-license-code-with-artifact-review", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "lecture-playlist", "title": "MIT 6.S191 lecture playlist", "url": "https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6", "owner": "external video platform / course team", "license_status": "external-media", "fetch_policy": "local_cache_allowed", "proof_status": "media-boundary"}
+  ]
+}
