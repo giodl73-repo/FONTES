@@ -228,6 +228,22 @@
       "rights_boundary": "OCW pages and lecture-note PDFs cleared; supporting MATLAB/data ZIPs, recommended textbooks, and optional external papers require child-resource review."
     },
     {
+      "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+      "title": "6.864 Advanced Natural Language Processing",
+      "domain": "ai-ml",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\6-864-advanced-natural-language-processing\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-864-advanced-natural-language-processing\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-864-advanced-natural-language-processing\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-864-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW pages and lecture-note PDFs cleared; homework datasets/corpora, external NLP tools, tagsets, suggested textbooks, and courtesy material require child-resource review."
+    },
+    {
       "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
       "title": "6.036 Introduction to Machine Learning",
       "domain": "ai-ml",

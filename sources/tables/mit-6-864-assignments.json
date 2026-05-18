@@ -1,0 +1,15 @@
+{
+  "schema": "fonte.course-assignments.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+  "source_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/assignments/",
+  "row_grain": "one row per homework listed by OCW",
+  "rows": [
+    {"assignment_id": "hw1", "display": "Homework 1", "topics": "Advanced NLP homework 1", "problem_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw1/", "fetch_policy": "derived_text_allowed", "rights_boundary": "OCW homework PDF; no supporting file listed."},
+    {"assignment_id": "hw2", "display": "Homework 2", "topics": "Language modeling/counts data", "problem_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw2/", "fetch_policy": "license_review", "rights_boundary": "counts.gz and theirthere.test require dataset review before bundling."},
+    {"assignment_id": "hw3", "display": "Homework 3", "topics": "Lexical similarity and clustering", "problem_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw3/", "fetch_policy": "license_review", "rights_boundary": "data.gz, synrev, sim.in/out, and cluster development files require dataset review."},
+    {"assignment_id": "hw4", "display": "Homework 4", "topics": "POS tagging and trigram/Viterbi development data", "problem_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw4/", "fetch_policy": "license_review", "rights_boundary": "poscounts.gz, WSJ test data, ft.tar.tar scripts, and development files require corpus/tool review."},
+    {"assignment_id": "hw5", "display": "Homework 5", "topics": "Coreference and BoosTexter resources", "problem_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw5/", "fetch_policy": "license_review", "rights_boundary": "External BoosTexter/Penn Treebank tagset links and coreference datasets require review."},
+    {"assignment_id": "hw6", "display": "Homework 6", "topics": "Machine translation corpora and translation probabilities", "problem_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw6/", "fetch_policy": "license_review", "rights_boundary": "German/English corpora and translation-probability files require dataset review before bundling."}
+  ]
+}

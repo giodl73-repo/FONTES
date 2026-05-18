@@ -1,0 +1,23 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+  "title": "6.864 Advanced Natural Language Processing",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/",
+  "license_status": "cc-by-nc-sa-4.0-with-per-resource-exclusions",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["natural language processing", "computational linguistics", "machine learning", "parsing", "machine translation", "dialogue systems", "summarization"],
+  "sources": [
+    {"id": "fontes:mit:ocw:6-864:course-page", "kind": "course_page", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/", "fetch_policy": "derived_text_allowed", "notes": "Course description and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."},
+    {"id": "fontes:mit:ocw:6-864:syllabus", "kind": "syllabus", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "Syllabus includes outline, objectives, prerequisites, textbook boundary, outcomes, and evaluation."},
+    {"id": "fontes:mit:ocw:6-864:lecture-notes", "kind": "lecture_notes", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/lecture-notes/", "fetch_policy": "derived_text_allowed", "notes": "Lecture notes page lists 25 lecture rows; lecture 17 includes courtesy material used with permission."},
+    {"id": "fontes:mit:ocw:6-864:lecture-notes-table", "kind": "normalized_session_table", "url": "sources\\tables\\mit-6-864-lecture-notes.json", "fetch_policy": "derived_text_allowed", "notes": "Normalized lecture-note table with courtesy-material boundary."},
+    {"id": "fontes:mit:ocw:6-864:assignments", "kind": "assignments", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/assignments/", "fetch_policy": "license_review", "notes": "Assignment page text is OCW; datasets, corpora, tagsets, and external tools require child-resource review."},
+    {"id": "fontes:mit:ocw:6-864:assignments-table", "kind": "normalized_assignment_table", "url": "sources\\tables\\mit-6-864-assignments.json", "fetch_policy": "derived_text_allowed", "notes": "Normalized six-homework table with dataset/tool boundaries."},
+    {"id": "fontes:mit:ocw:6-864:suggested-textbooks", "kind": "assigned_textbook", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/syllabus/", "fetch_policy": "metadata_only", "notes": "Suggested Jurafsky/Martin and Manning/Schuetze textbooks are not presumed redistributable."}
+  ]
+}

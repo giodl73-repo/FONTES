@@ -1,0 +1,13 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 6.864 source map",
+  "registry_id": "fontes-mit-6-864-surfaces",
+  "fletches": [
+    {"id": "fontes.mit.ocw.6-864.course-page", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-864", "course-page"]},
+    {"id": "fontes.mit.ocw.6-864.syllabus", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/syllabus/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-864", "syllabus"]},
+    {"id": "fontes.mit.ocw.6-864.lecture-notes", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/lecture-notes/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-864", "lecture-notes"]},
+    {"id": "fontes.mit.ocw.6-864.assignments", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/assignments/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-864", "assignments", "mixed-license"]},
+    {"id": "fontes.mit.ocw.6-864.exams", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/exams/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-864", "exams"]},
+    {"id": "fontes.mit.ocw.6-864.download", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/download/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-864", "download", "mixed-license"]}
+  ]
+}
