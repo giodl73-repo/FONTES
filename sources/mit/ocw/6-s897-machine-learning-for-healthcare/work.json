@@ -1,0 +1,22 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+  "title": "6.S897 Machine Learning for Healthcare",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/",
+  "license_status": "cc-by-nc-sa-4.0-with-per-resource-exclusions",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-18",
+  "subjects": ["machine learning", "healthcare", "clinical data", "deep learning", "natural language processing", "reinforcement learning", "causal inference", "algorithmic fairness", "interpretability"],
+  "sources": [
+    {"id": "fontes:mit:ocw:6-s897:course-page", "kind": "course_page", "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/", "fetch_policy": "derived_text_allowed", "notes": "OCW course description and resource-type inventory."},
+    {"id": "fontes:mit:ocw:6-s897:syllabus", "kind": "syllabus", "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "Prerequisites, grading, lecture scribe policy, and course description."},
+    {"id": "fontes:mit:ocw:6-s897:lecture-notes", "kind": "lecture_notes", "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/pages/lecture-notes/", "fetch_policy": "derived_text_allowed", "notes": "OCW lecture slides and notes table."},
+    {"id": "fontes:mit:ocw:6-s897:lecture-note-table", "kind": "normalized_session_table", "url": "sources\\tables\\mit-6-s897-lecture-notes.json", "fetch_policy": "derived_text_allowed", "notes": "Normalized 25-session lecture notes/slides table."},
+    {"id": "fontes:mit:ocw:6-s897:readings", "kind": "readings", "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/pages/readings/", "fetch_policy": "license_review", "notes": "Reading list includes many external papers/books; keep citation metadata only until individual terms are reviewed."},
+    {"id": "fontes:mit:ocw:6-s897:lecture-videos", "kind": "lecture_videos", "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/", "fetch_policy": "local_cache_allowed", "notes": "Video gallery should not be bundled as raw media."}
+  ]
+}
