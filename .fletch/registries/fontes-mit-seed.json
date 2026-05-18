@@ -4,6 +4,23 @@
   "registry_id": "fontes-mit-seed",
   "fletches": [
     {
+      "id": "fontes.mit.ocw.terms",
+      "node_kind": "document",
+      "label": "MIT OpenCourseWare terms",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/"
+      },
+      "tags": ["fontes", "mit", "ocw", "license"]
+    },
+    {
       "id": "fontes.mit.ocw.18-06.course-page",
       "node_kind": "fletch",
       "label": "18.06 Linear Algebra course page",
@@ -14,7 +31,9 @@
         }
       ],
       "metadata": {
-        "fetch_policy": "license_review",
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
         "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"
       },
       "tags": ["fontes", "mit", "ocw", "linear-algebra"]
@@ -31,9 +50,65 @@
       ],
       "metadata": {
         "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
         "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"
       },
       "tags": ["fontes", "mit", "ocw", "linear-algebra", "readings"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.syllabus",
+      "node_kind": "fletch",
+      "label": "18.06 syllabus",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+        "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"
+      },
+      "tags": ["fontes", "mit", "ocw", "linear-algebra", "syllabus"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.video-gallery",
+      "node_kind": "fletch",
+      "label": "18.06 video lecture gallery",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+        "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"
+      },
+      "tags": ["fontes", "mit", "ocw", "linear-algebra", "video-gallery"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.download",
+      "node_kind": "fletch",
+      "label": "18.06 downloadable OCW course materials",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/download/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+        "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"
+      },
+      "tags": ["fontes", "mit", "ocw", "linear-algebra", "download"]
     },
     {
       "id": "fontes.mit.ocw.6-034.course-page",
@@ -46,7 +121,9 @@
         }
       ],
       "metadata": {
-        "fetch_policy": "license_review",
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
         "work_id": "fontes:mit:ocw:6-034-artificial-intelligence-fall-2010"
       },
       "tags": ["fontes", "mit", "ocw", "artificial-intelligence"]
@@ -63,6 +140,8 @@
       ],
       "metadata": {
         "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
         "work_id": "fontes:mit:ocw:6-034-artificial-intelligence-fall-2010"
       },
       "tags": ["fontes", "mit", "ocw", "artificial-intelligence", "readings"]
@@ -78,7 +157,9 @@
         }
       ],
       "metadata": {
-        "fetch_policy": "license_review",
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
         "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020"
       },
       "tags": ["fontes", "mit", "ocw", "machine-learning"]

@@ -5,8 +5,9 @@
   "source_family": "mit-ocw",
   "source_type": "course",
   "canonical_url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
-  "license_status": "ocw_terms_review",
-  "fetch_policy": "license_review",
+  "license_status": "cc-by-nc-sa-4.0",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
   "custody_status": "seeded",
   "accessed": "2026-05-18",
   "subjects": ["linear algebra", "mathematics", "matrix theory"],
@@ -15,8 +16,8 @@
       "id": "fontes:mit:ocw:18-06:course-page",
       "kind": "course_page",
       "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
-      "fetch_policy": "license_review",
-      "notes": "Course page and resource-type inventory."
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course page and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."
     },
     {
       "id": "fontes:mit:ocw:18-06:readings",
@@ -24,6 +25,27 @@
       "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/readings/",
       "fetch_policy": "derived_text_allowed",
       "notes": "Readings table maps sessions to assigned textbook sections."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus records meeting pattern, goals, grading, MATLAB note, and textbook boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:video-lectures",
+      "kind": "video_gallery",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Video lecture gallery metadata and lecture titles are OCW source text; actual video platform assets remain per-resource."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Course-material download can be cached/bundled for noncommercial CC BY-NC-SA use after FLETCH records attribution and no per-file restriction is found."
     },
     {
       "id": "fontes:mit:ocw:18-06:strang-introduction-to-linear-algebra-4e",

@@ -5,8 +5,9 @@
   "source_family": "mit-ocw",
   "source_type": "course",
   "canonical_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
-  "license_status": "ocw_terms_review",
-  "fetch_policy": "license_review",
+  "license_status": "cc-by-nc-sa-4.0",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
   "custody_status": "seeded",
   "accessed": "2026-05-18",
   "subjects": ["artificial intelligence", "search", "knowledge representation", "learning"],
@@ -15,8 +16,8 @@
       "id": "fontes:mit:ocw:6-034:course-page",
       "kind": "course_page",
       "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
-      "fetch_policy": "license_review",
-      "notes": "Course page and resource-type inventory."
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course page and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."
     },
     {
       "id": "fontes:mit:ocw:6-034:readings",
