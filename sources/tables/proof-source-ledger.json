@@ -276,6 +276,22 @@
       "rights_boundary": "OCW page metadata cleared; video media local-cache only; Vision Book CC BY-NC-ND bodies, external readings, homework artifacts, project ZIPs, and downloads require child-resource review."
     },
     {
+      "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+      "title": "6.801 Machine Vision",
+      "domain": "ai-ml",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\6-801-machine-vision\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-801-machine-vision\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-801-machine-vision\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-801-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW pages and available lecture-note PDFs cleared; download package excludes audio/video; assignments/exams and external project toolchains require child-resource review."
+    },
+    {
       "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
       "title": "6.036 Introduction to Machine Learning",
       "domain": "ai-ml",
