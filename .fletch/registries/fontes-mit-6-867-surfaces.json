@@ -1,0 +1,14 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 6.867 source map",
+  "registry_id": "fontes-mit-6-867-surfaces",
+  "fletches": [
+    {"id": "fontes.mit.ocw.6-867.course-page", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-867", "course-page"]},
+    {"id": "fontes.mit.ocw.6-867.syllabus", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/syllabus/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-867", "syllabus"]},
+    {"id": "fontes.mit.ocw.6-867.lecture-notes", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-867", "lecture-notes"]},
+    {"id": "fontes.mit.ocw.6-867.assignments", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/assignments/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-867", "assignments", "mixed-license"]},
+    {"id": "fontes.mit.ocw.6-867.readings", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/readings/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-867", "readings", "mixed-license"]},
+    {"id": "fontes.mit.ocw.6-867.exams", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/exams/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-867", "exams"]},
+    {"id": "fontes.mit.ocw.6-867.download", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/download/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-867", "download", "mixed-license"]}
+  ]
+}

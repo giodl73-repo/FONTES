@@ -1,0 +1,14 @@
+{
+  "schema": "fonte.course-assignments.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+  "source_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/assignments/",
+  "row_grain": "one row per problem set listed by OCW",
+  "rows": [
+    {"assignment_id": "ps1", "display": "Problem set 1", "topics": "Perceptron and early classification material", "problem_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw1/", "solution_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw1a_soln/; https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw1b_soln/", "fetch_policy": "license_review", "rights_boundary": "OCW PDFs plus supporting M/TXT/ZIP/data resources; ZIPs and data files require child-resource review."},
+    {"assignment_id": "ps2", "display": "Problem set 2", "topics": "Machine learning problem set 2", "problem_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw2/", "solution_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw2_soln/", "fetch_policy": "derived_text_allowed", "rights_boundary": "OCW problem, solution, and errata resources are listed; no bundled code package listed for this row."},
+    {"assignment_id": "ps3", "display": "Problem set 3", "topics": "Machine learning problem set 3", "problem_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw3/", "solution_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw3_soln/", "fetch_policy": "derived_text_allowed", "rights_boundary": "OCW problem, solution, and errata resources are listed; no bundled code package listed for this row."},
+    {"assignment_id": "ps4", "display": "Problem set 4", "topics": "Machine learning problem set 4", "problem_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw4/", "solution_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw4_soln/", "fetch_policy": "derived_text_allowed", "rights_boundary": "OCW problem, solution, and errata resources are listed; no bundled code package listed for this row."},
+    {"assignment_id": "ps5", "display": "Problem set 5", "topics": "Machine learning problem set 5", "problem_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw5/", "solution_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw5_soln/", "fetch_policy": "license_review", "rights_boundary": "OCW PDFs plus Prob1 and Prob2 data ZIPs; bundled MATLAB/data files require child-resource review."}
+  ]
+}

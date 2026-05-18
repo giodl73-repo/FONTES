@@ -1,0 +1,33 @@
+{
+  "schema": "fonte.course-sessions.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+  "source_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/",
+  "row_grain": "one row per lecture-note page row",
+  "rows": [
+    {"session_id": "lecture-1", "display": "Lecture 1", "title": "Introduction, linear classification, perceptron update rule", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec1/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-2", "display": "Lecture 2", "title": "Perceptron convergence, generalization", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec2/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-3", "display": "Lecture 3", "title": "Maximum margin classification", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec3/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-4", "display": "Lecture 4", "title": "Classification errors, regularization, logistic regression", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec4/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-5", "display": "Lecture 5", "title": "Linear regression, estimator bias and variance, active learning", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec5/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-6", "display": "Lecture 6", "title": "Active learning (cont.), non-linear predictions, kernals", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec6/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-7", "display": "Lecture 7", "title": "Kernal regression, kernels", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec7/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-8", "display": "Lecture 8", "title": "Support vector machine (SVM) and kernels, kernel optimization", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec8/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-9", "display": "Lecture 9", "title": "Model selection", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec9/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-10", "display": "Lecture 10", "title": "Model selection criteria", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec10/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-11", "display": "Lecture 11", "title": "Description length, feature selection", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec11/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-12", "display": "Lecture 12", "title": "Combining classifiers, boosting", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec12/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-13", "display": "Lecture 13", "title": "Boosting, margin, and complexity", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec13/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-14", "display": "Lecture 14", "title": "Margin and generalization, mixture models", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec14/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-15", "display": "Lecture 15", "title": "Mixtures and the expectation maximization (EM) algorithm", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec15/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-16", "display": "Lecture 16", "title": "EM, regularization, clustering", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec16/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-17", "display": "Lecture 17", "title": "Clustering", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec17/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-18", "display": "Lecture 18", "title": "Spectral clustering, Markov models", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec18/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-19", "display": "Lecture 19", "title": "Hidden Markov models (HMMs)", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec19/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-20", "display": "Lecture 20", "title": "HMMs (cont.)", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec20/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-21", "display": "Lecture 21", "title": "Bayesian networks", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec21/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-22", "display": "Lecture 22", "title": "Learning Bayesian networks", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec22/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-23", "display": "Lecture 23", "title": "Probabilistic inference; guest lecture on collaborative filtering", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec23/", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-24", "display": "Lecture 24", "title": "Current problems in machine learning, wrap up", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/", "kind": "lecture", "fetch_policy": "derived_text_allowed"}
+  ]
+}

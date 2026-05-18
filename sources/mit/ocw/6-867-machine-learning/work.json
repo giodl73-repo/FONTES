@@ -1,0 +1,23 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+  "title": "6.867 Machine Learning",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/",
+  "license_status": "cc-by-nc-sa-4.0-with-per-resource-exclusions",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["machine learning", "statistical inference", "classification", "support vector machines", "hidden Markov models", "Bayesian networks"],
+  "sources": [
+    {"id": "fontes:mit:ocw:6-867:course-page", "kind": "course_page", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/", "fetch_policy": "derived_text_allowed", "notes": "Course description and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."},
+    {"id": "fontes:mit:ocw:6-867:syllabus", "kind": "syllabus", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "Syllabus includes meeting pattern, problem sets, project, grading, references, and calendar."},
+    {"id": "fontes:mit:ocw:6-867:lecture-notes", "kind": "lecture_notes", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/", "fetch_policy": "derived_text_allowed", "notes": "Lecture notes page lists 24 lecture rows, 23 with OCW-hosted PDF notes."},
+    {"id": "fontes:mit:ocw:6-867:lecture-notes-table", "kind": "normalized_session_table", "url": "sources\\tables\\mit-6-867-lecture-notes.json", "fetch_policy": "derived_text_allowed", "notes": "Normalized lecture-note session table."},
+    {"id": "fontes:mit:ocw:6-867:assignments", "kind": "assignments", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/assignments/", "fetch_policy": "license_review", "notes": "Assignment page text is OCW; supporting MATLAB/data ZIPs require child-resource review."},
+    {"id": "fontes:mit:ocw:6-867:assignments-table", "kind": "normalized_assignment_table", "url": "sources\\tables\\mit-6-867-assignments.json", "fetch_policy": "derived_text_allowed", "notes": "Normalized five-problem-set table with solution and supporting-file boundaries."},
+    {"id": "fontes:mit:ocw:6-867:readings", "kind": "readings_table", "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/readings/", "fetch_policy": "license_review", "notes": "Readings page includes optional external papers and commercial/reference texts that are metadata-only or review-gated."}
+  ]
+}
