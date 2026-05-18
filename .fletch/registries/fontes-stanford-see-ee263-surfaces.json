@@ -1,0 +1,49 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Stanford SEE EE263 source map",
+  "registry_id": "fontes-stanford-see-ee263-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.stanford-see.ee263.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE263"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
+      "tags": ["fontes", "stanford-see", "ee263", "course-page"]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.syllabus",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/Syllabus.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
+      "tags": ["fontes", "stanford-see", "ee263", "syllabus"]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.all-materials",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/LinearDynamicalSystemsAllMaterials.zip"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
+      "tags": ["fontes", "stanford-see", "ee263", "all-materials"]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.notes-overview",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/01-overview.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
+      "tags": ["fontes", "stanford-see", "ee263", "lecture-notes"]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.homework-problems",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/homeworkProblems.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
+      "tags": ["fontes", "stanford-see", "ee263", "assignments"]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.midterm",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/midterm_07.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
+      "tags": ["fontes", "stanford-see", "ee263", "exams"]
+    }
+  ]
+}

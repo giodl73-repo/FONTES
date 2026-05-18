@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+  "title": "EE263 Introduction to Linear Dynamical Systems",
+  "source_family": "stanford-engineering-everywhere",
+  "source_type": "course",
+  "canonical_url": "https://see.stanford.edu/Course/EE263",
+  "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+  "license_url": "https://see.stanford.edu/UsingSEE",
+  "fetch_policy": "bundle_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["linear dynamical systems", "applied linear algebra", "least squares", "control", "observability", "state estimation", "signal processing"],
+  "sources": [
+    {
+      "id": "fontes:stanford-see:ee263:course-page",
+      "kind": "course_page",
+      "url": "https://see.stanford.edu/Course/EE263",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description, instructor bio, handouts, assignments, exams, software, and 20 lecture-session records."
+    },
+    {
+      "id": "fontes:stanford-see:ee263:syllabus",
+      "kind": "syllabus",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/Syllabus.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Syllabus PDF distributed by SEE."
+    },
+    {
+      "id": "fontes:stanford-see:ee263:all-materials",
+      "kind": "course_materials_zip",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/LinearDynamicalSystemsAllMaterials.zip",
+      "fetch_policy": "bundle_allowed",
+      "notes": "SEE all-course-materials ZIP for non-video course materials."
+    },
+    {
+      "id": "fontes:stanford-see:ee263:lecture-notes",
+      "kind": "lecture_notes",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/01-overview.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative lecture handout; course page lists a cover/table-of-contents file and 20 topic handouts."
+    },
+    {
+      "id": "fontes:stanford-see:ee263:homework-problems",
+      "kind": "assignments",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/homeworkProblems.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Master homework-problems PDF; course page maps nine homework sets to exercises and extras."
+    },
+    {
+      "id": "fontes:stanford-see:ee263:exams",
+      "kind": "exams",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/midterm_07.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative midterm PDF; page lists practice midterm/final, midterm, final, and solutions."
+    },
+    {
+      "id": "fontes:stanford-see:ee263:software",
+      "kind": "software_data_files",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/beam_estim_data.mht",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative Matlab/MHT data file; page lists data files for assignments and examples."
+    },
+    {
+      "id": "fontes:stanford-see:ee263:lecture-videos",
+      "kind": "lecture_videos",
+      "url": "https://see.stanford.edu/Course/EE263",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "SEE page lists 20 downloadable MP4 lectures and transcript HTML/PDF links. Keep media bytes out of git."
+    }
+  ]
+}
