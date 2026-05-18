@@ -1,0 +1,49 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 5.111SC source map",
+  "registry_id": "fontes-mit-5-111sc-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.5-111sc.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "mit", "ocw", "5-111sc", "course-page"]
+    },
+    {
+      "id": "fontes.mit.ocw.5-111sc.syllabus",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/syllabus/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "mit", "ocw", "5-111sc", "syllabus"]
+    },
+    {
+      "id": "fontes.mit.ocw.5-111sc.instructor-insights",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/instructor-insights/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "mit", "ocw", "5-111sc", "instructor-insights"]
+    },
+    {
+      "id": "fontes.mit.ocw.5-111sc.resource-index",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/resource-index/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "mit", "ocw", "5-111sc", "resource-index"]
+    },
+    {
+      "id": "fontes.mit.ocw.5-111sc.exams",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/exams/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "mit", "ocw", "5-111sc", "exams"]
+    },
+    {
+      "id": "fontes.mit.ocw.5-111sc.download",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/download/"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "mit", "ocw", "5-111sc", "download"]
+    }
+  ]
+}

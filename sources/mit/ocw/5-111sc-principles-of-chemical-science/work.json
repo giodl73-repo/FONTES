@@ -1,0 +1,79 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:5-111sc-principles-of-chemical-science-fall-2014",
+  "title": "5.111SC Principles of Chemical Science",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+  "license_status": "cc-by-nc-sa-4.0-with-textbook-and-external-video-boundary",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["chemistry", "atomic structure", "molecular structure", "thermodynamics", "equilibrium", "redox", "kinetics", "catalysis"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:5-111sc:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and resource-type metadata for chemistry-for-real-items."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Records five-unit structure, goals, textbook boundary, problem sets, exams, and clicker-question pedagogy."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc:instructor-insights",
+      "kind": "instructor_insights",
+      "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/instructor-insights/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Teaching context, assessment, enrollment, student time, and instructor-interview links."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc:units",
+      "kind": "unit_pages",
+      "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/unit-i-the-atom/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative unit URL; syllabus enumerates five units from atomic structure through kinetics."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc:resource-index",
+      "kind": "resource_index",
+      "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/resource-index/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Single index for lecture videos, lecture notes, clicker questions, textbook readings, external Behind the Scenes videos, and problem resources."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc:exams",
+      "kind": "exams",
+      "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/exams/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Four exams, practice exams, equation sheets, final exam, and solutions."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW download package contains the same online content except audio/video materials."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc:atkins-jones-textbook",
+      "kind": "assigned_textbook",
+      "url": "https://mitpress.mit.edu/",
+      "fetch_policy": "metadata_only",
+      "notes": "Assigned textbook: Atkins and Jones, Chemical Principles: The Quest for Insight, 5th ed. and 4th ed. references. Not OCW-owned."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc:behind-the-scenes-external",
+      "kind": "external_video_collection",
+      "url": "http://chemvideos.mit.edu/",
+      "fetch_policy": "license_review",
+      "notes": "Behind the Scenes at MIT videos are linked from OCW but require separate review before caching or derived indexing."
+    }
+  ]
+}
