@@ -1,0 +1,21 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 6.036 source map",
+  "registry_id": "fontes-mit-6-036-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.6-036.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "tags": ["fontes", "mit", "ocw", "6-036", "course-page"]
+    },
+    {
+      "id": "fontes.mit.oll.6-036.about",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about"}],
+      "metadata": {"fetch_policy": "metadata_only", "license": "all-rights-reserved-unless-otherwise-indicated", "domain": "ai-ml"},
+      "tags": ["fontes", "mit", "open-learning-library", "6-036", "about"]
+    }
+  ]
+}

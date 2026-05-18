@@ -5,10 +5,10 @@
   "source_family": "mit-ocw-open-learning-library",
   "source_type": "course",
   "canonical_url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/",
-  "license_status": "cc-by-nc-sa-4.0",
+  "license_status": "mixed-ocw-cc-by-nc-sa-4.0-and-oll-all-rights-reserved",
   "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
-  "fetch_policy": "derived_text_allowed",
-  "custody_status": "seeded",
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-mapped-with-rights-boundary",
   "accessed": "2026-05-18",
   "subjects": ["machine learning", "artificial intelligence", "modeling", "prediction"],
   "sources": [
@@ -18,6 +18,13 @@
       "url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/",
       "fetch_policy": "derived_text_allowed",
       "notes": "OCW page identifies the course as part of the Open Learning Library and is covered by OCW CC BY-NC-SA 4.0 terms."
+    },
+    {
+      "id": "fontes:mit:ocw:6-036:online-publication",
+      "kind": "open_learning_library_about",
+      "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about",
+      "fetch_policy": "metadata_only",
+      "notes": "Open Learning Library page says lectures, lecture notes, exercises, labs, and homework are included, but license text says all content is all rights reserved unless otherwise indicated."
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
+  "row_grain": "one row per mapped course surface",
+  "rows": [
+    {
+      "surface_id": "ocw-course-page",
+      "title": "OCW course landing page",
+      "url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate"
+    },
+    {
+      "surface_id": "oll-about-page",
+      "title": "Open Learning Library course-about page",
+      "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about",
+      "owner": "MIT Open Learning Library",
+      "license_status": "all-rights-reserved-unless-otherwise-indicated",
+      "fetch_policy": "metadata_only",
+      "proof_status": "rights-boundary"
+    },
+    {
+      "surface_id": "oll-course-materials",
+      "title": "OLL lectures, notes, exercises, labs, and homework",
+      "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about",
+      "owner": "MIT Open Learning Library / course instructors",
+      "license_status": "all-rights-reserved-unless-otherwise-indicated",
+      "fetch_policy": "license_review",
+      "proof_status": "blocked-rights"
+    }
+  ]
+}
