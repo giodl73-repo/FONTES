@@ -25,6 +25,13 @@
 | Problem sets | 7 | Programming and theory assignments, with solution PDFs and several code ZIPs. |
 | Quizzes/final | 3 | Two quizzes and one final exam, each with solution PDF. |
 
+## Normalized tables
+
+- `sources\tables\mit-6-006-readings.json` records 26 readings-page rows: 24
+  lectures plus two quiz markers.
+- `sources\tables\mit-6-006-assignments.json` records seven assignment rows
+  with per-assignment resource URLs and rights boundaries.
+
 ## Game/portfolio relevance
 
 6.006 is useful beyond coding interviews. It supplies source-backed algorithms

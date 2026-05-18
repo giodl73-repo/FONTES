@@ -1,0 +1,19 @@
+{
+  "schema": "fonte.course-assignments.v1",
+  "row_grain": "one row per source-listed course assignment",
+  "required_row_fields": [
+    "assignment_id",
+    "display",
+    "topics",
+    "problem_url",
+    "fetch_policy",
+    "rights_boundary"
+  ],
+  "allowed_fetch_policies": [
+    "metadata_only",
+    "license_review",
+    "local_cache_allowed",
+    "derived_text_allowed",
+    "bundle_allowed"
+  ]
+}

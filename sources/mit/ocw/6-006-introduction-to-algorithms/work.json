@@ -34,6 +34,20 @@
       "notes": "Lecture notes page maps 24 lectures across introduction, sorting/trees, hashing, numerics, graphs, shortest paths, dynamic programming, and advanced topics."
     },
     {
+      "id": "fontes:mit:ocw:6-006:readings-table",
+      "kind": "normalized_session_table",
+      "url": "sources\\tables\\mit-6-006-readings.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Normalized readings/session table extracted from the OCW readings page."
+    },
+    {
+      "id": "fontes:mit:ocw:6-006:assignments-table",
+      "kind": "normalized_assignment_table",
+      "url": "sources\\tables\\mit-6-006-assignments.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Normalized assignment table with per-problem-set rights boundaries."
+    },
+    {
       "id": "fontes:mit:ocw:6-006:assignments",
       "kind": "assignments",
       "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/assignments/",
