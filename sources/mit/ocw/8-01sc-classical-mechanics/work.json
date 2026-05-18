@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:8-01sc-classical-mechanics-fall-2016",
+  "title": "8.01SC Classical Mechanics",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+  "license_status": "cc-by-nc-sa-4.0",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["classical mechanics", "kinematics", "forces", "energy", "momentum", "rotational dynamics"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:8-01sc:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and resource-type metadata for the physics-for-objects lane."
+    },
+    {
+      "id": "fontes:mit:ocw:8-01sc:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Records prerequisites, weekly structure, grading, group-work guidance, and textbook identity."
+    },
+    {
+      "id": "fontes:mit:ocw:8-01sc:online-textbook",
+      "kind": "open_textbook",
+      "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/online-textbook/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Classical Mechanics: MIT 8.01 Course Notes by Peter Dourmashkin, hosted as OCW resources with 31 chapters plus constants/data PDFs."
+    },
+    {
+      "id": "fontes:mit:ocw:8-01sc:readings",
+      "kind": "readings",
+      "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Maps 37 lessons and deep dives to textbook chapter/section readings."
+    },
+    {
+      "id": "fontes:mit:ocw:8-01sc:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Maps 12 problem sets and related worked examples."
+    },
+    {
+      "id": "fontes:mit:ocw:8-01sc:weekly-lessons",
+      "kind": "lesson_pages",
+      "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/week-1-kinematics/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative weekly lesson URL; syllabus/readings enumerate the twelve week pages."
+    },
+    {
+      "id": "fontes:mit:ocw:8-01sc:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW download package contains the same online content except audio/video materials."
+    }
+  ]
+}

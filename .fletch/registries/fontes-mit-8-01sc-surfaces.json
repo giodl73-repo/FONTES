@@ -1,0 +1,49 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 8.01SC source map",
+  "registry_id": "fontes-mit-8-01sc-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.8-01sc.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "mit", "ocw", "8-01sc", "course-page"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-01sc.syllabus",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "mit", "ocw", "8-01sc", "syllabus"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-01sc.online-textbook",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/online-textbook/"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "mit", "ocw", "8-01sc", "online-textbook"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-01sc.readings",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/readings/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "mit", "ocw", "8-01sc", "readings"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-01sc.assignments",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/assignments/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "mit", "ocw", "8-01sc", "assignments"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-01sc.download",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/download/"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "mit", "ocw", "8-01sc", "download"]
+    }
+  ]
+}
