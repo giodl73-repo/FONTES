@@ -1,0 +1,20 @@
+{
+  "schema": "fonte.course-sessions.v1",
+  "row_grain": "one row per source-listed course session",
+  "required_row_fields": [
+    "session_id",
+    "display",
+    "title",
+    "url",
+    "kind",
+    "fetch_policy"
+  ],
+  "allowed_kinds": ["lecture", "exam", "assignment", "resource", "unit"],
+  "allowed_fetch_policies": [
+    "metadata_only",
+    "license_review",
+    "local_cache_allowed",
+    "derived_text_allowed",
+    "bundle_allowed"
+  ]
+}

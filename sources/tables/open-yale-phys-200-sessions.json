@@ -1,0 +1,33 @@
+{
+  "schema": "fonte.course-sessions.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+  "source_url": "https://oyc.yale.edu/physics/phys-200",
+  "row_grain": "one row per OYC listed session",
+  "rows": [
+    {"session_id": "lecture-1", "display": "Lecture 1", "title": "Course Introduction and Newtonian Mechanics", "url": "https://oyc.yale.edu/physics/phys-200/lecture-1", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-2", "display": "Lecture 2", "title": "Vectors in Multiple Dimensions", "url": "https://oyc.yale.edu/physics/phys-200/lecture-2", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-3", "display": "Lecture 3", "title": "Newton's Laws of Motion", "url": "https://oyc.yale.edu/physics/phys-200/lecture-3", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-4", "display": "Lecture 4", "title": "Newton's Laws (cont.) and Inclined Planes", "url": "https://oyc.yale.edu/physics/phys-200/lecture-4", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-5", "display": "Lecture 5", "title": "Work-Energy Theorem and Law of Conservation of Energy", "url": "https://oyc.yale.edu/physics/phys-200/lecture-5", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-6", "display": "Lecture 6", "title": "Law of Conservation of Energy in Higher Dimensions", "url": "https://oyc.yale.edu/physics/phys-200/lecture-6", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-8", "display": "Lecture 8", "title": "Dynamics of a Multiple-Body System and Law of Conservation of Momentum", "url": "https://oyc.yale.edu/physics/phys-200/lecture-8", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-9", "display": "Lecture 9", "title": "Rotations, Part I: Dynamics of Rigid Bodies", "url": "https://oyc.yale.edu/physics/phys-200/lecture-9", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-10", "display": "Lecture 10", "title": "Rotations, Part II: Parallel Axis Theorem", "url": "https://oyc.yale.edu/physics/phys-200/lecture-10", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-11", "display": "Lecture 11", "title": "Torque", "url": "https://oyc.yale.edu/physics/phys-200/lecture-11", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "exam-1", "display": "Exam 1", "title": "Midterm Exam", "url": "https://oyc.yale.edu/physics/phys-200/exam-1", "kind": "exam", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-12", "display": "Lecture 12", "title": "Introduction to Relativity", "url": "https://oyc.yale.edu/physics/phys-200/lecture-12", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-13", "display": "Lecture 13", "title": "Lorentz Transformation", "url": "https://oyc.yale.edu/physics/phys-200/lecture-13", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-14", "display": "Lecture 14", "title": "Introduction to the Four-Vector", "url": "https://oyc.yale.edu/physics/phys-200/lecture-14", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-15", "display": "Lecture 15", "title": "Four-Vector in Relativity", "url": "https://oyc.yale.edu/physics/phys-200/lecture-15", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-16", "display": "Lecture 16", "title": "The Taylor Series and Other Mathematical Concepts", "url": "https://oyc.yale.edu/physics/phys-200/lecture-16", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-17", "display": "Lecture 17", "title": "Simple Harmonic Motion", "url": "https://oyc.yale.edu/physics/phys-200/lecture-17", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-18", "display": "Lecture 18", "title": "Simple Harmonic Motion (cont.) and Introduction to Waves", "url": "https://oyc.yale.edu/physics/phys-200/lecture-18", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-20", "display": "Lecture 20", "title": "Fluid Dynamics and Statics and Bernoulli's Equation", "url": "https://oyc.yale.edu/physics/phys-200/lecture-20", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-21", "display": "Lecture 21", "title": "Thermodynamics", "url": "https://oyc.yale.edu/physics/phys-200/lecture-21", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-22", "display": "Lecture 22", "title": "The Boltzmann Constant and First Law of Thermodynamics", "url": "https://oyc.yale.edu/physics/phys-200/lecture-22", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-23", "display": "Lecture 23", "title": "The Second Law of Thermodynamics and Carnot's Engine", "url": "https://oyc.yale.edu/physics/phys-200/lecture-23", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "lecture-24", "display": "Lecture 24", "title": "The Second Law of Thermodynamics (cont.) and Entropy", "url": "https://oyc.yale.edu/physics/phys-200/lecture-24", "kind": "lecture", "fetch_policy": "derived_text_allowed"},
+    {"session_id": "exam-2", "display": "Exam 2", "title": "Final Exam", "url": "https://oyc.yale.edu/physics/phys-200/exam-2", "kind": "exam", "fetch_policy": "derived_text_allowed"}
+  ]
+}

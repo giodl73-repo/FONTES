@@ -100,6 +100,22 @@
       "rights_boundary": "OCW course notes and pages cleared; audio/video remain local-cache only."
     },
     {
+      "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+      "title": "PHYS 200 Fundamentals of Physics I",
+      "domain": "physics-for-objects",
+      "source_family": "open-yale-courses",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-education\\open-yale-courses\\phys-200-fundamentals-of-physics-i\\work.json",
+      "custody_record": "sources\\open-education\\open-yale-courses\\phys-200-fundamentals-of-physics-i\\custody.md",
+      "inventory_record": "sources\\open-education\\open-yale-courses\\phys-200-fundamentals-of-physics-i\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-open-yale-phys-200-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OYC-owned lecture/course materials cleared under CC BY-NC-SA 3.0; lecture-level third-party credits, media files, and assigned books remain boundary-checked."
+    },
+    {
       "work_id": "fontes:mit:ocw:5-111sc-principles-of-chemical-science-fall-2014",
       "title": "5.111SC Principles of Chemical Science",
       "domain": "chemistry-for-real-items",
