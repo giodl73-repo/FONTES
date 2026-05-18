@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:18-065-matrix-methods-spring-2018",
+  "title": "18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/",
+  "license_status": "cc-by-nc-sa-4.0-with-textbook-boundary",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["linear algebra", "machine learning", "signal processing", "optimization", "deep learning"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:18-065:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course page and topic/resource inventory under OCW CC BY-NC-SA 4.0 terms."
+    },
+    {
+      "id": "fontes:mit:ocw:18-065:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus records prerequisites, course thesis, grading elements, and textbook boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:18-065:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Assignment page maps lecture topics and problem-set references into one OCW problem-set PDF."
+    },
+    {
+      "id": "fontes:mit:ocw:18-065:video-lectures",
+      "kind": "video_gallery",
+      "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Video gallery metadata maps 34 available lecture videos; lectures 28 and 29 were in-class labs without videos."
+    },
+    {
+      "id": "fontes:mit:ocw:18-065:instructor-insights",
+      "kind": "instructor_insights",
+      "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/pages/instructor-insights/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Teaching context, assessment structure, enrollment, student time, and course team roles."
+    },
+    {
+      "id": "fontes:mit:ocw:18-065:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW download package excludes audio/video materials and can be cached/bundled for noncommercial CC BY-NC-SA use if no per-file restrictions are found."
+    },
+    {
+      "id": "fontes:mit:ocw:18-065:strang-linear-algebra-and-learning-from-data",
+      "kind": "assigned_textbook",
+      "url": "http://math.mit.edu/~gs/learningfromdata/",
+      "fetch_policy": "license_review",
+      "notes": "Assigned textbook: Gilbert Strang, Linear Algebra and Learning from Data, Wellesley-Cambridge Press, 2019. Book-site table of contents, sample chapters, and essays require separate review."
+    }
+  ]
+}

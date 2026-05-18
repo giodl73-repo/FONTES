@@ -1,0 +1,49 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 18.065 source map",
+  "registry_id": "fontes-mit-18-065-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.18-065.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-ai-ml"},
+      "tags": ["fontes", "mit", "ocw", "18-065", "course-page"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-065.syllabus",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/pages/syllabus/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-ai-ml"},
+      "tags": ["fontes", "mit", "ocw", "18-065", "syllabus"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-065.assignments",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/pages/assignments/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-ai-ml"},
+      "tags": ["fontes", "mit", "ocw", "18-065", "assignments"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-065.video-gallery",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-ai-ml"},
+      "tags": ["fontes", "mit", "ocw", "18-065", "video-gallery"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-065.instructor-insights",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/pages/instructor-insights/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-ai-ml"},
+      "tags": ["fontes", "mit", "ocw", "18-065", "instructor-insights"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-065.download",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/download/"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-ai-ml"},
+      "tags": ["fontes", "mit", "ocw", "18-065", "download"]
+    }
+  ]
+}
