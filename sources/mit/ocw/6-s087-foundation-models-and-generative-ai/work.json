@@ -1,0 +1,21 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-s087-foundation-models-and-generative-ai-january-iap-2024",
+  "title": "6.S087 Foundation Models and Generative AI",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024/",
+  "license_status": "cc-by-nc-sa-4.0-with-external-course-site",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-18",
+  "subjects": ["foundation models", "generative ai", "large language models", "diffusion models", "self-supervised learning", "reinforcement learning", "ai ethics", "ai applications"],
+  "sources": [
+    {"id": "fontes:mit:ocw:6-s087:course-page", "kind": "course_page", "url": "https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024/", "fetch_policy": "derived_text_allowed", "notes": "OCW landing page with course description, instructor, term, level, topic, and lecture-video resource type."},
+    {"id": "fontes:mit:ocw:6-s087:surface-table", "kind": "normalized_surface_table", "url": "sources\\tables\\mit-6-s087-surfaces.json", "fetch_policy": "derived_text_allowed", "notes": "Surface-level rights boundary for the OCW page, official external course site, and external update/registry links."},
+    {"id": "fontes:mit:ocw:6-s087:course-website", "kind": "external_course_site", "url": "https://www.futureofai.mit.edu/", "fetch_policy": "license_review", "notes": "Official external site lists 2024 lecture topics and course logistics but is outside OCW terms."},
+    {"id": "fontes:mit:ocw:6-s087:update-form", "kind": "external_form", "url": "https://docs.google.com/forms/d/e/1FAIpQLScGQiqSWM-2LuV2YFmqmSdBLgw8qiqspGyLEgCgJtv61ncqcw/viewform", "fetch_policy": "metadata_only", "notes": "External Google Form for lecture updates; metadata-only."},
+    {"id": "fontes:mit:ocw:6-s087:mit-registry", "kind": "registration_system", "url": "https://student.mit.edu/cgi-bin/sfprwtrm.sh", "fetch_policy": "metadata_only", "notes": "MIT student course registry link for course number identity only."}
+  ]
+}

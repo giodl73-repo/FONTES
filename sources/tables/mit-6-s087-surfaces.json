@@ -1,0 +1,15 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-s087-foundation-models-and-generative-ai-january-iap-2024",
+  "row_grain": "one row per mapped OCW or external source surface",
+  "rows": [
+    {"surface_id": "ocw-course-page", "title": "OCW course landing page", "url": "https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024/", "owner": "MIT OpenCourseWare", "license_status": "cc-by-nc-sa-4.0", "fetch_policy": "derived_text_allowed", "proof_status": "candidate"},
+    {"surface_id": "official-course-site", "title": "MIT Future of AI official course website", "url": "https://www.futureofai.mit.edu/", "owner": "MIT Future of AI course team", "license_status": "external-terms-not-captured", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "lecture-list-2024", "title": "2024 lecture list: introduction, how it works, ChatGPT and LLMs, image generation, ecosystems, biology, autonomy, ethics, panel", "url": "https://www.futureofai.mit.edu/", "owner": "MIT Future of AI course team", "license_status": "external-terms-not-captured", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "lecture-list-2023", "title": "2023 lecture list: introduction, algorithms, ChatGPT, data and Stable Diffusion", "url": "https://www.futureofai.mit.edu/", "owner": "MIT Future of AI course team", "license_status": "external-terms-not-captured", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "lecture-update-form", "title": "External Google Form for lecture material updates", "url": "https://docs.google.com/forms/d/e/1FAIpQLScGQiqSWM-2LuV2YFmqmSdBLgw8qiqspGyLEgCgJtv61ncqcw/viewform", "owner": "Google Forms / course team", "license_status": "external-service", "fetch_policy": "metadata_only", "proof_status": "identity-only"},
+    {"surface_id": "course-registry", "title": "MIT student course registry identity link", "url": "https://student.mit.edu/cgi-bin/sfprwtrm.sh", "owner": "MIT Registrar / student systems", "license_status": "external-service", "fetch_policy": "metadata_only", "proof_status": "identity-only"},
+    {"surface_id": "embedded-media", "title": "External-site images and GIFs illustrating LLMs, agents, video generation, driving, proteins, robotics, and reviews", "url": "https://www.futureofai.mit.edu/", "owner": "MIT Future of AI course team / possible third-party assets", "license_status": "external-media", "fetch_policy": "license_review", "proof_status": "media-boundary"}
+  ]
+}

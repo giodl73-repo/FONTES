@@ -1,0 +1,13 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 6.S087 source map",
+  "registry_id": "fontes-mit-6-s087-surfaces",
+  "fletches": [
+    {"id": "fontes.mit.ocw.6-s087.course-page", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-s087", "course-page"]},
+    {"id": "fontes.mit.ocw.6-s087.official-site", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://www.futureofai.mit.edu/"}], "metadata": {"fetch_policy": "license_review", "license": "external-terms-not-captured", "domain": "ai-ml"}, "tags": ["fontes", "mit", "foundation-models", "6-s087", "official-site", "rights-boundary"]},
+    {"id": "fontes.mit.ocw.6-s087.lecture-list-2024", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://www.futureofai.mit.edu/"}], "metadata": {"fetch_policy": "license_review", "license": "external-terms-not-captured", "domain": "ai-ml"}, "tags": ["fontes", "mit", "foundation-models", "6-s087", "lecture-list", "2024", "rights-boundary"]},
+    {"id": "fontes.mit.ocw.6-s087.update-form", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://docs.google.com/forms/d/e/1FAIpQLScGQiqSWM-2LuV2YFmqmSdBLgw8qiqspGyLEgCgJtv61ncqcw/viewform"}], "metadata": {"fetch_policy": "metadata_only", "license": "external-service", "domain": "ai-ml"}, "tags": ["fontes", "mit", "foundation-models", "6-s087", "metadata-only"]},
+    {"id": "fontes.mit.ocw.6-s087.course-registry", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://student.mit.edu/cgi-bin/sfprwtrm.sh"}], "metadata": {"fetch_policy": "metadata_only", "license": "external-service", "domain": "ai-ml"}, "tags": ["fontes", "mit", "foundation-models", "6-s087", "course-registry", "metadata-only"]},
+    {"id": "fontes.mit.ocw.6-s087.embedded-media", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://www.futureofai.mit.edu/"}], "metadata": {"fetch_policy": "license_review", "license": "external-media", "domain": "ai-ml"}, "tags": ["fontes", "mit", "foundation-models", "6-s087", "media-boundary"]}
+  ]
+}

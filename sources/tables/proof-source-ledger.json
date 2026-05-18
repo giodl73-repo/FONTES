@@ -356,6 +356,22 @@
       "rights_boundary": "OCW pages and schedule cleared; lecture media, assigned textbook, public dataset sources, programming assignment artifacts, and student projects require child-resource review."
     },
     {
+      "work_id": "fontes:mit:ocw:6-s087-foundation-models-and-generative-ai-january-iap-2024",
+      "title": "6.S087 Foundation Models and Generative AI",
+      "domain": "ai-ml",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\mit\\ocw\\6-s087-foundation-models-and-generative-ai\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-s087-foundation-models-and-generative-ai\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-s087-foundation-models-and-generative-ai\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-s087-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW landing page cleared; official external course site, lecture lists, embedded media, Google Form, and registration link require child-resource review or metadata-only handling."
+    },
+    {
       "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
       "title": "6.036 Introduction to Machine Learning",
       "domain": "ai-ml",
