@@ -1,0 +1,100 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES open education family intake",
+  "registry_id": "fontes-open-education-families",
+  "fletches": [
+    {
+      "id": "fontes.open-education.open-yale-courses.terms",
+      "node_kind": "document",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/terms"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0",
+        "family_id": "fontes:open-education:open-yale-courses"
+      },
+      "tags": ["fontes", "open-education", "yale", "license"]
+    },
+    {
+      "id": "fontes.open-education.stanford-see.terms",
+      "node_kind": "document",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/UsingSEE"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "family_id": "fontes:open-education:stanford-engineering-everywhere"
+      },
+      "tags": ["fontes", "open-education", "stanford", "license"]
+    },
+    {
+      "id": "fontes.open-education.stanford-see.course-list",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "family_id": "fontes:open-education:stanford-engineering-everywhere"
+      },
+      "tags": ["fontes", "open-education", "stanford", "course-list"]
+    },
+    {
+      "id": "fontes.open-education.open-michigan.home",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://open.umich.edu/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "family_id": "fontes:open-education:open-michigan"
+      },
+      "tags": ["fontes", "open-education", "michigan", "license-review"]
+    },
+    {
+      "id": "fontes.open-education.uc-berkeley-ocw.home",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.berkeley.edu/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "family_id": "fontes:open-education:uc-berkeley-ocw"
+      },
+      "tags": ["fontes", "open-education", "berkeley", "license-review"]
+    },
+    {
+      "id": "fontes.open-education.oeglobal.home",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.oeglobal.org/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "metadata_only",
+        "family_id": "fontes:open-education:open-education-global"
+      },
+      "tags": ["fontes", "open-education", "oeglobal", "metadata-only"]
+    }
+  ]
+}

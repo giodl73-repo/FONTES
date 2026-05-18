@@ -1,0 +1,14 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:open-education:uc-berkeley-ocw",
+  "title": "UC Berkeley OpenCourseWare",
+  "source_family": "uc-berkeley-ocw",
+  "source_type": "course-family",
+  "canonical_url": "https://ocw.berkeley.edu/",
+  "license_status": "license_review",
+  "fetch_policy": "license_review",
+  "custody_status": "source-family-seeded",
+  "accessed": "2026-05-18",
+  "subjects": ["open education", "uc berkeley", "course materials"],
+  "notes": "Terms page fetch failed in this pass. Treat as license_review until authoritative UC Berkeley terms are captured."
+}

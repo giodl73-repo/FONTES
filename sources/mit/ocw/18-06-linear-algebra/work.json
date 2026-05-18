@@ -48,6 +48,41 @@
       "notes": "Course-material download can be cached/bundled for noncommercial CC BY-NC-SA use after FLETCH records attribution and no per-file restriction is found."
     },
     {
+      "id": "fontes:mit:ocw:18-06:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Assignment page records ten problem sets and links to solution PDFs under OCW terms; problem statements reference assigned textbook sections."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:exams",
+      "kind": "exams",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/exams/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Exam page records three exams, final exam, and solution PDFs under OCW terms."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:study-materials",
+      "kind": "study_materials",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/study-materials/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Study-material page is part of the complete 18.06 source map and references prior-year exam/quiz resources."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:instructor-insights",
+      "kind": "instructor_insights",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/instructor-insights/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Instructor insight page records teaching context, assessment, enrollment, weekly time split, and course team roles."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:related-resources",
+      "kind": "related_resources",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/related-resources/",
+      "fetch_policy": "license_review",
+      "notes": "Related resources mix OCW links, Strang textbook metadata, OCW-hosted PDFs, Java demos, MathWorks, YouTube, external PDFs, and other third-party sites; classify child resources individually before caching."
+    },
+    {
       "id": "fontes:mit:ocw:18-06:strang-introduction-to-linear-algebra-4e",
       "kind": "assigned_textbook",
       "url": "http://www.wellesleycambridge.com/",

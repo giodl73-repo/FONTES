@@ -1,0 +1,15 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:open-education:stanford-engineering-everywhere",
+  "title": "Stanford Engineering Everywhere",
+  "source_family": "stanford-engineering-everywhere",
+  "source_type": "course-family",
+  "canonical_url": "https://see.stanford.edu/Course",
+  "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+  "license_url": "https://see.stanford.edu/UsingSEE",
+  "fetch_policy": "bundle_allowed",
+  "custody_status": "source-family-seeded",
+  "accessed": "2026-05-18",
+  "subjects": ["open education", "stanford", "computer science", "artificial intelligence", "optimization"],
+  "notes": "SEE excludes Stanford Introduction to Logic from the general CC policy; videos should be cached locally via FLETCH, not committed."
+}

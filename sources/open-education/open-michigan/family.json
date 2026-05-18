@@ -1,0 +1,14 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:open-education:open-michigan",
+  "title": "Open Michigan",
+  "source_family": "open-michigan",
+  "source_type": "oer-family",
+  "canonical_url": "https://open.umich.edu/",
+  "license_status": "license_review",
+  "fetch_policy": "license_review",
+  "custody_status": "source-family-seeded",
+  "accessed": "2026-05-18",
+  "subjects": ["open education", "university of michigan", "oer"],
+  "notes": "Likely item-level Creative Commons OER; capture authoritative source-family and per-resource licenses before caching."
+}

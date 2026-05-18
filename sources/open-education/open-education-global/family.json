@@ -1,0 +1,14 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:open-education:open-education-global",
+  "title": "Open Education Global",
+  "source_family": "open-education-global",
+  "source_type": "directory-community",
+  "canonical_url": "https://www.oeglobal.org/",
+  "license_status": "metadata_directory",
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-family-seeded",
+  "accessed": "2026-05-18",
+  "subjects": ["open education", "oer", "source discovery"],
+  "notes": "OEGlobal is useful for discovery and policy context, but individual OER sources need their own licenses."
+}

@@ -1,0 +1,15 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:open-education:open-yale-courses",
+  "title": "Open Yale Courses",
+  "source_family": "open-yale-courses",
+  "source_type": "course-family",
+  "canonical_url": "https://oyc.yale.edu/",
+  "license_status": "cc-by-nc-sa-3.0-most-materials",
+  "license_url": "https://oyc.yale.edu/terms",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-family-seeded",
+  "accessed": "2026-05-18",
+  "subjects": ["open education", "yale", "course materials"],
+  "notes": "Most OYC lectures and course materials are CC BY-NC-SA 3.0; third-party materials require credit-section review."
+}
