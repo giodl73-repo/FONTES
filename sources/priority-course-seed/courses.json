@@ -1,0 +1,123 @@
+{
+  "schema": "fonte.priority-course-seed.v1",
+  "generated": "2026-05-18",
+  "priority_order": [
+    "cs-software",
+    "ai-ml",
+    "mathematics",
+    "physics-for-objects",
+    "chemistry-for-real-items"
+  ],
+  "courses": [
+    {
+      "id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+      "domain": "cs-software",
+      "title": "6.006 Introduction to Algorithms",
+      "source_family": "mit-ocw",
+      "canonical_url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "why": "Core algorithms, data structures, modeling of computational problems, and performance analysis."
+    },
+    {
+      "id": "fontes:stanford-see:cs229-machine-learning",
+      "domain": "ai-ml",
+      "title": "CS229 Machine Learning",
+      "source_family": "stanford-engineering-everywhere",
+      "canonical_url": "https://see.stanford.edu/Course/CS229",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "why": "High-value AI/ML course with SEE-cleared materials."
+    },
+    {
+      "id": "fontes:mit:ocw:18-065-matrix-methods-spring-2018",
+      "domain": "mathematics",
+      "title": "18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning",
+      "source_family": "mit-ocw",
+      "canonical_url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "why": "Linear algebra bridge into probability, optimization, signal processing, and deep learning."
+    },
+    {
+      "id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+      "domain": "mathematics",
+      "title": "EE263 Introduction to Linear Dynamical Systems",
+      "source_family": "stanford-engineering-everywhere",
+      "canonical_url": "https://see.stanford.edu/Course/EE263",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "why": "State-space, dynamics, control, and applied linear algebra for simulation and systems."
+    },
+    {
+      "id": "fontes:stanford-see:ee364a-convex-optimization",
+      "domain": "mathematics",
+      "title": "EE364A Convex Optimization I",
+      "source_family": "stanford-engineering-everywhere",
+      "canonical_url": "https://see.stanford.edu/Course/EE364A",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "why": "Optimization spine for ML, planning, routing, allocation, and evidence scoring."
+    },
+    {
+      "id": "fontes:mit:ocw:8-01sc-classical-mechanics-fall-2016",
+      "domain": "physics-for-objects",
+      "title": "8.01SC Classical Mechanics",
+      "source_family": "mit-ocw",
+      "canonical_url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "why": "Motion, forces, energy, momentum, torque, angular momentum, and rigid-body behavior for object/world realism."
+    },
+    {
+      "id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+      "domain": "physics-for-objects",
+      "title": "PHYS 200 Fundamentals of Physics I",
+      "source_family": "open-yale-courses",
+      "canonical_url": "https://oyc.yale.edu/physics/phys-200",
+      "license_status": "cc-by-nc-sa-3.0-most-materials",
+      "fetch_policy": "derived_text_allowed",
+      "why": "Mechanics, relativity, gravitation, thermodynamics, and waves for game object/world behavior."
+    },
+    {
+      "id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+      "domain": "physics-for-objects",
+      "title": "PHYS 201 Fundamentals of Physics II",
+      "source_family": "open-yale-courses",
+      "canonical_url": "https://oyc.yale.edu/physics/phys-201",
+      "license_status": "cc-by-nc-sa-3.0-most-materials",
+      "fetch_policy": "derived_text_allowed",
+      "why": "Electricity, magnetism, optics, and quantum mechanics for objects, devices, light, and materials."
+    },
+    {
+      "id": "fontes:mit:ocw:5-111sc-principles-of-chemical-science-fall-2014",
+      "domain": "chemistry-for-real-items",
+      "title": "5.111SC Principles of Chemical Science",
+      "source_family": "mit-ocw",
+      "canonical_url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "why": "Atomic/molecular structure, bonding, thermodynamics, equilibria, kinetics, and catalysis for real items."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+      "domain": "chemistry-for-real-items",
+      "title": "CHEM 125a Freshman Organic Chemistry I",
+      "source_family": "open-yale-courses",
+      "canonical_url": "https://oyc.yale.edu/chemistry/chem-125a",
+      "license_status": "cc-by-nc-sa-3.0-most-materials",
+      "fetch_policy": "derived_text_allowed",
+      "why": "Structure, mechanism, chemical bonding, functional groups, stereochemistry, and chemical history."
+    },
+    {
+      "id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+      "domain": "chemistry-for-real-items",
+      "title": "CHEM 125b Freshman Organic Chemistry II",
+      "source_family": "open-yale-courses",
+      "canonical_url": "https://oyc.yale.edu/chemistry/chem-125b",
+      "license_status": "cc-by-nc-sa-3.0-most-materials",
+      "fetch_policy": "derived_text_allowed",
+      "why": "Reaction mechanisms, spectroscopy, organic synthesis, polymers, catalysis, and molecules of nature."
+    }
+  ]
+}

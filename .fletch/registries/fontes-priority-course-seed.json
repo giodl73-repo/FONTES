@@ -1,0 +1,84 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES priority course seed",
+  "registry_id": "fontes-priority-course-seed",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.6-006.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software"},
+      "tags": ["fontes", "mit", "ocw", "cs", "algorithms"]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS229"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "tags": ["fontes", "stanford", "see", "ai", "machine-learning"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-065.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics"},
+      "tags": ["fontes", "mit", "ocw", "math", "machine-learning"]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE263"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics"},
+      "tags": ["fontes", "stanford", "see", "linear-systems"]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE364A"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics"},
+      "tags": ["fontes", "stanford", "see", "optimization"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-01sc.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "mit", "ocw", "physics", "mechanics"]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/physics/phys-200"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "open-yale", "physics", "mechanics"]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/physics/phys-201"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0", "domain": "physics-for-objects"},
+      "tags": ["fontes", "open-yale", "physics", "electromagnetism", "optics"]
+    },
+    {
+      "id": "fontes.mit.ocw.5-111sc.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "mit", "ocw", "chemistry"]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/chemistry/chem-125a"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "open-yale", "chemistry", "organic"]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/chemistry/chem-125b"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0", "domain": "chemistry-for-real-items"},
+      "tags": ["fontes", "open-yale", "chemistry", "organic"]
+    }
+  ]
+}
