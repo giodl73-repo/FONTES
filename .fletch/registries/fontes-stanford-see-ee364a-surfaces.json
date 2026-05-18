@@ -1,0 +1,49 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Stanford SEE EE364A source map",
+  "registry_id": "fontes-stanford-see-ee364a-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.stanford-see.ee364a.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE364A"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
+      "tags": ["fontes", "stanford-see", "ee364a", "course-page"]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.syllabus",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/Syllabus.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
+      "tags": ["fontes", "stanford-see", "ee364a", "syllabus"]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.all-materials",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/ConvexOptimizationIAllMaterials.zip"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
+      "tags": ["fontes", "stanford-see", "ee364a", "all-materials"]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.notes-introduction",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/01Introduction.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
+      "tags": ["fontes", "stanford-see", "ee364a", "lecture-notes"]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.hw1-solution",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/hw1sol.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
+      "tags": ["fontes", "stanford-see", "ee364a", "homework"]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.final",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/final.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
+      "tags": ["fontes", "stanford-see", "ee364a", "exams"]
+    }
+  ]
+}
