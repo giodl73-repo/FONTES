@@ -20,13 +20,18 @@ found.
 
 ## Seed works
 
-| Work | Policy | Reason |
-|---|---|---|
-| 18.06 Linear Algebra | CC BY-NC-SA OCW materials plus metadata-only textbooks | OCW course materials are separate from assigned Strang textbook custody. |
-| 6.034 Artificial Intelligence | CC BY-NC-SA OCW materials plus metadata-only textbook | OCW readings page is useful; assigned Winston textbook remains metadata-only. |
-| 6.036 Introduction to Machine Learning | CC BY-NC-SA OCW course page | Open Learning Library course still needs resource enumeration. |
-| Deep Learning | metadata-only | Official site is free-to-read HTML but not redistributable as PDF/text corpus. |
-| Introduction to Deep Learning | license review | MIT Press page found; open terms need confirmation. |
+The MIT seed works are represented in structured records rather than an inline
+source table:
+
+- Source URL/cacheline rows live in `.fletch\registries\fontes-mit-seed.json`.
+- Work-level proof/custody rows live in
+  `sources\tables\proof-source-ledger.json`.
+- Detailed course and book boundaries live under `sources\mit\`.
+
+The seed includes 18.06 Linear Algebra, 6.034 Artificial Intelligence, 6.036
+Introduction to Machine Learning, _Deep Learning_, and _Introduction to Deep
+Learning_. Use the structured records for exact policy and rights-boundary
+values.
 
 ## Publisher status
 

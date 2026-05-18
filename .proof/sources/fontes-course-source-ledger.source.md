@@ -13,26 +13,18 @@ custody. It binds each source map to its machine-readable work record, custody
 record, inventory record, FLETCH registry, rights boundary, and downstream
 PEBBLE/CROP readiness status.
 
-The canonical table is `sources\tables\proof-source-ledger.json`. Markdown below
-is only the human-readable summary; downstream extraction should use the JSON
-table as the proof input.
+The canonical table is `sources\tables\proof-source-ledger.json`. Downstream
+extraction must use that JSON table as the proof input.
 
 ## Ledger summary
 
-| Work | Domain | Family | Policy | PROOF status |
-|---|---|---|---|---|
-| 6.006 Introduction to Algorithms | CS/software | MIT OCW | `derived_text_allowed` | candidate |
-| CS229 Machine Learning | AI/ML | Stanford SEE | `bundle_allowed` | candidate |
-| 18.065 Matrix Methods | Mathematics | MIT OCW | `derived_text_allowed` | candidate |
-| EE263 Linear Dynamical Systems | Mathematics/systems | Stanford SEE | `bundle_allowed` | candidate |
-| EE364A Convex Optimization I | Mathematics/optimization | Stanford SEE | `bundle_allowed` with textbook boundary | candidate |
-| 8.01SC Classical Mechanics | Physics-for-objects | MIT OCW | `derived_text_allowed` | candidate |
-| 5.111SC Principles of Chemical Science | Chemistry-for-real-items | MIT OCW | `derived_text_allowed` with textbook/external-video boundary | candidate |
-| 18.06 Linear Algebra | Mathematics | MIT OCW | `derived_text_allowed` | candidate |
-| 6.034 Artificial Intelligence | AI/ML | MIT OCW | `derived_text_allowed` with textbook boundary | candidate |
-| 6.036 Introduction to Machine Learning | AI/ML | MIT OCW | `derived_text_allowed` | pending inventory |
-| Deep Learning | AI/ML | MIT Press/author-hosted | `metadata_only` | blocked-rights |
-| Introduction to Deep Learning | AI/ML | MIT Press | `license_review` | blocked-rights |
+The ledger currently covers 12 work-level source records:
+
+- 9 candidate rows ready for surface-level PEBBLE/CROP expansion.
+- 1 pending-inventory row that needs more source enumeration before extraction.
+- 2 blocked-rights rows that may only contribute source identity or gap status.
+
+For exact work, domain, family, policy, and status values, use the JSON ledger.
 
 ## PROOF rule
 
