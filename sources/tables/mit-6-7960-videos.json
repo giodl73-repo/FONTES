@@ -1,0 +1,33 @@
+{
+  "schema": "fonte.course-sessions.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-7960-deep-learning-fall-2024",
+  "source_url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos/",
+  "row_grain": "one row per video-gallery entry listed by OCW",
+  "rows": [
+    {"session_id": "lecture-1", "display": "Lec 01", "title": "Introduction to Deep Learning", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec01_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-2", "display": "Lec 02", "title": "How to Train a Neural Net", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec02_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-3", "display": "Lec 03", "title": "Approximation Theory", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec03_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-4", "display": "Lec 04", "title": "Architectures: Grids", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec04_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-5", "display": "Lec 05", "title": "Architectures: Graphs", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec05_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-6", "display": "Lec 06", "title": "Generalization Theory", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec06_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-7", "display": "Lec 07", "title": "Scaling Rules for Optimization", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec07_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-8", "display": "Lec 08", "title": "Architectures: Transformers", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec08_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-9", "display": "Lec 09", "title": "Hacker's Guide to Deep Learning", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec09_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-10", "display": "Lec 10", "title": "Architectures: Memory", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec10_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-11", "display": "Lec 11", "title": "Representation Learning: Reconstruction-Based", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec11_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-12", "display": "Lec 12", "title": "Representation Learning: Similarity-Based", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec12_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-13", "display": "Lec 13", "title": "Representation Learning: Theory", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec13_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-14", "display": "Lec 14", "title": "Generative Models: Basics", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec14_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-15", "display": "Lec 15", "title": "Generative Models: Representation Learning Meets Generative Modeling", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec15_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-16", "display": "Lec 16", "title": "Generative Models: Conditional Models", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec16_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-17", "display": "Lec 17", "title": "Generalization: Out-of-Distribution (OOD)", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec17_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-18", "display": "Lec 18", "title": "Transfer Learning: Models", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec18_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-19", "display": "Lec 19", "title": "Transfer Learning: Data", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec19_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-20", "display": "Lec 20", "title": "Scaling Laws", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec20_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-21", "display": "Lec 21", "title": "Language Models", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec21_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-23", "display": "Lec 23", "title": "Metrized Deep Learning", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec23_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "lecture-24", "display": "Lec 24", "title": "Inference Methods for Deep Learning", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec24_mp4/", "kind": "lecture", "fetch_policy": "local_cache_allowed"},
+    {"session_id": "pytorch-tutorial", "display": "PyTorch Tutorial", "title": "PyTorch Tutorial", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_review_mp4/", "kind": "resource", "fetch_policy": "local_cache_allowed"}
+  ]
+}

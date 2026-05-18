@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-7960-deep-learning-fall-2024",
+  "title": "6.7960 Deep Learning",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/",
+  "license_status": "cc-by-nc-sa-4.0-with-per-resource-exclusions",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["deep learning", "neural networks", "transformers", "generative models", "large language models", "computer vision", "natural language processing", "robotics"],
+  "sources": [
+    {"id": "fontes:mit:ocw:6-7960:course-page", "kind": "course_page", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/", "fetch_policy": "derived_text_allowed", "notes": "Course description and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."},
+    {"id": "fontes:mit:ocw:6-7960:syllabus", "kind": "syllabus", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "Syllabus includes prerequisites, grading, collaboration, and AI-assistant policy."},
+    {"id": "fontes:mit:ocw:6-7960:readings", "kind": "readings_table", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/pages/readings/", "fetch_policy": "license_review", "notes": "Readings include OCW notation, CC BY-NC-ND Vision Book chapters, arXiv papers, external pages, and publisher links."},
+    {"id": "fontes:mit:ocw:6-7960:readings-table", "kind": "normalized_session_table", "url": "sources\\tables\\mit-6-7960-readings.json", "fetch_policy": "derived_text_allowed", "notes": "Normalized session-level reading table with external-rights boundaries."},
+    {"id": "fontes:mit:ocw:6-7960:lecture-videos", "kind": "lecture_videos", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos/", "fetch_policy": "local_cache_allowed", "notes": "Video gallery lists 23 lecture videos plus a PyTorch tutorial; lecture 22 is unavailable."},
+    {"id": "fontes:mit:ocw:6-7960:videos-table", "kind": "normalized_session_table", "url": "sources\\tables\\mit-6-7960-videos.json", "fetch_policy": "local_cache_allowed", "notes": "Normalized lecture-video table."},
+    {"id": "fontes:mit:ocw:6-7960:homework", "kind": "assignments", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/lists/homework/", "fetch_policy": "license_review", "notes": "Homework page exists and notes additional LaTeX files for homeworks 3, 4, and 5; individual artifacts require resource-level inventory."},
+    {"id": "fontes:mit:ocw:6-7960:final-project", "kind": "project", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/pages/final-project/", "fetch_policy": "derived_text_allowed", "notes": "Project instructions are OCW page text; blog template ZIP and external examples require child-resource review."}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 6.7960 source map",
+  "registry_id": "fontes-mit-6-7960-surfaces",
+  "fletches": [
+    {"id": "fontes.mit.ocw.6-7960.course-page", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "course-page"]},
+    {"id": "fontes.mit.ocw.6-7960.syllabus", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/pages/syllabus/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "syllabus"]},
+    {"id": "fontes.mit.ocw.6-7960.readings", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/pages/readings/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "readings", "mixed-license"]},
+    {"id": "fontes.mit.ocw.6-7960.lecture-notes", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/lists/lecture-notes/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "lecture-notes"]},
+    {"id": "fontes.mit.ocw.6-7960.lecture-videos", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos/"}], "metadata": {"fetch_policy": "local_cache_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "lecture-videos"]},
+    {"id": "fontes.mit.ocw.6-7960.homework", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/lists/homework/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "homework", "mixed-license"]},
+    {"id": "fontes.mit.ocw.6-7960.final-project", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/pages/final-project/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "final-project"]},
+    {"id": "fontes.mit.ocw.6-7960.project-ideas", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/pages/project-ideas/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "project-ideas", "mixed-license"]},
+    {"id": "fontes.mit.ocw.6-7960.download", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/download/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-7960", "download", "mixed-license"]}
+  ]
+}
