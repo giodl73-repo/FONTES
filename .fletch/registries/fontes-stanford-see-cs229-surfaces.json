@@ -1,0 +1,49 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Stanford SEE CS229 source map",
+  "registry_id": "fontes-stanford-see-cs229-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.stanford-see.cs229.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS229"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "tags": ["fontes", "stanford-see", "cs229", "course-page"]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.info",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/info.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "tags": ["fontes", "stanford-see", "cs229", "syllabus"]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.schedule",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/schedule.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "tags": ["fontes", "stanford-see", "cs229", "schedule"]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.all-materials",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/MachineLearningAllMaterials.zip"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "tags": ["fontes", "stanford-see", "cs229", "all-materials"]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.notes1",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "tags": ["fontes", "stanford-see", "cs229", "lecture-notes"]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.problemset1",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/problemset1.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "tags": ["fontes", "stanford-see", "cs229", "assignments"]
+    }
+  ]
+}
