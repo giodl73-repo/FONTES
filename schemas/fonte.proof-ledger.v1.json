@@ -1,0 +1,20 @@
+{
+  "schema": "fonte.proof-ledger.v1",
+  "row_grain": "one row per work-level source custody record",
+  "required_row_fields": [
+    "work_id",
+    "title",
+    "domain",
+    "source_family",
+    "fetch_policy",
+    "custody_status",
+    "work_record",
+    "custody_record",
+    "inventory_record",
+    "fletch_registry",
+    "proof_record",
+    "pebble_status",
+    "crop_status",
+    "rights_boundary"
+  ]
+}

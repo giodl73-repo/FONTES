@@ -1,0 +1,17 @@
+{
+  "schema_version": "crop.view.v1",
+  "name": "fontes-proof-source-ledger",
+  "root": "../..",
+  "task": "Index the PROOF-authenticated source ledger and source custody tables for Pebble/Crop generation.",
+  "token_budget": 16000,
+  "seed": 0,
+  "include_paths": [
+    ".proof\\sources\\fontes-course-source-ledger.source.md",
+    "sources\\tables\\proof-source-ledger.json",
+    "sources\\**\\custody.md",
+    "sources\\**\\inventory.md",
+    ".fletch\\registries\\*.json"
+  ],
+  "include_extensions": ["md", "json"],
+  "exclude_dirs": [".git", ".fletch\\cache", ".fletch\\quivers"]
+}

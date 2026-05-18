@@ -1,0 +1,17 @@
+{
+  "schema_version": "pebble.pack-candidates.v1",
+  "name": "fontes-proof-source-candidates",
+  "proof_table": "sources\\tables\\proof-source-ledger.json",
+  "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+  "candidate_rule": "Rows with pebble_status=candidate may be expanded into source-bounded Pebble nodes after surface-level tables are extracted.",
+  "blocked_rule": "Rows with blocked-rights, metadata-only, or pending-inventory status must not produce extracted text Pebbles.",
+  "first_candidate_domains": [
+    "cs-software",
+    "ai-ml",
+    "mathematics",
+    "mathematics-systems",
+    "mathematics-optimization",
+    "physics-for-objects",
+    "chemistry-for-real-items"
+  ]
+}
