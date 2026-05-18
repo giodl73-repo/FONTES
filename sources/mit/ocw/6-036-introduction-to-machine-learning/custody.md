@@ -1,0 +1,12 @@
+# 6.036 Introduction to Machine Learning Custody
+
+## Source
+
+MIT OpenCourseWare course page:
+`https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/`
+
+## Current custody decision
+
+6.036 is part of the AI/ML seed because it is an MIT Open Learning Library
+course. The first pass records course identity and requires an enumeration pass
+over downloadable materials before FLETCH cache plans are activated.

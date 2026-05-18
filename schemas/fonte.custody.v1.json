@@ -1,0 +1,11 @@
+{
+  "schema": "fonte.custody.v1",
+  "required_fields": [
+    "work_id",
+    "custody_status",
+    "rights_summary",
+    "fetch_policy",
+    "accessed",
+    "evidence"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit-press:deep-learning-goodfellow-bengio-courville-2016",
+  "title": "Deep Learning",
+  "source_family": "mit-press-author-hosted",
+  "source_type": "book",
+  "canonical_url": "https://www.deeplearningbook.org/",
+  "license_status": "free_to_read_not_redistributable",
+  "fetch_policy": "metadata_only",
+  "custody_status": "seeded",
+  "accessed": "2026-05-18",
+  "authors": ["Ian Goodfellow", "Yoshua Bengio", "Aaron Courville"],
+  "publisher": "MIT Press",
+  "year": 2016,
+  "subjects": ["deep learning", "machine learning", "neural networks"],
+  "notes": "Official site provides free HTML reading access and states that PDF distribution is forbidden by contract. Do not cache or redistribute book text unless terms change."
+}

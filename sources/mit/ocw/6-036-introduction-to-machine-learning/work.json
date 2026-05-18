@@ -1,0 +1,22 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
+  "title": "6.036 Introduction to Machine Learning",
+  "source_family": "mit-ocw-open-learning-library",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/",
+  "license_status": "ocw_terms_review",
+  "fetch_policy": "license_review",
+  "custody_status": "seeded",
+  "accessed": "2026-05-18",
+  "subjects": ["machine learning", "artificial intelligence", "modeling", "prediction"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-036:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/",
+      "fetch_policy": "license_review",
+      "notes": "OCW page identifies the course as part of the Open Learning Library."
+    }
+  ]
+}

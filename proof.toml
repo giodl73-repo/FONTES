@@ -1,0 +1,5 @@
+[project]
+name = "FONTES"
+
+[lint]
+line_length = 120

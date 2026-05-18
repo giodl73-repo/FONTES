@@ -1,0 +1,43 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010",
+  "title": "18.06 Linear Algebra",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+  "license_status": "ocw_terms_review",
+  "fetch_policy": "license_review",
+  "custody_status": "seeded",
+  "accessed": "2026-05-18",
+  "subjects": ["linear algebra", "mathematics", "matrix theory"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:18-06:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+      "fetch_policy": "license_review",
+      "notes": "Course page and resource-type inventory."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:readings",
+      "kind": "readings_table",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Readings table maps sessions to assigned textbook sections."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:strang-introduction-to-linear-algebra-4e",
+      "kind": "assigned_textbook",
+      "url": "http://www.wellesleycambridge.com/",
+      "fetch_policy": "metadata_only",
+      "notes": "Assigned textbook: Gilbert Strang, Introduction to Linear Algebra, 4th ed., 2009, ISBN 9780980232714. Do not cache textbook bytes without a separate license-cleared source."
+    },
+    {
+      "id": "fontes:mit:ocw:18-06:strang-introduction-to-linear-algebra-5e",
+      "kind": "assigned_textbook",
+      "url": "http://www.wellesleycambridge.com/",
+      "fetch_policy": "metadata_only",
+      "notes": "Newer readings edition: Gilbert Strang, Introduction to Linear Algebra, 5th ed., 2016, ISBN 9780980232776. Metadata-only until license review."
+    }
+  ]
+}

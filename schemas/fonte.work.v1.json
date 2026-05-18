@@ -1,0 +1,21 @@
+{
+  "schema": "fonte.work.v1",
+  "required_fields": [
+    "id",
+    "title",
+    "source_family",
+    "source_type",
+    "canonical_url",
+    "license_status",
+    "fetch_policy",
+    "custody_status",
+    "accessed"
+  ],
+  "fetch_policy_values": [
+    "metadata_only",
+    "local_cache_allowed",
+    "bundle_allowed",
+    "derived_text_allowed",
+    "license_review"
+  ]
+}

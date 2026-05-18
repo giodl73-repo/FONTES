@@ -1,0 +1,103 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES foundation scaffold",
+  "registry_id": "fontes-mit-seed",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.18-06.course-page",
+      "node_kind": "fletch",
+      "label": "18.06 Linear Algebra course page",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"
+      },
+      "tags": ["fontes", "mit", "ocw", "linear-algebra"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.readings",
+      "node_kind": "fletch",
+      "label": "18.06 readings table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/readings/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"
+      },
+      "tags": ["fontes", "mit", "ocw", "linear-algebra", "readings"]
+    },
+    {
+      "id": "fontes.mit.ocw.6-034.course-page",
+      "node_kind": "fletch",
+      "label": "6.034 Artificial Intelligence course page",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "work_id": "fontes:mit:ocw:6-034-artificial-intelligence-fall-2010"
+      },
+      "tags": ["fontes", "mit", "ocw", "artificial-intelligence"]
+    },
+    {
+      "id": "fontes.mit.ocw.6-034.readings",
+      "node_kind": "fletch",
+      "label": "6.034 readings table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/readings/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "work_id": "fontes:mit:ocw:6-034-artificial-intelligence-fall-2010"
+      },
+      "tags": ["fontes", "mit", "ocw", "artificial-intelligence", "readings"]
+    },
+    {
+      "id": "fontes.mit.ocw.6-036.course-page",
+      "node_kind": "fletch",
+      "label": "6.036 Introduction to Machine Learning course page",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020"
+      },
+      "tags": ["fontes", "mit", "ocw", "machine-learning"]
+    },
+    {
+      "id": "fontes.mit-press.deep-learning.goodfellow-bengio-courville",
+      "node_kind": "fletch",
+      "label": "Deep Learning official site metadata",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.deeplearningbook.org/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "metadata_only",
+        "work_id": "fontes:mit-press:deep-learning-goodfellow-bengio-courville-2016"
+      },
+      "tags": ["fontes", "mit-press", "deep-learning", "metadata-only"]
+    }
+  ]
+}

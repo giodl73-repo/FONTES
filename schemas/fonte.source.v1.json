@@ -1,0 +1,12 @@
+{
+  "schema": "fonte.source.v1",
+  "required_fields": [
+    "id",
+    "work_id",
+    "kind",
+    "url",
+    "license_status",
+    "fetch_policy",
+    "notes"
+  ]
+}

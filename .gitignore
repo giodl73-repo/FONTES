@@ -1,0 +1,5 @@
+.fletch/cache/
+.fletch/quivers/
+.proof/artifacts.json
+.crop/indices/*.json
+.pebble/packs/*.pebble.json

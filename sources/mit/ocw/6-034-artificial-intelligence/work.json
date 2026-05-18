@@ -1,0 +1,36 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-034-artificial-intelligence-fall-2010",
+  "title": "6.034 Artificial Intelligence",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
+  "license_status": "ocw_terms_review",
+  "fetch_policy": "license_review",
+  "custody_status": "seeded",
+  "accessed": "2026-05-18",
+  "subjects": ["artificial intelligence", "search", "knowledge representation", "learning"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-034:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
+      "fetch_policy": "license_review",
+      "notes": "Course page and resource-type inventory."
+    },
+    {
+      "id": "fontes:mit:ocw:6-034:readings",
+      "kind": "readings_table",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Readings page includes assigned textbook chapters and supplemental PDF links."
+    },
+    {
+      "id": "fontes:mit:ocw:6-034:winston-artificial-intelligence-3e",
+      "kind": "assigned_textbook",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/readings/",
+      "fetch_policy": "metadata_only",
+      "notes": "Assigned textbook: Patrick Henry Winston, Artificial Intelligence, 3rd ed., Addison-Wesley, 1992, ISBN 9780201533774. Do not cache textbook bytes without license-cleared source."
+    }
+  ]
+}

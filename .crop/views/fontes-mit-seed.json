@@ -1,0 +1,10 @@
+{
+  "schema_version": "crop.view.v1",
+  "name": "fontes-mit-seed",
+  "root": "../..",
+  "task": "Index FONTES MIT seed custody records and source policies.",
+  "token_budget": 12000,
+  "seed": 0,
+  "include_extensions": ["md", "json"],
+  "exclude_dirs": [".git", ".fletch/cache", ".fletch/quivers"]
+}

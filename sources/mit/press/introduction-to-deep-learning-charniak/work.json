@@ -1,0 +1,17 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit-press:introduction-to-deep-learning-charniak-2019",
+  "title": "Introduction to Deep Learning",
+  "source_family": "mit-press",
+  "source_type": "book",
+  "canonical_url": "https://mitpress.mit.edu/9780262537551/introduction-to-deep-learning/",
+  "license_status": "license_review",
+  "fetch_policy": "license_review",
+  "custody_status": "seeded",
+  "accessed": "2026-05-18",
+  "authors": ["Eugene Charniak"],
+  "publisher": "MIT Press",
+  "year": 2019,
+  "subjects": ["deep learning", "machine learning", "neural networks"],
+  "notes": "MIT Press page located; open/download terms require confirmation before caching or derived text extraction."
+}
