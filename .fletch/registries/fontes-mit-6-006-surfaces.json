@@ -1,0 +1,49 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 6.006 source map",
+  "registry_id": "fontes-mit-6-006-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.6-006.course-page",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software"},
+      "tags": ["fontes", "mit", "ocw", "6-006", "course-page"]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.syllabus",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/syllabus/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software"},
+      "tags": ["fontes", "mit", "ocw", "6-006", "syllabus"]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.lecture-notes",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software"},
+      "tags": ["fontes", "mit", "ocw", "6-006", "lecture-notes"]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.assignments",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/assignments/"}],
+      "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "cs-software"},
+      "tags": ["fontes", "mit", "ocw", "6-006", "assignments", "mixed-license"]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.exams",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/exams/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software"},
+      "tags": ["fontes", "mit", "ocw", "6-006", "exams"]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.download",
+      "node_kind": "fletch",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/download/"}],
+      "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "cs-software"},
+      "tags": ["fontes", "mit", "ocw", "6-006", "download", "mixed-license"]
+    }
+  ]
+}

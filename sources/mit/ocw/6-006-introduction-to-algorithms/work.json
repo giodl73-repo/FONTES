@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+  "title": "6.006 Introduction to Algorithms",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/",
+  "license_status": "cc-by-nc-sa-4.0-with-per-resource-exclusions",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["algorithms", "data structures", "computer science", "programming"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-006:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course page and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."
+    },
+    {
+      "id": "fontes:mit:ocw:6-006:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus records prerequisites, grading, programming/theory assignment rules, software setup, and textbook boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:6-006:lecture-notes",
+      "kind": "lecture_notes",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture notes page maps 24 lectures across introduction, sorting/trees, hashing, numerics, graphs, shortest paths, dynamic programming, and advanced topics."
+    },
+    {
+      "id": "fontes:mit:ocw:6-006:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/assignments/",
+      "fetch_policy": "license_review",
+      "notes": "Assignment page is OCW text, but child ZIP/PDF resources are mixed: some include courtesy code and Problem Set 7 code includes a sunset image excluded from the Creative Commons license."
+    },
+    {
+      "id": "fontes:mit:ocw:6-006:exams",
+      "kind": "exams",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/exams/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Exam page lists two quizzes, final exam, and solution PDFs."
+    },
+    {
+      "id": "fontes:mit:ocw:6-006:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/download/",
+      "fetch_policy": "license_review",
+      "notes": "Course download page exists, but full bundle should not be marked bundle_allowed until per-resource exclusions such as PS7 sunset image are handled."
+    },
+    {
+      "id": "fontes:mit:ocw:6-006:clrs-introduction-to-algorithms-3e",
+      "kind": "assigned_textbook",
+      "url": "https://mitpress.mit.edu/9780262033848",
+      "fetch_policy": "metadata_only",
+      "notes": "Assigned textbook: Cormen, Leiserson, Rivest, and Stein, Introduction to Algorithms, 3rd ed., MIT Press, 2009. Assignment by OCW does not make the book body cacheable."
+    }
+  ]
+}
