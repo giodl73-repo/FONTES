@@ -292,6 +292,22 @@
       "rights_boundary": "OCW pages and available lecture-note PDFs cleared; download package excludes audio/video; assignments/exams and external project toolchains require child-resource review."
     },
     {
+      "work_id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022",
+      "title": "6.4210 Robotic Manipulation",
+      "domain": "ai-ml",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\mit\\ocw\\6-4210-robotic-manipulation\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-4210-robotic-manipulation\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-4210-robotic-manipulation\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-4210-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page metadata cleared; external textbook, lecture playlist, homework software stack, and cloud/simulation resources require child-resource review."
+    },
+    {
       "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
       "title": "6.036 Introduction to Machine Learning",
       "domain": "ai-ml",

@@ -1,0 +1,21 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022",
+  "title": "6.4210 Robotic Manipulation",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/",
+  "license_status": "cc-by-nc-sa-4.0-with-external-surfaces",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-18",
+  "subjects": ["robotic manipulation", "robotics", "perception", "planning", "control", "deep learning", "3d geometry"],
+  "sources": [
+    {"id": "fontes:mit:ocw:6-4210:course-page", "kind": "course_page", "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/", "fetch_policy": "derived_text_allowed", "notes": "OCW course description and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."},
+    {"id": "fontes:mit:ocw:6-4210:surface-table", "kind": "normalized_surface_table", "url": "sources\\tables\\mit-6-4210-surfaces.json", "fetch_policy": "derived_text_allowed", "notes": "Surface-level rights boundary for sparse OCW page, external textbook, and video playlist."},
+    {"id": "fontes:mit:ocw:6-4210:textbook", "kind": "open_textbook", "url": "https://manipulation.csail.mit.edu/", "fetch_policy": "license_review", "notes": "External course textbook is authoritative but not assumed to inherit OCW terms."},
+    {"id": "fontes:mit:ocw:6-4210:lecture-playlist", "kind": "lecture_videos", "url": "https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69", "fetch_policy": "local_cache_allowed", "notes": "External YouTube playlist should be treated as media/local-cache only until platform and course rights are captured."},
+    {"id": "fontes:mit:ocw:6-4210:external-resources", "kind": "external_resources", "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/external-resources/", "fetch_policy": "license_review", "notes": "Fetched page was sparse; use as a pointer to external surfaces only."}
+  ]
+}

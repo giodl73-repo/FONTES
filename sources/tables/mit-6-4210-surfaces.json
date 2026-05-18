@@ -1,0 +1,13 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022",
+  "row_grain": "one row per mapped course or external source surface",
+  "rows": [
+    {"surface_id": "ocw-course-page", "title": "OCW course landing page", "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/", "owner": "MIT OpenCourseWare", "license_status": "cc-by-nc-sa-4.0", "fetch_policy": "derived_text_allowed", "proof_status": "candidate"},
+    {"surface_id": "ocw-external-resources", "title": "OCW external resources page", "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/external-resources/", "owner": "MIT OpenCourseWare", "license_status": "cc-by-nc-sa-4.0-page-with-external-links", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "textbook-site", "title": "Robotic Manipulation textbook site", "url": "https://manipulation.csail.mit.edu/", "owner": "course authors / CSAIL-hosted site", "license_status": "external-terms-not-captured", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "lecture-playlist", "title": "Robotic Manipulation lecture playlist", "url": "https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69", "owner": "external video platform / course authors", "license_status": "external-media", "fetch_policy": "local_cache_allowed", "proof_status": "media-boundary"},
+    {"surface_id": "homework-stack", "title": "Homework robotic-arm software stack and cloud simulation resources", "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/", "owner": "course authors / external software services", "license_status": "not-inventoried", "fetch_policy": "license_review", "proof_status": "pending-inventory"}
+  ]
+}
