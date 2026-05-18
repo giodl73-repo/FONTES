@@ -5,10 +5,11 @@
   "source_family": "open-michigan",
   "source_type": "oer-family",
   "canonical_url": "https://open.umich.edu/",
-  "license_status": "license_review",
-  "fetch_policy": "license_review",
+  "license_status": "cc-by-3.0-default-site-content-item-level-cc-oer",
+  "license_url": "https://open.umich.edu/about/privacy-terms-use",
+  "fetch_policy": "derived_text_allowed",
   "custody_status": "source-family-seeded",
   "accessed": "2026-05-18",
   "subjects": ["open education", "university of michigan", "oer"],
-  "notes": "Likely item-level Creative Commons OER; capture authoritative source-family and per-resource licenses before caching."
+  "notes": "Default Open.Michigan site content is CC BY 3.0 unless otherwise noted; OER collection items require item-level Creative Commons license capture before bundle promotion."
 }

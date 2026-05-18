@@ -61,10 +61,12 @@
         }
       ],
       "metadata": {
-        "fetch_policy": "license_review",
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-3.0-default-site-content",
+        "license_url": "https://open.umich.edu/about/privacy-terms-use",
         "family_id": "fontes:open-education:open-michigan"
       },
-      "tags": ["fontes", "open-education", "michigan", "license-review"]
+      "tags": ["fontes", "open-education", "michigan", "cc-by"]
     },
     {
       "id": "fontes.open-education.uc-berkeley-ocw.home",

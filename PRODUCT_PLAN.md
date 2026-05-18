@@ -88,6 +88,13 @@ into downstream knowledge repos.
 - No source scraping that bypasses publisher or author access rules.
 - No full citation manager replacement in the foundation wave.
 
+## Acquisition priority
+
+The first corpus expansion should prioritize CS/software, AI/ML, mathematics,
+physics for objects, and chemistry for real items before moving into broader
+game-design support domains. The working priority list lives in
+[`sources\ACQUISITION_PRIORITIES.md`](sources/ACQUISITION_PRIORITIES.md).
+
 ## Validation commands
 
 ```powershell
