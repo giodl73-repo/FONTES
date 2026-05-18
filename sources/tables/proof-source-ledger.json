@@ -244,6 +244,22 @@
       "rights_boundary": "OCW pages and lecture-note PDFs cleared; homework datasets/corpora, external NLP tools, tagsets, suggested textbooks, and courtesy material require child-resource review."
     },
     {
+      "work_id": "fontes:mit:ocw:6-825-techniques-in-artificial-intelligence-fall-2002",
+      "title": "6.825 Techniques in Artificial Intelligence",
+      "domain": "ai-ml",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\6-825-techniques-in-artificial-intelligence\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-825-techniques-in-artificial-intelligence\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-825-techniques-in-artificial-intelligence\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-825-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW pages and available lecture-note PDFs cleared; assignments remain pending inventory; AIMA, AI Topics, Java resources, and downloads require child-resource review."
+    },
+    {
       "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
       "title": "6.036 Introduction to Machine Learning",
       "domain": "ai-ml",
