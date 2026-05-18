@@ -1,0 +1,174 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Open Yale CHEM-125A source map",
+  "registry_id": "fontes-open-yale-chem-125a-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.open-yale.chem-125a.course-page",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "course-page"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.lecture-1",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-1"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.exam-1",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-1"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "exam"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.exam-2",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-2"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "exam"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.exam-3",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-3"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "exam"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.exam-4",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-4"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "exam"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.professor-course-website",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://webspace.yale.edu/chem125"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "resource"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.terms",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/terms"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "source-family-terms"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "terms"
+      ]
+    }
+  ]
+}

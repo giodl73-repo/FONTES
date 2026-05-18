@@ -1,0 +1,313 @@
+{
+  "schema": "fonte.course-sessions.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+  "source_url": "https://oyc.yale.edu/chemistry/chem-125b",
+  "row_grain": "one row per OYC listed session",
+  "rows": [
+    {
+      "session_id": "lecture-1",
+      "display": "Lecture 1",
+      "title": "Mechanism: How Energies and Kinetic Order Influence Reaction Rates",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-1",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-2",
+      "display": "Lecture 2",
+      "title": "Peculiar Rate Laws, Bond Dissociation Energies, and Relative Reactivities",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-2",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-3",
+      "display": "Lecture 3",
+      "title": "Rate and Selectivity in Radical-Chain Reactions",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-3",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-4",
+      "display": "Lecture 4",
+      "title": "Electronegativity, Bond Strength, Electrostatics, and Non-Bonded Interactions",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-4",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-5",
+      "display": "Lecture 5",
+      "title": "Solvation, H-Bonding, and Ionophores",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-5",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-6",
+      "display": "Lecture 6",
+      "title": "Brønsted Acidity and the Generality of Nucleophilic Substitution",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-6",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-7",
+      "display": "Lecture 7",
+      "title": "Nucleophilic Substitution Tools - Stereochemistry, Rate Law, Substrate, Nucleophile, Leaving Group",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-7",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-8",
+      "display": "Lecture 8",
+      "title": "Solvent, Leaving Group, Bridgehead Substitution, and Pentavalent Carbon",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-8",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-9",
+      "display": "Lecture 9",
+      "title": "Pentavalent Carbon? E2, SN1, E1",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-9",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-10",
+      "display": "Lecture 10",
+      "title": "Cation Intermediates – Alkenes: Formation, Addition, and Stability",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-10",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-11",
+      "display": "Lecture 11",
+      "title": "Carbocations and the Mechanism of Electrophilic Addition to Alkenes and Alkynes",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-11",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-12",
+      "display": "Lecture 12",
+      "title": "Nucleophilic Participation During Electrophilic Addition to Alkenes: Halogen, Carbene, and Borane",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-12",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-13",
+      "display": "Lecture 13",
+      "title": "Addition to Form Three-Membered Rings: Carbenoids and Epoxidation",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-13",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-14",
+      "display": "Lecture 14",
+      "title": "Epoxide Opening, Dipolar Cycloaddition, and Ozonolysis",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-14",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-15",
+      "display": "Lecture 15",
+      "title": "Metals and Catalysis in Alkene Oxidation, Hydrogenation, Metathesis, and Polymerization",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-15",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-16",
+      "display": "Lecture 16",
+      "title": "Isoprenoids, Rubber, and Tuning Polymer Properties",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-16",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-17",
+      "display": "Lecture 17",
+      "title": "Alkynes; Conjugation in Allylic Intermediates and Dienes",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-17",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-18",
+      "display": "Lecture 18",
+      "title": "Linear and Cyclic Conjugation Theory; 4n+2 Aromaticity",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-18",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-19",
+      "display": "Lecture 19",
+      "title": "Aromatic Transition States: Cycloaddition and Electrocyclic Reactions",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-19",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-20",
+      "display": "Lecture 20",
+      "title": "Electronic and Vibrational Spectroscopy",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-20",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-21",
+      "display": "Lecture 21",
+      "title": "Functional Groups and Fingerprints in IR Spectroscopy; Precession of Magnetic Nuclei",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-21",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-22",
+      "display": "Lecture 22",
+      "title": "Medical MRI and Chemical NMR",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-22",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-23",
+      "display": "Lecture 23",
+      "title": "Diamagnetic Anisotropy and Spin-Spin Splitting",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-24",
+      "display": "Lecture 24",
+      "title": "Higher-Order Effects, Dynamics, and the NMR Time Scale",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-24",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-25",
+      "display": "Lecture 25",
+      "title": "C-13 and 2D NMR – Electrophilic Aromatic Substitution",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-25",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-26",
+      "display": "Lecture 26",
+      "title": "Aromatic Substitution in Synthesis: Friedel-Crafts and Moses Gomberg",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-26",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-27",
+      "display": "Lecture 27",
+      "title": "Triphenylmethyl and an Introduction to Carbonyl Chemistry",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-27",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-28",
+      "display": "Lecture 28",
+      "title": "Mechanism and Equilibrium of Carbonyl Reactions",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-28",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-29",
+      "display": "Lecture 29",
+      "title": "Imines and Enamines; Oxidation and Reduction",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-29",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-30",
+      "display": "Lecture 30",
+      "title": "Oxidation States and Mechanisms",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-30",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-31",
+      "display": "Lecture 31",
+      "title": "Periodate Cleavage, Retrosynthesis, and Green Chemistry",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-31",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-32",
+      "display": "Lecture 32",
+      "title": "Measuring Bond Energies: Guest Lecture by Prof. G. Barney Ellison",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-32",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-33",
+      "display": "Lecture 33",
+      "title": "Green Chemistry; Acids and Acid Derivatives",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-33",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-34",
+      "display": "Lecture 34",
+      "title": "Acids and Acid Derivatives",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-34",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-35",
+      "display": "Lecture 35",
+      "title": "Acyl Insertions and α-Reactivity",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-35",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-36",
+      "display": "Lecture 36",
+      "title": "α-Reactivity and Condensation Reactions",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-36",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-37",
+      "display": "Lecture 37",
+      "title": "Proving the Configuration of Glucose and Synthesizing Two Unnatural Products",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-37",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-38",
+      "display": "Lecture 38",
+      "title": "Review: Synthesis of Cortisone",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-38",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    }
+  ]
+}

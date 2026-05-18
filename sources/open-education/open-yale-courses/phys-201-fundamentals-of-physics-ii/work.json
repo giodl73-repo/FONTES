@@ -1,0 +1,64 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+  "title": "PHYS 201 Fundamentals of Physics II",
+  "source_family": "open-yale-courses",
+  "source_type": "course",
+  "canonical_url": "https://oyc.yale.edu/physics/phys-201",
+  "license_status": "cc-by-nc-sa-3.0-most-materials-with-third-party-boundary",
+  "license_url": "https://oyc.yale.edu/terms",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": [
+    "physics",
+    "electricity",
+    "magnetism",
+    "optics",
+    "quantum mechanics"
+  ],
+  "sources": [
+    {
+      "id": "fontes:open-yale:phys-201:course-page",
+      "kind": "course_page",
+      "url": "https://oyc.yale.edu/physics/phys-201",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description, syllabus, grading, assigned texts/resources, course structure, and session list."
+    },
+    {
+      "id": "fontes:open-yale:phys-201:sessions",
+      "kind": "normalized_session_table",
+      "url": "sources\\tables\\open-yale-phys-201-sessions.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Normalized table extracted from the OYC course-page sessions list."
+    },
+    {
+      "id": "fontes:open-yale:phys-201:lecture-1",
+      "kind": "lecture_page",
+      "url": "https://oyc.yale.edu/physics/phys-201/lecture-1",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative lecture page with chapterized transcript text."
+    },
+    {
+      "id": "fontes:open-yale:phys-201:exam-1",
+      "kind": "exam_page",
+      "url": "https://oyc.yale.edu/physics/phys-201/exam-1",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Midterm Exam page identity; resource contents may need separate page/resource extraction."
+    },
+    {
+      "id": "fontes:open-yale:phys-201:exam-2",
+      "kind": "exam_page",
+      "url": "https://oyc.yale.edu/physics/phys-201/exam-2",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Final Exam page identity; resource contents may need separate page/resource extraction."
+    },
+    {
+      "id": "fontes:open-yale:phys-201:assigned-texts",
+      "kind": "assigned_textbooks",
+      "url": "https://oyc.yale.edu/physics/phys-201",
+      "fetch_policy": "metadata_only",
+      "notes": "Fishbane/Gasiorowicz/Thornton, Serway/Jewett, Wolfson/Pasachoff, Shankar math supplement, and Yale Press OYC book are source identities only until book-specific terms are captured."
+    }
+  ]
+}

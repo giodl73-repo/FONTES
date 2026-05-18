@@ -1,0 +1,111 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Open Yale PHYS-201 source map",
+  "registry_id": "fontes-open-yale-phys-201-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.open-yale.phys-201.course-page",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "course-page"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.lecture-1",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-1"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.exam-1",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/exam-1"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "exam"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.exam-2",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/exam-2"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "exam"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.terms",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/terms"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "source-family-terms"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "terms"
+      ]
+    }
+  ]
+}

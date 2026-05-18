@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+  "title": "CHEM 125a Freshman Organic Chemistry I",
+  "source_family": "open-yale-courses",
+  "source_type": "course",
+  "canonical_url": "https://oyc.yale.edu/chemistry/chem-125a",
+  "license_status": "cc-by-nc-sa-3.0-most-materials-with-third-party-boundary",
+  "license_url": "https://oyc.yale.edu/terms",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": [
+    "organic chemistry",
+    "structure",
+    "mechanism",
+    "bonding",
+    "functional groups",
+    "stereochemistry"
+  ],
+  "sources": [
+    {
+      "id": "fontes:open-yale:chem-125a:course-page",
+      "kind": "course_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description, syllabus, grading, assigned texts/resources, course structure, and session list."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a:sessions",
+      "kind": "normalized_session_table",
+      "url": "sources\\tables\\open-yale-chem-125a-sessions.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Normalized table extracted from the OYC course-page sessions list."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a:lecture-1",
+      "kind": "lecture_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-1",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative lecture page with chapterized transcript text."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a:exam-1",
+      "kind": "exam_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-1",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Midterm Exam 1 page identity; resource contents may need separate page/resource extraction."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a:exam-2",
+      "kind": "exam_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-2",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Midterm Exam 2 page identity; resource contents may need separate page/resource extraction."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a:exam-3",
+      "kind": "exam_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-3",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Midterm Exam 3 page identity; resource contents may need separate page/resource extraction."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a:exam-4",
+      "kind": "exam_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-4",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Final Exam page identity; resource contents may need separate page/resource extraction."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a:professor-course-website",
+      "kind": "resource_site",
+      "url": "https://webspace.yale.edu/chem125",
+      "fetch_policy": "license_review",
+      "notes": "Professor/on-campus resource site referenced by OYC; fetch failed or was not enumerated in this pulse, so resource-level rights and availability remain boundary-checked."
+    },
+    {
+      "id": "fontes:open-yale:chem-125a:assigned-texts",
+      "kind": "assigned_textbooks",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a",
+      "fetch_policy": "metadata_only",
+      "notes": "Reading assignments, problem sets, PowerPoint presentations, and other resources are referenced through Professor McBride's on-campus course website and must be reviewed at resource level before bundling."
+    }
+  ]
+}

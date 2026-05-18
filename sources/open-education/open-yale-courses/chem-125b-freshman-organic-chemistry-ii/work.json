@@ -1,0 +1,66 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+  "title": "CHEM 125b Freshman Organic Chemistry II",
+  "source_family": "open-yale-courses",
+  "source_type": "course",
+  "canonical_url": "https://oyc.yale.edu/chemistry/chem-125b",
+  "license_status": "cc-by-nc-sa-3.0-most-materials-with-third-party-boundary",
+  "license_url": "https://oyc.yale.edu/terms",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": [
+    "organic chemistry",
+    "reaction mechanisms",
+    "spectroscopy",
+    "synthesis",
+    "polymers",
+    "catalysis",
+    "natural products"
+  ],
+  "sources": [
+    {
+      "id": "fontes:open-yale:chem-125b:course-page",
+      "kind": "course_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description, syllabus, grading, assigned texts/resources, course structure, and session list."
+    },
+    {
+      "id": "fontes:open-yale:chem-125b:sessions",
+      "kind": "normalized_session_table",
+      "url": "sources\\tables\\open-yale-chem-125b-sessions.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Normalized table extracted from the OYC course-page sessions list."
+    },
+    {
+      "id": "fontes:open-yale:chem-125b:lecture-1",
+      "kind": "lecture_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-1",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative lecture page with chapterized transcript text."
+    },
+    {
+      "id": "fontes:open-yale:chem-125b:lecture-38",
+      "kind": "lecture_page",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-38",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative lecture page with chapterized transcript text."
+    },
+    {
+      "id": "fontes:open-yale:chem-125b:professor-course-website",
+      "kind": "resource_site",
+      "url": "https://webspace.yale.edu/chem125",
+      "fetch_policy": "license_review",
+      "notes": "Professor/on-campus resource site referenced by OYC; fetch failed or was not enumerated in this pulse, so resource-level rights and availability remain boundary-checked."
+    },
+    {
+      "id": "fontes:open-yale:chem-125b:assigned-texts",
+      "kind": "assigned_textbooks",
+      "url": "https://oyc.yale.edu/chemistry/chem-125b",
+      "fetch_policy": "metadata_only",
+      "notes": "Professor McBride's Spring 2011 on-campus course website and optional Jones/Fleming textbook are source identities; external/resource contents require resource-level review."
+    }
+  ]
+}

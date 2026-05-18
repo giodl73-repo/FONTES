@@ -1,0 +1,111 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Open Yale CHEM-125B source map",
+  "registry_id": "fontes-open-yale-chem-125b-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.open-yale.chem-125b.course-page",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "course-page"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.lecture-1",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-1"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.lecture-38",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-38"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.professor-course-website",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://webspace.yale.edu/chem125"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "resource"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.terms",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/terms"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "source-family-terms"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "terms"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "schema": "fonte.course-sessions.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+  "source_url": "https://oyc.yale.edu/chemistry/chem-125a",
+  "row_grain": "one row per OYC listed session",
+  "rows": [
+    {
+      "session_id": "lecture-1",
+      "display": "Lecture 1",
+      "title": "How Do You Know?",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-1",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-2",
+      "display": "Lecture 2",
+      "title": "Force Laws, Lewis Structures and Resonance",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-2",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-3",
+      "display": "Lecture 3",
+      "title": "Double Minima, Earnshaw's Theorem and Plum-Puddings",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-3",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-4",
+      "display": "Lecture 4",
+      "title": "Coping with Smallness and Scanning Probe Microscopy",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-4",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-5",
+      "display": "Lecture 5",
+      "title": "X-Ray Diffraction",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-5",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-6",
+      "display": "Lecture 6",
+      "title": "Seeing Bonds by Electron Difference Density",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-6",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-7",
+      "display": "Lecture 7",
+      "title": "Quantum Mechanical Kinetic Energy",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-7",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-8",
+      "display": "Lecture 8",
+      "title": "One-Dimensional Wave Functions",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-8",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-9",
+      "display": "Lecture 9",
+      "title": "Chladni Figures and One-Electron Atoms",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-9",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-10",
+      "display": "Lecture 10",
+      "title": "Reality and the Orbital Approximation",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-10",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "exam-1",
+      "display": "Exam 1",
+      "title": "Midterm Exam 1",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-1",
+      "kind": "exam",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-11",
+      "display": "Lecture 11",
+      "title": "Orbital Correction and Plum-Pudding Molecules",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-11",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-12",
+      "display": "Lecture 12",
+      "title": "Overlap and Atom-Pair Bonds",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-12",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-13",
+      "display": "Lecture 13",
+      "title": "Overlap and Energy-Match",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-13",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-14",
+      "display": "Lecture 14",
+      "title": "Checking Hybridization Theory with XH3",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-14",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-15",
+      "display": "Lecture 15",
+      "title": "Chemical Reactivity: SOMO, HOMO, and LUMO",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-15",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-16",
+      "display": "Lecture 16",
+      "title": "Recognizing Functional Groups",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-16",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-17",
+      "display": "Lecture 17",
+      "title": "Reaction Analogies and Carbonyl Reactivity",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-17",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-18",
+      "display": "Lecture 18",
+      "title": "Amide, Carboxylic Acid and Alkyl Lithium",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-18",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-19",
+      "display": "Lecture 19",
+      "title": "Oxygen and the Chemical Revolution (Beginning to 1789)",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-19",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "exam-2",
+      "display": "Exam 2",
+      "title": "Midterm Exam 2",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-2",
+      "kind": "exam",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-20",
+      "display": "Lecture 20",
+      "title": "Rise of the Atomic Theory (1790-1805)",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-20",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-21",
+      "display": "Lecture 21",
+      "title": "Berzelius to Liebig and Wöhler (1805-1832)",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-21",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-22",
+      "display": "Lecture 22",
+      "title": "Radical and Type Theories (1832-1850)",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-22",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-23",
+      "display": "Lecture 23",
+      "title": "Valence Theory and Constitutional Structure (1858)",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-23",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-24",
+      "display": "Lecture 24",
+      "title": "Determining Chemical Structure by Isomer Counting (1869)",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-24",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-25",
+      "display": "Lecture 25",
+      "title": "Models in 3D Space (1869-1877); Optical Isomers",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-25",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-26",
+      "display": "Lecture 26",
+      "title": "Van't Hoff's Tetrahedral Carbon and Chirality",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-26",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-27",
+      "display": "Lecture 27",
+      "title": "Communicating Molecular Structure in Diagrams and Words",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-27",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-28",
+      "display": "Lecture 28",
+      "title": "Stereochemical Nomenclature; Racemization and Resolution",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-28",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-29",
+      "display": "Lecture 29",
+      "title": "Preparing Single Enantiomers and the Mechanism of Optical Rotation",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-29",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "exam-3",
+      "display": "Exam 3",
+      "title": "Midterm Exam 3",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-3",
+      "kind": "exam",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-30",
+      "display": "Lecture 30",
+      "title": "Esomeprazole as an Example of Drug Testing and Usage",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-30",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-31",
+      "display": "Lecture 31",
+      "title": "Preparing Single Enantiomers and Conformational Energy",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-31",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-32",
+      "display": "Lecture 32",
+      "title": "Stereotopicity and Baeyer Strain Theory",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-32",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-33",
+      "display": "Lecture 33",
+      "title": "Conformational Energy and Molecular Mechanics",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-33",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-34",
+      "display": "Lecture 34",
+      "title": "Sharpless Oxidation Catalysts and the Conformation of Cycloalkanes",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-34",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-35",
+      "display": "Lecture 35",
+      "title": "Understanding Molecular Structure and Energy through Standard Bonds",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-35",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-36",
+      "display": "Lecture 36",
+      "title": "Bond Energies, the Boltzmann Factor and Entropy",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-36",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "lecture-37",
+      "display": "Lecture 37",
+      "title": "Potential Energy Surfaces, Transition State Theory and Reaction Mechanism",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-37",
+      "kind": "lecture",
+      "fetch_policy": "derived_text_allowed"
+    },
+    {
+      "session_id": "exam-4",
+      "display": "Exam 4",
+      "title": "Final Exam",
+      "url": "https://oyc.yale.edu/chemistry/chem-125a/exam-4",
+      "kind": "exam",
+      "fetch_policy": "derived_text_allowed"
+    }
+  ]
+}
