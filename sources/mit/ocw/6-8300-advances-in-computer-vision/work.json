@@ -1,0 +1,51 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025",
+  "title": "6.8300 Advances in Computer Vision",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/",
+  "license_status": "cc-by-nc-sa-4.0-with-external-course-site",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-18",
+  "subjects": ["computer vision", "deep learning", "multi-view geometry", "differentiable rendering", "neural scene representations", "diffusion models", "embodied agents"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-8300:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW course description and resource-type inventory under OCW CC BY-NC-SA 4.0 terms."
+    },
+    {
+      "id": "fontes:mit:ocw:6-8300:surface-table",
+      "kind": "normalized_surface_table",
+      "url": "sources\\tables\\mit-6-8300-surfaces.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Surface-level rights boundary for OCW metadata and the external course site."
+    },
+    {
+      "id": "fontes:mit:ocw:6-8300:external-course-site",
+      "kind": "external_course_site",
+      "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/",
+      "fetch_policy": "license_review",
+      "notes": "External course site contains syllabus, schedule, recordings, slides, problem-set links, and project guidance; do not treat as OCW-cleared corpus text until terms are captured."
+    },
+    {
+      "id": "fontes:mit:ocw:6-8300:problem-sets",
+      "kind": "assignments",
+      "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/",
+      "fetch_policy": "license_review",
+      "notes": "External site links GitHub-hosted problem sets and course platforms; repository terms and artifact contents need child-resource review."
+    },
+    {
+      "id": "fontes:mit:ocw:6-8300:recordings-slides",
+      "kind": "lecture_media",
+      "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "External site links Panopto and Google Drive recordings/slides; media and slides require resource-level review before bundling."
+    }
+  ]
+}

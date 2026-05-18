@@ -1,0 +1,17 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025",
+  "row_grain": "one row per mapped OCW or external course surface",
+  "rows": [
+    {"surface_id": "ocw-course-page", "title": "OCW course landing page", "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/", "owner": "MIT OpenCourseWare", "license_status": "cc-by-nc-sa-4.0", "fetch_policy": "derived_text_allowed", "proof_status": "candidate"},
+    {"surface_id": "ocw-download", "title": "OCW course download page", "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/download/", "owner": "MIT OpenCourseWare", "license_status": "cc-by-nc-sa-4.0-page-with-unclear-package", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "external-course-site", "title": "Advances in Computer Vision course site", "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/", "owner": "external course site", "license_status": "external-terms-not-captured", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "recordings", "title": "Linked lecture recordings", "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/", "owner": "Panopto / Google Drive / course staff", "license_status": "external-media", "fetch_policy": "local_cache_allowed", "proof_status": "media-boundary"},
+    {"surface_id": "slides", "title": "Linked lecture slides", "url": "https://drive.google.com/drive/folders/1_t7-165L6jqbc2MANXRj7brrWXrx-SfM?usp=sharing", "owner": "Google Drive / course staff", "license_status": "external-artifact", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "problem-sets", "title": "GitHub-hosted problem sets", "url": "https://github.com/6-8300", "owner": "GitHub organization / course staff", "license_status": "repository-terms-not-captured", "fetch_policy": "license_review", "proof_status": "rights-boundary"},
+    {"surface_id": "gradescope", "title": "Gradescope course", "url": "https://www.gradescope.com/courses/972401", "owner": "Gradescope", "license_status": "course-platform", "fetch_policy": "metadata_only", "proof_status": "identity-only"},
+    {"surface_id": "piazza", "title": "Piazza course", "url": "https://piazza.com/class/m5fhhrt0jzc6hx", "owner": "Piazza", "license_status": "course-platform", "fetch_policy": "metadata_only", "proof_status": "identity-only"},
+    {"surface_id": "canvas", "title": "Canvas course", "url": "https://canvas.mit.edu/courses/31251", "owner": "MIT Canvas", "license_status": "course-platform", "fetch_policy": "metadata_only", "proof_status": "identity-only"}
+  ]
+}
