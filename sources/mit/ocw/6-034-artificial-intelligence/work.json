@@ -8,7 +8,7 @@
   "license_status": "cc-by-nc-sa-4.0",
   "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
   "fetch_policy": "derived_text_allowed",
-  "custody_status": "seeded",
+  "custody_status": "source-mapped",
   "accessed": "2026-05-18",
   "subjects": ["artificial intelligence", "search", "knowledge representation", "learning"],
   "sources": [
@@ -25,6 +25,41 @@
       "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/readings/",
       "fetch_policy": "derived_text_allowed",
       "notes": "Readings page includes assigned textbook chapters and supplemental PDF links."
+    },
+    {
+      "id": "fontes:mit:ocw:6-034:readings-table",
+      "kind": "normalized_session_table",
+      "url": "sources\\tables\\mit-6-034-readings.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Normalized readings table with per-lecture textbook and supplemental-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-034:video-table",
+      "kind": "normalized_session_table",
+      "url": "sources\\tables\\mit-6-034-videos.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Normalized lecture and mega-recitation video metadata; media bytes remain local-cache only unless separately cleared for redistribution."
+    },
+    {
+      "id": "fontes:mit:ocw:6-034:assignments-table",
+      "kind": "normalized_assignment_table",
+      "url": "sources\\tables\\mit-6-034-assignments.json",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Normalized lab/problem-set table with code-package boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-034:lecture-videos",
+      "kind": "lecture_videos",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Lecture video gallery lists 23 lecture video entries; lecture 20 is unavailable."
+    },
+    {
+      "id": "fontes:mit:ocw:6-034:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/assignments/",
+      "fetch_policy": "license_review",
+      "notes": "Assignment page is OCW text, but lab ZIPs require code-package review; Lab 4 contains sudoku_csp.py courtesy of Justin Cullen, used with permission."
     },
     {
       "id": "fontes:mit:ocw:6-034:winston-artificial-intelligence-3e",

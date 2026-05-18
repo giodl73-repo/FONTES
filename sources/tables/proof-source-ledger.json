@@ -205,11 +205,11 @@
       "work_record": "sources\\mit\\ocw\\6-034-artificial-intelligence\\work.json",
       "custody_record": "sources\\mit\\ocw\\6-034-artificial-intelligence\\custody.md",
       "inventory_record": "sources\\mit\\ocw\\6-034-artificial-intelligence\\inventory.md",
-      "fletch_registry": ".fletch\\registries\\fontes-mit-seed.json",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-034-surfaces.json",
       "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
       "pebble_status": "candidate",
       "crop_status": "candidate",
-      "rights_boundary": "OCW materials cleared; Winston textbook remains metadata-only."
+      "rights_boundary": "OCW page metadata cleared; video media local-cache only; Winston textbook metadata-only; external readings and lab ZIPs require child-resource review."
     },
     {
       "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020",
