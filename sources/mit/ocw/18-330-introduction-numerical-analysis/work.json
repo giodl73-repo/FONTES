@@ -1,0 +1,79 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:18-330-introduction-numerical-analysis-spring-2012",
+  "title": "18.330 Introduction to Numerical Analysis",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/",
+  "license_status": "cc-by-nc-sa-4.0-with-code-exam-and-external-prerequisite-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["numerical analysis", "root finding", "interpolation", "quadrature", "ordinary differential equations", "Fourier analysis", "spectral methods", "least squares", "principal component analysis", "simulation support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:18-330:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for efficient numerical solution of science and engineering problems."
+    },
+    {
+      "id": "fontes:mit:ocw:18-330:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Prerequisites, summary, topic list, programming posture, grading, and exam/collaboration boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:18-330:lecture-notes",
+      "kind": "lecture_notes",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW-hosted lecture-note PDFs for series, numerical calculus, interpolation, nonlinear equations, ODE methods, Fourier analysis, and spectral interpolation/differentiation/quadrature."
+    },
+    {
+      "id": "fontes:mit:ocw:18-330:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW-hosted homework/problem-set PDFs for theoretical problems and numerical experiments."
+    },
+    {
+      "id": "fontes:mit:ocw:18-330:instructor-insights",
+      "kind": "instructor_insights",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/pages/instructor-insights/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW-owned course overview, outcomes, teaching-style notes, prerequisite context, and student-time breakdown."
+    },
+    {
+      "id": "fontes:mit:ocw:18-330:programming-boundary",
+      "kind": "programming_work",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/pages/syllabus/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Assignments involve basic programming in a language of choice with MATLAB recommended; code assets require downstream review before indexing."
+    },
+    {
+      "id": "fontes:mit:ocw:18-330:exam-boundary",
+      "kind": "exams",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Syllabus references open-book midterm and final exams; no separate exam payload was mapped in this pulse."
+    },
+    {
+      "id": "fontes:mit:ocw:18-330:external-prerequisite-boundary",
+      "kind": "linked_prerequisite_courses",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Linked prerequisite and comparison courses are citation metadata only unless separately sourced."
+    },
+    {
+      "id": "fontes:mit:ocw:18-330:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains the online course content and static resources."
+    }
+  ]
+}

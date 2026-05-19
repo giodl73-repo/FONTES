@@ -866,6 +866,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, lecture notes, assignments, and download page are mapped; archived lecture-video bytes, reference textbooks, SMA/NUS program links, and non-OCW resources remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:18-330-introduction-numerical-analysis-spring-2012",
+      "title": "18.330 Introduction to Numerical Analysis",
+      "domain": "simulation-numerics-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\18-330-introduction-numerical-analysis\\work.json",
+      "custody_record": "sources\\mit\\ocw\\18-330-introduction-numerical-analysis\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\18-330-introduction-numerical-analysis\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-18-330-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, lecture notes, assignments, instructor insights, and download page are mapped; student code/programming work, exam payloads not separately mapped, and linked prerequisite/comparison courses remain boundary-checked."
     }
   ]
 }
