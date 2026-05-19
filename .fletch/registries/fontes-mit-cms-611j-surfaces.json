@@ -1,0 +1,95 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT CMS.611J source map",
+  "registry_id": "fontes-mit-cms-611j-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.cms-611j.course-page",
+      "node_kind": "fletch",
+      "label": "CMS.611J OCW course page",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "course-page", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.syllabus",
+      "node_kind": "fletch",
+      "label": "CMS.611J syllabus",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/syllabus/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "syllabus", "row_kind": "syllabus"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "syllabus", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.instructor-insights",
+      "node_kind": "fletch",
+      "label": "CMS.611J instructor insights",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/instructor-insights/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "instructor-insights", "row_kind": "instructor_insights"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "instructor-insights", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.projects",
+      "node_kind": "fletch",
+      "label": "CMS.611J projects",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/projects/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "projects", "row_kind": "projects"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "projects", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.game-engine-tutorial",
+      "node_kind": "fletch",
+      "label": "CMS.611J game engine tutorial",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/resources/mitcms_611jf14_gameengine/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "game-engine-tutorial", "row_kind": "tutorial"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "tutorial", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.focus-testing",
+      "node_kind": "fletch",
+      "label": "CMS.611J focus testing",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/resources/mitcms_611jf14_focusbasics/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "focus-testing", "row_kind": "testing_resources"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "focus-testing", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.lecture-videos",
+      "node_kind": "fletch",
+      "label": "CMS.611J lecture video gallery",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/video_galleries/lecture-videos/"}],
+      "metadata": {"fetch_policy": "local_cache_allowed", "license": "media-boundary", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "lecture-videos", "row_kind": "lecture_videos"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "lecture-videos", "media-boundary", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.lecture-notes",
+      "node_kind": "fletch",
+      "label": "CMS.611J lecture notes boundary",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/lecture-notes/"}],
+      "metadata": {"fetch_policy": "metadata_only", "license": "sparse-page-boundary", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "lecture-notes", "row_kind": "lecture_notes"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "lecture-notes", "rights-boundary", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.download",
+      "node_kind": "fletch",
+      "label": "CMS.611J course download",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/download/"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "download", "row_kind": "course_download"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "download", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.external-project-references",
+      "node_kind": "fletch",
+      "label": "CMS.611J external project references boundary",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/projects/"}],
+      "metadata": {"fetch_policy": "metadata_only", "license": "third-party-boundary", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_id": "external-project-references", "row_kind": "external_references"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "external-references", "rights-boundary", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-611j.surfaces-table",
+      "node_kind": "fletch",
+      "label": "CMS.611J normalized source surfaces",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014", "table_record": "sources\\tables\\mit-cms-611j-surfaces.json", "row_count": "10"},
+      "tags": ["fontes", "mit", "ocw", "cms-611j", "video-games", "surfaces-table", "normalized-table"]
+    }
+  ]
+}

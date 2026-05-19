@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014",
+  "title": "CMS.611J / 6.073 Creating Video Games",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/",
+  "license_status": "cc-by-nc-sa-4.0-with-project-reference-and-media-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["video game development", "game production", "teamwork", "project management", "playtesting", "focus testing", "data analysis", "iterative design"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:cms-611j:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for digital game development."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course prerequisites, grading, project criteria, attendance, writing, plagiarism, and harassment policies."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:instructor-insights",
+      "kind": "instructor_insights",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/instructor-insights/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW instructor insights on team creative problem solving, iteration, assessment, postmortems, projects, and student experience."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:projects",
+      "kind": "projects",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/projects/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Project summaries, project PDFs, focus-test resources, backlog spreadsheet, bug reporting, useful tools, and project 4 references."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:game-engine-tutorial",
+      "kind": "tutorial",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/resources/mitcms_611jf14_gameengine/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative OCW-hosted game-engine tutorial PDF from project resources."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:focus-testing",
+      "kind": "testing_resources",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/resources/mitcms_611jf14_focusbasics/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative focus-testing resource; page also links focus test report and script PDFs."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:lecture-videos",
+      "kind": "lecture_videos",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/video_galleries/lecture-videos/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "OCW video gallery lists sessions 1-20 and 22-27; session 21 video is unavailable. Keep media bytes out of git."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:lecture-notes",
+      "kind": "lecture_notes",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/lecture-notes/",
+      "fetch_policy": "metadata_only",
+      "notes": "OCW declares lecture notes as a resource type, but current page is sparse; keep as metadata boundary until stable note links are found."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW download package contains online course content except audio/video materials."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-611j:external-project-references",
+      "kind": "external_references",
+      "url": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/pages/projects/",
+      "fetch_policy": "metadata_only",
+      "notes": "Project 4 references include external climate, humanitarian, and game links; treat as citation metadata unless separately sourced."
+    }
+  ]
+}

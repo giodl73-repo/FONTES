@@ -578,6 +578,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW pages, assignments, instructor insights, and download package are mapped; third-party readings, external games, and unavailable lecture audio remain metadata-only boundaries."
+    },
+    {
+      "work_id": "fontes:mit:ocw:cms-611j-creating-video-games-fall-2014",
+      "title": "CMS.611J / 6.073 Creating Video Games",
+      "domain": "game-design-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\cms-611j-creating-video-games\\work.json",
+      "custody_record": "sources\\mit\\ocw\\cms-611j-creating-video-games\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\cms-611j-creating-video-games\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-cms-611j-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW pages, projects, instructor insights, and download package are mapped; videos local-cache only; external project references, student builds, and sparse notes remain metadata-only boundaries."
     }
   ]
 }
