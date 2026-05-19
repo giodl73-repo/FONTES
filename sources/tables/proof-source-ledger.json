@@ -706,6 +706,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, calendar, assignments, representative ray-tracing handout, and download page are mapped; starter code/resource bundles, Athena environment, and recommended textbooks remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:6-831-user-interface-design-spring-2011",
+      "title": "6.831 / 6.813 User Interface Design and Implementation",
+      "domain": "game-ui-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\6-831-user-interface-design\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-831-user-interface-design\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-831-user-interface-design\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-831-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, calendar, lecture notes, assignments, projects, representative user-testing milestone, and download page are mapped; code/resource bundles, recommended textbooks/literature, and unavailable nanoquizzes remain boundary-checked."
     }
   ]
 }

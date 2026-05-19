@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-831-user-interface-design-spring-2011",
+  "title": "6.831 / 6.813 User Interface Design and Implementation",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/",
+  "license_status": "cc-by-nc-sa-4.0-with-code-bundle-and-literature-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["user interface design", "human-computer interaction", "usability", "learnability", "user testing", "prototyping", "accessibility", "mobile interfaces", "game UI support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-831:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for HCI and graphical user interface design."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course overview, design/implementation/evaluation/research framing, collaboration policy, grading, and recommended textbook boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:calendar",
+      "kind": "calendar",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/pages/calendar/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Session sequence covering usability, learnability, visibility, task analysis, UI architecture, user testing, prototyping, graphics, accessibility, animation, and mobile UI."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:lecture-notes",
+      "kind": "lecture_notes",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note listing with 25 OCW-hosted PDFs; lecture 26 notes are unavailable."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Homework, programming, and research assignment listing with OCW-hosted PDFs and code-bundle boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:projects",
+      "kind": "projects",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/pages/projects/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Group project milestones GR1-GR6 covering proposal/analysis, designs, paper prototyping, computer prototyping, implementation, and user testing."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:user-testing-project",
+      "kind": "project_assignment",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/resources/mit6_831s11_gr06/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative OCW-hosted project milestone PDF for user testing."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:assignment-code-bundles",
+      "kind": "code_bundles",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/pages/assignments/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Programming assignment ZIPs include JavaScript, HTML, JSON, CSS, and image files; keep bytes out of git until downstream review."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:recommended-textbooks",
+      "kind": "recommended_textbooks",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Recommended textbooks and current-literature readings are citation metadata only."
+    },
+    {
+      "id": "fontes:mit:ocw:6-831:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains online course content and static resources."
+    }
+  ]
+}
