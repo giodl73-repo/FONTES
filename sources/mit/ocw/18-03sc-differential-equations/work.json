@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:18-03sc-differential-equations-fall-2011",
+  "title": "18.03SC Differential Equations",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/",
+  "license_status": "cc-by-nc-sa-4.0-with-media-java-mathlet-and-image-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["differential equations", "ordinary differential equations", "second order systems", "periodic response", "Laplace transform", "Fourier series", "first order systems", "linearization", "simulation support", "game physics support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:18-03sc:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for modeling nature with differential equations."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:unit-i-first-order",
+      "kind": "unit_page",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/unit-i-first-order-differential-equations/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Unit page for first-order ODEs, analytic/geometric/numerical approaches, integral curves, and linear ODEs."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:unit-ii-second-order",
+      "kind": "unit_page",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/unit-ii-second-order-constant-coefficient-linear-equations/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Unit page for second-order constant-coefficient equations, sinusoidal forcing, spring-mass systems, and periodic response."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:unit-iii-fourier-laplace",
+      "kind": "unit_page",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/unit-iii-fourier-series-and-laplace-transform/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Unit page for Fourier series, Laplace transforms, convolution, impulse response, and delta functions."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:unit-iv-systems",
+      "kind": "unit_page",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/unit-iv-first-order-systems/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Unit page for first-order systems, matrix-vector methods, qualitative theory, nonlinear systems, and linearization."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:course-notes-problem-surfaces",
+      "kind": "course_notes_and_problems",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW Scholar course notes, practice problems, problem sets, exams, and solution surfaces are mapped through course/unit navigation."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:video-surfaces",
+      "kind": "lecture_and_problem_solving_videos",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Lecture and problem-solving video metadata is mapped; media bytes remain local-cache only."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:mathlet-boundary",
+      "kind": "interactive_mathlets",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Interactive Java mathlets and applet assets require downstream runtime/security review before local bundling."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:image-boundary",
+      "kind": "illustrative_images",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/unit-i-first-order-differential-equations/",
+      "fetch_policy": "metadata_only",
+      "notes": "Unit illustrative images and modeled mathlet screenshots remain citation metadata unless separately reviewed."
+    },
+    {
+      "id": "fontes:mit:ocw:18-03sc:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains online course content and static resources, excluding audio/video materials."
+    }
+  ]
+}
