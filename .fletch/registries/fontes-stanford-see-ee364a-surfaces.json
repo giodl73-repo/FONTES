@@ -6,44 +6,274 @@
     {
       "id": "fontes.stanford-see.ee364a.course-page",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE364A"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
-      "tags": ["fontes", "stanford-see", "ee364a", "course-page"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/EE364A"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "course-page",
+        "row_kind": "course_page"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "course-page",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee364a.syllabus",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/Syllabus.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
-      "tags": ["fontes", "stanford-see", "ee364a", "syllabus"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsocoee364a/Syllabus.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "syllabus",
+        "row_kind": "syllabus"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "syllabus",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee364a.all-materials",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/ConvexOptimizationIAllMaterials.zip"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
-      "tags": ["fontes", "stanford-see", "ee364a", "all-materials"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsocoee364a/ConvexOptimizationIAllMaterials.zip"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "all-materials",
+        "row_kind": "course_materials_zip"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "all-materials",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee364a.notes-introduction",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/01Introduction.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
-      "tags": ["fontes", "stanford-see", "ee364a", "lecture-notes"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsocoee364a/01Introduction.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "lecture-notes",
+        "row_kind": "lecture_notes"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "lecture-notes",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee364a.hw1-solution",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/hw1sol.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
-      "tags": ["fontes", "stanford-see", "ee364a", "homework"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsocoee364a/hw1sol.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "homework",
+        "row_kind": "assignments"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "homework",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee364a.final",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsocoee364a/final.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-optimization"},
-      "tags": ["fontes", "stanford-see", "ee364a", "exams"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsocoee364a/final.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "exams",
+        "row_kind": "exams"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "exams",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.surfaces-table",
+      "node_kind": "fletch",
+      "label": "EE364A normalized SEE source surfaces",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/EE364A"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_count": "9"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "surfaces-table",
+        "normalized-table"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.surface.software",
+      "node_kind": "fletch",
+      "label": "ee364a software",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsocoee364a/Matlab-camera_data.m"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "software",
+        "row_kind": "software_data_files"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "software_data_files",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.surface.convex-optimization-textbook",
+      "node_kind": "fletch",
+      "label": "ee364a convex-optimization-textbook",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "http://www.stanford.edu/~boyd/cvxbook/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "convex-optimization-textbook",
+        "row_kind": "assigned_textbook"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "assigned_textbook",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.ee364a.surface.lecture-videos",
+      "node_kind": "fletch",
+      "label": "ee364a lecture-videos",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/EE364A"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "local_cache_allowed",
+        "license": "media-boundary",
+        "domain": "mathematics-optimization",
+        "work_id": "fontes:stanford-see:ee364a-convex-optimization",
+        "table_record": "sources\\tables\\stanford-see-ee364a-surfaces.json",
+        "row_id": "lecture-videos",
+        "row_kind": "lecture_videos"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee364a",
+        "lecture_videos",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }

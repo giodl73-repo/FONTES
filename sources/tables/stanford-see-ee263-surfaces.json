@@ -1,0 +1,88 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+  "row_grain": "one row per mapped Stanford SEE source surface",
+  "rows": [
+    {
+      "surface_id": "course-page",
+      "title": "course_page",
+      "url": "https://see.stanford.edu/Course/EE263",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Course description, instructor bio, handouts, assignments, exams, software, and 20 lecture-session records."
+    },
+    {
+      "surface_id": "syllabus",
+      "title": "syllabus",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/Syllabus.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Syllabus PDF distributed by SEE."
+    },
+    {
+      "surface_id": "all-materials",
+      "title": "course_materials_zip",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/LinearDynamicalSystemsAllMaterials.zip",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "SEE all-course-materials ZIP for non-video course materials."
+    },
+    {
+      "surface_id": "lecture-notes",
+      "title": "lecture_notes",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/01-overview.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative lecture handout; course page lists a cover/table-of-contents file and 20 topic handouts."
+    },
+    {
+      "surface_id": "homework-problems",
+      "title": "assignments",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/homeworkProblems.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Master homework-problems PDF; course page maps nine homework sets to exercises and extras."
+    },
+    {
+      "surface_id": "exams",
+      "title": "exams",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/midterm_07.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative midterm PDF; page lists practice midterm/final, midterm, final, and solutions."
+    },
+    {
+      "surface_id": "software",
+      "title": "software_data_files",
+      "url": "https://see.stanford.edu/materials/lsoeldsee263/beam_estim_data.mht",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative Matlab/MHT data file; page lists data files for assignments and examples."
+    },
+    {
+      "surface_id": "lecture-videos",
+      "title": "lecture_videos",
+      "url": "https://see.stanford.edu/Course/EE263",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "see-media-boundary",
+      "fetch_policy": "local_cache_allowed",
+      "proof_status": "media-boundary",
+      "notes": "SEE page lists 20 downloadable MP4 lectures and transcript HTML/PDF links. Keep media bytes out of git."
+    }
+  ]
+}

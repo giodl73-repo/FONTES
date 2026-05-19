@@ -6,44 +6,246 @@
     {
       "id": "fontes.stanford-see.cs229.course-page",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS229"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
-      "tags": ["fontes", "stanford-see", "cs229", "course-page"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/CS229"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_id": "course-page",
+        "row_kind": "course_page"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "course-page",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.cs229.info",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/info.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
-      "tags": ["fontes", "stanford-see", "cs229", "syllabus"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/aimlcs229/info.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_id": "syllabus",
+        "row_kind": "syllabus"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "syllabus",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.cs229.schedule",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/schedule.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
-      "tags": ["fontes", "stanford-see", "cs229", "schedule"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/aimlcs229/schedule.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_id": "schedule",
+        "row_kind": "schedule"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "schedule",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.cs229.all-materials",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/MachineLearningAllMaterials.zip"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
-      "tags": ["fontes", "stanford-see", "cs229", "all-materials"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/aimlcs229/MachineLearningAllMaterials.zip"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_id": "all-materials",
+        "row_kind": "course_materials_zip"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "all-materials",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.cs229.notes1",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
-      "tags": ["fontes", "stanford-see", "cs229", "lecture-notes"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_id": "lecture-notes",
+        "row_kind": "lecture_notes"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "lecture-notes",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.cs229.problemset1",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/aimlcs229/problemset1.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
-      "tags": ["fontes", "stanford-see", "cs229", "assignments"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/aimlcs229/problemset1.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_id": "assignments",
+        "row_kind": "assignments"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "assignments",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.surfaces-table",
+      "node_kind": "fletch",
+      "label": "CS229 normalized SEE source surfaces",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/CS229"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_count": "8"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "surfaces-table",
+        "normalized-table"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.surface.lecture-videos",
+      "node_kind": "fletch",
+      "label": "cs229 lecture-videos",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/CS229"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "local_cache_allowed",
+        "license": "media-boundary",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_id": "lecture-videos",
+        "row_kind": "lecture_videos"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "lecture_videos",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.cs229.surface.external-resources",
+      "node_kind": "fletch",
+      "label": "cs229 external-resources",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/CS229"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:stanford-see:cs229-machine-learning",
+        "table_record": "sources\\tables\\stanford-see-cs229-surfaces.json",
+        "row_id": "external-resources",
+        "row_kind": "external_links"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "cs229",
+        "external_links",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }

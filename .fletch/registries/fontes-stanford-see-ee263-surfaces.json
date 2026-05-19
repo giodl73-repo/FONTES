@@ -6,44 +6,246 @@
     {
       "id": "fontes.stanford-see.ee263.course-page",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE263"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
-      "tags": ["fontes", "stanford-see", "ee263", "course-page"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/EE263"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_id": "course-page",
+        "row_kind": "course_page"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "course-page",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee263.syllabus",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/Syllabus.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
-      "tags": ["fontes", "stanford-see", "ee263", "syllabus"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsoeldsee263/Syllabus.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_id": "syllabus",
+        "row_kind": "syllabus"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "syllabus",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee263.all-materials",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/LinearDynamicalSystemsAllMaterials.zip"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
-      "tags": ["fontes", "stanford-see", "ee263", "all-materials"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsoeldsee263/LinearDynamicalSystemsAllMaterials.zip"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_id": "all-materials",
+        "row_kind": "course_materials_zip"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "all-materials",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee263.notes-overview",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/01-overview.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
-      "tags": ["fontes", "stanford-see", "ee263", "lecture-notes"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsoeldsee263/01-overview.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_id": "lecture-notes",
+        "row_kind": "lecture_notes"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "lecture-notes",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee263.homework-problems",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/homeworkProblems.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
-      "tags": ["fontes", "stanford-see", "ee263", "assignments"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsoeldsee263/homeworkProblems.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_id": "homework-problems",
+        "row_kind": "assignments"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "assignments",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.stanford-see.ee263.midterm",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoeldsee263/midterm_07.pdf"}],
-      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems"},
-      "tags": ["fontes", "stanford-see", "ee263", "exams"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsoeldsee263/midterm_07.pdf"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_id": "exams",
+        "row_kind": "exams"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "exams",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.surfaces-table",
+      "node_kind": "fletch",
+      "label": "EE263 normalized SEE source surfaces",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/EE263"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_count": "8"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "surfaces-table",
+        "normalized-table"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.surface.software",
+      "node_kind": "fletch",
+      "label": "ee263 software",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/materials/lsoeldsee263/beam_estim_data.mht"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_id": "software",
+        "row_kind": "software_data_files"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "software_data_files",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.stanford-see.ee263.surface.lecture-videos",
+      "node_kind": "fletch",
+      "label": "ee263 lecture-videos",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://see.stanford.edu/Course/EE263"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "local_cache_allowed",
+        "license": "media-boundary",
+        "domain": "mathematics-systems",
+        "work_id": "fontes:stanford-see:ee263-linear-dynamical-systems",
+        "table_record": "sources\\tables\\stanford-see-ee263-surfaces.json",
+        "row_id": "lecture-videos",
+        "row_kind": "lecture_videos"
+      },
+      "tags": [
+        "fontes",
+        "stanford-see",
+        "ee263",
+        "lecture_videos",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }
