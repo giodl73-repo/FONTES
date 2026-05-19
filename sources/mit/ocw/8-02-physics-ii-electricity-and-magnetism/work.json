@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007",
+  "title": "8.02 Physics II: Electricity and Magnetism",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+  "license_status": "cc-by-nc-sa-4.0",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["electricity", "magnetism", "electromagnetic fields", "circuits", "Maxwell equations", "electromagnetic radiation"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:8-02:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description, staff list, TEAL context, and acknowledgements for the physics-for-objects lane."
+    },
+    {
+      "id": "fontes:mit:ocw:8-02:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course structure, prerequisites, TEAL format, readings, homework, experiments, tests, and grading policy."
+    },
+    {
+      "id": "fontes:mit:ocw:8-02:readings",
+      "kind": "readings",
+      "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Session-by-session reading table that links summaries and OCW course-note chapter PDFs."
+    },
+    {
+      "id": "fontes:mit:ocw:8-02:course-notes",
+      "kind": "open_course_notes",
+      "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/readings/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW-hosted 8.02 course-note PDFs referenced from the readings table."
+    },
+    {
+      "id": "fontes:mit:ocw:8-02:visualization-links",
+      "kind": "visualization_metadata",
+      "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/resources/visualizn_links/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "PDF map from course-note figures to animations or interactive simulations; simulation binaries require child-resource review."
+    },
+    {
+      "id": "fontes:mit:ocw:8-02:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW download package contains the online course content and static resources."
+    },
+    {
+      "id": "fontes:mit:oll:8-02-modules",
+      "kind": "open_learning_library_modules",
+      "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/",
+      "fetch_policy": "metadata_only",
+      "notes": "Newer OCW landing page points to OLL 8.02.1x, 8.02.2x, and 8.02.3x modules; OLL module contents remain rights-boundary metadata unless resource-level terms permit more."
+    }
+  ]
+}

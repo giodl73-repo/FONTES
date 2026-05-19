@@ -450,6 +450,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "SEE non-video materials bundle-allowed; videos local-cache only; assignment code/data archives require child-resource review before downstream package promotion."
+    },
+    {
+      "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007",
+      "title": "8.02 Physics II: Electricity and Magnetism",
+      "domain": "physics-for-objects",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\8-02-physics-ii-electricity-and-magnetism\\work.json",
+      "custody_record": "sources\\mit\\ocw\\8-02-physics-ii-electricity-and-magnetism\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\8-02-physics-ii-electricity-and-magnetism\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-8-02-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW pages, course notes, and download package are mapped under CC BY-NC-SA 4.0; OLL module contents and interactive simulation binaries remain metadata-only or child-resource review boundaries."
     }
   ]
 }

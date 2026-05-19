@@ -1,0 +1,71 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 8.02 source map",
+  "registry_id": "fontes-mit-8-02-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.8-02.course-page",
+      "node_kind": "fletch",
+      "label": "8.02 OCW course page",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects", "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007", "table_record": "sources\\tables\\mit-8-02-surfaces.json", "row_id": "course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "mit", "ocw", "8-02", "course-page", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-02.syllabus",
+      "node_kind": "fletch",
+      "label": "8.02 syllabus",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects", "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007", "table_record": "sources\\tables\\mit-8-02-surfaces.json", "row_id": "syllabus", "row_kind": "syllabus"},
+      "tags": ["fontes", "mit", "ocw", "8-02", "syllabus", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-02.readings",
+      "node_kind": "fletch",
+      "label": "8.02 readings",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/readings/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects", "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007", "table_record": "sources\\tables\\mit-8-02-surfaces.json", "row_id": "readings", "row_kind": "readings"},
+      "tags": ["fontes", "mit", "ocw", "8-02", "readings", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-02.course-notes",
+      "node_kind": "fletch",
+      "label": "8.02 course notes",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/readings/"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects", "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007", "table_record": "sources\\tables\\mit-8-02-surfaces.json", "row_id": "course-notes", "row_kind": "open_course_notes"},
+      "tags": ["fontes", "mit", "ocw", "8-02", "course-notes", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-02.visualization-links",
+      "node_kind": "fletch",
+      "label": "8.02 visualization link map",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/resources/visualizn_links/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects", "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007", "table_record": "sources\\tables\\mit-8-02-surfaces.json", "row_id": "visualization-links", "row_kind": "visualization_metadata"},
+      "tags": ["fontes", "mit", "ocw", "8-02", "visualization-links", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-02.download",
+      "node_kind": "fletch",
+      "label": "8.02 course download",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/download/"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects", "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007", "table_record": "sources\\tables\\mit-8-02-surfaces.json", "row_id": "download", "row_kind": "course_download"},
+      "tags": ["fontes", "mit", "ocw", "8-02", "download", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.oll.8-02.modules",
+      "node_kind": "fletch",
+      "label": "8.02 OLL module boundary",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/"}],
+      "metadata": {"fetch_policy": "metadata_only", "license": "all-rights-reserved-unless-otherwise-indicated", "domain": "physics-for-objects", "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007", "table_record": "sources\\tables\\mit-8-02-surfaces.json", "row_id": "oll-modules", "row_kind": "open_learning_library_modules"},
+      "tags": ["fontes", "mit", "open-learning-library", "8-02", "rights-boundary", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.8-02.surfaces-table",
+      "node_kind": "fletch",
+      "label": "8.02 normalized source surfaces",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "physics-for-objects", "work_id": "fontes:mit:ocw:8-02-physics-ii-electricity-and-magnetism-spring-2007", "table_record": "sources\\tables\\mit-8-02-surfaces.json", "row_count": "7"},
+      "tags": ["fontes", "mit", "ocw", "8-02", "surfaces-table", "normalized-table"]
+    }
+  ]
+}
