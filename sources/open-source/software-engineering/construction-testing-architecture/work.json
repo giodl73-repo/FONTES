@@ -1,0 +1,114 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:software-engineering:construction-testing-architecture",
+  "title": "Software Construction, Testing, Architecture, and Maintainability Foundations",
+  "source_family": "software-engineering",
+  "source_type": "open-education-and-practice-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/",
+  "license_status": "mixed-open-education-book-practice-and-site-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["software construction", "software engineering", "testing", "code review", "version control", "specifications", "invariants", "abstract data types", "interfaces", "immutability", "thread safety", "message passing", "modularity", "design patterns", "web applications", "model-view-controller", "REST", "refactoring", "continuous integration", "maintainability", "code review"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-005:course",
+      "kind": "software_construction_course",
+      "url": "https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for writing software that is safe from bugs, easy to understand, and ready for change, including specifications, invariants, testing, abstract data types, object-oriented design patterns, concurrency, and functional programming."
+    },
+    {
+      "id": "fontes:mit:ocw:6-005:readings",
+      "kind": "software_construction_reading_index",
+      "url": "https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Reading-index identity for static checking, testing, code review, version control, specifications, debugging avoidance, immutability, recursion, ADTs, rep invariants, interfaces, equality, parser generators, concurrency, thread safety, sockets, queues, message passing, locks, and synchronization; linked reading pages and assignments remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:6-005:elements-2008",
+      "kind": "software_construction_course_identity",
+      "url": "https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW predecessor identity for abstractions, state machines, functional programming, object-oriented programming, design patterns, interfaces, specifications, invariants, testing, test-case generation, coverage, objects, functions, and abstract types."
+    },
+    {
+      "id": "fontes:mit:ocw:6-170:course",
+      "kind": "software_studio_course",
+      "url": "https://ocw.mit.edu/courses/6-170-software-studio-spring-2013/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW software-engineering course identity for medium-scale software systems, web applications, modular code, conceptual design, clarity, simplicity, modularity, functional programming, relational databases, and security."
+    },
+    {
+      "id": "fontes:mit:ocw:6-170:lecture-notes",
+      "kind": "software_studio_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-170-software-studio-spring-2013/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for web basics, DNS, HTTP, separation of concerns, modularity, dependencies, MVC, RESTful APIs, distributed web, object models, relational data models, design concepts, design review, code review, JavaScript, DOM, and project work; PDFs and project assets remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-171:course",
+      "kind": "web_applications_software_engineering_course",
+      "url": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW web-application software-engineering identity for concurrency, unpredictable load, security risks, wide-area distributed computing, reliable stateful user experience over unreliable/stateless protocols, changing requirements, testing with users, and multimodal interfaces."
+    },
+    {
+      "id": "fontes:mit:ocw:6-171:readings",
+      "kind": "web_applications_open_textbook_index",
+      "url": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW reading index that points to online textbooks Software Engineering for Internet Applications and SQL for Web Nerds plus Oracle/Tufte reference identities; linked books, Oracle docs, and external materials remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:course:6-031",
+      "kind": "current_software_construction_course_identity",
+      "url": "https://web.mit.edu/6.031/www/sp21/",
+      "fetch_policy": "metadata_only",
+      "notes": "Current MIT 6.031 Software Construction course-site identity; readings, quizzes, solutions, psets, staff tools, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:greenspun:software-engineering-internet-applications",
+      "kind": "software_engineering_open_book_identity",
+      "url": "https://philip.greenspun.com/seia/",
+      "fetch_policy": "metadata_only",
+      "notes": "Software Engineering for Internet Applications identity for planning, software structure, registration, content management, modularity, discussion, scaling, search, distributed computing, metadata, user activity analysis, writeups, HTML, engagement management, and grading standards; book chapters and linked materials remain boundary-checked."
+    },
+    {
+      "id": "fontes:fowler:testing-guide",
+      "kind": "software_testing_practice_identity",
+      "url": "https://martinfowler.com/testing/",
+      "fetch_policy": "metadata_only",
+      "notes": "Martin Fowler testing-guide identity for self-testing code, automated tests, specification by example, TDD, test pyramid, practical test pyramid, microservice testing, and testing portfolio discussions; article bodies, images, books, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:fowler:refactoring",
+      "kind": "refactoring_practice_identity",
+      "url": "https://refactoring.com/",
+      "fetch_policy": "metadata_only",
+      "notes": "Refactoring identity for disciplined behavior-preserving restructuring, small transformations, maintainability, keeping systems working, and reducing enhancement cost; catalog, book/web edition, images, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:google:eng-practices",
+      "kind": "code_review_practice_identity",
+      "url": "https://google.github.io/eng-practices/",
+      "fetch_policy": "metadata_only",
+      "notes": "Google engineering-practices identity for public code-review guidelines and changelist/developer/reviewer terminology; docs are CC BY 3.0, but individual pages and repository content remain boundary-checked pending extraction review."
+    },
+    {
+      "id": "fontes:google:swe-book",
+      "kind": "software_engineering_at_scale_book_identity",
+      "url": "https://abseil.io/resources/swe-book",
+      "fetch_policy": "metadata_only",
+      "notes": "Software Engineering at Google identity for sustainable and healthy codebase practices; digital book is listed under CC BY-NC-ND 4.0, so extraction and derivative use remain boundary-checked."
+    },
+    {
+      "id": "fontes:google:testing-blog:e2e",
+      "kind": "testing_practice_article_identity",
+      "url": "https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Google Testing Blog identity for end-to-end testing cost/flake/runtime concerns and test-pyramid tradeoffs; blog body, comments, images, and linked assets remain boundary-checked."
+    }
+  ]
+}

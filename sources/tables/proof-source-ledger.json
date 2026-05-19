@@ -1298,6 +1298,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; open textbook and booksite identities are metadata-only pending reuse review; OCW PDFs, videos, problem sets, exams, recitation notes, textbook PDFs, chapter PDFs, code, exercises, solutions, assignments, course archives, translations, images, diagrams, generated book assets, repositories, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:software-engineering:construction-testing-architecture",
+      "title": "Software Construction, Testing, Architecture, and Maintainability Foundations",
+      "domain": "software-engineering-construction-support",
+      "source_family": "software-engineering",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\software-engineering\\construction-testing-architecture\\work.json",
+      "custody_record": "sources\\open-source\\software-engineering\\construction-testing-architecture\\custody.md",
+      "inventory_record": "sources\\open-source\\software-engineering\\construction-testing-architecture\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-software-engineering-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; current MIT course sites, online books, Fowler practice pages, Google engineering practices, and Google testing blog identities are metadata-only pending reuse review; OCW PDFs, reading pages, quizzes, problem sets, assignments, solutions, project assets, generated course pages, book chapters, web-edition material, code, repositories, blog bodies, comments, images, diagrams, videos, and linked assets remain boundary-checked."
     }
   ]
 }
