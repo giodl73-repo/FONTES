@@ -1,0 +1,103 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT 18.06 source map",
+  "registry_id": "fontes-mit-18-06-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.18-06.course-page",
+      "node_kind": "fletch",
+      "label": "18.06 Linear Algebra course page",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "course-page"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.readings",
+      "node_kind": "fletch",
+      "label": "18.06 readings table",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/readings/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "readings"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.syllabus",
+      "node_kind": "fletch",
+      "label": "18.06 syllabus",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "syllabus"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.video-lectures",
+      "node_kind": "fletch",
+      "label": "18.06 video lecture gallery",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "video-lectures"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.download",
+      "node_kind": "fletch",
+      "label": "18.06 downloadable OCW course materials",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/download/"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "download"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.assignments",
+      "node_kind": "fletch",
+      "label": "18.06 assignments",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/assignments/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "assignments"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.exams",
+      "node_kind": "fletch",
+      "label": "18.06 exams",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/exams/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "exams"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.study-materials",
+      "node_kind": "fletch",
+      "label": "18.06 study materials",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/study-materials/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "study-materials"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.instructor-insights",
+      "node_kind": "fletch",
+      "label": "18.06 instructor insights",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/instructor-insights/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "instructor-insights"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.related-resources",
+      "node_kind": "fletch",
+      "label": "18.06 related resources",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/related-resources/"}],
+      "metadata": {"fetch_policy": "license_review", "license": "mixed", "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "related-resources", "mixed-license"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.strang-introduction-to-linear-algebra-4e",
+      "node_kind": "fletch",
+      "label": "Introduction to Linear Algebra, 4th edition metadata",
+      "shafts": [{"kind": "http", "url": "http://www.wellesleycambridge.com/"}],
+      "metadata": {"fetch_policy": "metadata_only", "license": "external-textbook", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010", "isbn": "9780980232714", "author": "Gilbert Strang"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "textbook", "metadata-only"]
+    },
+    {
+      "id": "fontes.mit.ocw.18-06.strang-introduction-to-linear-algebra-5e",
+      "node_kind": "fletch",
+      "label": "Introduction to Linear Algebra, 5th edition metadata",
+      "shafts": [{"kind": "http", "url": "http://www.wellesleycambridge.com/"}],
+      "metadata": {"fetch_policy": "metadata_only", "license": "external-textbook", "domain": "mathematics", "work_id": "fontes:mit:ocw:18-06-linear-algebra-spring-2010", "isbn": "9780980232776", "author": "Gilbert Strang"},
+      "tags": ["fontes", "mit", "ocw", "18-06", "linear-algebra", "textbook", "metadata-only"]
+    }
+  ]
+}
