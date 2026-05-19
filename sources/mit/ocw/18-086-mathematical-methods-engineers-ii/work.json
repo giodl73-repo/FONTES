@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:18-086-mathematical-methods-engineers-ii-spring-2006",
+  "title": "18.086 Mathematical Methods for Engineers II",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/",
+  "license_status": "cc-by-nc-sa-4.0-with-textbook-code-video-project-and-external-resource-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["numerical methods", "initial value problems", "finite differences", "PDEs", "large linear systems", "Krylov methods", "preconditioning", "multigrid", "inverse problems", "game engine simulation support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:18-086:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for numerical methods, initial-value problems, network flows, and optimization."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course prerequisites, textbook boundary, initial-value problem topics, large-linear-system topics, and project requirements."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Homework and solution listing with finite-difference, stability, nonlinear conservation-law, and MATLAB support-file boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:projects",
+      "kind": "projects",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/pages/projects/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Project overview, topic list, sample project PDFs, and MATLAB project ZIP boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:video-lectures",
+      "kind": "lecture_videos",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/video_galleries/video-lectures/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Lecture video gallery metadata is mapped; media bytes remain local-cache only."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:related-resources",
+      "kind": "related_resources",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/pages/related-resources/",
+      "fetch_policy": "metadata_only",
+      "notes": "Related OCW courses, Strang textbooks, external book pages, videos, and third-party links are citation metadata only."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:matlab-code-boundary",
+      "kind": "matlab_code_files",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/pages/assignments/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "MATLAB support files for assignments and projects require downstream code review before local bundling or indexing."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:textbook-boundary",
+      "kind": "assigned_textbooks",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Assigned Strang textbooks and external book pages are citation metadata only unless separately sourced."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:sample-project-boundary",
+      "kind": "student_project_assets",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/pages/projects/",
+      "fetch_policy": "metadata_only",
+      "notes": "Sample student project PDFs are cited as OCW-hosted examples; project ZIP/code assets require separate review."
+    },
+    {
+      "id": "fontes:mit:ocw:18-086:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains online course content and static resources, excluding audio/video materials."
+    }
+  ]
+}
