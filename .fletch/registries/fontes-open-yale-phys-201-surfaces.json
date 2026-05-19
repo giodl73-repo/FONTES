@@ -15,7 +15,8 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "physics-for-objects"
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii"
       },
       "tags": [
         "fontes",
@@ -36,13 +37,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "physics-for-objects"
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-1",
+        "row_kind": "lecture"
       },
       "tags": [
         "fontes",
         "open-yale",
         "phys-201",
-        "lecture"
+        "lecture",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -57,13 +64,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "physics-for-objects"
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "exam-1",
+        "row_kind": "exam"
       },
       "tags": [
         "fontes",
         "open-yale",
         "phys-201",
-        "exam"
+        "exam",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -78,13 +91,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "physics-for-objects"
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "exam-2",
+        "row_kind": "exam"
       },
       "tags": [
         "fontes",
         "open-yale",
         "phys-201",
-        "exam"
+        "exam",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -99,12 +118,711 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "source-family-terms"
+        "domain": "source-family-terms",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii"
       },
       "tags": [
         "fontes",
         "open-yale",
         "terms"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.sessions-table",
+      "node_kind": "fletch",
+      "label": "PHYS 201 normalized sessions table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_count": "27"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "sessions-table",
+        "normalized-table"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-2",
+      "node_kind": "fletch",
+      "label": "Lecture 2: Electric Fields",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-2"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-2",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-3",
+      "node_kind": "fletch",
+      "label": "Lecture 3: Gauss's Law I",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-3"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-3",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-4",
+      "node_kind": "fletch",
+      "label": "Lecture 4: Gauss's Law and Application to Conductors and Insulators",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-4"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-4",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-5",
+      "node_kind": "fletch",
+      "label": "Lecture 5: The Electric Potential and Conservation of Energy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-5"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-5",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-6",
+      "node_kind": "fletch",
+      "label": "Lecture 6: Capacitors",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-6"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-6",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-7",
+      "node_kind": "fletch",
+      "label": "Lecture 7: Resistance",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-7"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-7",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-8",
+      "node_kind": "fletch",
+      "label": "Lecture 8: Circuits and Magnetism I",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-8"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-8",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-9",
+      "node_kind": "fletch",
+      "label": "Lecture 9: Magnetism II",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-9"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-9",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-10",
+      "node_kind": "fletch",
+      "label": "Lecture 10: Ampere's Law",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-10"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-10",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-11",
+      "node_kind": "fletch",
+      "label": "Lecture 11: Lenz's and Faraday's Laws",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-11"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-11",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-12",
+      "node_kind": "fletch",
+      "label": "Lecture 12: LCR Circuits — DC Voltage",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-12"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-12",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-13",
+      "node_kind": "fletch",
+      "label": "Lecture 13: LCR Circuits — AC Voltage",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-13"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-13",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-14",
+      "node_kind": "fletch",
+      "label": "Lecture 14: Maxwell's Equations and Electromagnetic Waves I",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-14"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-14",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-15",
+      "node_kind": "fletch",
+      "label": "Lecture 15: Maxwell's Equations and Electromagnetic Waves II",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-15"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-15",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-16",
+      "node_kind": "fletch",
+      "label": "Lecture 16: Ray or Geometrical Optics I",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-16"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-16",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-17",
+      "node_kind": "fletch",
+      "label": "Lecture 17: Ray or Geometrical Optics II",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-17"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-17",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-18",
+      "node_kind": "fletch",
+      "label": "Lecture 18: Wave Theory of Light",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-18"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-18",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-19",
+      "node_kind": "fletch",
+      "label": "Lecture 19: Quantum Mechanics I: Key Experiments and Wave-Particle Duality",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-19"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-19",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-20",
+      "node_kind": "fletch",
+      "label": "Lecture 20: Quantum Mechanics II",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-20"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-20",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-21",
+      "node_kind": "fletch",
+      "label": "Lecture 21: Quantum Mechanics III",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-21"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-21",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-22",
+      "node_kind": "fletch",
+      "label": "Lecture 22: Quantum Mechanics IV: Measurement Theory, States of Definite Energy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-22"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-22",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-23",
+      "node_kind": "fletch",
+      "label": "Lecture 23: Quantum Mechanics V: Particle in a Box",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-23"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-23",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-24",
+      "node_kind": "fletch",
+      "label": "Lecture 24: Quantum Mechanics VI: Time-Dependent Schrödinger Equation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-24"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-24",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-201.session.lecture-25",
+      "node_kind": "fletch",
+      "label": "Lecture 25: Quantum Mechanics VII: Summary of Postulates and Special Topics",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-201/lecture-25"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-201-fundamentals-of-physics-ii",
+        "table_record": "sources\\tables\\open-yale-phys-201-sessions.json",
+        "row_id": "lecture-25",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-201",
+        "lecture",
+        "resource-row",
+        "stable-url"
       ]
     }
   ]

@@ -15,7 +15,8 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i"
       },
       "tags": [
         "fontes",
@@ -36,13 +37,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-1",
+        "row_kind": "lecture"
       },
       "tags": [
         "fontes",
         "open-yale",
         "chem-125a",
-        "lecture"
+        "lecture",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -57,13 +64,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "exam-1",
+        "row_kind": "exam"
       },
       "tags": [
         "fontes",
         "open-yale",
         "chem-125a",
-        "exam"
+        "exam",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -78,13 +91,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "exam-2",
+        "row_kind": "exam"
       },
       "tags": [
         "fontes",
         "open-yale",
         "chem-125a",
-        "exam"
+        "exam",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -99,13 +118,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "exam-3",
+        "row_kind": "exam"
       },
       "tags": [
         "fontes",
         "open-yale",
         "chem-125a",
-        "exam"
+        "exam",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -120,13 +145,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "exam-4",
+        "row_kind": "exam"
       },
       "tags": [
         "fontes",
         "open-yale",
         "chem-125a",
-        "exam"
+        "exam",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -141,7 +172,8 @@
       "metadata": {
         "fetch_policy": "license_review",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i"
       },
       "tags": [
         "fontes",
@@ -162,12 +194,1047 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "source-family-terms"
+        "domain": "source-family-terms",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i"
       },
       "tags": [
         "fontes",
         "open-yale",
         "terms"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.sessions-table",
+      "node_kind": "fletch",
+      "label": "CHEM 125a normalized sessions table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_count": "41"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "sessions-table",
+        "normalized-table"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-2",
+      "node_kind": "fletch",
+      "label": "Lecture 2: Force Laws, Lewis Structures and Resonance",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-2"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-2",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-3",
+      "node_kind": "fletch",
+      "label": "Lecture 3: Double Minima, Earnshaw's Theorem and Plum-Puddings",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-3"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-3",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-4",
+      "node_kind": "fletch",
+      "label": "Lecture 4: Coping with Smallness and Scanning Probe Microscopy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-4"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-4",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-5",
+      "node_kind": "fletch",
+      "label": "Lecture 5: X-Ray Diffraction",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-5"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-5",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-6",
+      "node_kind": "fletch",
+      "label": "Lecture 6: Seeing Bonds by Electron Difference Density",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-6"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-6",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-7",
+      "node_kind": "fletch",
+      "label": "Lecture 7: Quantum Mechanical Kinetic Energy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-7"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-7",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-8",
+      "node_kind": "fletch",
+      "label": "Lecture 8: One-Dimensional Wave Functions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-8"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-8",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-9",
+      "node_kind": "fletch",
+      "label": "Lecture 9: Chladni Figures and One-Electron Atoms",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-9"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-9",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-10",
+      "node_kind": "fletch",
+      "label": "Lecture 10: Reality and the Orbital Approximation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-10"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-10",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-11",
+      "node_kind": "fletch",
+      "label": "Lecture 11: Orbital Correction and Plum-Pudding Molecules",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-11"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-11",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-12",
+      "node_kind": "fletch",
+      "label": "Lecture 12: Overlap and Atom-Pair Bonds",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-12"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-12",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-13",
+      "node_kind": "fletch",
+      "label": "Lecture 13: Overlap and Energy-Match",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-13"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-13",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-14",
+      "node_kind": "fletch",
+      "label": "Lecture 14: Checking Hybridization Theory with XH3",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-14"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-14",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-15",
+      "node_kind": "fletch",
+      "label": "Lecture 15: Chemical Reactivity: SOMO, HOMO, and LUMO",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-15"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-15",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-16",
+      "node_kind": "fletch",
+      "label": "Lecture 16: Recognizing Functional Groups",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-16"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-16",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-17",
+      "node_kind": "fletch",
+      "label": "Lecture 17: Reaction Analogies and Carbonyl Reactivity",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-17"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-17",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-18",
+      "node_kind": "fletch",
+      "label": "Lecture 18: Amide, Carboxylic Acid and Alkyl Lithium",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-18"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-18",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-19",
+      "node_kind": "fletch",
+      "label": "Lecture 19: Oxygen and the Chemical Revolution (Beginning to 1789)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-19"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-19",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-20",
+      "node_kind": "fletch",
+      "label": "Lecture 20: Rise of the Atomic Theory (1790-1805)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-20"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-20",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-21",
+      "node_kind": "fletch",
+      "label": "Lecture 21: Berzelius to Liebig and Wöhler (1805-1832)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-21"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-21",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-22",
+      "node_kind": "fletch",
+      "label": "Lecture 22: Radical and Type Theories (1832-1850)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-22"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-22",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-23",
+      "node_kind": "fletch",
+      "label": "Lecture 23: Valence Theory and Constitutional Structure (1858)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-23"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-23",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-24",
+      "node_kind": "fletch",
+      "label": "Lecture 24: Determining Chemical Structure by Isomer Counting (1869)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-24"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-24",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-25",
+      "node_kind": "fletch",
+      "label": "Lecture 25: Models in 3D Space (1869-1877); Optical Isomers",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-25"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-25",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-26",
+      "node_kind": "fletch",
+      "label": "Lecture 26: Van't Hoff's Tetrahedral Carbon and Chirality",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-26"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-26",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-27",
+      "node_kind": "fletch",
+      "label": "Lecture 27: Communicating Molecular Structure in Diagrams and Words",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-27"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-27",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-28",
+      "node_kind": "fletch",
+      "label": "Lecture 28: Stereochemical Nomenclature; Racemization and Resolution",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-28"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-28",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-29",
+      "node_kind": "fletch",
+      "label": "Lecture 29: Preparing Single Enantiomers and the Mechanism of Optical Rotation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-29"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-29",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-30",
+      "node_kind": "fletch",
+      "label": "Lecture 30: Esomeprazole as an Example of Drug Testing and Usage",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-30"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-30",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-31",
+      "node_kind": "fletch",
+      "label": "Lecture 31: Preparing Single Enantiomers and Conformational Energy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-31"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-31",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-32",
+      "node_kind": "fletch",
+      "label": "Lecture 32: Stereotopicity and Baeyer Strain Theory",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-32"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-32",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-33",
+      "node_kind": "fletch",
+      "label": "Lecture 33: Conformational Energy and Molecular Mechanics",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-33"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-33",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-34",
+      "node_kind": "fletch",
+      "label": "Lecture 34: Sharpless Oxidation Catalysts and the Conformation of Cycloalkanes",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-34"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-34",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-35",
+      "node_kind": "fletch",
+      "label": "Lecture 35: Understanding Molecular Structure and Energy through Standard Bonds",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-35"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-35",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-36",
+      "node_kind": "fletch",
+      "label": "Lecture 36: Bond Energies, the Boltzmann Factor and Entropy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-36"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-36",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125a.session.lecture-37",
+      "node_kind": "fletch",
+      "label": "Lecture 37: Potential Energy Surfaces, Transition State Theory and Reaction Mechanism",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a/lecture-37"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125a-freshman-organic-chemistry-i",
+        "table_record": "sources\\tables\\open-yale-chem-125a-sessions.json",
+        "row_id": "lecture-37",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125a",
+        "lecture",
+        "resource-row",
+        "stable-url"
       ]
     }
   ]

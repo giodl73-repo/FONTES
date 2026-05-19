@@ -6,37 +6,740 @@
     {
       "id": "fontes.open-yale.phys-200.course-page",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/physics/phys-200"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0-most-materials", "domain": "physics-for-objects"},
-      "tags": ["fontes", "open-yale", "phys-200", "course-page"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "course-page"
+      ]
     },
     {
       "id": "fontes.open-yale.phys-200.lecture-1",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/physics/phys-200/lecture-1"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0-most-materials", "domain": "physics-for-objects"},
-      "tags": ["fontes", "open-yale", "phys-200", "lecture"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-1"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-1",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.open-yale.phys-200.exam-1",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/physics/phys-200/exam-1"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0-most-materials", "domain": "physics-for-objects"},
-      "tags": ["fontes", "open-yale", "phys-200", "exam"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/exam-1"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "exam-1",
+        "row_kind": "exam"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "exam",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.open-yale.phys-200.exam-2",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/physics/phys-200/exam-2"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0-most-materials", "domain": "physics-for-objects"},
-      "tags": ["fontes", "open-yale", "phys-200", "exam"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/exam-2"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "exam-2",
+        "row_kind": "exam"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "exam",
+        "resource-row",
+        "stable-url"
+      ]
     },
     {
       "id": "fontes.open-yale.phys-200.terms",
       "node_kind": "fletch",
-      "shafts": [{"kind": "http", "url": "https://oyc.yale.edu/terms"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-3.0-most-materials", "domain": "source-family-terms"},
-      "tags": ["fontes", "open-yale", "terms"]
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/terms"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "source-family-terms",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "terms"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.sessions-table",
+      "node_kind": "fletch",
+      "label": "PHYS 200 normalized sessions table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_count": "24"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "sessions-table",
+        "normalized-table"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-2",
+      "node_kind": "fletch",
+      "label": "Lecture 2: Vectors in Multiple Dimensions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-2"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-2",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-3",
+      "node_kind": "fletch",
+      "label": "Lecture 3: Newton's Laws of Motion",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-3"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-3",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-4",
+      "node_kind": "fletch",
+      "label": "Lecture 4: Newton's Laws (cont.) and Inclined Planes",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-4"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-4",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-5",
+      "node_kind": "fletch",
+      "label": "Lecture 5: Work-Energy Theorem and Law of Conservation of Energy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-5"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-5",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-6",
+      "node_kind": "fletch",
+      "label": "Lecture 6: Law of Conservation of Energy in Higher Dimensions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-6"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-6",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-8",
+      "node_kind": "fletch",
+      "label": "Lecture 8: Dynamics of a Multiple-Body System and Law of Conservation of Momentum",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-8"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-8",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-9",
+      "node_kind": "fletch",
+      "label": "Lecture 9: Rotations, Part I: Dynamics of Rigid Bodies",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-9"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-9",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-10",
+      "node_kind": "fletch",
+      "label": "Lecture 10: Rotations, Part II: Parallel Axis Theorem",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-10"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-10",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-11",
+      "node_kind": "fletch",
+      "label": "Lecture 11: Torque",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-11"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-11",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-12",
+      "node_kind": "fletch",
+      "label": "Lecture 12: Introduction to Relativity",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-12"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-12",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-13",
+      "node_kind": "fletch",
+      "label": "Lecture 13: Lorentz Transformation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-13"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-13",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-14",
+      "node_kind": "fletch",
+      "label": "Lecture 14: Introduction to the Four-Vector",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-14"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-14",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-15",
+      "node_kind": "fletch",
+      "label": "Lecture 15: Four-Vector in Relativity",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-15"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-15",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-16",
+      "node_kind": "fletch",
+      "label": "Lecture 16: The Taylor Series and Other Mathematical Concepts",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-16"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-16",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-17",
+      "node_kind": "fletch",
+      "label": "Lecture 17: Simple Harmonic Motion",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-17"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-17",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-18",
+      "node_kind": "fletch",
+      "label": "Lecture 18: Simple Harmonic Motion (cont.) and Introduction to Waves",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-18"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-18",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-20",
+      "node_kind": "fletch",
+      "label": "Lecture 20: Fluid Dynamics and Statics and Bernoulli's Equation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-20"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-20",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-21",
+      "node_kind": "fletch",
+      "label": "Lecture 21: Thermodynamics",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-21"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-21",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-22",
+      "node_kind": "fletch",
+      "label": "Lecture 22: The Boltzmann Constant and First Law of Thermodynamics",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-22"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-22",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-23",
+      "node_kind": "fletch",
+      "label": "Lecture 23: The Second Law of Thermodynamics and Carnot's Engine",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-23"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-23",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.phys-200.session.lecture-24",
+      "node_kind": "fletch",
+      "label": "Lecture 24: The Second Law of Thermodynamics (cont.) and Entropy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/physics/phys-200/lecture-24"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "physics-for-objects",
+        "work_id": "fontes:open-yale:phys-200-fundamentals-of-physics-i",
+        "table_record": "sources\\tables\\open-yale-phys-200-sessions.json",
+        "row_id": "lecture-24",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "phys-200",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }

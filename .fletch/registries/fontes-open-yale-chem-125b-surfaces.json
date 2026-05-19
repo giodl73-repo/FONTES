@@ -15,7 +15,8 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii"
       },
       "tags": [
         "fontes",
@@ -36,13 +37,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-1",
+        "row_kind": "lecture"
       },
       "tags": [
         "fontes",
         "open-yale",
         "chem-125b",
-        "lecture"
+        "lecture",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -57,13 +64,19 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-38",
+        "row_kind": "lecture"
       },
       "tags": [
         "fontes",
         "open-yale",
         "chem-125b",
-        "lecture"
+        "lecture",
+        "resource-row",
+        "stable-url"
       ]
     },
     {
@@ -78,7 +91,8 @@
       "metadata": {
         "fetch_policy": "license_review",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "chemistry-for-real-items"
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii"
       },
       "tags": [
         "fontes",
@@ -99,12 +113,1047 @@
       "metadata": {
         "fetch_policy": "derived_text_allowed",
         "license": "cc-by-nc-sa-3.0-most-materials",
-        "domain": "source-family-terms"
+        "domain": "source-family-terms",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii"
       },
       "tags": [
         "fontes",
         "open-yale",
         "terms"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.sessions-table",
+      "node_kind": "fletch",
+      "label": "CHEM 125b normalized sessions table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_count": "38"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "sessions-table",
+        "normalized-table"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-2",
+      "node_kind": "fletch",
+      "label": "Lecture 2: Peculiar Rate Laws, Bond Dissociation Energies, and Relative Reactivities",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-2"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-2",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-3",
+      "node_kind": "fletch",
+      "label": "Lecture 3: Rate and Selectivity in Radical-Chain Reactions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-3"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-3",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-4",
+      "node_kind": "fletch",
+      "label": "Lecture 4: Electronegativity, Bond Strength, Electrostatics, and Non-Bonded Interactions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-4"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-4",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-5",
+      "node_kind": "fletch",
+      "label": "Lecture 5: Solvation, H-Bonding, and Ionophores",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-5"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-5",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-6",
+      "node_kind": "fletch",
+      "label": "Lecture 6: Brønsted Acidity and the Generality of Nucleophilic Substitution",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-6"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-6",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-7",
+      "node_kind": "fletch",
+      "label": "Lecture 7: Nucleophilic Substitution Tools - Stereochemistry, Rate Law, Substrate, Nucleophile, Leaving Group",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-7"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-7",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-8",
+      "node_kind": "fletch",
+      "label": "Lecture 8: Solvent, Leaving Group, Bridgehead Substitution, and Pentavalent Carbon",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-8"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-8",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-9",
+      "node_kind": "fletch",
+      "label": "Lecture 9: Pentavalent Carbon? E2, SN1, E1",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-9"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-9",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-10",
+      "node_kind": "fletch",
+      "label": "Lecture 10: Cation Intermediates – Alkenes: Formation, Addition, and Stability",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-10"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-10",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-11",
+      "node_kind": "fletch",
+      "label": "Lecture 11: Carbocations and the Mechanism of Electrophilic Addition to Alkenes and Alkynes",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-11"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-11",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-12",
+      "node_kind": "fletch",
+      "label": "Lecture 12: Nucleophilic Participation During Electrophilic Addition to Alkenes: Halogen, Carbene, and Borane",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-12"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-12",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-13",
+      "node_kind": "fletch",
+      "label": "Lecture 13: Addition to Form Three-Membered Rings: Carbenoids and Epoxidation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-13"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-13",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-14",
+      "node_kind": "fletch",
+      "label": "Lecture 14: Epoxide Opening, Dipolar Cycloaddition, and Ozonolysis",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-14"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-14",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-15",
+      "node_kind": "fletch",
+      "label": "Lecture 15: Metals and Catalysis in Alkene Oxidation, Hydrogenation, Metathesis, and Polymerization",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-15"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-15",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-16",
+      "node_kind": "fletch",
+      "label": "Lecture 16: Isoprenoids, Rubber, and Tuning Polymer Properties",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-16"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-16",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-17",
+      "node_kind": "fletch",
+      "label": "Lecture 17: Alkynes; Conjugation in Allylic Intermediates and Dienes",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-17"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-17",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-18",
+      "node_kind": "fletch",
+      "label": "Lecture 18: Linear and Cyclic Conjugation Theory; 4n+2 Aromaticity",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-18"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-18",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-19",
+      "node_kind": "fletch",
+      "label": "Lecture 19: Aromatic Transition States: Cycloaddition and Electrocyclic Reactions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-19"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-19",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-20",
+      "node_kind": "fletch",
+      "label": "Lecture 20: Electronic and Vibrational Spectroscopy",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-20"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-20",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-21",
+      "node_kind": "fletch",
+      "label": "Lecture 21: Functional Groups and Fingerprints in IR Spectroscopy; Precession of Magnetic Nuclei",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-21"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-21",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-22",
+      "node_kind": "fletch",
+      "label": "Lecture 22: Medical MRI and Chemical NMR",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-22"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-22",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-23",
+      "node_kind": "fletch",
+      "label": "Lecture 23: Diamagnetic Anisotropy and Spin-Spin Splitting",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-23"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-23",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-24",
+      "node_kind": "fletch",
+      "label": "Lecture 24: Higher-Order Effects, Dynamics, and the NMR Time Scale",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-24"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-24",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-25",
+      "node_kind": "fletch",
+      "label": "Lecture 25: C-13 and 2D NMR – Electrophilic Aromatic Substitution",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-25"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-25",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-26",
+      "node_kind": "fletch",
+      "label": "Lecture 26: Aromatic Substitution in Synthesis: Friedel-Crafts and Moses Gomberg",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-26"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-26",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-27",
+      "node_kind": "fletch",
+      "label": "Lecture 27: Triphenylmethyl and an Introduction to Carbonyl Chemistry",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-27"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-27",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-28",
+      "node_kind": "fletch",
+      "label": "Lecture 28: Mechanism and Equilibrium of Carbonyl Reactions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-28"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-28",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-29",
+      "node_kind": "fletch",
+      "label": "Lecture 29: Imines and Enamines; Oxidation and Reduction",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-29"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-29",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-30",
+      "node_kind": "fletch",
+      "label": "Lecture 30: Oxidation States and Mechanisms",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-30"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-30",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-31",
+      "node_kind": "fletch",
+      "label": "Lecture 31: Periodate Cleavage, Retrosynthesis, and Green Chemistry",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-31"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-31",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-32",
+      "node_kind": "fletch",
+      "label": "Lecture 32: Measuring Bond Energies: Guest Lecture by Prof. G. Barney Ellison",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-32"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-32",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-33",
+      "node_kind": "fletch",
+      "label": "Lecture 33: Green Chemistry; Acids and Acid Derivatives",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-33"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-33",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-34",
+      "node_kind": "fletch",
+      "label": "Lecture 34: Acids and Acid Derivatives",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-34"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-34",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-35",
+      "node_kind": "fletch",
+      "label": "Lecture 35: Acyl Insertions and α-Reactivity",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-35"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-35",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-36",
+      "node_kind": "fletch",
+      "label": "Lecture 36: α-Reactivity and Condensation Reactions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-36"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-36",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.open-yale.chem-125b.session.lecture-37",
+      "node_kind": "fletch",
+      "label": "Lecture 37: Proving the Configuration of Glucose and Synthesizing Two Unnatural Products",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b/lecture-37"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-3.0-most-materials",
+        "domain": "chemistry-for-real-items",
+        "work_id": "fontes:open-yale:chem-125b-freshman-organic-chemistry-ii",
+        "table_record": "sources\\tables\\open-yale-chem-125b-sessions.json",
+        "row_id": "lecture-37",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "open-yale",
+        "chem-125b",
+        "lecture",
+        "resource-row",
+        "stable-url"
       ]
     }
   ]
