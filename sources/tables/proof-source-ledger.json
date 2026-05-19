@@ -722,6 +722,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, calendar, lecture notes, assignments, projects, representative user-testing milestone, and download page are mapped; code/resource bundles, recommended textbooks/literature, and unavailable nanoquizzes remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:6-838-algorithms-for-computer-animation-fall-2002",
+      "title": "6.838 Algorithms for Computer Animation",
+      "domain": "game-animation-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\6-838-algorithms-for-computer-animation\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-838-algorithms-for-computer-animation\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-838-algorithms-for-computer-animation\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-838-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, calendar, readings-list page, projects page, and download page are mapped; third-party papers, books, linked papers, and external formatting guidance remain boundary-checked."
     }
   ]
 }

@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-838-algorithms-for-computer-animation-fall-2002",
+  "title": "6.838 Algorithms for Computer Animation",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/",
+  "license_status": "cc-by-nc-sa-4.0-with-third-party-reading-and-external-formatting-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["computer animation", "keyframing", "inverse kinematics", "motion capture", "particle systems", "rigid body dynamics", "cloth simulation", "fluids", "character controllers", "game-engine animation support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-838:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for animation algorithms used in films, effects, and games."
+    },
+    {
+      "id": "fontes:mit:ocw:6-838:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course goals, prerequisites, research-project framing, grading, reading workload, and academic-conduct guidance."
+    },
+    {
+      "id": "fontes:mit:ocw:6-838:calendar",
+      "kind": "calendar",
+      "url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/calendar/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture sequence covering animation principles, keyframing, motion capture, particles, constraints, optimization, rigid bodies, muscle control, physics, cloth, characters, smoke, fluids, motion editing, behaviors, and legged locomotion controllers."
+    },
+    {
+      "id": "fontes:mit:ocw:6-838:readings",
+      "kind": "readings",
+      "url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW-owned reading-list page with required and optional citations for animation, simulation, motion capture, fluids, cloth, and character control."
+    },
+    {
+      "id": "fontes:mit:ocw:6-838:projects",
+      "kind": "projects",
+      "url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/projects/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Semester-long research project milestones for proposal, progress report, and final conference-style report."
+    },
+    {
+      "id": "fontes:mit:ocw:6-838:reading-paper-boundary",
+      "kind": "third_party_readings",
+      "url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/readings/",
+      "fetch_policy": "metadata_only",
+      "notes": "Third-party papers, books, and linked papers are citation metadata only unless separately sourced."
+    },
+    {
+      "id": "fontes:mit:ocw:6-838:siggraph-formatting-boundary",
+      "kind": "external_project_guidance",
+      "url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/projects/",
+      "fetch_policy": "metadata_only",
+      "notes": "External SIGGRAPH formatting instructions are an external-link boundary and not mirrored."
+    },
+    {
+      "id": "fontes:mit:ocw:6-838:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains the online course content and static resources."
+    }
+  ]
+}
