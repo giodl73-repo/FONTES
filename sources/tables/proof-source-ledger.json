@@ -1314,6 +1314,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; current MIT course sites, online books, Fowler practice pages, Google engineering practices, and Google testing blog identities are metadata-only pending reuse review; OCW PDFs, reading pages, quizzes, problem sets, assignments, solutions, project assets, generated course pages, book chapters, web-edition material, code, repositories, blog bodies, comments, images, diagrams, videos, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:information-retrieval:search-indexing",
+      "title": "Information Retrieval, Search Indexing, Ranking, and Evaluation Foundations",
+      "domain": "information-retrieval-search-support",
+      "source_family": "information-retrieval",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\information-retrieval\\search-indexing\\work.json",
+      "custody_record": "sources\\open-source\\information-retrieval\\search-indexing\\custody.md",
+      "inventory_record": "sources\\open-source\\information-retrieval\\search-indexing\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-information-retrieval-search-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "source-identity",
+      "crop_status": "source-identity",
+      "rights_boundary": "All rows are metadata-only pending reuse review; book PDFs/HTML chapters, figures, slides, assignments, errata, generated JavaDoc, implementation docs, source code, examples, API pages, screenshots, benchmark outputs, datasets, proceedings, topics, qrels, runs, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }

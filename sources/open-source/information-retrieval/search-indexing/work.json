@@ -1,0 +1,51 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:information-retrieval:search-indexing",
+  "title": "Information Retrieval, Search Indexing, Ranking, and Evaluation Foundations",
+  "source_family": "information-retrieval",
+  "source_type": "open-book-project-documentation-and-evaluation-identities",
+  "canonical_url": "https://nlp.stanford.edu/IR-book/",
+  "license_status": "mixed-book-project-docs-and-evaluation-boundaries",
+  "license_url": "https://nlp.stanford.edu/IR-book/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["information retrieval", "search indexing", "full-text search", "ranking", "boolean retrieval", "postings lists", "index construction", "index compression", "vector space model", "BM25", "query expansion", "retrieval evaluation", "text classification", "clustering", "faceted search", "nearest-neighbor search", "distributed search", "search benchmarks"],
+  "sources": [
+    {
+      "id": "fontes:stanford:iir:book-site",
+      "kind": "information_retrieval_book_identity",
+      "url": "https://nlp.stanford.edu/IR-book/",
+      "fetch_policy": "metadata_only",
+      "notes": "Introduction to Information Retrieval companion site identity for Boolean retrieval, vocabulary/postings, tolerant retrieval, index construction/compression, scoring, vector-space ranking, search-system scoring, evaluation, relevance feedback, query expansion, XML retrieval, probabilistic retrieval, language models, classification, clustering, and latent semantic indexing; HTML/PDF chapters, figures, slides, assignments, and errata remain boundary-checked."
+    },
+    {
+      "id": "fontes:apache:lucene:home",
+      "kind": "search_engine_library_identity",
+      "url": "https://lucene.apache.org/core/",
+      "fetch_policy": "metadata_only",
+      "notes": "Apache Lucene identity for high-performance search-engine library features: structured/full-text search, faceting, vector nearest-neighbor search, spell correction, suggestions, indexing, ranked retrieval, query types, fielded search, multiple-index search, highlighting, joins, grouping, pluggable ranking, vector-space model, BM25, and codecs; docs, source code, benchmarks, APIs, and downloads remain boundary-checked."
+    },
+    {
+      "id": "fontes:apache:lucene:core-api",
+      "kind": "search_engine_api_identity",
+      "url": "https://lucene.apache.org/core/9_12_0/core/overview-summary.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Apache Lucene core API identity for implementation-facing search/indexing documentation; generated JavaDoc pages, package docs, source code, and examples remain boundary-checked."
+    },
+    {
+      "id": "fontes:elastic:elasticsearch:reference",
+      "kind": "distributed_search_engine_identity",
+      "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Elasticsearch reference identity for a distributed search and analytics engine, scalable data store, vector database built on Lucene, near-real-time indexing/search/analysis, query languages, aggregations, geospatial analysis, machine learning, APIs, clients, security, monitoring, and production guidance; docs, examples, APIs, screenshots, and code remain boundary-checked."
+    },
+    {
+      "id": "fontes:nist:trec",
+      "kind": "information_retrieval_evaluation_identity",
+      "url": "https://trec.nist.gov/",
+      "fetch_policy": "metadata_only",
+      "notes": "NIST TREC identity for evaluation workshops measuring search algorithm effectiveness, IR/NLP research community, datasets, measurement processes, tools, tracks, participation agreements, and proceedings; datasets, proceedings, guidelines, topics, qrels, runs, images, and linked assets remain boundary-checked."
+    }
+  ]
+}
