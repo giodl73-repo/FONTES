@@ -1,0 +1,78 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:5-12-organic-chemistry-i-spring-2005",
+  "row_grain": "one row per mapped MIT 5.12 source surface",
+  "rows": [
+    {
+      "surface_id": "course-page",
+      "title": "course_page",
+      "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2005/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Course description and resource-type metadata for organic chemistry."
+    },
+    {
+      "surface_id": "syllabus",
+      "title": "syllabus",
+      "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2005/pages/syllabus/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Course objectives, molecular-model guidance, recitation/exam/problem-set policies, grading, and study guidance."
+    },
+    {
+      "surface_id": "readings",
+      "title": "readings",
+      "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2005/pages/readings/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "textbook-boundary",
+      "fetch_policy": "metadata_only",
+      "proof_status": "rights-boundary",
+      "notes": "Week-to-topic map with readings from McMurry Organic Chemistry; textbook body is not OCW-owned."
+    },
+    {
+      "surface_id": "assignments",
+      "title": "assignments",
+      "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2005/pages/assignments/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Eight OCW-hosted problem sets and solution PDFs."
+    },
+    {
+      "surface_id": "exams",
+      "title": "exams",
+      "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2005/pages/exams/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "OCW exam surface and declared exam/solution resource type."
+    },
+    {
+      "surface_id": "download",
+      "title": "course_download",
+      "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2005/download/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "OCW download package contains the same online course content and static resources."
+    },
+    {
+      "surface_id": "mcmurry-textbook",
+      "title": "assigned_textbook",
+      "url": "https://www.cengage.com/",
+      "owner": "Cengage",
+      "license_status": "external-commercial",
+      "fetch_policy": "metadata_only",
+      "proof_status": "rights-boundary",
+      "notes": "Assigned McMurry Organic Chemistry textbook; not OCW-owned."
+    }
+  ]
+}

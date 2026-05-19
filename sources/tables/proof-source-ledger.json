@@ -466,6 +466,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW pages, course notes, and download package are mapped under CC BY-NC-SA 4.0; OLL module contents and interactive simulation binaries remain metadata-only or child-resource review boundaries."
+    },
+    {
+      "work_id": "fontes:mit:ocw:5-12-organic-chemistry-i-spring-2005",
+      "title": "5.12 Organic Chemistry I",
+      "domain": "chemistry-for-real-items",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\5-12-organic-chemistry-i\\work.json",
+      "custody_record": "sources\\mit\\ocw\\5-12-organic-chemistry-i\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\5-12-organic-chemistry-i\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-5-12-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course pages, assignments, exams, and download package are mapped; McMurry textbook readings remain metadata-only."
     }
   ]
 }
