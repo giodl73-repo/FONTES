@@ -1442,6 +1442,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Stanford EE376A, MacKay's textbook site, and the IEEE Shannon record are metadata-only pending reuse review; OCW lecture notes, problem sets, exams, open textbook assets, lecture videos, programming tasks, experiments, textbook PDFs, PostScript, EPUB, DJVU, text and figure downloads, paper bodies, paper PDFs, metadata exports, code, datasets, mirrors, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:signals-control-systems:filtering-feedback",
+      "title": "Signals, Systems, Feedback Control, Filtering, and Estimation Foundations",
+      "domain": "signals-control-systems-support",
+      "source_family": "signals-control-systems",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\signals-control-systems\\filtering-feedback\\work.json",
+      "custody_record": "sources\\open-source\\signals-control-systems\\filtering-feedback\\custody.md",
+      "inventory_record": "sources\\open-source\\signals-control-systems\\filtering-feedback\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-signals-control-systems-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Stanford EE102, SciPy signal, and python-control identities are metadata-only pending reuse review; OCW lecture notes, videos, open textbook assets, readings, labs, lab reports, problem sets, solutions, exams, assignments, projects, textbook bodies, generated docs, source code, examples, notebooks, tests, package artifacts, releases, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }

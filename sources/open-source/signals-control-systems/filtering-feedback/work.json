@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:signals-control-systems:filtering-feedback",
+  "title": "Signals, Systems, Feedback Control, Filtering, and Estimation Foundations",
+  "source_family": "signals-control-systems",
+  "source_type": "open-education-course-textbook-and-tool-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/",
+  "license_status": "mixed-open-education-course-textbook-and-tool-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["signals and systems", "linear time-invariant systems", "Fourier representations", "Laplace transforms", "Z transforms", "sampling", "convolution", "frequency response", "feedback control", "state space", "observers", "Wiener filtering", "matched filters", "hypothesis testing", "root locus", "loop shaping", "Kalman filtering", "control design"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-003:course",
+      "kind": "signals_systems_course",
+      "url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW signals and systems course identity for discrete-time and continuous-time signals, Fourier/Laplace/Z representations, sampling, LTI systems, differential/difference equations, block diagrams, poles and zeros, convolution, responses, feedback/control, communications, and signal processing."
+    },
+    {
+      "id": "fontes:mit:ocw:6-003:syllabus",
+      "kind": "signals_systems_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus identity for course structure, Oppenheim/Willsky textbook reference, collaboration policy, exams, homework, and topic scope; lecture notes, videos, open textbook assets, exams, solutions, problem sets, and downloads remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:6-011:course",
+      "kind": "communication_control_signal_processing_course",
+      "url": "https://ocw.mit.edu/courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for signals, systems, and inference across communication, control, and signal processing, including state-space models, random signals, transforms, group delay, state feedback, observers, stochastic processes, spectra, MMSE estimation, Wiener filtering, hypothesis testing, detection, and matched filters."
+    },
+    {
+      "id": "fontes:mit:ocw:2-14:course",
+      "kind": "feedback_control_course",
+      "url": "https://ocw.mit.edu/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW feedback control course identity for linear transfer-function models, time/frequency-domain analysis, root locus, loop shaping, nonlinear describing functions, state-variable and multivariable control with observers, discrete/digital hybrid systems, and z-plane design."
+    },
+    {
+      "id": "fontes:mit:ocw:2-14:syllabus",
+      "kind": "feedback_control_syllabus",
+      "url": "https://ocw.mit.edu/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus identity for feedback-control course meetings, textbooks, labs, assignments, quizzes, recitations, and design case study; readings, labs, problem sets, reports, quizzes, projects, and textbook bodies remain boundary-checked."
+    },
+    {
+      "id": "fontes:stanford:ee102",
+      "kind": "signal_processing_course_identity",
+      "url": "https://web.stanford.edu/class/ee102/",
+      "fetch_policy": "metadata_only",
+      "notes": "Stanford EE102 identity redirects to EE102A course site; use only as a signal-processing course identity pending course-site, lecture, assignment, and platform reuse review."
+    },
+    {
+      "id": "fontes:scipy:signal-docs",
+      "kind": "signal_processing_library_docs_identity",
+      "url": "https://docs.scipy.org/doc/scipy/reference/signal.html",
+      "fetch_policy": "metadata_only",
+      "notes": "SciPy signal documentation identity for convolution, correlation, FFT convolution, overlap-add convolution, 2D convolution/correlation, B-splines, and broader signal-processing APIs; generated docs, code, examples, datasets, images, and package artifacts remain boundary-checked."
+    },
+    {
+      "id": "fontes:python-control:docs",
+      "kind": "control_systems_library_docs_identity",
+      "url": "https://python-control.readthedocs.io/en/latest/",
+      "fetch_policy": "metadata_only",
+      "notes": "Python Control Systems Library documentation identity for analysis/design of feedback control systems, state-space/frequency-domain systems, nonlinear I/O systems, block diagrams, time/frequency response, stability, reachability, observability, root locus, LQR, H2/Hinf, MPC/RHC, model reduction, and estimator design; docs, source, examples, notebooks, tests, package artifacts, and releases remain boundary-checked."
+    }
+  ]
+}
