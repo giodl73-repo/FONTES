@@ -818,6 +818,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, assignments, projects, sample project PDFs, and download page are mapped; MATLAB support files, project ZIPs, video media bytes, assigned textbooks, book pages, and external resources remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:18-336-numerical-methods-pdes-spring-2009",
+      "title": "18.336 Numerical Methods for Partial Differential Equations",
+      "domain": "simulation-pde-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\18-336-numerical-methods-pdes\\work.json",
+      "custody_record": "sources\\mit\\ocw\\18-336-numerical-methods-pdes\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\18-336-numerical-methods-pdes\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-18-336-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, lecture notes, assignments navigation, project page, and download page are mapped; recommended textbooks, external lecture links, programming work, student project bodies, and code assets remain boundary-checked."
     }
   ]
 }
