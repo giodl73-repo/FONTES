@@ -626,6 +626,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, calendar, assignments, instructor insights, and download package are mapped; readings and student project examples remain metadata-only boundaries unless separately reviewed."
+    },
+    {
+      "work_id": "fontes:mit:ocw:cms-301-game-design-methods-spring-2016",
+      "title": "CMS.301 Introduction to Game Design Methods",
+      "domain": "game-design-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\cms-301-game-design-methods\\work.json",
+      "custody_record": "sources\\mit\\ocw\\cms-301-game-design-methods\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\cms-301-game-design-methods\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-cms-301-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, calendar, assignments, instructor insights, representative assignment/template resources, and download page are mapped; external study materials and example student work remain metadata-only boundaries."
     }
   ]
 }

@@ -1,0 +1,79 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:cms-301-game-design-methods-spring-2016",
+  "title": "CMS.301 Introduction to Game Design Methods",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/",
+  "license_status": "cc-by-nc-sa-4.0-with-study-material-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["game design methods", "rapid prototyping", "playtesting", "design iteration", "player-centered design", "critique", "peer feedback", "game design research"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:cms-301:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for introductory game design methods."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-301:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course overview, learning activities, grading, crit-session policy, and study-material boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-301:calendar",
+      "kind": "calendar",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/pages/calendar/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Twenty-six-session schedule covering contexts of play, mechanics, process, prototypes, playtesting, research, and final projects."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-301:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Eight assignment families, design document template, playtest prompt, final presentation/report guidelines, and example student work metadata."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-301:instructor-insights",
+      "kind": "instructor_insights",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/pages/instructor-insights/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW instructor insights on course design, peer feedback, assessment, student background, and time spent."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-301:assignment-1",
+      "kind": "design_assignment",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/resources/mitcms_301s16_assigment1/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative assignment PDF: People in My Life Through Games."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-301:design-document-template",
+      "kind": "template",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/resources/mitcms_301s16_highlevel/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "High Level Design Document Template PDF from Assignment 5."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-301:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download page describes the offline course package and static resources."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-301:external-study-materials",
+      "kind": "study_materials",
+      "url": "https://ocw.mit.edu/courses/cms-301-introduction-to-game-design-methods-spring-2016/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Syllabus says project-specific readings, games, and media may be needed and are students' responsibility; treat as third-party boundary."
+    }
+  ]
+}
