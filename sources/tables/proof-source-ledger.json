@@ -1490,6 +1490,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; OCW videos, lecture notes, textbook bodies, readings, problem sets, problem-set solutions, exams, quizzes, software logs, Stata/SAS files, spreadsheets, datasets, news links, images, diagrams, and third-party linked materials remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:climate-environment-energy:climate-sustainable-systems",
+      "title": "Climate Science, Environmental Chemistry, Sustainable Energy, and Carbon Systems Foundations",
+      "domain": "climate-environment-energy-support",
+      "source_family": "climate-environment-energy",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\climate-environment-energy\\climate-sustainable-systems\\work.json",
+      "custody_record": "sources\\open-source\\climate-environment-energy\\climate-sustainable-systems\\custody.md",
+      "inventory_record": "sources\\open-source\\climate-environment-energy\\climate-sustainable-systems\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-climate-environment-energy-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus/collection pages are mapped as derived text; problem sets, exams, projects, textbooks, PDFs, lecture videos, OLL interactive features, model files, datasets, student work, external program pages, news links, images, diagrams, and linked third-party materials remain boundary-checked."
     }
   ]
 }

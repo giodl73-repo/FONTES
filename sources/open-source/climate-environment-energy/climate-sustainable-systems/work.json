@@ -1,0 +1,58 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:climate-environment-energy:climate-sustainable-systems",
+  "title": "Climate Science, Environmental Chemistry, Sustainable Energy, and Carbon Systems Foundations",
+  "source_family": "climate-environment-energy",
+  "source_type": "open-education-course-and-collection-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/12-340-global-warming-science-spring-2012/",
+  "license_status": "mixed-open-education-course-collection-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["climate science", "global warming", "greenhouse gases", "radiative transfer", "climate models", "solar variability", "orbital mechanics", "ocean circulation", "atmospheric circulation", "aerosols", "sea level", "precipitation", "mitigation", "adaptation", "atmospheric chemistry", "air quality", "particulate matter", "sustainable energy", "energy systems", "carbon sequestration"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:12-340:syllabus",
+      "kind": "global_warming_science_syllabus",
+      "url": "https://ocw.mit.edu/courses/12-340-global-warming-science-spring-2012/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW global warming science syllabus identity for anthropogenic climate change, climate models, solar variability, orbital mechanics, greenhouse gases, atmospheric/oceanic circulation, aerosols, past and present climate evidence, sea-level change, precipitation, vegetation, storminess, disease incidence, mitigation, adaptation, and climate-model problem/project work."
+    },
+    {
+      "id": "fontes:mit:ocw:12-340x:course",
+      "kind": "global_warming_oll_course",
+      "url": "https://ocw.mit.edu/courses/12-340x-global-warming-science-spring-2020/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW/Open Learning Library course identity for climate-system science, past and future climate change, solar/infrared energy balance, greenhouse gases, convection, circulation, solar variability, orbital mechanics, aerosols, evidence for climate change, and model use; OLL progress/enrollment features and interactive model assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:1-84j:syllabus",
+      "kind": "atmospheric_chemistry_syllabus",
+      "url": "https://ocw.mit.edu/courses/1-84j-atmospheric-chemistry-fall-2013/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW atmospheric chemistry syllabus identity for chemical transformations controlling trace species, fast photochemistry, physical chemistry, radical cycles, ozone, pollutants, urban air chemistry, particulate matter, chemistry-climate coupling, measurement networks, field campaigns, atmospheric modeling, satellite measurements, and final-project modeling/reanalysis."
+    },
+    {
+      "id": "fontes:mit:ocw:22-081j:syllabus",
+      "kind": "sustainable_energy_syllabus",
+      "url": "https://ocw.mit.edu/courses/22-081j-introduction-to-sustainable-energy-fall-2010/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW sustainable energy syllabus identity for current and future energy systems, resources, extraction, conversion, end-use technologies, renewable and conventional production, consumption practices, and quantitative evaluation of energy technology proposals against engineering, political, social, economic, and environmental goals."
+    },
+    {
+      "id": "fontes:mit:ocw:12-000:syllabus",
+      "kind": "carbon_systems_complex_problem_syllabus",
+      "url": "https://ocw.mit.edu/courses/12-000-solving-complex-problems-fall-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW complex-problems syllabus identity for interdisciplinary carbon-dioxide stabilization, carbon capture, transport, sequestration in rock/ocean/forests/soils/mineral carbonates, economic viability, international acceptability, teamwork, case-study sessions, coordination sessions, and final integrated solutions."
+    },
+    {
+      "id": "fontes:mit:ocw:environment-collection",
+      "kind": "environment_sustainability_collection_identity",
+      "url": "https://ocw.mit.edu/collections/environment/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Environment and Sustainability collection identity for interdisciplinary environmental and sustainability courses across science, engineering, technology, humanities, economics, history, architecture, urban planning, management, policy, and related MIT programs; linked course bodies and external program pages remain boundary-checked."
+    }
+  ]
+}
