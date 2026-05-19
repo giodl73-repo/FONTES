@@ -1170,6 +1170,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW pages and listing pages are mapped as derived text; LLVM, Crafting Interpreters, and Stanford CS143 are metadata-only pending reuse review; PDFs, code bundles, skeletons, test inputs, solutions, videos, linked papers, generated docs, book bodies, examples, templates, and course-platform content remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:programming-languages:semantics-analysis",
+      "title": "Programming Language Semantics, Type Systems, and Program Analysis Foundations",
+      "domain": "programming-language-semantics-analysis-support",
+      "source_family": "programming-languages",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\programming-languages\\semantics-analysis\\work.json",
+      "custody_record": "sources\\open-source\\programming-languages\\semantics-analysis\\custody.md",
+      "inventory_record": "sources\\open-source\\programming-languages\\semantics-analysis\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-programming-language-semantics-analysis-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Software Foundations, PLFA, and Cousot abstract interpretation are metadata-only pending reuse review; PDFs, Scheme files, Coq/Rocq/Agda proof scripts, exercises, code, images, repositories, papers, talks, videos, downloads, textbook bodies, and linked external resources remain boundary-checked."
     }
   ]
 }

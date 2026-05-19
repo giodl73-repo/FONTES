@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:programming-languages:semantics-analysis",
+  "title": "Programming Language Semantics, Type Systems, and Program Analysis Foundations",
+  "source_family": "programming-languages",
+  "source_type": "open-education-and-open-textbook-documentation",
+  "canonical_url": "https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/",
+  "license_status": "mixed-open-education-and-open-textbook-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["programming languages", "operational semantics", "denotational semantics", "type systems", "type checking", "Hindley-Milner", "abstract interpretation", "Galois connections", "dataflow analysis", "fixed points", "axiomatic semantics", "model checking", "program verification", "Coq", "Agda"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-821:course",
+      "kind": "programming_languages_course",
+      "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for functional, imperative, and logic programming languages, including meta-circular interpreters, operational and denotational semantics, type systems, object-oriented programming, modules, and multiprocessing."
+    },
+    {
+      "id": "fontes:mit:ocw:6-821:assignments",
+      "kind": "programming_languages_assignment_index",
+      "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Assignment index for Scheme+ programming-language exercises and supporting files; PDFs, Scheme source files, exams, downloads, and code artifacts remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-820:course",
+      "kind": "program_analysis_course",
+      "url": "https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for program analysis, including type checking, abstract interpretation, model checking, underlying theories, modern techniques, and applications."
+    },
+    {
+      "id": "fontes:mit:ocw:6-820:syllabus",
+      "kind": "program_analysis_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus identifying units for operational semantics, type theory, types for imperative programs, axiomatic semantics, abstract interpretation, and model checking; textbook links and external resources remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:6-820:lecture-notes",
+      "kind": "program_analysis_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for lambda calculus, big-step/small-step semantics, Coq operational-semantics examples, simple types, Hindley-Milner inference, algebraic data types, subtyping, monads, imperative typing, axiomatic semantics, verification conditions, separation logic, dataflow analysis, lattices, fixed points, abstract interpretation, Galois connections, model checking, temporal logic, and abstraction refinement."
+    },
+    {
+      "id": "fontes:software-foundations:home",
+      "kind": "machine_checked_proof_textbook_identity",
+      "url": "https://softwarefoundations.cis.upenn.edu/",
+      "fetch_policy": "metadata_only",
+      "notes": "Software Foundations source identity for machine-checked reliable-software foundations, including programming-language foundations, operational semantics, Hoare logic, static type systems, verified functional algorithms, Verifiable C, separation logic, and security foundations; textbook bodies, proof scripts, exercises, images, and code remain license-reviewed before extraction."
+    },
+    {
+      "id": "fontes:plfa:home",
+      "kind": "programming_language_foundations_textbook_identity",
+      "url": "https://plfa.github.io/",
+      "fetch_policy": "metadata_only",
+      "notes": "Programming Language Foundations in Agda source identity for logical foundations, lambda calculus, progress and preservation, type inference, big-step semantics, denotational semantics, soundness, adequacy, and contextual equivalence; book bodies, Agda code, exercises, and repository assets remain license-reviewed before extraction."
+    },
+    {
+      "id": "fontes:cousot:abstract-interpretation",
+      "kind": "abstract_interpretation_reference_identity",
+      "url": "https://www.di.ens.fr/~cousot/AI/",
+      "fetch_policy": "metadata_only",
+      "notes": "Abstract interpretation reference identity covering syntax, semantics, proofs, static analysis, data-flow analysis, control-flow analysis, types, model checking, predicate abstraction, refinement, and program transformation; page body, papers, talks, PDFs, and linked assets remain boundary-checked."
+    }
+  ]
+}
