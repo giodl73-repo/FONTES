@@ -834,6 +834,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, lecture notes, assignments navigation, project page, and download page are mapped; recommended textbooks, external lecture links, programming work, student project bodies, and code assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:2-086-numerical-computation-mechanical-engineers-fall-2012",
+      "title": "2.086 Numerical Computation for Mechanical Engineers",
+      "domain": "simulation-numerics-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\2-086-numerical-computation-mechanical-engineers\\work.json",
+      "custody_record": "sources\\mit\\ocw\\2-086-numerical-computation-mechanical-engineers\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\2-086-numerical-computation-mechanical-engineers\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-2-086-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, calendar, readings page, assignment navigation, OCW-hosted unit PDFs, and download page are mapped; exam shell pages, demonstration-video bytes, MATLAB scripts/functions, student submissions, and external textbook/resource uses remain boundary-checked."
     }
   ]
 }
