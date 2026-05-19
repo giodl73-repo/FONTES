@@ -1122,6 +1122,22 @@
       "pebble_status": "source-identity",
       "crop_status": "source-identity",
       "rights_boundary": "Evidence and Observable docs are metadata-only pending documentation-site reuse review; repository identities are mapped for source identity only; examples, screenshots, generated docs, templates, packages, chart assets, loaders, datasets, and releases remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:graph-order-theory:crop-graph-lattice",
+      "title": "CROP Graph Cut and Lattice Theory Foundations",
+      "domain": "crop-graph-lattice-theory-support",
+      "source_family": "graph-order-theory",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\graph-order-theory\\crop-graph-lattice\\work.json",
+      "custody_record": "sources\\open-source\\graph-order-theory\\crop-graph-lattice\\custody.md",
+      "inventory_record": "sources\\open-source\\graph-order-theory\\crop-graph-lattice\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-crop-graph-lattice-theory-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW pages are mapped as derived text; OCW PDFs, generated textbook assets, interactive exercises, diagrams, media, source files, nLab/MathWorld/Wikipedia bodies, and third-party material remain boundary-checked."
     }
   ]
 }

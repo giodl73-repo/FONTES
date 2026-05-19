@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:graph-order-theory:crop-graph-lattice",
+  "title": "CROP Graph Cut and Lattice Theory Foundations",
+  "source_family": "graph-order-theory",
+  "source_type": "open-education-and-reference-documentation",
+  "canonical_url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/",
+  "license_status": "mixed-open-education-and-reference-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["graph theory", "directed graphs", "relations", "partial orders", "lattice theory", "meet", "join", "closure", "connected components", "paths", "set cover", "CROP", "graph cuts"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-042j:mcs-course",
+      "kind": "discrete_math_course",
+      "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for Mathematics for Computer Science, covering definitions, proofs, sets, functions, relations, graphs, state machines, modular arithmetic, counting, and discrete probability."
+    },
+    {
+      "id": "fontes:mit:ocw:6-042j:mcs-readings",
+      "kind": "graph_relation_readings",
+      "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW readings surface for chapter-level materials, including structures units covering relations, graphs, paths, trees, and related discrete structures; PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:openmathbooks:dmoi4",
+      "kind": "open_discrete_math_textbook",
+      "url": "https://discrete.openmathbooks.org/dmoi4.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Discrete Mathematics: An Open Introduction source identity for graph theory, proof, relations, counting, and discrete structures; online book, PDF, Runestone, and source bodies remain boundary-checked."
+    },
+    {
+      "id": "fontes:openmathbooks:discrete-book-github",
+      "kind": "open_textbook_source_identity",
+      "url": "https://github.com/oscarlevin/discrete-book",
+      "fetch_policy": "metadata_only",
+      "notes": "Discrete Mathematics: An Open Introduction source repository identity for PreTeXt textbook source; source files and generated book assets remain license/provenance-reviewed before caching."
+    },
+    {
+      "id": "fontes:nlab:lattice",
+      "kind": "lattice_order_theory_reference",
+      "url": "https://ncatlab.org/nlab/show/lattice",
+      "fetch_policy": "metadata_only",
+      "notes": "nLab lattice reference identity for order-theory context, partially ordered sets, semilattices, meet, join, complete lattices, distributive lattices, and related logic/order links."
+    },
+    {
+      "id": "fontes:mathworld:lattice",
+      "kind": "lattice_algebra_reference",
+      "url": "https://mathworld.wolfram.com/Lattice.html",
+      "fetch_policy": "metadata_only",
+      "notes": "MathWorld lattice reference identity for algebraic lattice operations, meet/join-style operations, partial-order equivalence, absorption law, and lattice theory terminology."
+    },
+    {
+      "id": "fontes:wikipedia:lattice-order-boundary",
+      "kind": "lattice_order_boundary",
+      "url": "https://en.wikipedia.org/wiki/Lattice_(order)",
+      "fetch_policy": "metadata_only",
+      "notes": "General lattice-order reference identity for partial orders, joins, meets, and related binary-relation context; body text and media remain metadata-only unless a separate license extraction policy is adopted."
+    }
+  ]
+}
