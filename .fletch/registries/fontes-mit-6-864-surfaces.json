@@ -196,6 +196,906 @@
         "assignments-table",
         "normalized-table"
       ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.assignment.hw1",
+      "node_kind": "fletch",
+      "label": "Homework 1",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw1/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-assignments.json",
+        "row_id": "hw1",
+        "rights_boundary": "OCW homework PDF; no supporting file listed."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.assignment.hw2",
+      "node_kind": "fletch",
+      "label": "Homework 2",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw2/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-assignments.json",
+        "row_id": "hw2",
+        "rights_boundary": "counts.gz and theirthere.test require dataset review before bundling."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.assignment.hw3",
+      "node_kind": "fletch",
+      "label": "Homework 3",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw3/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-assignments.json",
+        "row_id": "hw3",
+        "rights_boundary": "data.gz, synrev, sim.in/out, and cluster development files require dataset review."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.assignment.hw4",
+      "node_kind": "fletch",
+      "label": "Homework 4",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw4/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-assignments.json",
+        "row_id": "hw4",
+        "rights_boundary": "poscounts.gz, WSJ test data, ft.tar.tar scripts, and development files require corpus/tool review."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.assignment.hw5",
+      "node_kind": "fletch",
+      "label": "Homework 5",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw5/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-assignments.json",
+        "row_id": "hw5",
+        "rights_boundary": "External BoosTexter/Penn Treebank tagset links and coreference datasets require review."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.assignment.hw6",
+      "node_kind": "fletch",
+      "label": "Homework 6",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/hw6/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-assignments.json",
+        "row_id": "hw6",
+        "rights_boundary": "German/English corpora and translation-probability files require dataset review before bundling."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-1",
+      "node_kind": "fletch",
+      "label": "Lecture 1: Introduction and Overview",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec01/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-1",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-2",
+      "node_kind": "fletch",
+      "label": "Lecture 2: Parsing and Syntax I",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec2/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-2",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-3",
+      "node_kind": "fletch",
+      "label": "Lecture 3: Smoothed Estimation, and Language Modeling",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec3/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-3",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-4",
+      "node_kind": "fletch",
+      "label": "Lecture 4: Parsing and Syntax II",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec4/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-4",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-5",
+      "node_kind": "fletch",
+      "label": "Lecture 5: The EM Algorithm",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec5/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-5",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-6",
+      "node_kind": "fletch",
+      "label": "Lecture 6: The EM Algorithm Part II",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec6/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-6",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-7",
+      "node_kind": "fletch",
+      "label": "Lecture 7: Lexical Similarity",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec07/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-7",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-8",
+      "node_kind": "fletch",
+      "label": "Lecture 8: Lexical Similarity (cont.)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec08/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-8",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-9",
+      "node_kind": "fletch",
+      "label": "Lecture 9: Log-Linear Models",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec09/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-9",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-10",
+      "node_kind": "fletch",
+      "label": "Lecture 10: Tagging and History-based Models",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec10/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-10",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-11",
+      "node_kind": "fletch",
+      "label": "Lecture 11: Grammar Induction",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec11/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-11",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-12",
+      "node_kind": "fletch",
+      "label": "Lecture 12: Computational Modeling of Discourse",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec12/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-12",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-13",
+      "node_kind": "fletch",
+      "label": "Lecture 13: Text Segmentation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec13/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-13",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-14",
+      "node_kind": "fletch",
+      "label": "Lecture 14: Local Coherence and Coreference",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec14/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-14",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-15",
+      "node_kind": "fletch",
+      "label": "Lecture 15: Machine Translation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec15/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-15",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-16",
+      "node_kind": "fletch",
+      "label": "Lecture 16: Machine Translation (cont.)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec16/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-16",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-17",
+      "node_kind": "fletch",
+      "label": "Lecture 17: Machine Translation (cont.)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec17/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-17",
+        "row_kind": "lecture",
+        "rights_boundary": "PDF 2 is courtesy of Philipp Koehn and Ivona Kucerova, used with permission."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-18",
+      "node_kind": "fletch",
+      "label": "Lecture 18: Graph-based Methods for NLP Applications",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec18/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-18",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-19",
+      "node_kind": "fletch",
+      "label": "Lecture 19: Word Sense Disambiguation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec19/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-19",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-20",
+      "node_kind": "fletch",
+      "label": "Lecture 20: Global Linear Models",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec20/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-20",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-21",
+      "node_kind": "fletch",
+      "label": "Lecture 21: Global Linear Models Part II",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec21/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-21",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-22",
+      "node_kind": "fletch",
+      "label": "Lecture 22: Dialogue Processing",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec22/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-22",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-23",
+      "node_kind": "fletch",
+      "label": "Lecture 23: Dialogue Processing (cont.)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec23/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-23",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-24",
+      "node_kind": "fletch",
+      "label": "Lecture 24: Guest Lecture: Stephanie Seneff",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/lecture-notes/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-24",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-864.lecture-note.lecture-25",
+      "node_kind": "fletch",
+      "label": "Lecture 25: Text Summarization",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/resources/lec25/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-864-advanced-natural-language-processing-fall-2005",
+        "table_record": "sources\\tables\\mit-6-864-lecture-notes.json",
+        "row_id": "lecture-25",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-864",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }

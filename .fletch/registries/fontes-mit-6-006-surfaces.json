@@ -196,6 +196,265 @@
         "assignments-table",
         "normalized-table"
       ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.assignment.ps1",
+      "node_kind": "fletch",
+      "label": "Problem Set 1",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps1_sol/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps1/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/ps1/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "cs-software",
+        "work_id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+        "table_record": "sources\\tables\\mit-6-006-assignments.json",
+        "row_id": "ps1",
+        "rights_boundary": "OCW problem and solution PDFs; code ZIP should be cached only after child-resource check."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-006",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.assignment.ps2",
+      "node_kind": "fletch",
+      "label": "Problem Set 2",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps2_sol/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps2/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/ps2/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "cs-software",
+        "work_id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+        "table_record": "sources\\tables\\mit-6-006-assignments.json",
+        "row_id": "ps2",
+        "rights_boundary": "OCW problem and solution PDFs; code ZIP should be cached only after child-resource check."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-006",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.assignment.ps3",
+      "node_kind": "fletch",
+      "label": "Problem Set 3",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps3_sol/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps3/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/ps3/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "cs-software",
+        "work_id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+        "table_record": "sources\\tables\\mit-6-006-assignments.json",
+        "row_id": "ps3",
+        "rights_boundary": "OCW problem and solution PDFs; code ZIP should be cached only after child-resource check."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-006",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.assignment.ps4",
+      "node_kind": "fletch",
+      "label": "Problem Set 4",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps4_sol/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps4/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/ps4tar_gz/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "cs-software",
+        "work_id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+        "table_record": "sources\\tables\\mit-6-006-assignments.json",
+        "row_id": "ps4",
+        "rights_boundary": "kfasta.py courtesy of Kevin Kelley, used with permission; child-resource review required."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-006",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.assignment.ps5",
+      "node_kind": "fletch",
+      "label": "Problem Set 5",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps5_sol/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps5/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/ps5/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "cs-software",
+        "work_id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+        "table_record": "sources\\tables\\mit-6-006-assignments.json",
+        "row_id": "ps5",
+        "rights_boundary": "OCW PDFs and grading explanation; code ZIP should be cached only after child-resource check."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-006",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.assignment.ps6",
+      "node_kind": "fletch",
+      "label": "Problem Set 6",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps6_sol/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps6/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/ps6/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "cs-software",
+        "work_id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+        "table_record": "sources\\tables\\mit-6-006-assignments.json",
+        "row_id": "ps6",
+        "rights_boundary": "nhpn.py and Pocket Cube Solver courtesy attributions require child-resource review."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-006",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-006.assignment.ps7",
+      "node_kind": "fletch",
+      "label": "Problem Set 7",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps7_sol/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_ps7/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/ps7_code/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "cs-software",
+        "work_id": "fontes:mit:ocw:6-006-introduction-to-algorithms-fall-2011",
+        "table_record": "sources\\tables\\mit-6-006-assignments.json",
+        "row_id": "ps7",
+        "rights_boundary": "External ACM paper and sunset image excluded from CC license; do not bundle code ZIP until excluded content is isolated."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-006",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }

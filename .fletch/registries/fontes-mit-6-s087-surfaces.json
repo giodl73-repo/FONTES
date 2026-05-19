@@ -171,6 +171,34 @@
         "surfaces-table",
         "normalized-table"
       ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s087.surface.lecture-list-2023",
+      "node_kind": "fletch",
+      "label": "2023 lecture list: introduction, algorithms, ChatGPT, data and Stable Diffusion",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.futureofai.mit.edu/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s087-foundation-models-and-generative-ai-january-iap-2024",
+        "table_record": "sources\\tables\\mit-6-s087-surfaces.json",
+        "row_id": "lecture-list-2023"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s087",
+        "surface",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }

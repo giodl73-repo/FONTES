@@ -220,6 +220,867 @@
         "assignments-table",
         "normalized-table"
       ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.assignment.ps1",
+      "node_kind": "fletch",
+      "label": "Problem set 1",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw1/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw1a_soln/; https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw1b_soln/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-assignments.json",
+        "row_id": "ps1",
+        "rights_boundary": "OCW PDFs plus supporting M/TXT/ZIP/data resources; ZIPs and data files require child-resource review."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.assignment.ps2",
+      "node_kind": "fletch",
+      "label": "Problem set 2",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw2_soln/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw2/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-assignments.json",
+        "row_id": "ps2",
+        "rights_boundary": "OCW problem, solution, and errata resources are listed; no bundled code package listed for this row."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.assignment.ps3",
+      "node_kind": "fletch",
+      "label": "Problem set 3",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw3_soln/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw3/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-assignments.json",
+        "row_id": "ps3",
+        "rights_boundary": "OCW problem, solution, and errata resources are listed; no bundled code package listed for this row."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.assignment.ps4",
+      "node_kind": "fletch",
+      "label": "Problem set 4",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw4_soln/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw4/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-assignments.json",
+        "row_id": "ps4",
+        "rights_boundary": "OCW problem, solution, and errata resources are listed; no bundled code package listed for this row."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.assignment.ps5",
+      "node_kind": "fletch",
+      "label": "Problem set 5",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw5_soln/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/hw5/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-assignments.json",
+        "row_id": "ps5",
+        "rights_boundary": "OCW PDFs plus Prob1 and Prob2 data ZIPs; bundled MATLAB/data files require child-resource review."
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "assignment",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-1",
+      "node_kind": "fletch",
+      "label": "Lecture 1: Introduction, linear classification, perceptron update rule",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec1/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-1",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-2",
+      "node_kind": "fletch",
+      "label": "Lecture 2: Perceptron convergence, generalization",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec2/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-2",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-3",
+      "node_kind": "fletch",
+      "label": "Lecture 3: Maximum margin classification",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec3/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-3",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-4",
+      "node_kind": "fletch",
+      "label": "Lecture 4: Classification errors, regularization, logistic regression",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec4/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-4",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-5",
+      "node_kind": "fletch",
+      "label": "Lecture 5: Linear regression, estimator bias and variance, active learning",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec5/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-5",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-6",
+      "node_kind": "fletch",
+      "label": "Lecture 6: Active learning (cont.), non-linear predictions, kernals",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec6/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-6",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-7",
+      "node_kind": "fletch",
+      "label": "Lecture 7: Kernal regression, kernels",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec7/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-7",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-8",
+      "node_kind": "fletch",
+      "label": "Lecture 8: Support vector machine (SVM) and kernels, kernel optimization",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec8/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-8",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-9",
+      "node_kind": "fletch",
+      "label": "Lecture 9: Model selection",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec9/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-9",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-10",
+      "node_kind": "fletch",
+      "label": "Lecture 10: Model selection criteria",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec10/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-10",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-11",
+      "node_kind": "fletch",
+      "label": "Lecture 11: Description length, feature selection",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec11/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-11",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-12",
+      "node_kind": "fletch",
+      "label": "Lecture 12: Combining classifiers, boosting",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec12/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-12",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-13",
+      "node_kind": "fletch",
+      "label": "Lecture 13: Boosting, margin, and complexity",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec13/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-13",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-14",
+      "node_kind": "fletch",
+      "label": "Lecture 14: Margin and generalization, mixture models",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec14/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-14",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-15",
+      "node_kind": "fletch",
+      "label": "Lecture 15: Mixtures and the expectation maximization (EM) algorithm",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec15/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-15",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-16",
+      "node_kind": "fletch",
+      "label": "Lecture 16: EM, regularization, clustering",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec16/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-16",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-17",
+      "node_kind": "fletch",
+      "label": "Lecture 17: Clustering",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec17/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-17",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-18",
+      "node_kind": "fletch",
+      "label": "Lecture 18: Spectral clustering, Markov models",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec18/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-18",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-19",
+      "node_kind": "fletch",
+      "label": "Lecture 19: Hidden Markov models (HMMs)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec19/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-19",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-20",
+      "node_kind": "fletch",
+      "label": "Lecture 20: HMMs (cont.)",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec20/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-20",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-21",
+      "node_kind": "fletch",
+      "label": "Lecture 21: Bayesian networks",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec21/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-21",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-22",
+      "node_kind": "fletch",
+      "label": "Lecture 22: Learning Bayesian networks",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec22/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-22",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-23",
+      "node_kind": "fletch",
+      "label": "Lecture 23: Probabilistic inference; guest lecture on collaborative filtering",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/resources/lec23/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-23",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-867.lecture-note.lecture-24",
+      "node_kind": "fletch",
+      "label": "Lecture 24: Current problems in machine learning, wrap up",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-867-machine-learning-fall-2006",
+        "table_record": "sources\\tables\\mit-6-867-lecture-notes.json",
+        "row_id": "lecture-24",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-867",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }

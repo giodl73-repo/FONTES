@@ -146,6 +146,823 @@
         "lecture-notes-table",
         "normalized-table"
       ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-1",
+      "node_kind": "fletch",
+      "label": "Lecture 1: Introduction: What Makes Healthcare Unique?",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec1/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec1note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-1",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-2",
+      "node_kind": "fletch",
+      "label": "Lecture 2: Overview of Clinical Care",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec2/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec2note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-2",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-3",
+      "node_kind": "fletch",
+      "label": "Lecture 3: Deep Dive into Clinical Data",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec3/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec3note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-3",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-4",
+      "node_kind": "fletch",
+      "label": "Lecture 4: Risk Stratification, Part 1",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec4/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec4note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-4",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-5",
+      "node_kind": "fletch",
+      "label": "Lecture 5: Risk Stratification, Part 2",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec5/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec5note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-5",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-6",
+      "node_kind": "fletch",
+      "label": "Lecture 6: Physiological Time-Series",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec6/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec6note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-6",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-7",
+      "node_kind": "fletch",
+      "label": "Lecture 7: Natural Language Processing, Part 1",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec7/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec7note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-7",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-8",
+      "node_kind": "fletch",
+      "label": "Lecture 8: Natural Language Processing, Part 2",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec8/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec8note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-8",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-9",
+      "node_kind": "fletch",
+      "label": "Lecture 9: Translating Technology into the Clinic",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec9/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec9note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-9",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-10",
+      "node_kind": "fletch",
+      "label": "Lecture 10: Machine Learning for Cardiology",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec10/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec10note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-10",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-11",
+      "node_kind": "fletch",
+      "label": "Lecture 11: Machine Learning for Differential Diagnosis",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec11/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec11note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-11",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-12",
+      "node_kind": "fletch",
+      "label": "Lecture 12: Machine Learning for Pathology",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec12/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec12note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-12",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-13",
+      "node_kind": "fletch",
+      "label": "Lecture 13: Machine Learning for Mammography",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec13/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec13note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-13",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-14",
+      "node_kind": "fletch",
+      "label": "Lecture 14: Causal Inference, Part 1",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec14/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec14note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-14",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-15",
+      "node_kind": "fletch",
+      "label": "Lecture 15: Causal Inference, Part 2",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec15/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec15note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-15",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-16",
+      "node_kind": "fletch",
+      "label": "Lecture 16: Reinforcement Learning",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec16/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec16note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-16",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-17",
+      "node_kind": "fletch",
+      "label": "Lecture 17: Evaluating Dynamic Treatment Strategies",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec17/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec17note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-17",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-18",
+      "node_kind": "fletch",
+      "label": "Lecture 18: Disease Progression and Subtyping, Part 1",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec18/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec18note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-18",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-19",
+      "node_kind": "fletch",
+      "label": "Lecture 19: Disease Progression and Subtyping, Part 2",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec19/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec19note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-19",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-20",
+      "node_kind": "fletch",
+      "label": "Lecture 20: Precision Medicine",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec20/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec20note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-20",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-21",
+      "node_kind": "fletch",
+      "label": "Lecture 21: Automating Clinical Workflows",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec21/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec21note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-21",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-22",
+      "node_kind": "fletch",
+      "label": "Lecture 22: Regulation of ML/AI in the US; Human Subjects Research",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec22-1/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec22note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-22",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-23",
+      "node_kind": "fletch",
+      "label": "Lecture 23: Fairness",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec23/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-23",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-24",
+      "node_kind": "fletch",
+      "label": "Lecture 24: Robustness to Dataset Shift",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec24/"
+        },
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec24note/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-24",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s897.lecture-note.lecture-25",
+      "node_kind": "fletch",
+      "label": "Lecture 25: Interpretability",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/mit6_s897s19_lec25/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s897-machine-learning-for-healthcare-spring-2019",
+        "table_record": "sources\\tables\\mit-6-s897-lecture-notes.json",
+        "row_id": "lecture-25",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s897",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }

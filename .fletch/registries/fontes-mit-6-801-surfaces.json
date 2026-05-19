@@ -192,6 +192,673 @@
         "lecture-notes-table",
         "normalized-table"
       ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-1",
+      "node_kind": "fletch",
+      "label": "Lecture 1: No lecture notes",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/lecture-notes/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "metadata_only",
+        "license": "metadata-only",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-1",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-2",
+      "node_kind": "fletch",
+      "label": "Lecture 2: Image Formation, Perspective Projection, Time Derivative, Motion Field",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec2/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-2",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-3",
+      "node_kind": "fletch",
+      "label": "Lecture 3: Time to Contact, Focus of Expansion, Direct Motion Vision Methods, Noise Gain",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec3/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-3",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-4",
+      "node_kind": "fletch",
+      "label": "Lecture 4: Fixed Optical Flow, Optical Mouse, Constant Brightness Assumption, Closed Form Solution",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec4/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-4",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-5",
+      "node_kind": "fletch",
+      "label": "Lecture 5: TTC and FOR MontiVision Demos, Vanishing Point, Use of VPs in Camera Calibration",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec5/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-5",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-6",
+      "node_kind": "fletch",
+      "label": "Lecture 6: Photometric Stereo, Noise Gain, Error Amplification, Eigenvalues and Eigenvectors Review",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec6/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-6",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-7",
+      "node_kind": "fletch",
+      "label": "Lecture 7: Gradient Space, Reflectance Map, Image Irradiance Equation, Gnomonic Projection",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec7/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-7",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-8",
+      "node_kind": "fletch",
+      "label": "Lecture 8: Shape from Shading, Special Cases, Lunar Surface, Scanning Electron Microscope, Green's Theorem in Photometric Stereo",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec8/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-8",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-9",
+      "node_kind": "fletch",
+      "label": "Lecture 9: Shape from Shading, General Case - From First Order Nonlinear PDE to Five ODEs",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec9/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-9",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-10",
+      "node_kind": "fletch",
+      "label": "Lecture 10: Characteristic Strip Expansion, Shape from Shading, Iterative Solutions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec10/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-10",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-11",
+      "node_kind": "fletch",
+      "label": "Lecture 11: Edge Detection, Subpixel Position, CORDIC, Line Detection",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec11/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-11",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-12",
+      "node_kind": "fletch",
+      "label": "Lecture 12: Blob Analysis, Binary Image Processing, Use of Green's Theorem, Derivative and Integral as Convolutions",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec12/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-12",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-13",
+      "node_kind": "fletch",
+      "label": "Lecture 13: Object Detection, Recognition and Pose Determination, PatQuick",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec13/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-13",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-14",
+      "node_kind": "fletch",
+      "label": "Lecture 14: Inspection in PatQuick, Hough Transform, Homography, Position Determination, Multi-Scale",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec14/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-14",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-15",
+      "node_kind": "fletch",
+      "label": "Lecture 15: Alignment, Recognition in PatMax, Distance Field, Filtering and Sub-Sampling",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec15/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-15",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-16",
+      "node_kind": "fletch",
+      "label": "Lecture 16: Fast Convolution, Low Pass Filter Approximations, Integral Images",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec16/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-16",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-17",
+      "node_kind": "fletch",
+      "label": "Lecture 17: Photogrammetry, Orientation, Axes of Inertia, Symmetry, Absolute, Relative, Interior, and Exterior Orientation",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec17/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-17",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-18",
+      "node_kind": "fletch",
+      "label": "Lecture 18: Rotation and How to Represent It, Unit Quaternions, the Space of Rotations",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec18/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-18",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-19",
+      "node_kind": "fletch",
+      "label": "Lecture 19: Absolute Orientation in Closed Form, Outliers and Robustness, RANSAC",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec19/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-19",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-20",
+      "node_kind": "fletch",
+      "label": "Lecture 20: Space of Rotations, Regular Tessellations, Critical Surfaces in Motion Vision and Binocular Stereo",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec20/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-20",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-21",
+      "node_kind": "fletch",
+      "label": "Lecture 21: Relative Orientation, Binocular Stereo, Structure from Motion, Quadrics, Camera Calibration, Reprojection",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec21/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-21",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-22",
+      "node_kind": "fletch",
+      "label": "Lecture 22: Exterior Orientation, Recovering Position and Orientation, Bundle Adjustment, Object Shape",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec22/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-22",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-note.lecture-23",
+      "node_kind": "fletch",
+      "label": "Lecture 23: Gaussian Image and Extended Gaussian Image, Solids of Revolution, Direction Histograms, Regular Polyhedra",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/resources/mit6_801f20_lec23/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_id": "lecture-23",
+        "row_kind": "lecture"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-note",
+        "resource-row",
+        "stable-url"
+      ]
     }
   ]
 }
