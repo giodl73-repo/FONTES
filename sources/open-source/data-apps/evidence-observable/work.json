@@ -1,0 +1,26 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:data-apps:evidence-observable",
+  "title": "Evidence and Observable Framework Data App Documentation",
+  "source_family": "evidence-and-observable-framework",
+  "source_type": "open-source-and-vendor-documentation",
+  "canonical_url": "https://docs.evidence.dev/",
+  "license_status": "mixed-docs-source-identity-and-open-source-repository-boundaries",
+  "license_url": "https://github.com/evidence-dev/evidence",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["Evidence", "Observable Framework", "data apps", "reports", "dashboards", "Markdown", "SQL", "data loaders", "static site generator", "components", "charts", "data snapshots"],
+  "sources": [
+    {"id": "fontes:evidence:docs:overview", "kind": "evidence_overview", "url": "https://docs.evidence.dev/", "fetch_policy": "metadata_only", "notes": "Evidence docs overview for open-source SQL/Markdown data products, reports, decision-support tools, embedded dashboards, data sources, SQL in Markdown, charts/components, templated pages, loops, and if/else."},
+    {"id": "fontes:evidence:docs:data-sources", "kind": "evidence_data_sources", "url": "https://docs.evidence.dev/core-concepts/data-sources/", "fetch_policy": "metadata_only", "notes": "Evidence data-source docs for extracting sources into Parquet, querying multiple sources with SQL, npm run sources, supported warehouses/files/APIs, source queries, credentials, and environment variables."},
+    {"id": "fontes:evidence:docs:queries", "kind": "evidence_queries", "url": "https://docs.evidence.dev/core-concepts/queries/", "fetch_policy": "metadata_only", "notes": "Evidence query docs for SQL code fences in Markdown, DuckDB dialect, named queries, component data binding, query chaining, compiled SQL, ordering, circular-reference detection, and SQL file queries."},
+    {"id": "fontes:evidence:docs:components", "kind": "evidence_components", "url": "https://docs.evidence.dev/core-concepts/components/", "fetch_policy": "metadata_only", "notes": "Evidence component docs for built-in chart/visual components, props, query result binding, Value component, chart defaults, x/y mappings, and multiple series."},
+    {"id": "fontes:evidence:github", "kind": "evidence_source_identity", "url": "https://github.com/evidence-dev/evidence", "fetch_policy": "derived_text_allowed", "notes": "Evidence repository identity for open-source code-based BI alternative, Markdown-generated websites, SQL statements, charts/components, templated pages, loops, if/else, deployment, and MIT license pointer."},
+    {"id": "fontes:observable-framework:docs:overview", "kind": "observable_framework_overview", "url": "https://observablehq.com/framework/", "fetch_policy": "metadata_only", "notes": "Observable Framework overview for open-source static site generator for data apps, dashboards, reports, Markdown pages, reactive JavaScript, data loaders, static snapshots, preview server, CLI, and hosting."},
+    {"id": "fontes:observable-framework:docs:getting-started", "kind": "observable_framework_getting_started", "url": "https://observablehq.com/framework/getting-started", "fetch_policy": "metadata_only", "notes": "Observable Framework getting-started docs for create/develop/publish lifecycle, local development server, static site generation, CLI, Node/npm setup, and continuous deployment."},
+    {"id": "fontes:observable-framework:docs:markdown", "kind": "observable_framework_markdown", "url": "https://observablehq.com/framework/markdown", "fetch_policy": "metadata_only", "notes": "Observable Framework Markdown docs for CommonMark extensions, reactive JavaScript, HTML, YAML front matter, grids, cards, notes, page metadata, and SQL frontmatter."},
+    {"id": "fontes:observable-framework:docs:loaders", "kind": "observable_framework_loaders", "url": "https://observablehq.com/framework/loaders", "fetch_policy": "metadata_only", "notes": "Observable Framework data-loader docs for build-time static snapshots, polyglot loaders, database/API/file transforms, performance, security, continuous deployment, and DuckDB invocation boundary."},
+    {"id": "fontes:observable-framework:github", "kind": "observable_framework_source_identity", "url": "https://github.com/observablehq/framework", "fetch_policy": "derived_text_allowed", "notes": "Observable Framework repository identity for free open-source static site generator, JavaScript front-end, any-language back-end loaders, static data snapshots, examples, releases, and source license boundary."}
+  ]
+}

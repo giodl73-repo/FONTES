@@ -1106,6 +1106,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "DuckDB docs are metadata-only pending terms review; DataFusion docs are mapped under Apache 2.0 posture; source files, binaries, packages, extensions, examples, logos, generated API docs, benchmarks, and releases remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:data-apps:evidence-observable",
+      "title": "Evidence and Observable Framework Data App Documentation",
+      "domain": "data-app-report-generation-support",
+      "source_family": "evidence-and-observable-framework",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\data-apps\\evidence-observable\\work.json",
+      "custody_record": "sources\\open-source\\data-apps\\evidence-observable\\custody.md",
+      "inventory_record": "sources\\open-source\\data-apps\\evidence-observable\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-evidence-observable-data-app-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "source-identity",
+      "crop_status": "source-identity",
+      "rights_boundary": "Evidence and Observable docs are metadata-only pending documentation-site reuse review; repository identities are mapped for source identity only; examples, screenshots, generated docs, templates, packages, chart assets, loaders, datasets, and releases remain boundary-checked."
     }
   ]
 }
