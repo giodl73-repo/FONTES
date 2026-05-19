@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:16-920j-numerical-methods-pdes-sma-5212-spring-2003",
+  "title": "16.920J Numerical Methods for Partial Differential Equations (SMA 5212)",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/",
+  "license_status": "cc-by-nc-sa-4.0-with-video-reference-text-and-sma-external-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["numerical PDEs", "finite differences", "finite volumes", "finite elements", "boundary elements", "integral equations", "iterative methods", "multigrid", "conservation laws", "simulation support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:16-920j:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for modern numerical methods for elliptic, parabolic, hyperbolic, and integral equations."
+    },
+    {
+      "id": "fontes:mit:ocw:16-920j:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course meeting times, SMA delivery context, prerequisites, instructors, lecture-video note, reference-text boundary, and assessment weights."
+    },
+    {
+      "id": "fontes:mit:ocw:16-920j:lecture-notes",
+      "kind": "lecture_notes",
+      "url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW-hosted lecture slides and notes covering finite differences, finite elements, hyperbolic conservation laws, iterative/multigrid methods, and boundary integral equations."
+    },
+    {
+      "id": "fontes:mit:ocw:16-920j:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW-hosted problem sets for finite differences/iterative methods, hyperbolic equations, variational methods, and integral equation methods."
+    },
+    {
+      "id": "fontes:mit:ocw:16-920j:video-boundary",
+      "kind": "archived_lecture_videos",
+      "url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/pages/syllabus/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Syllabus notes archived lecture videos; no current video gallery was verified, and media bytes remain local-cache only."
+    },
+    {
+      "id": "fontes:mit:ocw:16-920j:reference-text-boundary",
+      "kind": "reference_texts",
+      "url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Reference texts by Trefethen/Bau, LeVeque, Strang/Fix, Quarteroni/Valli, Atkinson, Briggs et al., and Tveito/Winther are citation metadata only."
+    },
+    {
+      "id": "fontes:mit:ocw:16-920j:sma-external-boundary",
+      "kind": "sma_program_link",
+      "url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/",
+      "fetch_policy": "metadata_only",
+      "notes": "Singapore-MIT Alliance program links and NUS classroom context are external metadata only."
+    },
+    {
+      "id": "fontes:mit:ocw:16-920j:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains the online course content and static resources."
+    }
+  ]
+}
