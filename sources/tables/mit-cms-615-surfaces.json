@@ -1,0 +1,68 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013",
+  "row_grain": "one row per mapped MIT CMS.615 source surface",
+  "rows": [
+    {
+      "surface_id": "course-page",
+      "title": "course_page",
+      "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Course description and learning-resource metadata for social-change and civic-engagement game design."
+    },
+    {
+      "surface_id": "syllabus",
+      "title": "syllabus",
+      "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/syllabus/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Course meeting times, goals, topics, requirements, grading, and workshop framing."
+    },
+    {
+      "surface_id": "assignments",
+      "title": "assignments",
+      "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/assignments/",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Game assessment, prototype reflection, alpha presentation, and final paper assignment prompts."
+    },
+    {
+      "surface_id": "serious-games",
+      "title": "serious_games_playlist",
+      "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/serious-games/",
+      "owner": "mixed-third-party",
+      "license_status": "third-party-boundary",
+      "fetch_policy": "metadata_only",
+      "proof_status": "rights-boundary",
+      "notes": "Curated list of third-party serious games for assessment; use as citation/source-identity metadata unless individual game terms are separately reviewed."
+    },
+    {
+      "surface_id": "readings",
+      "title": "readings",
+      "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/readings/",
+      "owner": "mixed-third-party",
+      "license_status": "third-party-or-sparse-boundary",
+      "fetch_policy": "metadata_only",
+      "proof_status": "rights-boundary",
+      "notes": "Visible readings page is sparse in this capture and likely references third-party works; keep as metadata boundary."
+    },
+    {
+      "surface_id": "download",
+      "title": "course_download",
+      "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/cms.615-fall-2013.zip",
+      "owner": "MIT OpenCourseWare",
+      "license_status": "cc-by-nc-sa-4.0",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "OCW course ZIP contains the online course content."
+    }
+  ]
+}

@@ -594,6 +594,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW pages, projects, instructor insights, and download package are mapped; videos local-cache only; external project references, student builds, and sparse notes remain metadata-only boundaries."
+    },
+    {
+      "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013",
+      "title": "CMS.615 Games for Social Change",
+      "domain": "game-design-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\cms-615-games-for-social-change\\work.json",
+      "custody_record": "sources\\mit\\ocw\\cms-615-games-for-social-change\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\cms-615-games-for-social-change\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-cms-615-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, assignments, and download package are mapped; serious-game examples and readings remain metadata-only third-party boundaries."
     }
   ]
 }

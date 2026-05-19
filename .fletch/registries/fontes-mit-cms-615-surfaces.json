@@ -1,0 +1,63 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT CMS.615 source map",
+  "registry_id": "fontes-mit-cms-615-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit.ocw.cms-615.course-page",
+      "node_kind": "fletch",
+      "label": "CMS.615 OCW course page",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013", "table_record": "sources\\tables\\mit-cms-615-surfaces.json", "row_id": "course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "mit", "ocw", "cms-615", "games-for-social-change", "course-page", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-615.syllabus",
+      "node_kind": "fletch",
+      "label": "CMS.615 syllabus",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/syllabus/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013", "table_record": "sources\\tables\\mit-cms-615-surfaces.json", "row_id": "syllabus", "row_kind": "syllabus"},
+      "tags": ["fontes", "mit", "ocw", "cms-615", "games-for-social-change", "syllabus", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-615.assignments",
+      "node_kind": "fletch",
+      "label": "CMS.615 assignments",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/assignments/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013", "table_record": "sources\\tables\\mit-cms-615-surfaces.json", "row_id": "assignments", "row_kind": "assignments"},
+      "tags": ["fontes", "mit", "ocw", "cms-615", "games-for-social-change", "assignments", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-615.serious-games",
+      "node_kind": "fletch",
+      "label": "CMS.615 serious games playlist boundary",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/serious-games/"}],
+      "metadata": {"fetch_policy": "metadata_only", "license": "third-party-boundary", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013", "table_record": "sources\\tables\\mit-cms-615-surfaces.json", "row_id": "serious-games", "row_kind": "serious_games_playlist"},
+      "tags": ["fontes", "mit", "ocw", "cms-615", "games-for-social-change", "serious-games", "rights-boundary", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-615.readings",
+      "node_kind": "fletch",
+      "label": "CMS.615 readings boundary",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/readings/"}],
+      "metadata": {"fetch_policy": "metadata_only", "license": "third-party-or-sparse-boundary", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013", "table_record": "sources\\tables\\mit-cms-615-surfaces.json", "row_id": "readings", "row_kind": "readings"},
+      "tags": ["fontes", "mit", "ocw", "cms-615", "games-for-social-change", "readings", "rights-boundary", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-615.download",
+      "node_kind": "fletch",
+      "label": "CMS.615 course download",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/cms.615-fall-2013.zip"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013", "table_record": "sources\\tables\\mit-cms-615-surfaces.json", "row_id": "download", "row_kind": "course_download"},
+      "tags": ["fontes", "mit", "ocw", "cms-615", "games-for-social-change", "download", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.mit.ocw.cms-615.surfaces-table",
+      "node_kind": "fletch",
+      "label": "CMS.615 normalized source surfaces",
+      "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "game-design-support", "work_id": "fontes:mit:ocw:cms-615-games-for-social-change-fall-2013", "table_record": "sources\\tables\\mit-cms-615-surfaces.json", "row_count": "6"},
+      "tags": ["fontes", "mit", "ocw", "cms-615", "games-for-social-change", "surfaces-table", "normalized-table"]
+    }
+  ]
+}
