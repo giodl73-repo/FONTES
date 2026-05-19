@@ -1,0 +1,33 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_ids": [
+    "fontes:stanford-see:cs223a-introduction-to-robotics",
+    "fontes:stanford-see:ee364b-convex-optimization-ii"
+  ],
+  "row_grain": "one row per visible sparse Stanford SEE source-identity boundary",
+  "rows": [
+    {
+      "surface_id": "cs223a-course-page",
+      "work_id": "fontes:stanford-see:cs223a-introduction-to-robotics",
+      "title": "CS223A course_page",
+      "url": "https://see.stanford.edu/Course/CS223A",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "source-identity",
+      "notes": "Sparse visible SEE page; source identity only until stable materials/session URLs are found."
+    },
+    {
+      "surface_id": "ee364b-course-page",
+      "work_id": "fontes:stanford-see:ee364b-convex-optimization-ii",
+      "title": "EE364B course_page",
+      "url": "https://see.stanford.edu/Course/EE364B",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "source-identity",
+      "notes": "Sparse visible SEE page; source identity only until stable materials/session URLs are found."
+    }
+  ]
+}

@@ -530,6 +530,38 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Sparse visible SEE source-identity page only; no stable course-material, assignment, session, video, or transcript surface captured."
+    },
+    {
+      "work_id": "fontes:stanford-see:cs223a-introduction-to-robotics",
+      "title": "CS223A Introduction to Robotics",
+      "domain": "robotics-control",
+      "source_family": "stanford-engineering-everywhere",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped",
+      "work_record": "sources\\open-education\\stanford-engineering-everywhere\\cs223a-introduction-to-robotics\\work.json",
+      "custody_record": "sources\\open-education\\stanford-engineering-everywhere\\cs223a-introduction-to-robotics\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-engineering-everywhere\\cs223a-introduction-to-robotics\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-see-sparse-boundaries.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Sparse visible SEE source-identity page only; no stable course-material, assignment, session, video, or transcript surface captured."
+    },
+    {
+      "work_id": "fontes:stanford-see:ee364b-convex-optimization-ii",
+      "title": "EE364B Convex Optimization II",
+      "domain": "mathematics-systems",
+      "source_family": "stanford-engineering-everywhere",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped",
+      "work_record": "sources\\open-education\\stanford-engineering-everywhere\\ee364b-convex-optimization-ii\\work.json",
+      "custody_record": "sources\\open-education\\stanford-engineering-everywhere\\ee364b-convex-optimization-ii\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-engineering-everywhere\\ee364b-convex-optimization-ii\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-see-sparse-boundaries.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Sparse visible SEE source-identity page only; no stable course-material, assignment, session, video, or transcript surface captured."
     }
   ]
 }

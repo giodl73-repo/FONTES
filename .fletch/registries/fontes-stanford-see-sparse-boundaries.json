@@ -1,0 +1,31 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Stanford SEE sparse source-boundary map",
+  "registry_id": "fontes-stanford-see-sparse-boundaries",
+  "fletches": [
+    {
+      "id": "fontes.stanford-see.cs223a.course-page",
+      "node_kind": "fletch",
+      "label": "CS223A source-identity page",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS223A"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "robotics-control", "work_id": "fontes:stanford-see:cs223a-introduction-to-robotics", "table_record": "sources\\tables\\stanford-see-sparse-boundaries.json", "row_id": "cs223a-course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "stanford-see", "cs223a", "course-page", "source-identity", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.ee364b.course-page",
+      "node_kind": "fletch",
+      "label": "EE364B source-identity page",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE364B"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee364b-convex-optimization-ii", "table_record": "sources\\tables\\stanford-see-sparse-boundaries.json", "row_id": "ee364b-course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "stanford-see", "ee364b", "course-page", "source-identity", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.sparse.boundaries-table",
+      "node_kind": "fletch",
+      "label": "Sparse SEE normalized source boundaries",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cross-domain", "table_record": "sources\\tables\\stanford-see-sparse-boundaries.json", "row_count": "2"},
+      "tags": ["fontes", "stanford-see", "sparse-boundaries", "boundaries-table", "normalized-table", "source-identity"]
+    }
+  ]
+}
