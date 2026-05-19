@@ -1058,6 +1058,22 @@
       "pebble_status": "source-identity",
       "crop_status": "source-identity",
       "rights_boundary": "Cube documentation pages are metadata-only pending documentation terms review; Cube Core repository identity is mapped as open-source source identity; source files, examples, packages, generated docs, screenshots, diagrams, platform assets, dependencies, and releases remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:semantic-modeling:lookml-malloy",
+      "title": "LookML and Malloy Semantic Modeling Documentation",
+      "domain": "semantic-modeling-language-support",
+      "source_family": "google-looker-and-malloy",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\semantic-modeling\\lookml-malloy\\work.json",
+      "custody_record": "sources\\open-source\\semantic-modeling\\lookml-malloy\\custody.md",
+      "inventory_record": "sources\\open-source\\semantic-modeling\\lookml-malloy\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-lookml-malloy-semantic-modeling-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "Google Cloud Looker documentation is mapped under the published CC BY 4.0 documentation and Apache 2.0 code-sample posture unless otherwise noted; Malloy docs are metadata-only pending documentation-site reuse review; screenshots, diagrams, generated notebooks, example datasets, VS Code extension assets, code bodies, package artifacts, and releases remain boundary-checked."
     }
   ]
 }

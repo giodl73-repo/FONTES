@@ -1,0 +1,25 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:semantic-modeling:lookml-malloy",
+  "title": "LookML and Malloy Semantic Modeling Documentation",
+  "source_family": "google-looker-and-malloy",
+  "source_type": "vendor-and-open-source-documentation",
+  "canonical_url": "https://cloud.google.com/looker/docs/lookml-terms-and-concepts",
+  "license_status": "mixed-google-docs-cc-by-4-code-apache-2-and-malloy-source-boundaries",
+  "license_url": "https://cloud.google.com/terms",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["LookML", "Looker", "Malloy", "semantic modeling", "views", "Explores", "dimensions", "measures", "joins", "sources", "queries", "semantic query language"],
+  "sources": [
+    {"id": "fontes:google-cloud:looker:lookml-concepts", "kind": "lookml_terms_concepts", "url": "https://cloud.google.com/looker/docs/lookml-terms-and-concepts", "fetch_policy": "derived_text_allowed", "notes": "Google Cloud Looker documentation for LookML projects, models, views, Explores, joins, derived tables, connections, Git versioning, and UI/query dependency on model definitions."},
+    {"id": "fontes:google-cloud:looker:dimension", "kind": "lookml_dimension", "url": "https://cloud.google.com/looker/docs/reference/param-field-dimension", "fetch_policy": "derived_text_allowed", "notes": "LookML dimension reference for declaring named scalar fields within views, naming constraints, primary keys, SQL expressions, and field parameters."},
+    {"id": "fontes:google-cloud:looker:measure", "kind": "lookml_measure", "url": "https://cloud.google.com/looker/docs/reference/param-field-measure", "fetch_policy": "derived_text_allowed", "notes": "LookML measure reference for declaring aggregations, measure naming, measure types, joined measure requirements, primary keys, and measure-on-measure boundaries."},
+    {"id": "fontes:google-cloud:looker:join", "kind": "lookml_join", "url": "https://cloud.google.com/looker/docs/reference/param-explore-join", "fetch_policy": "derived_text_allowed", "notes": "LookML join reference for Explore-to-view joins, generated SQL FROM/JOIN mapping, sql_on/foreign_key, join type, relationship, and symmetric aggregate boundaries."},
+    {"id": "fontes:google-cloud:looker:quick-reference", "kind": "lookml_quick_reference", "url": "https://cloud.google.com/looker/docs/reference/lookml-quick-reference", "fetch_policy": "derived_text_allowed", "notes": "LookML quick reference and license surface confirming Google documentation CC BY 4.0 and code samples Apache 2.0 unless otherwise noted."},
+    {"id": "fontes:malloy:docs:basic", "kind": "malloy_basic_guide", "url": "https://docs.malloydata.dev/documentation/user_guides/basic", "fetch_policy": "metadata_only", "notes": "Malloy basic guide for querying data, reusable data models, run syntax, source -> view query form, select/group_by/aggregate operators, and SQL comparison output."},
+    {"id": "fontes:malloy:docs:source", "kind": "malloy_source", "url": "https://docs.malloydata.dev/documentation/language/source", "fetch_policy": "metadata_only", "notes": "Malloy source documentation for sources as reusable definitions containing computations, measures, dimensions, views, and join relationships over tables/views/queries."},
+    {"id": "fontes:malloy:docs:query", "kind": "malloy_query", "url": "https://docs.malloydata.dev/documentation/language/query", "fetch_policy": "metadata_only", "notes": "Malloy query documentation for source plus view pipelines, stages separated by ->, group_by, aggregate, named sources, and generated SQL output."},
+    {"id": "fontes:malloy:github", "kind": "malloy_source_identity", "url": "https://github.com/malloydata/malloy", "fetch_policy": "derived_text_allowed", "notes": "Malloy repository identity describing an open-source semantic modeling and query language that uses existing SQL engines including BigQuery, Snowflake, PostgreSQL, MySQL, Trino/Presto, and DuckDB."}
+  ]
+}
