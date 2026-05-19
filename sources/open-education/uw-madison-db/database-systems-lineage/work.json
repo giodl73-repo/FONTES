@@ -1,0 +1,79 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:uw-madison-db:database-systems-lineage",
+  "title": "University of Wisconsin-Madison Database Systems Lineage",
+  "source_family": "uw-madison-database-group",
+  "source_type": "research-group-archive",
+  "canonical_url": "https://database.cs.wisc.edu/",
+  "license_status": "metadata-only-with-publication-pdf-code-and-third-party-boundaries",
+  "license_url": "https://www.wisc.edu/",
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["database systems", "parallel databases", "data warehousing lineage", "query processing", "shared-nothing architecture", "Wisconsin Benchmark", "Gamma database machine", "benchmarking", "OLAP substrate", "database history"],
+  "sources": [
+    {
+      "id": "fontes:uw-madison-db:group-home",
+      "kind": "research_group_home",
+      "url": "https://database.cs.wisc.edu/",
+      "fetch_policy": "metadata_only",
+      "notes": "Current UW-Madison Database Systems Group homepage and institutional source identity."
+    },
+    {
+      "id": "fontes:uw-madison-db:dewitt-publications",
+      "kind": "faculty_publication_archive",
+      "url": "https://pages.cs.wisc.edu/~dewitt/includes/publications.html",
+      "fetch_policy": "metadata_only",
+      "notes": "David J. DeWitt publication archive organized by parallel database systems, Gamma, Paradise, benchmarking, query optimization, and object-oriented DBMS work."
+    },
+    {
+      "id": "fontes:uw-madison-db:gamma-vldb-1986",
+      "kind": "publication_pdf_identity",
+      "url": "https://pages.cs.wisc.edu/~dewitt/includes/paralleldb/vldb86.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "GAMMA high-performance dataflow database machine publication identity; paper body is not committed or extracted in this pulse."
+    },
+    {
+      "id": "fontes:uw-madison-db:gamma-tkde-1990",
+      "kind": "publication_pdf_identity",
+      "url": "https://pages.cs.wisc.edu/~dewitt/includes/paralleldb/ieee90.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "Gamma Database Machine Project publication identity for shared-nothing parallel relational database lineage."
+    },
+    {
+      "id": "fontes:uw-madison-db:gamma-performance-sigmod-1988",
+      "kind": "publication_pdf_identity",
+      "url": "https://pages.cs.wisc.edu/~dewitt/includes/paralleldb/sigmod88.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "Gamma performance-analysis publication identity, including benchmark and scaleup/speedup lineage."
+    },
+    {
+      "id": "fontes:uw-madison-db:parallel-joins-sigmod-1989",
+      "kind": "publication_pdf_identity",
+      "url": "https://pages.cs.wisc.edu/~dewitt/includes/paralleldb/sigmod89.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "Shared-nothing parallel join algorithm evaluation identity for warehouse-query execution lineage."
+    },
+    {
+      "id": "fontes:uw-madison-db:wisconsin-benchmark-vldb-1983",
+      "kind": "publication_pdf_identity",
+      "url": "https://pages.cs.wisc.edu/~dewitt/includes/benchmarking/vldb83.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "Wisconsin Benchmark systematic database benchmarking paper identity."
+    },
+    {
+      "id": "fontes:uw-madison-db:wisconsin-benchmark-generator",
+      "kind": "benchmark_code_archive",
+      "url": "https://pages.cs.wisc.edu/~dewitt/includes/benchmarking/wiscbench.tar",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Benchmark query and generator archive is source identity only until code/data license and safety review."
+    },
+    {
+      "id": "fontes:uw-madison-db:warehouse-olap-boundary",
+      "kind": "topic_boundary",
+      "url": "https://pages.cs.wisc.edu/~dewitt/includes/publications.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Parallel database, benchmarking, join, partitioning, and query-processing lineage supports warehouse/OLAP substrate; cube/dimension modeling requires a separate dimensional-modeling source."
+    }
+  ]
+}

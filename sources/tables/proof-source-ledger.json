@@ -898,6 +898,38 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, resource index, representative lecture pages, handouts, problem sets, exam PDFs, solutions, and download page are mapped; Julia notebooks, GitHub/nbviewer content, external texts, final project implementations, external diagrams, and third-party resource links remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:uw-madison-db:database-systems-lineage",
+      "title": "University of Wisconsin-Madison Database Systems Lineage",
+      "domain": "data-warehouse-lineage-support",
+      "source_family": "uw-madison-database-group",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped",
+      "work_record": "sources\\open-education\\uw-madison-db\\database-systems-lineage\\work.json",
+      "custody_record": "sources\\open-education\\uw-madison-db\\database-systems-lineage\\custody.md",
+      "inventory_record": "sources\\open-education\\uw-madison-db\\database-systems-lineage\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-uw-madison-db-lineage-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "UW database group and publication URLs are mapped as source identities; publication PDF bodies, benchmark generator code/data, external links, and OLAP cube/dimension modeling sources remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:kimball-group:dimensional-modeling",
+      "title": "Kimball Group Dimensional Modeling and Data Warehouse Toolkit Sources",
+      "domain": "data-warehouse-modeling-support",
+      "source_family": "kimball-group",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped",
+      "work_record": "sources\\open-education\\kimball-group\\dimensional-modeling\\work.json",
+      "custody_record": "sources\\open-education\\kimball-group\\dimensional-modeling\\custody.md",
+      "inventory_record": "sources\\open-education\\kimball-group\\dimensional-modeling\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-kimball-dimensional-modeling-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Kimball web pages and book pages are mapped as source identities; user-owned book bodies, attached PDFs, spreadsheets, diagrams, design-tip bodies, utility files, and third-party resources remain boundary-checked."
     }
   ]
 }

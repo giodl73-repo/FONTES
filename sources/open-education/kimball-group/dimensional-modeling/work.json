@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:kimball-group:dimensional-modeling",
+  "title": "Kimball Group Dimensional Modeling and Data Warehouse Toolkit Sources",
+  "source_family": "kimball-group",
+  "source_type": "professional-reference",
+  "canonical_url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/",
+  "license_status": "metadata-only-with-book-pdf-image-code-and-third-party-boundaries",
+  "license_url": "https://www.kimballgroup.com/",
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["data warehousing", "dimensional modeling", "facts", "dimensions", "star schema", "OLAP cubes", "conformed dimensions", "slowly changing dimensions", "ETL", "warehouse bus architecture"],
+  "sources": [
+    {
+      "id": "fontes:kimball:techniques-index",
+      "kind": "techniques_index",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/",
+      "fetch_policy": "metadata_only",
+      "notes": "Official Kimball techniques index for dimensional modeling, bus architecture, lifecycle, technical architecture, and ETL architecture."
+    },
+    {
+      "id": "fontes:kimball:dimensional-modeling-techniques",
+      "kind": "dimensional_modeling_glossary",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/",
+      "fetch_policy": "metadata_only",
+      "notes": "Official Kimball dimensional modeling technique index covering grain, dimensions, facts, star schemas, OLAP cubes, fact table types, dimension patterns, conformed dimensions, and slowly changing dimensions."
+    },
+    {
+      "id": "fontes:kimball:data-warehouse-toolkit-book",
+      "kind": "book_identity",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/",
+      "fetch_policy": "metadata_only",
+      "notes": "The Data Warehouse Toolkit, Third Edition book identity and companion-resource page; book body remains a user-owned/copyrighted reference boundary."
+    },
+    {
+      "id": "fontes:kimball:bus-architecture",
+      "kind": "warehouse_architecture_page",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/kimball-data-warehouse-bus-architecture/",
+      "fetch_policy": "metadata_only",
+      "notes": "Kimball enterprise data warehouse bus architecture, conformed dimensions, and bus matrix source identity."
+    },
+    {
+      "id": "fontes:kimball:etl-34-subsystems",
+      "kind": "etl_architecture_page",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/etl-architecture-34-subsystems/",
+      "fetch_policy": "metadata_only",
+      "notes": "Kimball ETL architecture source identity for extract, transformation, load, and management subsystem categories."
+    },
+    {
+      "id": "fontes:kimball:attached-pdf-boundary",
+      "kind": "attached_pdf_boundary",
+      "url": "https://www.kimballgroup.com/wp-content/uploads/2013/08/2013.09-Kimball-Dimensional-Modeling-Techniques11.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "Attached dimensional modeling techniques PDF is mapped as source identity only; do not extract or commit PDF body without separate rights review."
+    },
+    {
+      "id": "fontes:kimball:tools-utilities-boundary",
+      "kind": "tool_and_utility_files",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Book companion spreadsheets, images, design tips, and utility files require license/code/file review before indexing or bundling."
+    },
+    {
+      "id": "fontes:kimball:user-owned-books-boundary",
+      "kind": "user_owned_book_boundary",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/",
+      "fetch_policy": "metadata_only",
+      "notes": "User-owned Kimball books can guide manual modeling decisions, but book bodies are not committed or extracted into FONTES."
+    }
+  ]
+}
