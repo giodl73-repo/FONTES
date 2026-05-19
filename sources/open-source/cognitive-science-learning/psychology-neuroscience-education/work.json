@@ -1,0 +1,58 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:cognitive-science-learning:psychology-neuroscience-education",
+  "title": "Cognitive Science, Psychology, Neuroscience, Learning, and Human Behavior Foundations",
+  "source_family": "cognitive-science-learning",
+  "source_type": "open-education-course-and-textbook-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/",
+  "license_status": "mixed-open-education-course-textbook-platform-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["cognitive science", "psychology", "human behavior", "perception", "emotion", "learning", "memory", "cognition", "child development", "personality", "psychopathology", "social interaction", "neuroscience", "brain", "language processing", "psycholinguistics", "learning sciences", "creative learning technologies", "experimental methods"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:9-00sc:course",
+      "kind": "psychology_course",
+      "url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to Psychology course identity for scientific study of human nature, mind/brain relations, perception, emotion, learning, memory, cognition, child development, personality, psychopathology, social interaction, nature/nurture, free will, consciousness, self, society, lecture videos, readings, discussion content, further-study links, exams, and practice questions."
+    },
+    {
+      "id": "fontes:mit:ocw:9-00sc:syllabus",
+      "kind": "psychology_syllabus",
+      "url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW psychology syllabus identity for psychological evidence, validity/relevance, prerequisites, assigned readings, lectures, discussion sections, exams, writing assignments, study outlines, free online textbook boundary, and commercial textbook boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:9-01:syllabus",
+      "kind": "neuroscience_syllabus",
+      "url": "https://ocw.mit.edu/courses/9-01-introduction-to-neuroscience-fall-2007/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to Neuroscience syllabus identity for mammalian nervous system, human brain organization, nerve cells, impulses, synaptic transfer, drugs, development, sensory systems, vision/hearing/olfaction, movement, neurochemical bases of disease, motivation, emotion, learning, and memory."
+    },
+    {
+      "id": "fontes:mit:ocw:9-59j:syllabus",
+      "kind": "psycholinguistics_lab_syllabus",
+      "url": "https://ocw.mit.edu/courses/9-59j-lab-in-psycholinguistics-spring-2017/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Lab in Psycholinguistics syllabus identity for designing, conducting, analyzing, and presenting experiments on human language structure/processing, replication/extension projects, R, Mechanical Turk, scientific reports, statistical claims, pragmatics, language/thought, and cognitive psychology of language."
+    },
+    {
+      "id": "fontes:mit:ocw:mas-714j:syllabus",
+      "kind": "creative_learning_technology_syllabus",
+      "url": "https://ocw.mit.edu/courses/mas-714j-technologies-for-creative-learning-fall-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Technologies for Creative Learning syllabus identity for constructionism, learning sciences, class-blog facilitation, activities, playful/experimental learning environments, design/testing of learning technology features, support materials, activities, and design briefs."
+    },
+    {
+      "id": "fontes:open-yale:psyc-110:course",
+      "kind": "psychology_open_course",
+      "url": "https://oyc.yale.edu/introduction-psychology/psyc-110",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale PSYC 110 course identity for scientific study of thought and behavior, perception, communication, learning, memory, decision-making, religion, persuasion, love, lust, hunger, art, fiction, dreams, child development, individual differences, brain wiring, illness, injury, exams, reading responses, book review, and experimental participation."
+    }
+  ]
+}

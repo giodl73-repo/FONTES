@@ -1554,6 +1554,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; GovInfo, eCFR, Federal Register, and Cornell LII Wex are metadata-only identities pending reuse and authority review; readings, assignments, papers, case studies, lecture videos, exams, statutory text, regulatory text, rulemaking documents, legal-reference bodies, API payloads, bulk data, linked statutes/cases, images, diagrams, and third-party linked materials remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:cognitive-science-learning:psychology-neuroscience-education",
+      "title": "Cognitive Science, Psychology, Neuroscience, Learning, and Human Behavior Foundations",
+      "domain": "cognitive-science-learning-support",
+      "source_family": "cognitive-science-learning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\cognitive-science-learning\\psychology-neuroscience-education\\work.json",
+      "custody_record": "sources\\open-source\\cognitive-science-learning\\psychology-neuroscience-education\\custody.md",
+      "inventory_record": "sources\\open-source\\cognitive-science-learning\\psychology-neuroscience-education\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-cognitive-science-learning-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW and Open Yale course/listing/syllabus pages are mapped as derived text; videos, lecture notes, readings, commercial and free-online textbook bodies, exams, solutions, discussion content, student projects, blog posts, R/Mechanical Turk materials, experiment data, transcripts, media, images, diagrams, and linked third-party assets remain boundary-checked."
     }
   ]
 }
