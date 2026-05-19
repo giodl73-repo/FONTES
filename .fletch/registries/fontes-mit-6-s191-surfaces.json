@@ -3,11 +3,175 @@
   "generated_by": "FONTES MIT 6.S191 source map",
   "registry_id": "fontes-mit-6-s191-surfaces",
   "fletches": [
-    {"id": "fontes.mit.ocw.6-s191.course-page", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-s191", "course-page"]},
-    {"id": "fontes.mit.ocw.6-s191.download", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/download/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-s191", "download", "mixed-license"]},
-    {"id": "fontes.mit.ocw.6-s191.official-site-2020", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://introtodeeplearning.com/2020/index.html"}], "metadata": {"fetch_policy": "license_review", "license": "external-terms-not-captured", "domain": "ai-ml"}, "tags": ["fontes", "mit", "deep-learning", "6-s191", "official-site", "rights-boundary"]},
-    {"id": "fontes.mit.ocw.6-s191.official-site-current", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://introtodeeplearning.com/"}], "metadata": {"fetch_policy": "license_review", "license": "external-terms-not-captured", "domain": "ai-ml"}, "tags": ["fontes", "mit", "deep-learning", "6-s191", "current-site", "rights-boundary"]},
-    {"id": "fontes.mit.ocw.6-s191.github-labs", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://github.com/MITDeepLearning/introtodeeplearning"}], "metadata": {"fetch_policy": "license_review", "license": "mit-license-code-with-artifact-review", "domain": "ai-ml"}, "tags": ["fontes", "mit", "deep-learning", "6-s191", "github-labs", "rights-boundary"]},
-    {"id": "fontes.mit.ocw.6-s191.lecture-playlist", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6"}], "metadata": {"fetch_policy": "local_cache_allowed", "license": "external-media", "domain": "ai-ml"}, "tags": ["fontes", "mit", "deep-learning", "6-s191", "lecture-videos", "media-boundary"]}
+    {
+      "id": "fontes.mit.ocw.6-s191.course-page",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s191",
+        "course-page"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s191.download",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/download/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mixed",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s191",
+        "download",
+        "mixed-license"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s191.official-site-2020",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://introtodeeplearning.com/2020/index.html"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "external-terms-not-captured",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "deep-learning",
+        "6-s191",
+        "official-site",
+        "rights-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s191.official-site-current",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://introtodeeplearning.com/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "external-terms-not-captured",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "deep-learning",
+        "6-s191",
+        "current-site",
+        "rights-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s191.github-labs",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://github.com/MITDeepLearning/introtodeeplearning"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mit-license-code-with-artifact-review",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "deep-learning",
+        "6-s191",
+        "github-labs",
+        "rights-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s191.lecture-playlist",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "local_cache_allowed",
+        "license": "external-media",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "deep-learning",
+        "6-s191",
+        "lecture-videos",
+        "media-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-s191.surfaces-table",
+      "node_kind": "fletch",
+      "label": "6.S191 normalized surface table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mixed",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-s191-introduction-to-deep-learning-january-iap-2020",
+        "table_record": "sources\\tables\\mit-6-s191-surfaces.json",
+        "row_count": "6"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-s191",
+        "surfaces-table",
+        "normalized-table"
+      ]
+    }
   ]
 }

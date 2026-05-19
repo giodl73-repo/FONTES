@@ -3,10 +3,150 @@
   "generated_by": "FONTES MIT 6.4210 source map",
   "registry_id": "fontes-mit-6-4210-surfaces",
   "fletches": [
-    {"id": "fontes.mit.ocw.6-4210.course-page", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-4210", "course-page"]},
-    {"id": "fontes.mit.ocw.6-4210.external-resources", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/external-resources/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-4210", "external-resources"]},
-    {"id": "fontes.mit.ocw.6-4210.textbook-site", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://manipulation.csail.mit.edu/"}], "metadata": {"fetch_policy": "license_review", "license": "external-terms-not-captured", "domain": "ai-ml"}, "tags": ["fontes", "mit", "robotics", "6-4210", "textbook", "rights-boundary"]},
-    {"id": "fontes.mit.ocw.6-4210.lecture-playlist", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69"}], "metadata": {"fetch_policy": "local_cache_allowed", "license": "external-media", "domain": "ai-ml"}, "tags": ["fontes", "mit", "robotics", "6-4210", "lecture-videos", "media-boundary"]},
-    {"id": "fontes.mit.ocw.6-4210.homework-stack", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/"}], "metadata": {"fetch_policy": "license_review", "license": "not-inventoried", "domain": "ai-ml"}, "tags": ["fontes", "mit", "robotics", "6-4210", "homework-stack", "pending-inventory"]}
+    {
+      "id": "fontes.mit.ocw.6-4210.course-page",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-4210",
+        "course-page"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-4210.external-resources",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/external-resources/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mixed",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-4210",
+        "external-resources"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-4210.textbook-site",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://manipulation.csail.mit.edu/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "external-terms-not-captured",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "robotics",
+        "6-4210",
+        "textbook",
+        "rights-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-4210.lecture-playlist",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "local_cache_allowed",
+        "license": "external-media",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "robotics",
+        "6-4210",
+        "lecture-videos",
+        "media-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-4210.homework-stack",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "not-inventoried",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "robotics",
+        "6-4210",
+        "homework-stack",
+        "pending-inventory"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-4210.surfaces-table",
+      "node_kind": "fletch",
+      "label": "6.4210 normalized surface table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mixed",
+        "domain": "robotics",
+        "work_id": "fontes:mit:ocw:6-4210-robotic-manipulation-fall-2022",
+        "table_record": "sources\\tables\\mit-6-4210-surfaces.json",
+        "row_count": "5"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-4210",
+        "surfaces-table",
+        "normalized-table"
+      ]
+    }
   ]
 }

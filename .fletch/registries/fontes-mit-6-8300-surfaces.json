@@ -3,12 +3,207 @@
   "generated_by": "FONTES MIT 6.8300 source map",
   "registry_id": "fontes-mit-6-8300-surfaces",
   "fletches": [
-    {"id": "fontes.mit.ocw.6-8300.course-page", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-8300", "course-page"]},
-    {"id": "fontes.mit.ocw.6-8300.download", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/download/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-8300", "download", "mixed-license"]},
-    {"id": "fontes.mit.ocw.6-8300.external-course-site", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/"}], "metadata": {"fetch_policy": "license_review", "license": "external-terms-not-captured", "domain": "ai-ml"}, "tags": ["fontes", "mit", "vision", "6-8300", "external-course-site", "rights-boundary"]},
-    {"id": "fontes.mit.ocw.6-8300.recordings", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/"}], "metadata": {"fetch_policy": "local_cache_allowed", "license": "external-media", "domain": "ai-ml"}, "tags": ["fontes", "mit", "vision", "6-8300", "recordings", "media-boundary"]},
-    {"id": "fontes.mit.ocw.6-8300.slides", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://drive.google.com/drive/folders/1_t7-165L6jqbc2MANXRj7brrWXrx-SfM?usp=sharing"}], "metadata": {"fetch_policy": "license_review", "license": "external-artifact", "domain": "ai-ml"}, "tags": ["fontes", "mit", "vision", "6-8300", "slides", "rights-boundary"]},
-    {"id": "fontes.mit.ocw.6-8300.problem-sets", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://github.com/6-8300"}], "metadata": {"fetch_policy": "license_review", "license": "repository-terms-not-captured", "domain": "ai-ml"}, "tags": ["fontes", "mit", "vision", "6-8300", "problem-sets", "rights-boundary"]},
-    {"id": "fontes.mit.ocw.6-8300.course-platforms", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://www.gradescope.com/courses/972401"}, {"kind": "http", "url": "https://piazza.com/class/m5fhhrt0jzc6hx"}, {"kind": "http", "url": "https://canvas.mit.edu/courses/31251"}], "metadata": {"fetch_policy": "metadata_only", "license": "course-platform", "domain": "ai-ml"}, "tags": ["fontes", "mit", "vision", "6-8300", "course-platforms", "identity-only"]}
+    {
+      "id": "fontes.mit.ocw.6-8300.course-page",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-8300",
+        "course-page"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-8300.download",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/download/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mixed",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-8300",
+        "download",
+        "mixed-license"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-8300.external-course-site",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "external-terms-not-captured",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "vision",
+        "6-8300",
+        "external-course-site",
+        "rights-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-8300.recordings",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "local_cache_allowed",
+        "license": "external-media",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "vision",
+        "6-8300",
+        "recordings",
+        "media-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-8300.slides",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://drive.google.com/drive/folders/1_t7-165L6jqbc2MANXRj7brrWXrx-SfM?usp=sharing"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "external-artifact",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "vision",
+        "6-8300",
+        "slides",
+        "rights-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-8300.problem-sets",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://github.com/6-8300"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "repository-terms-not-captured",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "vision",
+        "6-8300",
+        "problem-sets",
+        "rights-boundary"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-8300.course-platforms",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.gradescope.com/courses/972401"
+        },
+        {
+          "kind": "http",
+          "url": "https://piazza.com/class/m5fhhrt0jzc6hx"
+        },
+        {
+          "kind": "http",
+          "url": "https://canvas.mit.edu/courses/31251"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "metadata_only",
+        "license": "course-platform",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "vision",
+        "6-8300",
+        "course-platforms",
+        "identity-only"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-8300.surfaces-table",
+      "node_kind": "fletch",
+      "label": "6.8300 normalized surface table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mixed",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-8300-advances-in-computer-vision-spring-2025",
+        "table_record": "sources\\tables\\mit-6-8300-surfaces.json",
+        "row_count": "9"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-8300",
+        "surfaces-table",
+        "normalized-table"
+      ]
+    }
   ]
 }

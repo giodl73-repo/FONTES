@@ -3,12 +3,195 @@
   "generated_by": "FONTES MIT 6.801 source map",
   "registry_id": "fontes-mit-6-801-surfaces",
   "fletches": [
-    {"id": "fontes.mit.ocw.6-801.course-page", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-801", "course-page"]},
-    {"id": "fontes.mit.ocw.6-801.syllabus", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/syllabus/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-801", "syllabus"]},
-    {"id": "fontes.mit.ocw.6-801.lecture-notes", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/lecture-notes/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-801", "lecture-notes"]},
-    {"id": "fontes.mit.ocw.6-801.assignments", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/assignments/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-801", "assignments", "pending-inventory"]},
-    {"id": "fontes.mit.ocw.6-801.exams", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/exams/"}], "metadata": {"fetch_policy": "license_review", "license": "mixed", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-801", "exams", "pending-inventory"]},
-    {"id": "fontes.mit.ocw.6-801.projects", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/projects/"}], "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-801", "projects"]},
-    {"id": "fontes.mit.ocw.6-801.download", "node_kind": "fletch", "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/download/"}], "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"}, "tags": ["fontes", "mit", "ocw", "6-801", "download"]}
+    {
+      "id": "fontes.mit.ocw.6-801.course-page",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "course-page"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.syllabus",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/syllabus/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "syllabus"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-notes",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/lecture-notes/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-notes"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.assignments",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/assignments/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mixed",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "assignments",
+        "pending-inventory"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.exams",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/exams/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "mixed",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "exams",
+        "pending-inventory"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.projects",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/projects/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "derived_text_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "projects"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.download",
+      "node_kind": "fletch",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/download/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "bundle_allowed",
+        "license": "cc-by-nc-sa-4.0",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "download"
+      ]
+    },
+    {
+      "id": "fontes.mit.ocw.6-801.lecture-notes-table",
+      "node_kind": "fletch",
+      "label": "6.801 normalized lecture-note table",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/lecture-notes/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "metadata_only",
+        "license": "mixed",
+        "domain": "ai-ml",
+        "work_id": "fontes:mit:ocw:6-801-machine-vision-fall-2020",
+        "table_record": "sources\\tables\\mit-6-801-lecture-notes.json",
+        "row_count": "23"
+      },
+      "tags": [
+        "fontes",
+        "mit",
+        "ocw",
+        "6-801",
+        "lecture-notes-table",
+        "normalized-table"
+      ]
+    }
   ]
 }
