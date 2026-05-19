@@ -1,0 +1,25 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:analytical-engines:duckdb-datafusion",
+  "title": "DuckDB and Apache DataFusion Analytical Engine Documentation",
+  "source_family": "duckdb-and-apache-datafusion",
+  "source_type": "open-source-documentation",
+  "canonical_url": "https://duckdb.org/docs/current/",
+  "license_status": "mixed-duckdb-docs-source-identity-and-datafusion-apache-2",
+  "license_url": "https://datafusion.apache.org/user-guide/introduction.html",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["DuckDB", "Apache DataFusion", "local analytics", "SQL engine", "query over files", "Parquet", "CSV", "Apache Arrow", "DataFrame API", "Rust", "optimizer", "Substrait"],
+  "sources": [
+    {"id": "fontes:duckdb:docs:current", "kind": "duckdb_docs_overview", "url": "https://duckdb.org/docs/current/", "fetch_policy": "metadata_only", "notes": "DuckDB docs overview for clients, SQL, import/export, lakehouse formats, extensions, guides, and operations surfaces."},
+    {"id": "fontes:duckdb:docs:data-overview", "kind": "duckdb_data_overview", "url": "https://duckdb.org/docs/current/data/overview.html", "fetch_policy": "metadata_only", "notes": "DuckDB data overview for direct file querying/loading across CSV, Parquet, JSON, inserts, COPY, and CREATE TABLE AS SELECT."},
+    {"id": "fontes:duckdb:docs:sql-introduction", "kind": "duckdb_sql_introduction", "url": "https://duckdb.org/docs/current/sql/introduction.html", "fetch_policy": "metadata_only", "notes": "DuckDB SQL introduction for relational concepts, PostgreSQL-like dialect posture, tables, schemas, SQL commands, and CLI examples."},
+    {"id": "fontes:duckdb:docs:query-parquet", "kind": "duckdb_query_parquet", "url": "https://duckdb.org/docs/current/guides/file_formats/query_parquet.html", "fetch_policy": "metadata_only", "notes": "DuckDB Parquet query guide for read_parquet, direct FROM clause queries, parallel processing, filter pushdown, and column pruning."},
+    {"id": "fontes:duckdb:github", "kind": "duckdb_source_identity", "url": "https://github.com/duckdb/duckdb", "fetch_policy": "derived_text_allowed", "notes": "DuckDB repository identity for high-performance analytical database, rich SQL dialect, portability, CLI and client APIs, and direct CSV/Parquet querying."},
+    {"id": "fontes:datafusion:docs:introduction", "kind": "datafusion_introduction", "url": "https://datafusion.apache.org/user-guide/introduction.html", "fetch_policy": "derived_text_allowed", "notes": "DataFusion introduction for Rust query engine, Apache Arrow memory format, SQL/DataFrame APIs, file formats, vectorized/multithreaded/streaming execution, optimizer, object stores, extension points, Apache 2.0 license, and Substrait support."},
+    {"id": "fontes:datafusion:docs:dataframe", "kind": "datafusion_dataframe", "url": "https://datafusion.apache.org/user-guide/dataframe.html", "fetch_policy": "derived_text_allowed", "notes": "DataFusion DataFrame API docs for lazy logical plans, SessionContext, read_csv, filter/select/aggregate/limit transformations, collect execution, and Expr references."},
+    {"id": "fontes:datafusion:docs:architecture", "kind": "datafusion_architecture_extensions", "url": "https://datafusion.apache.org/contributor-guide/architecture.html", "fetch_policy": "derived_text_allowed", "notes": "DataFusion architecture docs for extension APIs, TableProvider, OptimizerRule, ExecutionPlan, public API stability, and downstream customization without forks."},
+    {"id": "fontes:datafusion:docs:sql", "kind": "datafusion_sql_reference_boundary", "url": "https://datafusion.apache.org/user-guide/sql/index.html", "fetch_policy": "metadata_only", "notes": "DataFusion SQL reference index and Apache trademark boundary surface; deeper SQL reference pages can be mapped if a Slice prototype needs exact syntax support."}
+  ]
+}

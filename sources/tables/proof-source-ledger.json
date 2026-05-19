@@ -1090,6 +1090,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "Substrait specification pages are mapped for derived text; repository source, protobuf definitions, YAML extensions, examples, generated docs, test data, and release artifacts remain boundary-checked for provenance, notices, checksums, and redistribution."
+    },
+    {
+      "work_id": "fontes:analytical-engines:duckdb-datafusion",
+      "title": "DuckDB and Apache DataFusion Analytical Engine Documentation",
+      "domain": "local-analytical-engine-support",
+      "source_family": "duckdb-and-apache-datafusion",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\analytical-engines\\duckdb-datafusion\\work.json",
+      "custody_record": "sources\\open-source\\analytical-engines\\duckdb-datafusion\\custody.md",
+      "inventory_record": "sources\\open-source\\analytical-engines\\duckdb-datafusion\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-duckdb-datafusion-engine-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "DuckDB docs are metadata-only pending terms review; DataFusion docs are mapped under Apache 2.0 posture; source files, binaries, packages, extensions, examples, logos, generated API docs, benchmarks, and releases remain boundary-checked."
     }
   ]
 }
