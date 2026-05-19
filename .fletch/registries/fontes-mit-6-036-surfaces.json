@@ -6,16 +6,26 @@
     {
       "id": "fontes.mit.ocw.6-036.course-page",
       "node_kind": "fletch",
+      "label": "6.036 OCW course landing page",
       "shafts": [{"kind": "http", "url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/"}],
-      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml"},
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "ai-ml", "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020"},
       "tags": ["fontes", "mit", "ocw", "6-036", "course-page"]
     },
     {
       "id": "fontes.mit.oll.6-036.about",
       "node_kind": "fletch",
+      "label": "6.036 Open Learning Library course-about page",
       "shafts": [{"kind": "http", "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about"}],
-      "metadata": {"fetch_policy": "metadata_only", "license": "all-rights-reserved-unless-otherwise-indicated", "domain": "ai-ml"},
+      "metadata": {"fetch_policy": "metadata_only", "license": "all-rights-reserved-unless-otherwise-indicated", "domain": "ai-ml", "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020"},
       "tags": ["fontes", "mit", "open-learning-library", "6-036", "about"]
+    },
+    {
+      "id": "fontes.mit.oll.6-036.course-materials",
+      "node_kind": "fletch",
+      "label": "6.036 OLL lectures, notes, exercises, labs, and homework boundary",
+      "shafts": [{"kind": "http", "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about"}],
+      "metadata": {"fetch_policy": "license_review", "license": "all-rights-reserved-unless-otherwise-indicated", "domain": "ai-ml", "work_id": "fontes:mit:ocw:6-036-introduction-to-machine-learning-fall-2020"},
+      "tags": ["fontes", "mit", "open-learning-library", "6-036", "course-materials", "rights-boundary"]
     }
   ]
 }
