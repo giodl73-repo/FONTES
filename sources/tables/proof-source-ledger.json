@@ -562,6 +562,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Sparse visible SEE source-identity page only; no stable course-material, assignment, session, video, or transcript surface captured."
+    },
+    {
+      "work_id": "fontes:mit:ocw:cms-608-game-design-spring-2014",
+      "title": "CMS.608 / CMS.864 Game Design",
+      "domain": "game-design-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\cms-608-game-design\\work.json",
+      "custody_record": "sources\\mit\\ocw\\cms-608-game-design\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\cms-608-game-design\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-cms-608-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW pages, assignments, instructor insights, and download package are mapped; third-party readings, external games, and unavailable lecture audio remain metadata-only boundaries."
     }
   ]
 }

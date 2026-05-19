@@ -1,0 +1,79 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:cms-608-game-design-spring-2014",
+  "title": "CMS.608 / CMS.864 Game Design",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/",
+  "license_status": "cc-by-nc-sa-4.0-with-reading-and-external-game-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["game design", "non-digital games", "playtesting", "iteration", "game rules", "prototyping", "player experience"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:cms-608:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for the game-design support lane."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-608:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course meeting times, description, grading, team projects, written-rules criteria, and textbook boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-608:instructor-insights",
+      "kind": "instructor_insights",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/pages/instructor-insights/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW instructor insights on course overview, outcomes, assessment, students, class time, labs, workshops, and team roles."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-608:calendar",
+      "kind": "calendar",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/pages/calendar/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Integrated session plan with topics, assignments, labs, readings, game references, and audio availability notes."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-608:assignments",
+      "kind": "design_assignments",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/resources/mitcms_608s14_asigmentone/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative assignment PDF from the calendar; course includes three team game-design projects."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-608:written-rules-guide",
+      "kind": "style_guide",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/resources/mitcms_608s14_writtenguide/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Written Rules Style Guide PDF referenced by syllabus grading criteria."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-608:readings",
+      "kind": "readings",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/pages/readings/",
+      "fetch_policy": "metadata_only",
+      "notes": "Reading list maps sessions to third-party books/articles; treat as citation metadata unless a linked source has explicit open terms."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-608:lecture-audio",
+      "kind": "lecture_audio",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/pages/lecture-audio/",
+      "fetch_policy": "metadata_only",
+      "notes": "OCW declares lecture audio as a resource type, but current page notes audio is unavailable during platform transition."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-608:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/cms.608-spring-2014.zip",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course ZIP contains online course content and static resources."
+    }
+  ]
+}
