@@ -1186,6 +1186,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Software Foundations, PLFA, and Cousot abstract interpretation are metadata-only pending reuse review; PDFs, Scheme files, Coq/Rocq/Agda proof scripts, exercises, code, images, repositories, papers, talks, videos, downloads, textbook bodies, and linked external resources remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:logic-rewrite-solvers:constraint-rewrite",
+      "title": "Logic Programming, SMT/SAT, and Equality-Saturation Source Identities",
+      "domain": "logic-rewrite-solver-support",
+      "source_family": "logic-rewrite-solvers",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\logic-rewrite-solvers\\constraint-rewrite\\work.json",
+      "custody_record": "sources\\open-source\\logic-rewrite-solvers\\constraint-rewrite\\custody.md",
+      "inventory_record": "sources\\open-source\\logic-rewrite-solvers\\constraint-rewrite\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-logic-rewrite-solver-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "source-identity",
+      "crop_status": "source-identity",
+      "rights_boundary": "All rows are metadata-only pending documentation, benchmark, paper, generated-doc, demo, repository, package, and example-code reuse review; standards PDFs, benchmarks, solver sources, binaries, proceedings, slides, paper PDFs, examples, demos, generated docs, and linked assets remain boundary-checked."
     }
   ]
 }

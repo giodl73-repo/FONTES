@@ -1,0 +1,92 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:logic-rewrite-solvers:constraint-rewrite",
+  "title": "Logic Programming, SMT/SAT, and Equality-Saturation Source Identities",
+  "source_family": "logic-rewrite-solvers",
+  "source_type": "open-source-and-standard-documentation",
+  "canonical_url": "https://souffle-lang.github.io/",
+  "license_status": "documentation-license-review",
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["Datalog", "logic programming", "static analysis", "SMT", "SMT-LIB", "Z3", "SAT", "e-graphs", "equality saturation", "egg", "egglog", "rewrite systems", "congruence closure", "query planning", "compiler optimization"],
+  "sources": [
+    {
+      "id": "fontes:souffle:home",
+      "kind": "datalog_static_analysis_system",
+      "url": "https://souffle-lang.github.io/",
+      "fetch_policy": "metadata_only",
+      "notes": "Souffle source identity for Datalog-style logic-defined static analysis, large-scale analysis problems, points-to analysis, taint analysis, security checks, and translation to parallel C++; documentation bodies and code remain license-reviewed before extraction."
+    },
+    {
+      "id": "fontes:souffle:tutorial",
+      "kind": "datalog_tutorial_identity",
+      "url": "https://souffle-lang.github.io/tutorial",
+      "fetch_policy": "metadata_only",
+      "notes": "Souffle tutorial identity for Datalog as a declarative logic-based query language supporting recursive queries and applications in program analysis, security, graph databases, and declarative networking; examples and page body remain boundary-checked."
+    },
+    {
+      "id": "fontes:smt-lib:home",
+      "kind": "smt_standard_identity",
+      "url": "https://smt-lib.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "SMT-LIB standard identity for Satisfiability Modulo Theories, common input/output languages, theory/logics specifications, benchmarks, solver tools, and semantics documents; standards documents and benchmarks remain boundary-checked."
+    },
+    {
+      "id": "fontes:z3:repository",
+      "kind": "smt_theorem_prover_identity",
+      "url": "https://github.com/Z3Prover/z3",
+      "fetch_policy": "metadata_only",
+      "notes": "Z3 repository identity for the Microsoft Research theorem prover, MIT-licensed source, language bindings, releases, and Z3 Guide link; repository code, docs, images, binaries, and examples remain boundary-checked."
+    },
+    {
+      "id": "fontes:z3:guide",
+      "kind": "smt_solver_guide_identity",
+      "url": "https://microsoft.github.io/z3guide/",
+      "fetch_policy": "metadata_only",
+      "notes": "Microsoft Z3 Guide identity for user-facing solver documentation; guide body, examples, generated API docs, packages, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:sat-competition:2024",
+      "kind": "sat_solver_benchmark_identity",
+      "url": "https://satcompetition.github.io/2024/",
+      "fetch_policy": "metadata_only",
+      "notes": "SAT Competition 2024 identity for competitive SAT solver evaluation, benchmarks, solver tracks, results, metadata, and proceedings; downloads, solver sources, benchmarks, proceedings, and slides remain boundary-checked."
+    },
+    {
+      "id": "fontes:egraphs-good:home",
+      "kind": "egraph_project_identity",
+      "url": "https://egraphs-good.github.io/",
+      "fetch_policy": "metadata_only",
+      "notes": "Egraphs-good project identity for egg and egglog, e-graphs, equality saturation, program optimizers, synthesizers, Datalog-based e-graph systems, and community resources; docs, demos, papers, and code remain boundary-checked."
+    },
+    {
+      "id": "fontes:egg:docs-rs",
+      "kind": "egraph_library_api_identity",
+      "url": "https://docs.rs/egg/latest/egg/",
+      "fetch_policy": "metadata_only",
+      "notes": "egg Rust API documentation identity for an e-graph library optimized for equality saturation, tutorials, rewrite rules, runner/extractor workflow, and paper link; generated docs and examples remain boundary-checked."
+    },
+    {
+      "id": "fontes:egglog:tutorial",
+      "kind": "datalog_egraph_tutorial_identity",
+      "url": "https://egraphs-good.github.io/egglog-tutorial/01-basics.html",
+      "fetch_policy": "metadata_only",
+      "notes": "egglog tutorial identity for equality saturation using rewrite rules and e-graphs, including extraction and checks; tutorial text, examples, demos, and code remain boundary-checked."
+    },
+    {
+      "id": "fontes:cornell:eqsat",
+      "kind": "equality_saturation_paper_identity",
+      "url": "https://www.cs.cornell.edu/~ross/publications/eqsat/",
+      "fetch_policy": "metadata_only",
+      "notes": "Cornell equality-saturation paper page identity for optimization as equality analysis over a common IR, saturation, profitability extraction, and translation validation; paper PDF and page body remain boundary-checked."
+    },
+    {
+      "id": "fontes:arxiv:egg-2004-03082",
+      "kind": "egg_paper_identity",
+      "url": "https://arxiv.org/abs/2004.03082",
+      "fetch_policy": "metadata_only",
+      "notes": "arXiv identity for egg: Fast and Extensible Equality Saturation, describing e-graphs, congruence relations, equality saturation, rebuilding, e-class analyses, and compiler optimization use cases; PDF and source remain boundary-checked."
+    }
+  ]
+}
