@@ -1,0 +1,79 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:distributed-systems:consensus-replication",
+  "title": "Distributed Systems, Replication, Consensus, and Local-First Foundations",
+  "source_family": "distributed-systems",
+  "source_type": "open-education-and-project-documentation",
+  "canonical_url": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/",
+  "license_status": "mixed-open-education-project-and-paper-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["distributed systems", "fault tolerance", "replication", "consensus", "Paxos", "Raft", "viewstamped replication", "vector timestamps", "version vectors", "two-phase commit", "cache consistency", "memory consistency", "distributed storage", "transactions", "local-first software", "CRDTs"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-824:course",
+      "kind": "distributed_systems_course",
+      "url": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for distributed systems abstractions and implementation techniques, including server design, network programming, naming, storage systems, security, and fault tolerance."
+    },
+    {
+      "id": "fontes:mit:ocw:6-824:lecture-notes",
+      "kind": "distributed_systems_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for I/O concurrency, event-driven programming, NFS, RPC transparency, crash recovery, logging, cache consistency, memory consistency, vector timestamps/version vectors, two-phase commit, Paxos, viewstamped replication, Harp, Frangipani, scalable lookup, wide-area storage, content distribution, and distributed computing; PDFs and C source files remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-033:week-8",
+      "kind": "fault_tolerance_replication_week",
+      "url": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/week-8/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW week identity for fault tolerance via replication, distributed storage, and transaction atomicity/isolation lectures; slides, assignments, readings, and PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:pdos:6-5840",
+      "kind": "current_distributed_systems_course_identity",
+      "url": "https://pdos.csail.mit.edu/6.824/",
+      "fetch_policy": "metadata_only",
+      "notes": "Current MIT 6.5840/6.824 course identity for distributed systems engineering, fault tolerance, replication, consistency, labs, readings, exams, and historical archives; labs, readings, code, exams, and linked materials remain boundary-checked."
+    },
+    {
+      "id": "fontes:raft:home",
+      "kind": "consensus_algorithm_project_identity",
+      "url": "https://raft.github.io/",
+      "fetch_policy": "metadata_only",
+      "notes": "Official Raft project identity for an understandable consensus algorithm equivalent to Paxos in fault tolerance and performance, replicated state machines, majority availability, logs, visualizations, and publications; papers, visualizations, source code, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:lamport:paxos-simple",
+      "kind": "paxos_paper_identity",
+      "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "Lamport Paxos Made Simple paper identity for consensus source lineage; PDF body remains boundary-checked."
+    },
+    {
+      "id": "fontes:google:gfs",
+      "kind": "distributed_file_system_paper_identity",
+      "url": "https://research.google/pubs/the-google-file-system/",
+      "fetch_policy": "metadata_only",
+      "notes": "Google File System publication identity for scalable distributed file systems, fault tolerance on commodity hardware, aggregate performance, clients, storage clusters, interface extensions, design, and measurements; paper body and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:automerge:docs",
+      "kind": "local_first_crdt_project_identity",
+      "url": "https://automerge.org/docs/",
+      "fetch_policy": "metadata_only",
+      "notes": "Automerge documentation identity for local-first synchronization and CRDT-style data structures; generated docs, examples, code, packages, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:ink-switch:local-first",
+      "kind": "local_first_software_essay_identity",
+      "url": "https://www.inkandswitch.com/essay/local-first",
+      "fetch_policy": "metadata_only",
+      "notes": "Ink & Switch Local-first Software essay identity for collaboration, ownership, offline-capable local data, cloud-service tradeoffs, and local-first application design; essay body, images, diagrams, and linked assets remain boundary-checked."
+    }
+  ]
+}

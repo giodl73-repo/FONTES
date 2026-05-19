@@ -1234,6 +1234,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW pages are mapped as derived text; OpenIntro, Grinstead/Snell, Judson, and topology open-textbook identities are metadata-only pending reuse review; OCW PDFs, lecture videos, problem sets, exams, textbook PDFs, generated books, data files, exercises, diagrams, code, images, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:distributed-systems:consensus-replication",
+      "title": "Distributed Systems, Replication, Consensus, and Local-First Foundations",
+      "domain": "distributed-consensus-system-support",
+      "source_family": "distributed-systems",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\distributed-systems\\consensus-replication\\work.json",
+      "custody_record": "sources\\open-source\\distributed-systems\\consensus-replication\\custody.md",
+      "inventory_record": "sources\\open-source\\distributed-systems\\consensus-replication\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-distributed-consensus-systems-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; current MIT course pages, Raft/Paxos/GFS, Automerge, and local-first sources are metadata-only pending reuse review; OCW PDFs, C files, labs, assignments, readings, paper bodies, visualizations, examples, code, packages, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }
