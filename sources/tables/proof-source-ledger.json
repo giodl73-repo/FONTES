@@ -690,6 +690,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, calendar, projects, representative project PDFs, and download page are mapped; code bundles, lecture videos, media bytes, and sparse lecture notes remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:6-837-computer-graphics-fall-2012",
+      "title": "6.837 Computer Graphics",
+      "domain": "game-engine-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\6-837-computer-graphics\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-837-computer-graphics\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-837-computer-graphics\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-837-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, calendar, assignments, representative ray-tracing handout, and download page are mapped; starter code/resource bundles, Athena environment, and recommended textbooks remain boundary-checked."
     }
   ]
 }

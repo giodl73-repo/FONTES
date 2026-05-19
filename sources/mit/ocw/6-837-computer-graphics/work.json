@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-837-computer-graphics-fall-2012",
+  "title": "6.837 Computer Graphics",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/",
+  "license_status": "cc-by-nc-sa-4.0-with-code-bundle-and-textbook-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["computer graphics", "rendering", "ray tracing", "graphics pipeline", "texture mapping", "animation", "collision detection", "graphics hardware", "game engine support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-837:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for computer graphics algorithms, software, and hardware."
+    },
+    {
+      "id": "fontes:mit:ocw:6-837:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course goals, grading, prerequisites, assignment policy, collaboration policy, Athena boundary, and textbook recommendations."
+    },
+    {
+      "id": "fontes:mit:ocw:6-837:calendar",
+      "kind": "calendar",
+      "url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/calendar/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture sequence covering curves, transformations, modeling, animation, collision detection, ray tracing, shading, texture mapping, global illumination, pipeline, hardware, and games."
+    },
+    {
+      "id": "fontes:mit:ocw:6-837:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Programming assignment list with OCW-hosted handouts and starter-code/resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-837:ray-tracing-assignment",
+      "kind": "programming_assignment",
+      "url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/resources/mit6_837f12_assn5/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative OCW-hosted ray tracing handout PDF."
+    },
+    {
+      "id": "fontes:mit:ocw:6-837:assignment-code-bundles",
+      "kind": "code_bundles",
+      "url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/assignments/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Starter code, executables, model assets, and platform-specific bundles stay out of git and require downstream review before indexing."
+    },
+    {
+      "id": "fontes:mit:ocw:6-837:recommended-textbooks",
+      "kind": "recommended_textbooks",
+      "url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Recommended third-party graphics textbooks are citation metadata only."
+    },
+    {
+      "id": "fontes:mit:ocw:6-837:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains online course content and static resources."
+    }
+  ]
+}
