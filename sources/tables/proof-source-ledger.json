@@ -1282,6 +1282,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; OWASP, CWE, NIST, IETF, and Applied Cryptography book identities are metadata-only pending reuse review; OCW PDFs, problem sets, assignments, readings, third-party papers, standards bodies, RFC bodies, RFC code components, crypto-book PDFs, chapters, OWASP/CWE generated docs, repository content, translations, datasets, images, diagrams, examples, code, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:algorithms-data-structures:algorithm-design",
+      "title": "Algorithms, Data Structures, and Algorithm Design Foundations",
+      "domain": "algorithms-data-structures-support",
+      "source_family": "algorithms-data-structures",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\algorithms-data-structures\\algorithm-design\\work.json",
+      "custody_record": "sources\\open-source\\algorithms-data-structures\\algorithm-design\\custody.md",
+      "inventory_record": "sources\\open-source\\algorithms-data-structures\\algorithm-design\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-algorithms-data-structures-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; open textbook and booksite identities are metadata-only pending reuse review; OCW PDFs, videos, problem sets, exams, recitation notes, textbook PDFs, chapter PDFs, code, exercises, solutions, assignments, course archives, translations, images, diagrams, generated book assets, repositories, and linked assets remain boundary-checked."
     }
   ]
 }

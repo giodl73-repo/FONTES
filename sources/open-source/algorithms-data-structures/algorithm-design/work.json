@@ -1,0 +1,79 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:algorithms-data-structures:algorithm-design",
+  "title": "Algorithms, Data Structures, and Algorithm Design Foundations",
+  "source_family": "algorithms-data-structures",
+  "source_type": "open-education-and-book-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+  "license_status": "mixed-open-education-book-and-course-site-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["algorithms", "data structures", "algorithm analysis", "algorithm design", "sorting", "hashing", "balanced trees", "heaps", "graph algorithms", "shortest paths", "dynamic programming", "divide and conquer", "randomization", "greedy algorithms", "amortized analysis", "network flow", "linear programming", "approximation algorithms", "streaming algorithms", "external memory", "string algorithms"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-006:course",
+      "kind": "intro_algorithms_course",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for mathematical modeling of computational problems, common algorithms, algorithmic paradigms, data structures, performance measures, analysis techniques, and the relationship between algorithms and programming."
+    },
+    {
+      "id": "fontes:mit:ocw:6-006:lecture-notes",
+      "kind": "intro_algorithms_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note and recitation index for data structures, sorting, hashing, binary trees, AVL trees, heaps, BFS, DFS, weighted shortest paths, Bellman-Ford, Dijkstra, all-shortest paths, dynamic programming, subset sums, pseudopolynomial algorithms, and complexity; PDFs and videos remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-046j:course",
+      "kind": "algorithm_design_course",
+      "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW intermediate algorithms identity for design and analysis of efficient algorithms, divide and conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography."
+    },
+    {
+      "id": "fontes:mit:ocw:6-046j:lecture-notes",
+      "kind": "algorithm_design_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for interval scheduling, convex hulls, median finding, FFT, van Emde Boas trees, amortization, randomized matrix multiply, quicksort, skip lists, universal/perfect hashing, range trees, advanced dynamic programming, all-pairs shortest paths, MST, max-flow/min-cut, matching, linear programming, P/NP/NP-completeness, approximation, fixed-parameter algorithms, distributed algorithms, and cryptography; PDFs and videos remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-851:course",
+      "kind": "advanced_data_structures_course",
+      "url": "https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW advanced data structures identity for major results and research directions in data structures as efficient-algorithm building blocks; lecture notes, problem sets, and videos remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-854j:course",
+      "kind": "advanced_algorithms_course",
+      "url": "https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW graduate algorithms identity for amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, approximation algorithms, strings, network optimization, parallel algorithms, computational geometry, online algorithms, external memory, cache, streaming, and data structures."
+    },
+    {
+      "id": "fontes:erickson:algorithms",
+      "kind": "algorithms_textbook_identity",
+      "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/",
+      "fetch_policy": "metadata_only",
+      "notes": "Jeff Erickson Algorithms identity for a free electronic algorithms textbook and lecture-note collection; page states the textbook uses CC BY 4.0 and other notes use CC BY-NC-SA 4.0, but PDFs, exercises, translations, repositories, and course archives remain boundary-checked in this tranche."
+    },
+    {
+      "id": "fontes:morin:open-data-structures",
+      "kind": "data_structures_textbook_identity",
+      "url": "https://opendatastructures.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "Open Data Structures identity for sequences, queues, priority queues, dictionaries, graphs, stacks, lists, hash tables, search trees, integer searching, heaps, graph representations, and B-trees; text/source license appears permissive, but book/source extraction remains deferred to a dedicated reuse review."
+    },
+    {
+      "id": "fontes:princeton:algs4",
+      "kind": "algorithms_booksite_identity",
+      "url": "https://algs4.cs.princeton.edu/home/",
+      "fetch_policy": "metadata_only",
+      "notes": "Algorithms, 4th Edition booksite identity for fundamentals, sorting, searching, graphs, strings, and context, with excerpts, lectures, Java code, exercises, and assignments; online content, code, exercises, videos, and textbook material remain boundary-checked."
+    }
+  ]
+}
