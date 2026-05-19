@@ -1250,6 +1250,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; current MIT course pages, Raft/Paxos/GFS, Automerge, and local-first sources are metadata-only pending reuse review; OCW PDFs, C files, labs, assignments, readings, paper bodies, visualizations, examples, code, packages, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:systems-foundations:operating-systems-networking",
+      "title": "Operating Systems and Computer Networking Foundations",
+      "domain": "operating-networking-system-support",
+      "source_family": "systems-foundations",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\systems-foundations\\operating-systems-networking\\work.json",
+      "custody_record": "sources\\open-source\\systems-foundations\\operating-systems-networking\\custody.md",
+      "inventory_record": "sources\\open-source\\systems-foundations\\operating-systems-networking\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-operating-systems-networking-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; current MIT course pages, OSTEP, and RFCs are metadata-only pending reuse review; OCW PDFs, xv6 code/book, labs, homework, projects, readings, third-party papers, RFC bodies, RFC code components, OSTEP chapter PDFs, book assets, examples, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }

@@ -1,0 +1,93 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:systems-foundations:operating-systems-networking",
+  "title": "Operating Systems and Computer Networking Foundations",
+  "source_family": "systems-foundations",
+  "source_type": "open-education-standards-and-book-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/",
+  "license_status": "mixed-open-education-standards-book-and-course-site-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["operating systems", "kernels", "virtual memory", "threads", "context switches", "interrupts", "system calls", "interprocess communication", "file systems", "crash recovery", "computer networks", "routing", "congestion control", "quality of service", "DNS", "TCP", "IPv6", "QUIC", "HTTP", "TLS"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-828:course",
+      "kind": "operating_systems_course",
+      "url": "https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for operating-system design and implementation: virtual memory, threads, context switches, kernels, interrupts, system calls, interprocess communication, coordination, and hardware/software interaction."
+    },
+    {
+      "id": "fontes:mit:ocw:6-828:lecture-notes-readings",
+      "kind": "operating_systems_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/pages/lecture-notes-and-readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note and reading index for OS interfaces, PC hardware, system calls, virtual memory, interrupts, locking, scheduling, sleep/wakeup, file systems, crash recovery, journaling, OS organization, scalable locks, lock-free coordination, and virtual machines; PDFs, xv6 code/book, and third-party papers remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-829:course",
+      "kind": "computer_networks_course",
+      "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for global network infrastructure, design principles, implementation, analysis, evaluation, routing, congestion control, quality of service, mobile networking, router architectures, network-aware applications, content dissemination, security, and performance."
+    },
+    {
+      "id": "fontes:mit:ocw:6-829:lecture-notes",
+      "kind": "computer_networks_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for packet switching, internetworking, IP/TCP split, forwarding/routing, unicast routing, security, IPv6, congestion control, active queue management, fair queuing, QoS, P2P/DHTs, overlay routing, DNS, wireless/mobile networking, anonymity, multicast, scalability, and robustness; PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:pdos:6-s081",
+      "kind": "current_operating_systems_course_identity",
+      "url": "https://pdos.csail.mit.edu/6.S081/2020/",
+      "fetch_policy": "metadata_only",
+      "notes": "Current MIT 6.S081/6.828 lineage identity for introduction to operating systems and graduate operating-systems seminar split; current site, labs, code, readings, homework, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:ostep:book-site",
+      "kind": "operating_systems_book_identity",
+      "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "fetch_policy": "metadata_only",
+      "notes": "Operating Systems: Three Easy Pieces identity for virtualization, concurrency, persistence, scheduling, memory management, and persistent storage; chapter PDFs, homework, projects, images, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:ietf:rfc8200",
+      "kind": "internet_protocol_standard_identity",
+      "url": "https://www.rfc-editor.org/rfc/rfc8200.html",
+      "fetch_policy": "metadata_only",
+      "notes": "IPv6 specification identity; RFC text and code components are subject to IETF Trust legal provisions and remain boundary-checked."
+    },
+    {
+      "id": "fontes:ietf:rfc9293",
+      "kind": "transport_protocol_standard_identity",
+      "url": "https://www.rfc-editor.org/rfc/rfc9293.html",
+      "fetch_policy": "metadata_only",
+      "notes": "TCP specification identity; RFC text and code components are subject to IETF Trust legal provisions and remain boundary-checked."
+    },
+    {
+      "id": "fontes:ietf:rfc9000",
+      "kind": "transport_protocol_standard_identity",
+      "url": "https://www.rfc-editor.org/rfc/rfc9000.html",
+      "fetch_policy": "metadata_only",
+      "notes": "QUIC transport protocol identity for streams, flow control, low-latency connection establishment, path migration, and security measures; RFC text and code components remain boundary-checked."
+    },
+    {
+      "id": "fontes:ietf:rfc9110",
+      "kind": "application_protocol_standard_identity",
+      "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+      "fetch_policy": "metadata_only",
+      "notes": "HTTP Semantics identity for stateless application-level protocol architecture, terminology, extensibility, and URI schemes; RFC text and code components remain boundary-checked."
+    },
+    {
+      "id": "fontes:ietf:rfc8446",
+      "kind": "security_protocol_standard_identity",
+      "url": "https://www.rfc-editor.org/rfc/rfc8446.html",
+      "fetch_policy": "metadata_only",
+      "notes": "TLS 1.3 protocol identity for preventing eavesdropping, tampering, and message forgery; RFC text and code components remain boundary-checked."
+    }
+  ]
+}
