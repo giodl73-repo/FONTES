@@ -1074,6 +1074,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "Google Cloud Looker documentation is mapped under the published CC BY 4.0 documentation and Apache 2.0 code-sample posture unless otherwise noted; Malloy docs are metadata-only pending documentation-site reuse review; screenshots, diagrams, generated notebooks, example datasets, VS Code extension assets, code bodies, package artifacts, and releases remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:substrait:portable-plans",
+      "title": "Substrait Portable Query Plan Documentation",
+      "domain": "portable-query-plan-support",
+      "source_family": "substrait",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-source\\substrait\\portable-plans\\work.json",
+      "custody_record": "sources\\open-source\\substrait\\portable-plans\\custody.md",
+      "inventory_record": "sources\\open-source\\substrait\\portable-plans\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-substrait-portable-plans-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "Substrait specification pages are mapped for derived text; repository source, protobuf definitions, YAML extensions, examples, generated docs, test data, and release artifacts remain boundary-checked for provenance, notices, checksums, and redistribution."
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:substrait:portable-plans",
+  "title": "Substrait Portable Query Plan Documentation",
+  "source_family": "substrait",
+  "source_type": "open-source-specification",
+  "canonical_url": "https://substrait.io/",
+  "license_status": "open-source-specification-with-protobuf-and-release-boundaries",
+  "license_url": "https://github.com/substrait-io/substrait",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["Substrait", "portable query plans", "logical plans", "relations", "expressions", "types", "extensions", "protobuf", "text serialization", "binary serialization", "Calcite", "DataFusion"],
+  "sources": [
+    {"id": "fontes:substrait:home", "kind": "substrait_overview", "url": "https://substrait.io/", "fetch_policy": "derived_text_allowed", "notes": "Substrait overview for structured-data compute operations, cross-language interoperability, serialized plan representations, SQL parser to execution engine use cases, and heterogeneous execution."},
+    {"id": "fontes:substrait:specification", "kind": "substrait_specification", "url": "https://substrait.io/spec/specification/", "fetch_policy": "derived_text_allowed", "notes": "Specification component map for simple/compound types, type variations, user-defined types, field references, scalar/aggregate/window functions, relation basics, logical relations, text serialization, and binary serialization."},
+    {"id": "fontes:substrait:tutorial-sql-to-substrait", "kind": "sql_to_substrait_tutorial", "url": "https://substrait.io/tutorial/sql_to_substrait/", "fetch_policy": "derived_text_allowed", "notes": "Introductory tutorial for constructing a Substrait plan from SQL with types, schemas, expressions, extensions, relations, logical-plan structure, and protobuf JSON debug representation."},
+    {"id": "fontes:substrait:extensions", "kind": "substrait_extensions", "url": "https://substrait.io/extensions/", "fetch_policy": "derived_text_allowed", "notes": "Extension docs for custom data types, type variations, scalar/aggregate/window/table functions, YAML extension files, extension URNs, anchors, and interoperability beyond the base spec."},
+    {"id": "fontes:substrait:binary-serialization", "kind": "substrait_binary_serialization", "url": "https://substrait.io/serialization/binary_serialization/", "fetch_policy": "derived_text_allowed", "notes": "Binary serialization docs for protobuf Plan messages, extension URNs/declarations, relation trees, advanced extensions, dynamic parameters, type aliases, and execution behavior."},
+    {"id": "fontes:substrait:producer-tools", "kind": "substrait_producer_tools", "url": "https://substrait.io/tools/producer_tools/", "fetch_policy": "derived_text_allowed", "notes": "Producer tools page identifying Isthmus as SQL-to-Substrait Protobuf via the Calcite SQL compiler."},
+    {"id": "fontes:substrait:github", "kind": "substrait_source_boundary", "url": "https://github.com/substrait-io/substrait", "fetch_policy": "metadata_only", "notes": "Substrait source repository, protobuf definitions, YAML extensions, examples, generated docs, release artifacts, and test data remain boundary-checked for notices, checksums, and redistribution before caching."}
+  ]
+}
