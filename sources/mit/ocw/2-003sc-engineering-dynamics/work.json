@@ -1,0 +1,93 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:2-003sc-engineering-dynamics-fall-2011",
+  "title": "2.003SC Engineering Dynamics",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/",
+  "license_status": "cc-by-nc-sa-4.0-with-media-textbook-and-image-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["engineering dynamics", "kinematics", "rigid bodies", "rotating frames", "angular momentum", "Lagrange equations", "mechanical vibration", "game physics support", "simulation support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:2-003sc:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for dynamics and vibrations of lumped-parameter mechanical systems."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course components, prerequisites, grading, lecture/recitation/problem-set framing, and suggested textbook boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:resource-index",
+      "kind": "resource_index",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/resource-index/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW resource index linking session pages, assignments, lecture videos, recitation videos, and notes."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:newton-kinematics",
+      "kind": "session_page",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/newton2019s-laws-vectors-and-reference-frames/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative session page for Newton's laws, vectors, kinematics, and moving reference frames."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:rotational-motion",
+      "kind": "session_page",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/velocity-acceleration-and-rotational-motion/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative session page for velocity, acceleration, rotating frames, polar/cylindrical coordinates, and Coriolis force."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:lagrange-equations",
+      "kind": "session_page",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/lagrange-equations/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative session page for Lagrange equations, generalized coordinates, kinetic/potential energy, and cart-pendulum examples."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:mechanical-vibration",
+      "kind": "session_page",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/mechanical-vibration/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative session page for single-degree-of-freedom vibration, damping, natural frequency, and harmonic response."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:problem-set-surfaces",
+      "kind": "problem_sets",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/resource-index/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Resource-index links to OCW-hosted problem-set, concept-question, answer-key, and solution PDFs."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:video-surfaces",
+      "kind": "lecture_and_recitation_videos",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/resource-index/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Lecture and recitation video metadata is mapped; media bytes remain local-cache only."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:textbook-and-image-boundaries",
+      "kind": "recommended_textbooks_and_images",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Suggested textbooks and third-party illustrative images remain citation metadata only unless separately sourced."
+    },
+    {
+      "id": "fontes:mit:ocw:2-003sc:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains online course content and static resources, excluding audio/video materials."
+    }
+  ]
+}

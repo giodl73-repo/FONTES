@@ -754,6 +754,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, calendar, readings, assignments, projects, exams, and download page are mapped; video media bytes, MATLAB/code files, recommended textbooks, and external updated course-note links remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:2-003sc-engineering-dynamics-fall-2011",
+      "title": "2.003SC Engineering Dynamics",
+      "domain": "game-physics-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\2-003sc-engineering-dynamics\\work.json",
+      "custody_record": "sources\\mit\\ocw\\2-003sc-engineering-dynamics\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\2-003sc-engineering-dynamics\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-2-003sc-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, resource index, representative session pages, problem-set surfaces, and download page are mapped; lecture/recitation media bytes, suggested textbooks, and third-party illustrative images remain boundary-checked."
     }
   ]
 }
