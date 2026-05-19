@@ -189,7 +189,7 @@
       "work_record": "sources\\mit\\ocw\\18-06-linear-algebra\\work.json",
       "custody_record": "sources\\mit\\ocw\\18-06-linear-algebra\\custody.md",
       "inventory_record": "sources\\mit\\ocw\\18-06-linear-algebra\\inventory.md",
-      "fletch_registry": ".fletch\\registries\\fontes-mit-seed.json",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-18-06-surfaces.json",
       "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
       "pebble_status": "candidate",
       "crop_status": "candidate",
