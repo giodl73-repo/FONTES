@@ -1,0 +1,28 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:dbt-labs:semantic-layer-metricflow",
+  "title": "dbt Semantic Layer and MetricFlow Documentation",
+  "source_family": "dbt-labs",
+  "source_type": "open-source-and-vendor-documentation",
+  "canonical_url": "https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl",
+  "license_status": "mixed-dbt-docs-source-identity-and-metricflow-apache-2.0",
+  "license_url": "https://github.com/dbt-labs/metricflow/blob/main/LICENSE",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["dbt Semantic Layer", "MetricFlow", "semantic models", "metrics", "measures", "dimensions", "entities", "semantic graph", "join logic", "saved queries", "exports", "SQL generation"],
+  "sources": [
+    {"id": "fontes:dbt:semantic-layer:overview", "kind": "semantic_layer_overview", "url": "https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl", "fetch_policy": "metadata_only", "notes": "Official dbt Semantic Layer overview for centralized metric definitions, MetricFlow-powered SQL generation, downstream integrations, access-control posture, tiers, setup, deployment, caching, and consumption."},
+    {"id": "fontes:dbt:metricflow:about", "kind": "metricflow_concepts", "url": "https://docs.getdbt.com/docs/build/about-metricflow", "fetch_policy": "metadata_only", "notes": "Official MetricFlow concepts page for YAML abstractions, semantic graph, semantic models, metrics, SQL query construction, dbt/dbt Core usage, and MetricFlow Apache 2.0 license pointer."},
+    {"id": "fontes:dbt:semantic-models", "kind": "semantic_models", "url": "https://docs.getdbt.com/docs/build/semantic-models", "fetch_policy": "metadata_only", "notes": "Official semantic models page for YAML abstractions over dbt models, joining keys as graph edges, metadata, defaults, entities, dimensions, and measures."},
+    {"id": "fontes:dbt:entities", "kind": "entities", "url": "https://docs.getdbt.com/docs/build/entities", "fetch_policy": "metadata_only", "notes": "Official entities page for primary, unique, foreign, and natural entity types as join keys across semantic models."},
+    {"id": "fontes:dbt:dimensions", "kind": "dimensions", "url": "https://docs.getdbt.com/docs/build/dimensions", "fetch_policy": "metadata_only", "notes": "Official dimensions page for categorical/time dimensions, expressions, partition windows, time granularity, and SCD Type II validity windows."},
+    {"id": "fontes:dbt:measures", "kind": "measures", "url": "https://docs.getdbt.com/docs/build/measures", "fetch_policy": "metadata_only", "notes": "Official measures page for aggregations over model columns, measure names, expressions, aggregation time dimensions, non-additive dimensions, and percentile behavior."},
+    {"id": "fontes:dbt:metrics", "kind": "metrics", "url": "https://docs.getdbt.com/docs/build/metrics-overview", "fetch_policy": "metadata_only", "notes": "Official metrics overview for simple, cumulative, derived, ratio, and conversion metrics plus metric filters over entities, dimensions, time dimensions, and metrics."},
+    {"id": "fontes:dbt:join-logic", "kind": "join_logic", "url": "https://docs.getdbt.com/docs/build/join-logic", "fetch_policy": "metadata_only", "notes": "Official join-logic page for entity graph joins, left/full outer join strategies, fan-out/chasm avoidance, multi-hop joins, and semantic validation through explain queries."},
+    {"id": "fontes:dbt:saved-queries", "kind": "saved_queries", "url": "https://docs.getdbt.com/docs/build/saved-queries", "fetch_policy": "metadata_only", "notes": "Official saved-queries page for reusable MetricFlow query definitions, metrics/dimensions/filters, DAG visibility, caching, and export configuration."},
+    {"id": "fontes:dbt:exports", "kind": "exports", "url": "https://docs.getdbt.com/docs/use-dbt-semantic-layer/exports", "fetch_policy": "metadata_only", "notes": "Official exports page for materializing saved queries as tables or views in a data platform for tools without first-class Semantic Layer integrations."},
+    {"id": "fontes:dbt:semantic-layer:architecture", "kind": "semantic_layer_architecture", "url": "https://docs.getdbt.com/docs/use-dbt-semantic-layer/sl-architecture", "fetch_policy": "metadata_only", "notes": "Official architecture page for Semantic Layer components, SQL generation, data-platform query routing, supported interfaces, and diagrams/media boundaries."},
+    {"id": "fontes:dbt-labs:metricflow:github", "kind": "metricflow_source_identity", "url": "https://github.com/dbt-labs/metricflow", "fetch_policy": "derived_text_allowed", "notes": "MetricFlow repository README/source identity under Apache 2.0; describes semantic-layer metric definitions compiling into reusable SQL via dataflow-based query plans, optimizer, engine-specific rendering, multi-hop joins, complex metric types, and time-grain aggregation."}
+  ]
+}

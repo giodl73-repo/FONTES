@@ -1026,6 +1026,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "Apache Calcite documentation text is mapped for derived text under Apache 2.0 posture; source repository files, release tarballs, generated Javadocs, example code, adapter implementations, tests, dependencies, logos, and binary artifacts remain boundary-checked for provenance, notices, checksums, and redistribution before caching."
+    },
+    {
+      "work_id": "fontes:dbt-labs:semantic-layer-metricflow",
+      "title": "dbt Semantic Layer and MetricFlow Documentation",
+      "domain": "semantic-layer-metric-model-support",
+      "source_family": "dbt-labs",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\dbt-labs\\semantic-layer-metricflow\\work.json",
+      "custody_record": "sources\\open-source\\dbt-labs\\semantic-layer-metricflow\\custody.md",
+      "inventory_record": "sources\\open-source\\dbt-labs\\semantic-layer-metricflow\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-dbt-semantic-layer-metricflow-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "source-identity",
+      "crop_status": "source-identity",
+      "rights_boundary": "dbt documentation pages are mapped as metadata-only pending documentation reuse-terms review; MetricFlow repository identity is mapped under Apache 2.0 posture; screenshots, diagrams, videos, pricing/tier details, generated docs, code examples, package artifacts, dependency files, and release payloads remain boundary-checked."
     }
   ]
 }
