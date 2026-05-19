@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:nlp-computational-linguistics:language-understanding",
+  "title": "Natural Language Processing, Computational Linguistics, and Language Understanding Foundations",
+  "source_family": "nlp-computational-linguistics",
+  "source_type": "open-education-book-project-and-archive-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/",
+  "license_status": "mixed-open-education-book-course-archive-and-project-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["natural language processing", "computational linguistics", "language models", "large language models", "tokens", "embeddings", "transformers", "masked language models", "retrieval augmented generation", "machine translation", "speech recognition", "part-of-speech tagging", "named entities", "parsing", "dependency parsing", "information extraction", "semantic role labeling", "coreference resolution", "discourse", "dialogue", "summarization", "evaluation"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-864:course",
+      "kind": "advanced_nlp_course",
+      "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW graduate NLP course identity for human language from a computational perspective, syntactic/semantic/discourse models, machine-learning/corpus-based methods and algorithms, parsing, information extraction, statistical machine translation, dialogue systems, and summarization."
+    },
+    {
+      "id": "fontes:mit:ocw:6-864:lecture-notes",
+      "kind": "advanced_nlp_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for parsing, syntax, smoothed estimation, language modeling, EM, lexical similarity, log-linear models, tagging, grammar induction, discourse modeling, text segmentation, coherence/coreference, machine translation, graph-based NLP methods, word sense disambiguation, global linear models, dialogue, and summarization; PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-864:assignments",
+      "kind": "advanced_nlp_assignment_index",
+      "url": "https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Assignment index for NLP homework and supporting datasets/files around counts, lexical similarity, clustering, POS tagging, Viterbi tagging, scripts, and external resources; PDFs, GZ/TXT/TAR data, scripts, external tools, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:jurafsky-martin:slp3",
+      "kind": "nlp_textbook_identity",
+      "url": "https://web.stanford.edu/~jurafsky/slp3/",
+      "fetch_policy": "metadata_only",
+      "notes": "Speech and Language Processing third-edition draft identity for NLP, computational linguistics, speech recognition, language models, tokens, n-grams, classification, embeddings, neural networks, LLMs, transformers, alignment, masked LMs, IR/RAG, translation, speech, sequence labeling, parsing, information extraction, semantic roles, sentiment, coreference, discourse, conversation, HMMs, smoothing, and noisy-channel spelling; PDFs, slides, figures, bib files, old drafts, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:stanford:cs224n",
+      "kind": "neural_nlp_course_identity",
+      "url": "https://web.stanford.edu/class/cs224n/",
+      "fetch_policy": "metadata_only",
+      "notes": "Stanford CS224N identity for neural networks, deep learning for NLP, LLMs, language technology applications, assignments, projects, PyTorch, reference texts, public videos, and archived offerings; slides, assignments, videos, project reports, images, code, Canvas/Panopto content, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:acl:anthology",
+      "kind": "nlp_research_archive_identity",
+      "url": "https://aclanthology.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "ACL Anthology identity for computational linguistics/NLP research publications, with visible license distinctions for pre-2016 CC BY-NC-SA 3.0 materials and 2016+ CC BY 4.0 materials; papers, PDFs, metadata exports, proceedings, site source, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:huggingface:transformers-docs",
+      "kind": "transformer_model_framework_identity",
+      "url": "https://huggingface.co/docs/transformers/index",
+      "fetch_policy": "metadata_only",
+      "notes": "Hugging Face Transformers docs identity for model-definition framework across text, vision, audio, video, and multimodal models, inference/training, pipelines, Trainer, generation, pretrained models, and ecosystem integration; docs, code, model cards, checkpoints, datasets, images, tutorials, and Hub assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:eisenstein:nlp-course",
+      "kind": "nlp_course_notes_identity",
+      "url": "https://github.com/jacobeisenstein/gt-nlp-class",
+      "fetch_policy": "metadata_only",
+      "notes": "Jacob Eisenstein Natural Language Understanding course identity for data-driven NLP, linguistic concepts, statistical techniques, linguistic representations, machine-learning techniques, assigned projects, notes, and supplemental textbooks; repository content, notes PDFs, readings, homework, exams, code, and linked assets remain boundary-checked."
+    }
+  ]
+}

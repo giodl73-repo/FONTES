@@ -1330,6 +1330,22 @@
       "pebble_status": "source-identity",
       "crop_status": "source-identity",
       "rights_boundary": "All rows are metadata-only pending reuse review; book PDFs/HTML chapters, figures, slides, assignments, errata, generated JavaDoc, implementation docs, source code, examples, API pages, screenshots, benchmark outputs, datasets, proceedings, topics, qrels, runs, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:nlp-computational-linguistics:language-understanding",
+      "title": "Natural Language Processing, Computational Linguistics, and Language Understanding Foundations",
+      "domain": "nlp-computational-linguistics-support",
+      "source_family": "nlp-computational-linguistics",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\nlp-computational-linguistics\\language-understanding\\work.json",
+      "custody_record": "sources\\open-source\\nlp-computational-linguistics\\language-understanding\\custody.md",
+      "inventory_record": "sources\\open-source\\nlp-computational-linguistics\\language-understanding\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-nlp-computational-linguistics-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; SLP3, Stanford CS224N, ACL Anthology, Hugging Face Transformers, and Eisenstein course identities are metadata-only pending reuse review; OCW PDFs, problem sets, supporting data files, GZ/TXT/TAR resources, scripts, external tools, textbook PDFs, slides, figures, videos, assignments, project reports, model cards, checkpoints, datasets, paper PDFs, repository content, images, diagrams, generated docs, and linked assets remain boundary-checked."
     }
   ]
 }
