@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:microsoft-learn:analysis-services-olap",
+  "title": "Microsoft Learn SQL Server Analysis Services OLAP Cube Documentation",
+  "source_family": "microsoft-learn",
+  "source_type": "vendor-documentation",
+  "canonical_url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models-olap-logical-cube-objects/cube-objects-analysis-services-multidimensional-data?view=sql-analysis-services-2025",
+  "license_status": "microsoft-learn-documentation-with-media-code-and-sample-boundaries",
+  "license_url": "https://learn.microsoft.com/en-us/legal/termsofuse",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["OLAP", "cubes", "dimensions", "measure groups", "measures", "dimension relationships", "star schema", "snowflake schema", "degenerate dimensions", "many-to-many dimensions", "aggregations", "partitions"],
+  "sources": [
+    {
+      "id": "fontes:microsoft-learn:ssas:cube-objects",
+      "kind": "cube_objects",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models-olap-logical-cube-objects/cube-objects-analysis-services-multidimensional-data?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official SSAS cube object page defining cube basics, cube dimensions, and measure groups."
+    },
+    {
+      "id": "fontes:microsoft-learn:ssas:dimension-objects",
+      "kind": "dimension_objects",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models-olap-logical-dimension-objects/dimension-objects-analysis-services-multidimensional-data?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official SSAS dimension object page covering basic dimension information, attributes, hierarchies, star schema attribute relationships, and snowflake schema attribute relationships."
+    },
+    {
+      "id": "fontes:microsoft-learn:ssas:dimension-relationships",
+      "kind": "dimension_relationships",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models-olap-logical-cube-objects/dimension-relationships?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official SSAS dimension usage page covering regular, reference, fact/degenerate, and many-to-many dimension relationships."
+    },
+    {
+      "id": "fontes:microsoft-learn:ssas:measures-measure-groups",
+      "kind": "measures_and_measure_groups",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/measures-and-measure-groups?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official SSAS measures and measure groups page connecting measures to fact-table source columns and measure groups to fact tables."
+    },
+    {
+      "id": "fontes:microsoft-learn:ssas:aggregations",
+      "kind": "aggregations_and_aggregation_designs",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models-olap-logical-cube-objects/aggregations-and-aggregation-designs?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official SSAS aggregation page defining precalculated summaries, aggregation designs, granularity attributes, and storage/query tradeoffs."
+    },
+    {
+      "id": "fontes:microsoft-learn:ssas:partitions",
+      "kind": "partitions",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models-olap-logical-cube-objects/partitions-analysis-services-multidimensional-data?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official SSAS partition page covering measure-group data partitions, partition slicing, aggregation designs, and storage modes."
+    },
+    {
+      "id": "fontes:microsoft-learn:ssas:tutorial-assets-boundary",
+      "kind": "tutorial_media_sample_boundary",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-tutorial/multidimensional-modeling-adventure-works-tutorial?view=sql-analysis-services-2025",
+      "fetch_policy": "metadata_only",
+      "notes": "Tutorial screenshots, sample database assets, XMLA/MDX/code snippets, and downloadable payloads require separate media/code/sample review before extraction."
+    }
+  ]
+}

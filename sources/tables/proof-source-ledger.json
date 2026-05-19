@@ -946,6 +946,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "Apache Kylin text documentation is mapped for derived text under Apache project documentation licensing; screenshots, GIFs, embedded images/SVGs, UI captures, SQL snippets, example datasets, and downloadable/code-like artifacts remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:microsoft-learn:analysis-services-olap",
+      "title": "Microsoft Learn SQL Server Analysis Services OLAP Cube Documentation",
+      "domain": "data-warehouse-olap-implementation-support",
+      "source_family": "microsoft-learn",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-education\\microsoft-learn\\analysis-services-olap\\work.json",
+      "custody_record": "sources\\open-education\\microsoft-learn\\analysis-services-olap\\custody.md",
+      "inventory_record": "sources\\open-education\\microsoft-learn\\analysis-services-olap\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-microsoft-analysis-services-olap-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "Microsoft Learn SSAS documentation text is mapped for derived text with attribution/terms awareness; screenshots, diagrams, UI captures, tutorial sample databases, XMLA/MDX/code snippets, downloadable payloads, and GitHub documentation source remain boundary-checked."
     }
   ]
 }
