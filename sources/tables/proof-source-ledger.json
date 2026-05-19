@@ -1378,6 +1378,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Sutton/Barto, Stanford CS234, OpenAI Spinning Up, and Gymnasium identities are metadata-only pending reuse review; OCW PDFs, solution PDFs, problem-set PDFs, errata PDFs, textbook bodies, book PDFs, code, slides, teaching aids, notation files, literature PDFs, course assignments, exams, project materials, generated docs, tutorials, notebooks, environments, images, GIFs, package artifacts, datasets, trained policies, videos, diagrams, repositories, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:knowledge-planning-agents:representation-search-planning",
+      "title": "Knowledge Representation, Search, Planning, and Agent Reasoning Foundations",
+      "domain": "knowledge-planning-agent-support",
+      "source_family": "knowledge-planning-agents",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\knowledge-planning-agents\\representation-search-planning\\work.json",
+      "custody_record": "sources\\open-source\\knowledge-planning-agents\\representation-search-planning\\custody.md",
+      "inventory_record": "sources\\open-source\\knowledge-planning-agents\\representation-search-planning\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-knowledge-planning-agents-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; AIMA, AIMA Python, Planning.Wiki, and Fast Downward identities are metadata-only pending reuse review; OCW PDFs, lecture videos, problem-solving videos, programming assignments, problem sets, solutions, exams, course downloads, textbook bodies, book PDFs, exercises, figures, pseudocode PDFs, code repositories, notebooks, tests, examples, generated docs, planner source, planner binaries, benchmarks, PDDL examples, course-platform content, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }

@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:knowledge-planning-agents:representation-search-planning",
+  "title": "Knowledge Representation, Search, Planning, and Agent Reasoning Foundations",
+  "source_family": "knowledge-planning-agents",
+  "source_type": "open-education-book-course-and-planning-identity-surfaces",
+  "canonical_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
+  "license_status": "mixed-open-education-book-course-code-and-planning-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["artificial intelligence", "knowledge representation", "problem solving", "search", "logic agents", "first-order logic", "inference", "planning", "partial-order planning", "graphplan", "PDDL", "constraint satisfaction", "Bayesian networks", "decision making", "intelligent agents"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-034:course",
+      "kind": "intro_ai_course",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW introductory AI course identity for knowledge representation, problem solving, learning methods, intelligent systems, problem solving, vision, language, and computational perspectives on human intelligence."
+    },
+    {
+      "id": "fontes:mit:ocw:6-034:syllabus",
+      "kind": "intro_ai_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus surface for lecture/recitation/tutorial structure, collaboration policy, quizzes, problem sets, and grading; exams, videos, problem-set code, solutions, and downloads remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:6-825:course",
+      "kind": "techniques_ai_course",
+      "url": "https://ocw.mit.edu/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW graduate AI course identity for representation and inference in first-order logic, deterministic and decision-theoretic planning, supervised learning, and Bayesian network inference and learning."
+    },
+    {
+      "id": "fontes:mit:ocw:6-825:lecture-notes",
+      "kind": "techniques_ai_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for AI, problem solving and search, logic, satisfiability, first-order logic, resolution theorem proving, planning, partial-order planning, GraphPlan, probability, Bayesian networks, decision making under uncertainty, Markov decision processes, and reinforcement learning; PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:russell-norvig:aima",
+      "kind": "ai_textbook_identity",
+      "url": "https://aima.cs.berkeley.edu/",
+      "fetch_policy": "metadata_only",
+      "notes": "Artificial Intelligence: A Modern Approach identity for intelligent agents, search, adversarial search, constraint satisfaction, logic agents, first-order logic, inference, knowledge representation, automated planning, uncertainty, decisions, multiagent decision-making, machine learning, NLP, vision, robotics, ethics, and safety; book PDFs, exercises, figures, code, pseudocode, covers, bib files, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:aimacode:aima-python",
+      "kind": "ai_algorithm_code_identity",
+      "url": "https://github.com/aimacode/aima-python",
+      "fetch_policy": "metadata_only",
+      "notes": "AIMA Python repository identity for Python implementations of AIMA pseudocode, notebooks, tests, examples, and generated Python files; repository content, notebooks, code, tests, Binder environments, examples, and dependencies remain boundary-checked."
+    },
+    {
+      "id": "fontes:planningwiki:pddl",
+      "kind": "planning_pddl_reference_identity",
+      "url": "https://planning.wiki/",
+      "fetch_policy": "metadata_only",
+      "notes": "Planning.Wiki identity for AI planning, PDDL, planner references, examples, feature support, community resources, and International Planning Competition context; wiki bodies, examples, planner details, community links, and linked assets remain boundary-checked pending reuse review."
+    },
+    {
+      "id": "fontes:fast-downward:planner",
+      "kind": "automated_planner_identity",
+      "url": "https://www.fast-downward.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "Fast Downward planner identity for automated planning implementation provenance; documentation, source, examples, binaries, benchmarks, generated docs, and release artifacts remain boundary-checked."
+    }
+  ]
+}
