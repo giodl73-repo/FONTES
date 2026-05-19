@@ -930,6 +930,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Kimball web pages and book pages are mapped as source identities; user-owned book bodies, attached PDFs, spreadsheets, diagrams, design-tip bodies, utility files, and third-party resources remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:apache-kylin:olap-modeling",
+      "title": "Apache Kylin OLAP Modeling and Cube Index Documentation",
+      "domain": "data-warehouse-olap-implementation-support",
+      "source_family": "apache-kylin",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-education\\apache-kylin\\olap-modeling\\work.json",
+      "custody_record": "sources\\open-education\\apache-kylin\\olap-modeling\\custody.md",
+      "inventory_record": "sources\\open-education\\apache-kylin\\olap-modeling\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-apache-kylin-olap-modeling-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "Apache Kylin text documentation is mapped for derived text under Apache project documentation licensing; screenshots, GIFs, embedded images/SVGs, UI captures, SQL snippets, example datasets, and downloadable/code-like artifacts remain boundary-checked."
     }
   ]
 }

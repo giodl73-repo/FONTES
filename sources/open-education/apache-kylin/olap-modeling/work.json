@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:apache-kylin:olap-modeling",
+  "title": "Apache Kylin OLAP Modeling and Cube Index Documentation",
+  "source_family": "apache-kylin",
+  "source_type": "open-source-project-docs",
+  "canonical_url": "https://kylin.apache.org/docs/model/intro/",
+  "license_status": "apache-project-documentation-with-image-code-and-dataset-boundaries",
+  "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["OLAP", "cubes", "dimensions", "measures", "fact tables", "dimension tables", "star schema", "snowflake schema", "precomputation", "indexes", "cuboids", "joins", "slowly changing dimensions"],
+  "sources": [
+    {
+      "id": "fontes:apache-kylin:model-intro",
+      "kind": "model_intro",
+      "url": "https://kylin.apache.org/docs/model/intro/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official Kylin model introduction defining dimensions, measures, pre-computation, indexes/CUBEs, aggregate indexes, table indexes, and model/index/data-loading workflow."
+    },
+    {
+      "id": "fontes:apache-kylin:manual-modeling",
+      "kind": "manual_modeling",
+      "url": "https://kylin.apache.org/docs/model/manual/modeling/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official manual modeling guide covering fact tables, dimension/lookup tables, star and snowflake models, join relations, dimensions, measures, and loading configuration."
+    },
+    {
+      "id": "fontes:apache-kylin:measures",
+      "kind": "measures_reference",
+      "url": "https://kylin.apache.org/docs/model/features/measures/intro/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official measures reference for SUM, MAX, MIN, COUNT, TopN, exact and approximate count distinct, approximate percentile, and measure creation boundaries."
+    },
+    {
+      "id": "fontes:apache-kylin:computed-column",
+      "kind": "computed_column_reference",
+      "url": "https://kylin.apache.org/docs/model/manual/computed_column/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official computed-column modeling reference; computed columns can participate in dimensions and measures and require expression-level review."
+    },
+    {
+      "id": "fontes:apache-kylin:scd2",
+      "kind": "slowly_changing_dimension_reference",
+      "url": "https://kylin.apache.org/docs/model/features/scd2/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official SCD2 feature reference for non-equi joins and historical dimension handling; useful bridge from Kimball SCD vocabulary to OLAP implementation."
+    },
+    {
+      "id": "fontes:apache-kylin:quickstart-dataset-boundary",
+      "kind": "dataset_boundary",
+      "url": "https://kylin.apache.org/docs/quickstart/tutorial",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Quickstart SSB dataset and examples are useful for modeling context but dataset/code bytes require separate file and license review before caching or indexing."
+    },
+    {
+      "id": "fontes:apache-kylin:assets-boundary",
+      "kind": "image_code_ui_boundary",
+      "url": "https://kylin.apache.org/docs/model/manual/modeling/",
+      "fetch_policy": "metadata_only",
+      "notes": "Screenshots, GIFs, UI assets, embedded SVGs, SQL snippets, and linked code-like artifacts are mapped as boundaries until extraction policy is reviewed."
+    }
+  ]
+}
