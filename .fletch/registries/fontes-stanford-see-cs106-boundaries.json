@@ -1,0 +1,31 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Stanford SEE CS106 source-boundary map",
+  "registry_id": "fontes-stanford-see-cs106-boundaries",
+  "fletches": [
+    {
+      "id": "fontes.stanford-see.cs106a.course-page",
+      "node_kind": "fletch",
+      "label": "CS106A source-identity page",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS106A"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs106a-programming-methodology", "table_record": "sources\\tables\\stanford-see-cs106-boundaries.json", "row_id": "cs106a-course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "stanford-see", "cs106a", "course-page", "source-identity", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs106b.course-page",
+      "node_kind": "fletch",
+      "label": "CS106B source-identity page",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS106B"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs106b-programming-abstractions", "table_record": "sources\\tables\\stanford-see-cs106-boundaries.json", "row_id": "cs106b-course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "stanford-see", "cs106b", "course-page", "source-identity", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs106.boundaries-table",
+      "node_kind": "fletch",
+      "label": "CS106 normalized SEE source boundaries",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "table_record": "sources\\tables\\stanford-see-cs106-boundaries.json", "row_count": "2"},
+      "tags": ["fontes", "stanford-see", "cs106", "boundaries-table", "normalized-table", "source-identity"]
+    }
+  ]
+}

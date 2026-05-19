@@ -1,0 +1,33 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_ids": [
+    "fontes:stanford-see:cs106a-programming-methodology",
+    "fontes:stanford-see:cs106b-programming-abstractions"
+  ],
+  "row_grain": "one row per visible Stanford SEE CS106 source-identity boundary",
+  "rows": [
+    {
+      "surface_id": "cs106a-course-page",
+      "work_id": "fontes:stanford-see:cs106a-programming-methodology",
+      "title": "CS106A course_page",
+      "url": "https://see.stanford.edu/Course/CS106A",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "source-identity",
+      "notes": "Sparse visible SEE page; source identity only until stable materials/session URLs are found."
+    },
+    {
+      "surface_id": "cs106b-course-page",
+      "work_id": "fontes:stanford-see:cs106b-programming-abstractions",
+      "title": "CS106B course_page",
+      "url": "https://see.stanford.edu/Course/CS106B",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "source-identity",
+      "notes": "Sparse visible SEE page; source identity only until stable materials/session URLs are found."
+    }
+  ]
+}

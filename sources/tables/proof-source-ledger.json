@@ -498,6 +498,38 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "SEE non-video materials bundle-allowed; videos local-cache only; assignment support files require child-resource review before downstream package promotion."
+    },
+    {
+      "work_id": "fontes:stanford-see:cs106a-programming-methodology",
+      "title": "CS106A Programming Methodology",
+      "domain": "cs-software",
+      "source_family": "stanford-engineering-everywhere",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped",
+      "work_record": "sources\\open-education\\stanford-engineering-everywhere\\cs106a-programming-methodology\\work.json",
+      "custody_record": "sources\\open-education\\stanford-engineering-everywhere\\cs106a-programming-methodology\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-engineering-everywhere\\cs106a-programming-methodology\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-see-cs106-boundaries.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Sparse visible SEE source-identity page only; no stable course-material, assignment, session, video, or transcript surface captured."
+    },
+    {
+      "work_id": "fontes:stanford-see:cs106b-programming-abstractions",
+      "title": "CS106B Programming Abstractions",
+      "domain": "cs-software",
+      "source_family": "stanford-engineering-everywhere",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped",
+      "work_record": "sources\\open-education\\stanford-engineering-everywhere\\cs106b-programming-abstractions\\work.json",
+      "custody_record": "sources\\open-education\\stanford-engineering-everywhere\\cs106b-programming-abstractions\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-engineering-everywhere\\cs106b-programming-abstractions\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-see-cs106-boundaries.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Sparse visible SEE source-identity page only; no stable course-material, assignment, session, video, or transcript surface captured."
     }
   ]
 }
