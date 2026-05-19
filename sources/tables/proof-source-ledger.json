@@ -1410,6 +1410,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Hernan/Robins, DoWhy, and pgmpy identities are metadata-only pending reuse review; OCW PDFs, lecture videos, slides, readings, problem sets, recitation materials, solutions, exams, textbook bodies, book PDFs, code, datasets, notebooks, examples, generated docs, package artifacts, images, diagrams, model files, simulation outputs, repositories, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:responsible-ai-evaluation:model-dataset-risk",
+      "title": "Responsible AI, Model Documentation, Dataset Documentation, and Evaluation Foundations",
+      "domain": "responsible-ai-evaluation-support",
+      "source_family": "responsible-ai-evaluation",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\responsible-ai-evaluation\\model-dataset-risk\\work.json",
+      "custody_record": "sources\\open-source\\responsible-ai-evaluation\\model-dataset-risk\\custody.md",
+      "inventory_record": "sources\\open-source\\responsible-ai-evaluation\\model-dataset-risk\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-responsible-ai-evaluation-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "source-identity",
+      "crop_status": "source-identity",
+      "rights_boundary": "All rows are metadata-only pending reuse review; PDFs, framework profiles, playbook pages, model-card examples, datasheet templates, paper bodies, figures, benchmark datasets, benchmark outputs, model outputs, result tables, generated benchmark pages, task YAMLs, evaluation configs, repository code, docs, package artifacts, releases, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:responsible-ai-evaluation:model-dataset-risk",
+  "title": "Responsible AI, Model Documentation, Dataset Documentation, and Evaluation Foundations",
+  "source_family": "responsible-ai-evaluation",
+  "source_type": "risk-framework-paper-benchmark-and-tool-identities",
+  "canonical_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+  "license_status": "mixed-government-paper-benchmark-and-repository-boundaries",
+  "license_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["responsible AI", "AI risk management", "trustworthy AI", "model cards", "datasheets for datasets", "model evaluation", "benchmarking", "language model evaluation", "transparency", "intended use", "dataset provenance", "performance reporting", "safety evaluation", "generative AI risk"],
+  "sources": [
+    {
+      "id": "fontes:nist:ai-rmf",
+      "kind": "ai_risk_management_framework_identity",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "fetch_policy": "metadata_only",
+      "notes": "NIST AI Risk Management Framework identity for voluntary AI risk management, trustworthiness considerations, AI RMF 1.0, playbook, roadmap, crosswalks, AI resource center, and generative AI profile; PDFs, playbook pages, profiles, comments, translations, and linked resources remain boundary-checked."
+    },
+    {
+      "id": "fontes:nist:genai-profile",
+      "kind": "generative_ai_risk_profile_identity",
+      "url": "https://doi.org/10.6028/NIST.AI.600-1",
+      "fetch_policy": "metadata_only",
+      "notes": "NIST AI RMF Generative AI Profile identity for generative-AI risk management; PDF body, tables, appendices, figures, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:arxiv:model-cards",
+      "kind": "model_documentation_paper_identity",
+      "url": "https://arxiv.org/abs/1810.03993",
+      "fetch_policy": "metadata_only",
+      "notes": "Model Cards for Model Reporting identity for intended-use documentation, benchmarked evaluation across conditions and groups, evaluation procedure disclosure, and transparent model reporting; paper PDFs, figures, examples, cards, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:arxiv:datasheets-for-datasets",
+      "kind": "dataset_documentation_paper_identity",
+      "url": "https://arxiv.org/abs/1803.09010",
+      "fetch_policy": "metadata_only",
+      "notes": "Datasheets for Datasets identity for documenting dataset motivation, composition, collection process, recommended uses, operating characteristics, and transparency/accountability; paper PDFs, templates, examples, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:stanford-crfm:helm",
+      "kind": "language_model_benchmark_identity",
+      "url": "https://crfm.stanford.edu/helm/classic/latest/",
+      "fetch_policy": "metadata_only",
+      "notes": "HELM identity for holistic language-model evaluation as a living benchmark with broad coverage, incompleteness recognition, multi-metric measurements, standardization, and accessible data/analysis; benchmark data, model outputs, UI assets, generated pages, and linked resources remain boundary-checked."
+    },
+    {
+      "id": "fontes:eleutherai:lm-evaluation-harness",
+      "kind": "language_model_evaluation_harness_identity",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+      "fetch_policy": "metadata_only",
+      "notes": "Language Model Evaluation Harness identity for configurable evaluation tasks, CLI subcommands, model backends, Open LLM Leaderboard tasks, multimodal prototypes, API model support, prompt configuration, and output post-processing; repository content, task YAMLs, code, docs, datasets, results, and releases remain boundary-checked."
+    }
+  ]
+}
