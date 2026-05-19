@@ -1426,6 +1426,22 @@
       "pebble_status": "source-identity",
       "crop_status": "source-identity",
       "rights_boundary": "All rows are metadata-only pending reuse review; PDFs, framework profiles, playbook pages, model-card examples, datasheet templates, paper bodies, figures, benchmark datasets, benchmark outputs, model outputs, result tables, generated benchmark pages, task YAMLs, evaluation configs, repository code, docs, package artifacts, releases, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:information-theory-communication:entropy-coding-channels",
+      "title": "Information Theory, Coding, Compression, and Digital Communication Foundations",
+      "domain": "information-theory-communication-support",
+      "source_family": "information-theory-communication",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\information-theory-communication\\entropy-coding-channels\\work.json",
+      "custody_record": "sources\\open-source\\information-theory-communication\\entropy-coding-channels\\custody.md",
+      "inventory_record": "sources\\open-source\\information-theory-communication\\entropy-coding-channels\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-information-theory-communication-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Stanford EE376A, MacKay's textbook site, and the IEEE Shannon record are metadata-only pending reuse review; OCW lecture notes, problem sets, exams, open textbook assets, lecture videos, programming tasks, experiments, textbook PDFs, PostScript, EPUB, DJVU, text and figure downloads, paper bodies, paper PDFs, metadata exports, code, datasets, mirrors, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }

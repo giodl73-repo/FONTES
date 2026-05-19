@@ -1,0 +1,51 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:information-theory-communication:entropy-coding-channels",
+  "title": "Information Theory, Coding, Compression, and Digital Communication Foundations",
+  "source_family": "information-theory-communication",
+  "source_type": "open-education-book-course-and-article-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2016/",
+  "license_status": "mixed-open-education-book-course-and-paper-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["information theory", "entropy", "mutual information", "compression", "lossless coding", "lossy coding", "channel coding", "binary hypothesis testing", "digital communication", "bits", "signals", "packets", "error correction", "communication systems", "information representation", "inference"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-441:course",
+      "kind": "information_theory_course",
+      "url": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2016/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW graduate information-theory course identity for entropy, lossless data compression, binary hypothesis testing, channel coding, and lossy data compression; lecture notes and problem-set PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-02:course",
+      "kind": "digital_communication_course",
+      "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW digital communication systems course identity for bits, signals, packets, Internet-like communication abstractions, probabilistic analysis, superposition, time/frequency representations, system tradeoffs, programming tasks, and real-world communication channels."
+    },
+    {
+      "id": "fontes:stanford:ee376a",
+      "kind": "information_theory_course_identity",
+      "url": "https://web.stanford.edu/class/ee376a/",
+      "fetch_policy": "metadata_only",
+      "notes": "Stanford EE376A identity for measuring, representing, and communicating information, bits as information currency, entropy, mutual information, compression, error correction, inference, probability, statistics, machine learning, neural networks, genomics, quantum information, and blockchains; course bodies, videos, homework, projects, Piazza, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:mackay:information-theory-inference-learning",
+      "kind": "information_theory_textbook_identity",
+      "url": "https://www.inference.org.uk/itprnn/book.html",
+      "fetch_policy": "metadata_only",
+      "notes": "MacKay Information Theory, Inference, and Learning Algorithms identity with downloadable PDF/PostScript/EPUB/DJVU/text/figure assets and purchase links; book body, downloads, figures, source text, teaching assets, and linked mirrors remain boundary-checked pending reuse review."
+    },
+    {
+      "id": "fontes:ieee:shannon-mathematical-theory",
+      "kind": "information_theory_foundational_paper_identity",
+      "url": "https://ieeexplore.ieee.org/document/6773024",
+      "fetch_policy": "metadata_only",
+      "notes": "IEEE Xplore identity for Shannon's foundational information-theory paper record; paper body, PDF, metadata exports, references, figures, and platform assets remain boundary-checked."
+    }
+  ]
+}
