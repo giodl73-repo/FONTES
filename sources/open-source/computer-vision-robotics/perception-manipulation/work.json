@@ -1,0 +1,107 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:computer-vision-robotics:perception-manipulation",
+  "title": "Computer Vision, Perception, and Robotic Manipulation Foundations",
+  "source_family": "computer-vision-robotics",
+  "source_type": "open-education-book-course-and-framework-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/",
+  "license_status": "mixed-open-education-book-course-framework-and-project-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["computer vision", "machine vision", "image formation", "image analysis", "multi-view geometry", "optical flow", "neural scene representations", "diffusion models", "visual recognition", "deep learning for vision", "robotic manipulation", "robot perception", "3d geometry", "motion planning", "kinematics", "control", "simulation", "embodied agents"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-801:course",
+      "kind": "machine_vision_course",
+      "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW machine vision course identity for symbolic descriptions from images, image formation, image analysis, binary image processing, filtering, robotics applications, and intelligent machine-environment interaction."
+    },
+    {
+      "id": "fontes:mit:ocw:6-801:lecture-notes",
+      "kind": "machine_vision_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW lecture-note index for machine vision topics; PDF lecture notes, diagrams, images, examples, and linked assets remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-801:projects",
+      "kind": "machine_vision_project_index",
+      "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/pages/projects/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW project page for graduate final-project instructions and suggested topics; student submissions, code, data, and linked resources remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:6-8300:course",
+      "kind": "advanced_computer_vision_course",
+      "url": "https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW advanced computer vision course identity for image formation, representation theory, multi-view geometry, differentiable rendering, neural scene representations, correspondence, optical flow, point tracking, image/video generation, diffusion guidance, contrastive/masking representation learning, and vision for embodied agents."
+    },
+    {
+      "id": "fontes:mit:ocw:6-8300:external-course-site",
+      "kind": "advanced_computer_vision_external_site",
+      "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/",
+      "fetch_policy": "license_review",
+      "notes": "External course site links recordings, slides, problem sets, projects, and course platforms; do not treat as OCW-cleared corpus text until terms and child artifacts are reviewed."
+    },
+    {
+      "id": "fontes:mit:ocw:6-4210:course",
+      "kind": "robotic_manipulation_course",
+      "url": "https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW robotic manipulation course identity for autonomous manipulation in unstructured environments, perception using deep learning and 3D geometry, planning, kinematics, trajectory generation, collision-free motion planning, task-and-motion planning, uncertainty, dynamics, and control."
+    },
+    {
+      "id": "fontes:mit:ocw:6-4210:textbook",
+      "kind": "robotic_manipulation_textbook_identity",
+      "url": "https://manipulation.csail.mit.edu/",
+      "fetch_policy": "license_review",
+      "notes": "External robotic manipulation textbook identity; textbook pages, notebooks, code, figures, videos, simulation assets, and linked resources require dedicated reuse review."
+    },
+    {
+      "id": "fontes:szeliski:computer-vision-book",
+      "kind": "computer_vision_textbook_identity",
+      "url": "https://szeliski.org/Book/",
+      "fetch_policy": "metadata_only",
+      "notes": "Richard Szeliski Computer Vision: Algorithms and Applications identity; the site permits personal PDF download but says not to repost it, so book text, PDF, figures, slides, course links, and derived assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:stanford:cs231n",
+      "kind": "deep_learning_for_vision_course_identity",
+      "url": "https://cs231n.stanford.edu/",
+      "fetch_policy": "metadata_only",
+      "notes": "Stanford CS231n identity for deep learning architectures and end-to-end visual recognition tasks including image classification, localization, detection, training, fine-tuning, assignments, and projects; pages, assignments, code, datasets, demos, videos, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:opencv:docs",
+      "kind": "computer_vision_framework_docs_identity",
+      "url": "https://docs.opencv.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "OpenCV documentation identity for versioned Doxygen HTML and release documentation; generated docs, archives, source code, samples, images, binaries, and package artifacts remain boundary-checked."
+    },
+    {
+      "id": "fontes:ros:ros2-docs",
+      "kind": "robotics_middleware_docs_identity",
+      "url": "https://docs.ros.org/en/rolling/index.html",
+      "fetch_policy": "metadata_only",
+      "notes": "ROS 2 documentation identity for robot application libraries and tools, drivers, algorithms, developer tools, tutorials, concepts, package documentation, and citations; docs, packages, examples, generated docs, images, diagrams, and releases remain boundary-checked."
+    },
+    {
+      "id": "fontes:moveit:docs",
+      "kind": "robot_manipulation_framework_identity",
+      "url": "https://moveit.ai/",
+      "fetch_policy": "metadata_only",
+      "notes": "MoveIt identity for ROS motion planning, manipulation, kinematics, control, 3D perception, collision checking, setup, task construction, and grasp generation; docs, code, screenshots, demos, meshes, robot configs, and releases remain boundary-checked."
+    },
+    {
+      "id": "fontes:drake:docs",
+      "kind": "robotics_simulation_control_toolbox_identity",
+      "url": "https://drake.mit.edu/",
+      "fetch_policy": "metadata_only",
+      "notes": "Drake identity for C++/Python robot dynamics, control systems, optimization-based design and analysis, simulation, planning, control, examples, tutorials, and benchmarks; docs, notebooks, source, binaries, examples, images, and releases remain boundary-checked."
+    }
+  ]
+}

@@ -1346,6 +1346,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; SLP3, Stanford CS224N, ACL Anthology, Hugging Face Transformers, and Eisenstein course identities are metadata-only pending reuse review; OCW PDFs, problem sets, supporting data files, GZ/TXT/TAR resources, scripts, external tools, textbook PDFs, slides, figures, videos, assignments, project reports, model cards, checkpoints, datasets, paper PDFs, repository content, images, diagrams, generated docs, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:computer-vision-robotics:perception-manipulation",
+      "title": "Computer Vision, Perception, and Robotic Manipulation Foundations",
+      "domain": "computer-vision-robotics-support",
+      "source_family": "computer-vision-robotics",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\computer-vision-robotics\\perception-manipulation\\work.json",
+      "custody_record": "sources\\open-source\\computer-vision-robotics\\perception-manipulation\\custody.md",
+      "inventory_record": "sources\\open-source\\computer-vision-robotics\\perception-manipulation\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-computer-vision-robotics-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; external course sites, Szeliski, Stanford CS231n, OpenCV, ROS 2, MoveIt, and Drake identities are metadata-only or license-review pending reuse review; OCW PDFs, lecture notes, slides, recordings, problem sets, exams, projects, student work, code, notebooks, demos, videos, images, diagrams, screenshots, datasets, benchmarks, model weights, simulation assets, robot descriptions, meshes, generated docs, package artifacts, repositories, book bodies, textbook PDFs, and linked assets remain boundary-checked."
     }
   ]
 }
