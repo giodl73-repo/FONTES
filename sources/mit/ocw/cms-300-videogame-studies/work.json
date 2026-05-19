@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:cms-300-videogame-studies-fall-2011",
+  "title": "CMS.300 Introduction to Videogame Studies",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/",
+  "license_status": "cc-by-nc-sa-4.0-with-reading-and-game-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["videogame studies", "game analysis", "game culture", "game narrative", "game spaces", "player identity", "simulation", "game criticism"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:cms-300:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for interdisciplinary videogame studies."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-300:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course meeting times, summary, strategies, grading, assignment overview, attendance policy, and embedded 24-session calendar."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-300:lecture-notes",
+      "kind": "lecture_notes",
+      "url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note listing with 20 OCW-hosted PDF resources covering play, cybertexts, identity, narrative, simulation, aesthetics, violence, and journalism."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-300:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Assignment overview, game-selection advice, game-analysis guidelines, writing advice, written assignments, class presentation, and plagiarism policy."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-300:game-analysis-guidelines",
+      "kind": "analysis_guidelines",
+      "url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/pages/assignments/game-analysis/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW-hosted guidelines for analyzing a videogame or a specific game segment."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-300:readings",
+      "kind": "readings",
+      "url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/pages/readings/",
+      "fetch_policy": "metadata_only",
+      "notes": "Reading list contains MIT Press books, commercial books, journal articles, PDFs, and game-studies links; use as citation metadata unless individual resources have explicit reusable terms."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-300:games-and-labs",
+      "kind": "lab_games",
+      "url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Syllabus calendar references lab games, communal play, and student-selected games; game assets and third-party game content are metadata-only boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:cms-300:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/cms.300-fall-2011.zip",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course ZIP contains the online course content."
+    }
+  ]
+}

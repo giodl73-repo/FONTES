@@ -642,6 +642,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, calendar, assignments, instructor insights, representative assignment/template resources, and download page are mapped; external study materials and example student work remain metadata-only boundaries."
+    },
+    {
+      "work_id": "fontes:mit:ocw:cms-300-videogame-studies-fall-2011",
+      "title": "CMS.300 Introduction to Videogame Studies",
+      "domain": "game-design-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\cms-300-videogame-studies\\work.json",
+      "custody_record": "sources\\mit\\ocw\\cms-300-videogame-studies\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\cms-300-videogame-studies\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-cms-300-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, lecture notes, assignments, game-analysis guidance, and download package are mapped; readings, lab games, and third-party game content remain metadata-only boundaries."
     }
   ]
 }
