@@ -994,6 +994,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "Microsoft Learn DAX, Power BI, and Analysis Services Tabular documentation text is mapped for derived text with attribution/terms awareness; Microsoft Support Power Pivot pages, screenshots, animations, UI captures, installers, sample workbooks/models, downloadable payloads, code snippets, and internal Microsoft assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:microsoft-learn:mdx-cube-query",
+      "title": "Microsoft MDX Cube Query Documentation",
+      "domain": "data-warehouse-cube-query-support",
+      "source_family": "microsoft-learn",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-education\\microsoft-learn\\mdx-cube-query\\work.json",
+      "custody_record": "sources\\open-education\\microsoft-learn\\mdx-cube-query\\custody.md",
+      "inventory_record": "sources\\open-education\\microsoft-learn\\mdx-cube-query\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-microsoft-mdx-cube-query-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "Microsoft Learn MDX documentation text is mapped for derived text with attribution/terms awareness; MDX code examples, Adventure Works sample databases, screenshots, UI captures, downloadable tutorial assets, and local query traces remain boundary-checked."
     }
   ]
 }

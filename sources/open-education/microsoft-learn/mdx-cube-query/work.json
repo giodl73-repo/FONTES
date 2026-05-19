@@ -1,0 +1,93 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:microsoft-learn:mdx-cube-query",
+  "title": "Microsoft MDX Cube Query Documentation",
+  "source_family": "microsoft-learn",
+  "source_type": "vendor-documentation",
+  "canonical_url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-fundamentals-analysis-services?view=sql-analysis-services-2025",
+  "license_status": "microsoft-learn-documentation-with-code-sample-media-boundaries",
+  "license_url": "https://learn.microsoft.com/en-us/legal/termsofuse",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["MDX", "Multidimensional Expressions", "cube query language", "members", "tuples", "sets", "axes", "slicer axis", "calculated members", "named sets", "cell calculations", "multidimensional cubes", "SSAS"],
+  "sources": [
+    {
+      "id": "fontes:microsoft-learn:mdx:key-concepts",
+      "kind": "mdx_key_concepts",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/key-concepts-in-mdx-analysis-services?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX concept page for measures, dimensions, attributes, members, attribute hierarchies, navigation hierarchies, parent/leaf members, and precomputed aggregations."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:query-fundamentals",
+      "kind": "mdx_query_fundamentals",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-fundamentals-analysis-services?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX query fundamentals page for cube queries, multidimensional cellsets, query/slicer axes, cube context, named sets, calculated members, cell calculations, properties, data manipulation, writeback, variables, and parameters."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:basic-query",
+      "kind": "mdx_basic_query",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official basic MDX SELECT query page for axes, sets of members/tuples, FROM cube context, WHERE slicer axis, SELECT/FROM/WHERE syntax, and SQL contrast."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:members-tuples-sets",
+      "kind": "mdx_members_tuples_sets",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/working-with-members-tuples-and-sets-mdx?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX member, tuple, and set page for member functions, tuple functions, set functions, colon ranges, hierarchy functions, level functions, logical functions, numeric functions, and string functions."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:syntax-elements",
+      "kind": "mdx_syntax_elements",
+      "url": "https://learn.microsoft.com/en-us/sql/mdx/mdx-syntax-elements-mdx?view=sql-server-ver17",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX syntax elements page for identifiers, data types, expressions, operators, functions, comments, reserved keywords, members, tuples, and sets."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:expressions",
+      "kind": "mdx_expressions",
+      "url": "https://learn.microsoft.com/en-us/sql/mdx/expressions-mdx?view=sql-server-ver17",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX expressions page for constants, scalar functions, object identifiers, complex expressions, coercion, calculated measures, cube/subcube expressions, dimension/member/tuple/set/scalar expressions, and empty values."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:select-statement",
+      "kind": "mdx_select_statement",
+      "url": "https://learn.microsoft.com/en-us/sql/mdx/mdx-data-manipulation-select?view=sql-server-ver17",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX SELECT statement reference for WITH, CELL CALCULATION, MEMBER, SET, MEASURE, NON EMPTY, query axes, subcubes, slicer axes, cell/dimension/member properties, and Autoexists."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:function-reference",
+      "kind": "mdx_function_reference",
+      "url": "https://learn.microsoft.com/en-us/sql/mdx/mdx-function-reference-mdx?view=sql-server-ver17",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX function reference for array, hierarchy, level, logical, member, numeric, set, string, and tuple function families."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:calculated-members",
+      "kind": "mdx_calculated_members",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-calculated-members-building-calculated-members?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX calculated members page for query-scoped WITH members, session-scoped CREATE MEMBER, hierarchy placement, and dependencies among calculated members."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:named-sets",
+      "kind": "mdx_named_sets",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-named-sets-building-named-sets?view=sql-analysis-services-2025",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official MDX named sets page for reusable set expressions, aliases, query-scoped WITH sets, and session-scoped CREATE SET."
+    },
+    {
+      "id": "fontes:microsoft-learn:mdx:adventure-works-samples-boundary",
+      "kind": "sample_media_code_boundary",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/multidimensional-tutorial/multidimensional-modeling-adventure-works-tutorial?view=sql-analysis-services-2025",
+      "fetch_policy": "metadata_only",
+      "notes": "Adventure Works sample databases, screenshots, UI captures, MDX examples, downloads, and tutorial assets remain boundary-checked before extraction or caching."
+    }
+  ]
+}
