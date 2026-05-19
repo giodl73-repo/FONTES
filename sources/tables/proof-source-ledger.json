@@ -1522,6 +1522,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus/collection pages are mapped as derived text; problem sets, exams, readings, textbooks, case studies, team projects, spreadsheets, real-data files, walking-tour materials, public-meeting artifacts, lecture notes, examples, PDFs, images, diagrams, and linked third-party materials remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:public-health-biomedical-evidence:epidemiology-clinical-evidence",
+      "title": "Public Health, Epidemiology, Biostatistics, Biomedical Evidence, and Clinical-Trial Foundations",
+      "domain": "public-health-biomedical-evidence-support",
+      "source_family": "public-health-biomedical-evidence",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\public-health-biomedical-evidence\\epidemiology-clinical-evidence\\work.json",
+      "custody_record": "sources\\open-source\\public-health-biomedical-evidence\\epidemiology-clinical-evidence\\custody.md",
+      "inventory_record": "sources\\open-source\\public-health-biomedical-evidence\\epidemiology-clinical-evidence\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-public-health-biomedical-evidence-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; CDC, PubMed, NCBI Entrez, and ClinicalTrials.gov are metadata-only identities pending reuse review; manuscript bodies, textbooks, PDFs, lectures, videos, problem sets, solutions, software, mortality data, patient/clinic materials, clinical-trial records, API outputs, abstracts, full text, database records, figures, tables, examples, and exports remain boundary-checked."
     }
   ]
 }

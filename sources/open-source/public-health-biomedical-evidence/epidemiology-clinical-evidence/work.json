@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:public-health-biomedical-evidence:epidemiology-clinical-evidence",
+  "title": "Public Health, Epidemiology, Biostatistics, Biomedical Evidence, and Clinical-Trial Foundations",
+  "source_family": "public-health-biomedical-evidence",
+  "source_type": "open-education-course-and-biomedical-data-identity-boundaries",
+  "canonical_url": "https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/",
+  "license_status": "mixed-open-education-biomedical-data-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["epidemiology", "public health", "biostatistics", "biomedical evidence", "molecular biology", "genetics", "clinical evidence", "mortality data", "environmental health", "toxicology", "risk assessment", "disease risk", "clinical trials", "PubMed", "Entrez", "research literature", "trial protocols", "trial results"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:20-102:syllabus",
+      "kind": "macroepidemiology_syllabus",
+      "url": "https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW macroepidemiology syllabus identity for analyzing common diseases, contested genetic/environmental risk assumptions, recommended manuscripts, mortality-data analysis, Cancer Fit software reference, analytical term paper, oral presentation, participation, problem sets, and paper installments."
+    },
+    {
+      "id": "fontes:mit:ocw:20-104j:syllabus",
+      "kind": "toxicology_public_health_syllabus",
+      "url": "https://ocw.mit.edu/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW toxicology and public health syllabus identity for epidemiology, biostatistics, environmental exposure, toxicological mechanisms, quantitative risk assessment, uncertainty, problem sets, quizzes, and team projects on environmental agents and adverse health effects."
+    },
+    {
+      "id": "fontes:mit:ocw:hst-161:syllabus",
+      "kind": "molecular_medicine_genetics_syllabus",
+      "url": "https://ocw.mit.edu/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW molecular biology and genetics in modern medicine syllabus identity for genetics, molecular biology, medical knowledge, patient perspectives, primary literature, problem solving, discussion of primary data, clinical projects, clinic sessions, and clinician/scientist interactions."
+    },
+    {
+      "id": "fontes:mit:ocw:7-01sc:course",
+      "kind": "biology_foundations_course",
+      "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW fundamentals of biology course identity for core biology learning resources including lecture notes, lecture videos, tutorial videos, problem sets, solutions, exams, and exam solutions; detailed notes, videos, problem sets, and solution bodies remain boundary-checked."
+    },
+    {
+      "id": "fontes:cdc:principles-epidemiology",
+      "kind": "applied_epidemiology_public_health_practice_identity",
+      "url": "https://stacks.cdc.gov/view/cdc/13178",
+      "fetch_policy": "metadata_only",
+      "notes": "CDC Stacks identity for Principles of Epidemiology in Public Health Practice, an applied epidemiology and biostatistics self-study course; PDF/book body, figures, tables, examples, exercises, and downloads remain boundary-checked until reuse review."
+    },
+    {
+      "id": "fontes:ncbi:pubmed-user-guide",
+      "kind": "biomedical_literature_search_identity",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/help/",
+      "fetch_policy": "metadata_only",
+      "notes": "PubMed User Guide identity for biomedical literature search, citation retrieval, filters, clinical queries, systematic reviews, medical genetics information, full-text linkout behavior, alerts, export, and download guidance; indexed citations, abstracts, full text, linked records, and exports remain boundary-checked."
+    },
+    {
+      "id": "fontes:ncbi:entrez-overview",
+      "kind": "biomedical_database_retrieval_identity",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK3837/",
+      "fetch_policy": "metadata_only",
+      "notes": "NCBI Entrez overview identity for integrated literature and molecular databases including DNA/protein sequence, structure, gene, genome, variation, expression, BioProject, BioSample, Bookshelf, ClinVar, filters, search history, and inter-database links; database records and book bodies remain boundary-checked."
+    },
+    {
+      "id": "fontes:clinicaltrials-gov:data-api",
+      "kind": "clinical_trial_registry_api_identity",
+      "url": "https://clinicaltrials.gov/data-api/about",
+      "fetch_policy": "metadata_only",
+      "notes": "ClinicalTrials.gov Data API identity for clinical-trial protocol/results data and v2 study records; API schemas, study records, protocol sections, results sections, outcome data, adverse-event data, downloads, and derived datasets remain boundary-checked until exact reuse review."
+    }
+  ]
+}
