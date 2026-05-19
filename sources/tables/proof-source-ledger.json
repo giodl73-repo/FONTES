@@ -882,6 +882,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, lecture notes, assignments, instructor insights, and download page are mapped; student code/programming work, exam payloads not separately mapped, and linked prerequisite/comparison courses remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:18-335j-introduction-numerical-methods-spring-2019",
+      "title": "18.335J Introduction to Numerical Methods",
+      "domain": "simulation-numerics-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\18-335j-introduction-numerical-methods\\work.json",
+      "custody_record": "sources\\mit\\ocw\\18-335j-introduction-numerical-methods\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\18-335j-introduction-numerical-methods\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-18-335j-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, resource index, representative lecture pages, handouts, problem sets, exam PDFs, solutions, and download page are mapped; Julia notebooks, GitHub/nbviewer content, external texts, final project implementations, external diagrams, and third-party resource links remain boundary-checked."
     }
   ]
 }

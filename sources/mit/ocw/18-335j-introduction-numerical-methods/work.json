@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:18-335j-introduction-numerical-methods-spring-2019",
+  "title": "18.335J Introduction to Numerical Methods",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/",
+  "license_status": "cc-by-nc-sa-4.0-with-code-notebook-textbook-exam-project-and-external-resource-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["numerical methods", "numerical linear algebra", "floating point arithmetic", "backwards error analysis", "conditioning", "stability", "iterative methods", "optimization", "FFT", "simulation support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:18-335j:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for advanced numerical analysis focused on accuracy and efficiency."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Prerequisites, numerical linear algebra topic scope, Julia programming posture, textbook/readings boundary, requirements, final project, and grading."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:resource-index",
+      "kind": "resource_index",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/resource-index/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Unified OCW index for lecture pages, handouts, notebooks, problem sets, exam PDFs, and solutions."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:week-1",
+      "kind": "lecture_page",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/week-1/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative lecture page for Newton root-finding, floating-point arithmetic, handouts, notebook links, problem set 1, and external readings."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:week-14",
+      "kind": "lecture_page",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/week-14/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative lecture page for DFT, FFT algorithms, FFTW, spectral-method applications, and handout PDFs."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:notebook-code-boundary",
+      "kind": "notebooks_and_code",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/resource-index/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Julia notebooks, GitHub-hosted notebooks, code examples, and final project implementations require downstream code review before indexing or bundling."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:textbook-boundary",
+      "kind": "required_and_additional_texts",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/syllabus/",
+      "fetch_policy": "metadata_only",
+      "notes": "Required and additional numerical linear algebra texts, Netlib templates, and external textbook resources remain citation metadata only."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:exam-project-boundary",
+      "kind": "exams_and_final_project",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/resource-index/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW-hosted exam and solution PDFs are mapped; student final project papers/code and reused external diagrams remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:external-resource-boundary",
+      "kind": "external_resources",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/resource-index/",
+      "fetch_policy": "metadata_only",
+      "notes": "External nbviewer, GitHub, Wikipedia, Julia, SIAM, Netlib, and software links are citation metadata only unless separately sourced."
+    },
+    {
+      "id": "fontes:mit:ocw:18-335j:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains online course content and static resources."
+    }
+  ]
+}
