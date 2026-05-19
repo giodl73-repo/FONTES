@@ -1,0 +1,107 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:security-cryptography:systems-and-crypto",
+  "title": "Computer Security, Web Security, and Cryptography Foundations",
+  "source_family": "security-cryptography",
+  "source_type": "open-education-standards-and-project-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/",
+  "license_status": "mixed-open-education-standards-project-and-book-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["computer security", "systems security", "network security", "web security", "cryptography", "cryptanalysis", "threat models", "capabilities", "information flow control", "sandboxing", "authentication", "side channels", "secure hash algorithms", "AES", "HTTP security", "TLS", "application security", "software weaknesses"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-858:course",
+      "kind": "computer_systems_security_course",
+      "url": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for secure computer-system design and implementation, including threat models, attacks, OS security, capabilities, information flow control, language security, network protocols, hardware security, and web-application security."
+    },
+    {
+      "id": "fontes:mit:ocw:6-858:lecture-notes",
+      "kind": "computer_systems_security_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for threat models, control hijacking, buffer overflow exploits and defenses, privilege separation, capabilities, native-code sandboxing, web security, network security, network protocols, SSL/HTTPS, side channels, user authentication, private browsing, mobile security, data tracking, and security economics; PDFs and media remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-858:readings",
+      "kind": "computer_systems_security_reading_index",
+      "url": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Reading index for systems-security research papers and related source identities, including bounds checking, blind return-oriented attacks, privilege separation, capabilities, sandboxing, OWASP Top 10, Django security, symbolic execution, network security, Kerberos, HTTPS, and related reading-question boundaries; third-party papers and PDFs remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:6-857:course",
+      "kind": "network_and_computer_security_course",
+      "url": "https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for network and computer security, cryptography, computer networks, security studies, problem sets, programming assignments, and projects; individual PDFs and assignments remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-875:course",
+      "kind": "cryptography_course",
+      "url": "https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for modern cryptography, public-key encryption, digital signatures, pseudorandom number generation, basic protocols, and computational-complexity requirements; problem sets remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:boneh-shoup:applied-cryptography",
+      "kind": "applied_cryptography_book_identity",
+      "url": "https://crypto.stanford.edu/~dabo/cryptobook/",
+      "fetch_policy": "metadata_only",
+      "notes": "A Graduate Course in Applied Cryptography identity for secret-key cryptography, public-key cryptography, protocols, zero knowledge, authenticated key exchange, secure computation, number theory, probability, complexity, and probabilistic algorithms; PDFs and chapter text remain boundary-checked."
+    },
+    {
+      "id": "fontes:owasp:top-ten",
+      "kind": "web_application_security_project_identity",
+      "url": "https://owasp.org/www-project-top-ten/",
+      "fetch_policy": "metadata_only",
+      "notes": "OWASP Top Ten identity for broad developer consensus on critical web-application security risks and secure-coding culture; project docs, translations, PDFs, repository content, and generated pages remain boundary-checked."
+    },
+    {
+      "id": "fontes:owasp:cheat-sheet-series",
+      "kind": "application_security_guidance_project_identity",
+      "url": "https://cheatsheetseries.owasp.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "OWASP Cheat Sheet Series identity for concise application-security guidance across specific topics; bundle, repository, images, generated docs, and individual cheat sheets remain boundary-checked."
+    },
+    {
+      "id": "fontes:mitre:cwe-top-25",
+      "kind": "software_weakness_taxonomy_identity",
+      "url": "https://cwe.mitre.org/top25/archive/2024/2024_cwe_top25.html",
+      "fetch_policy": "metadata_only",
+      "notes": "CWE Top 25 identity for common and impactful software weaknesses, vulnerability-reduction guidance, trend analysis, exploitability insight, and risk prioritization; CWE lists, data, images, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:nist:fips-197",
+      "kind": "cryptographic_algorithm_standard_identity",
+      "url": "https://csrc.nist.gov/pubs/fips/197/final",
+      "fetch_policy": "metadata_only",
+      "notes": "NIST FIPS 197 AES identity for block-cipher confidentiality and encryption; publication PDFs, diagrams, references, and supplemental assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:nist:fips-180-4",
+      "kind": "cryptographic_hash_standard_identity",
+      "url": "https://csrc.nist.gov/pubs/fips/180-4/upd1/final",
+      "fetch_policy": "metadata_only",
+      "notes": "NIST FIPS 180-4 Secure Hash Standard identity for hash algorithms and message digests used to detect message changes; publication PDFs and supplemental assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:nist:sp-800-53",
+      "kind": "security_controls_catalog_identity",
+      "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
+      "fetch_policy": "metadata_only",
+      "notes": "NIST SP 800-53 Rev. 5 identity for security and privacy controls for information systems and organizations; PDFs, spreadsheets, OSCAL content, mappings, and supplemental files remain boundary-checked."
+    },
+    {
+      "id": "fontes:ietf:rfc9380",
+      "kind": "cryptographic_protocol_research_identity",
+      "url": "https://www.rfc-editor.org/rfc/rfc9380.html",
+      "fetch_policy": "metadata_only",
+      "notes": "RFC 9380 identity for hashing arbitrary strings to elliptic-curve points, domain separation, and CFRG research output; RFC body and code components remain boundary-checked."
+    }
+  ]
+}

@@ -1266,6 +1266,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; current MIT course pages, OSTEP, and RFCs are metadata-only pending reuse review; OCW PDFs, xv6 code/book, labs, homework, projects, readings, third-party papers, RFC bodies, RFC code components, OSTEP chapter PDFs, book assets, examples, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:security-cryptography:systems-and-crypto",
+      "title": "Computer Security, Web Security, and Cryptography Foundations",
+      "domain": "security-cryptography-system-support",
+      "source_family": "security-cryptography",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\security-cryptography\\systems-and-crypto\\work.json",
+      "custody_record": "sources\\open-source\\security-cryptography\\systems-and-crypto\\custody.md",
+      "inventory_record": "sources\\open-source\\security-cryptography\\systems-and-crypto\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-security-cryptography-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; OWASP, CWE, NIST, IETF, and Applied Cryptography book identities are metadata-only pending reuse review; OCW PDFs, problem sets, assignments, readings, third-party papers, standards bodies, RFC bodies, RFC code components, crypto-book PDFs, chapters, OWASP/CWE generated docs, repository content, translations, datasets, images, diagrams, examples, code, and linked assets remain boundary-checked."
     }
   ]
 }
