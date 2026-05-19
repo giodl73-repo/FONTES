@@ -1,0 +1,13 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-19",
+  "work_id": "fontes:cube-dev:semantic-layer",
+  "row_grain": "one row per mapped Cube documentation or source-identity surface",
+  "rows": [
+    {"surface_id": "introduction", "title": "cube_semantic_layer_introduction", "url": "https://cube.dev/docs/product/introduction", "owner": "Cube Dev", "license_status": "cube-docs-rights-review", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Open-source semantic layer overview, AI agents, Semantic SQL, governed query proxy, deterministic access control, code-first model management, and architecture."},
+    {"surface_id": "data-modeling-concepts", "title": "cube_data_modeling_concepts", "url": "https://cube.dev/docs/product/data-modeling/concepts", "owner": "Cube Dev", "license_status": "cube-docs-rights-review", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Cubes, members, dimensions, measures, segments, joins, views, pre-aggregations, dynamic models, and OLAP terminology."},
+    {"surface_id": "pre-aggregations", "title": "cube_pre_aggregations", "url": "https://cube.dev/docs/product/caching/using-pre-aggregations", "owner": "Cube Dev", "license_status": "cube-docs-rights-review", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Aggregate awareness, materialized query results, pre-aggregation matching, rollup-only mode, refresh strategy, and source-protection behavior."},
+    {"surface_id": "rest-query-format", "title": "cube_rest_query_format", "url": "https://cube.dev/docs/product/apis-integrations/rest-api/query-format", "owner": "Cube Dev", "license_status": "cube-docs-rights-review", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Structured REST query objects over measures, dimensions, filters, time dimensions, segments, limits, totals, order, timezone, refresh, ungrouped queries, and join hints."},
+    {"surface_id": "cube-core-github", "title": "cube_core_github", "url": "https://github.com/cube-js/cube", "owner": "Cube Dev", "license_status": "open-source-source-identity-with-release-boundaries", "fetch_policy": "derived_text_allowed", "proof_status": "candidate", "notes": "Cube Core repository identity for headless semantic layer, REST/GraphQL/SQL APIs, SQL data-source support, relational caching, embedded analytics, BI, and AI-agent data context."}
+  ]
+}

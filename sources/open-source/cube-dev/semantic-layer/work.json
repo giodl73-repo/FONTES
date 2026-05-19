@@ -1,0 +1,21 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:cube-dev:semantic-layer",
+  "title": "Cube Semantic Layer Documentation",
+  "source_family": "cube-dev",
+  "source_type": "open-source-and-vendor-documentation",
+  "canonical_url": "https://cube.dev/docs/product/introduction",
+  "license_status": "mixed-cube-docs-source-identity-and-cube-core-source-boundary",
+  "license_url": "https://github.com/cube-js/cube",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["Cube", "Cube Core", "semantic layer", "Semantic SQL", "cubes", "measures", "dimensions", "segments", "pre-aggregations", "REST API", "GraphQL API", "SQL API", "AI analytics"],
+  "sources": [
+    {"id": "fontes:cube-dev:docs:introduction", "kind": "cube_semantic_layer_overview", "url": "https://cube.dev/docs/product/introduction", "fetch_policy": "metadata_only", "notes": "Cube overview for open-source semantic layer, AI agents, Semantic SQL, code-first semantic models, governed query proxy, deterministic access control, and semantic-layer architecture."},
+    {"id": "fontes:cube-dev:docs:data-modeling-concepts", "kind": "cube_data_modeling_concepts", "url": "https://cube.dev/docs/product/data-modeling/concepts", "fetch_policy": "metadata_only", "notes": "Cube modeling concepts for cubes, members, dimensions, measures, segments, joins, views, pre-aggregations, dynamic data models, and OLAP terminology."},
+    {"id": "fontes:cube-dev:docs:pre-aggregations", "kind": "cube_pre_aggregations", "url": "https://cube.dev/docs/product/caching/using-pre-aggregations", "fetch_policy": "metadata_only", "notes": "Cube pre-aggregation docs for aggregate awareness, materialized query results, matching rules, rollup-only mode, refresh strategies, and warehouse-protection behavior."},
+    {"id": "fontes:cube-dev:docs:rest-query-format", "kind": "cube_rest_query_format", "url": "https://cube.dev/docs/product/apis-integrations/rest-api/query-format", "fetch_policy": "metadata_only", "notes": "Cube REST query format for measures, dimensions, filters, time dimensions, segments, limits, totals, ordering, timezone, renewQuery, ungrouped queries, and join hints."},
+    {"id": "fontes:cube-dev:github:cube-core", "kind": "cube_core_source_identity", "url": "https://github.com/cube-js/cube", "fetch_policy": "derived_text_allowed", "notes": "Cube Core repository identity for open-source semantic layer, REST/GraphQL/SQL APIs, SQL data-source support, relational caching engine, embedded analytics, BI tools, and AI-agent data context."}
+  ]
+}

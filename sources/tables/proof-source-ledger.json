@@ -1042,6 +1042,22 @@
       "pebble_status": "source-identity",
       "crop_status": "source-identity",
       "rights_boundary": "dbt documentation pages are mapped as metadata-only pending documentation reuse-terms review; MetricFlow repository identity is mapped under Apache 2.0 posture; screenshots, diagrams, videos, pricing/tier details, generated docs, code examples, package artifacts, dependency files, and release payloads remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:cube-dev:semantic-layer",
+      "title": "Cube Semantic Layer Documentation",
+      "domain": "semantic-layer-cube-model-support",
+      "source_family": "cube-dev",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\cube-dev\\semantic-layer\\work.json",
+      "custody_record": "sources\\open-source\\cube-dev\\semantic-layer\\custody.md",
+      "inventory_record": "sources\\open-source\\cube-dev\\semantic-layer\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-cube-dev-semantic-layer-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "source-identity",
+      "crop_status": "source-identity",
+      "rights_boundary": "Cube documentation pages are metadata-only pending documentation terms review; Cube Core repository identity is mapped as open-source source identity; source files, examples, packages, generated docs, screenshots, diagrams, platform assets, dependencies, and releases remain boundary-checked."
     }
   ]
 }
