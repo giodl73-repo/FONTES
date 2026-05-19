@@ -962,6 +962,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "Microsoft Learn SSAS documentation text is mapped for derived text with attribution/terms awareness; screenshots, diagrams, UI captures, tutorial sample databases, XMLA/MDX/code snippets, downloadable payloads, and GitHub documentation source remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:oracle-docs:data-warehousing",
+      "title": "Oracle Database Data Warehousing Guide Source Identities",
+      "domain": "data-warehouse-olap-implementation-support",
+      "source_family": "oracle-docs",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped",
+      "work_record": "sources\\open-education\\oracle-docs\\data-warehousing\\work.json",
+      "custody_record": "sources\\open-education\\oracle-docs\\data-warehousing\\custody.md",
+      "inventory_record": "sources\\open-education\\oracle-docs\\data-warehousing\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-oracle-data-warehousing-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Oracle Database Data Warehousing Guide pages are mapped as source identities only; documentation body text, SQL examples, diagrams, screenshots, the PDF manual, sample schemas, downloads, and linked product documentation remain rights-boundary material until separate license review."
     }
   ]
 }

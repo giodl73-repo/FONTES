@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:oracle-docs:data-warehousing",
+  "title": "Oracle Database Data Warehousing Guide Source Identities",
+  "source_family": "oracle-docs",
+  "source_type": "vendor-documentation",
+  "canonical_url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/index.html",
+  "license_status": "oracle-documentation-metadata-only-with-pdf-code-example-boundaries",
+  "license_url": "https://www.oracle.com/legal/terms.html",
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["data warehousing", "star schema", "snowflake schema", "facts", "dimensions", "fact tables", "dimension tables", "materialized views", "query rewrite", "summaries", "partitioning", "physical design"],
+  "sources": [
+    {
+      "id": "fontes:oracle:dwhsg:index",
+      "kind": "guide_index",
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/index.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Oracle Database Data Warehousing Guide landing page and version identity."
+    },
+    {
+      "id": "fontes:oracle:dwhsg:logical-design",
+      "kind": "logical_design",
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/data-warehouse-logical-design.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Official logical design chapter with 3NF, star schema, facts/dimensions, fact tables, dimension tables, and snowflake schema sections."
+    },
+    {
+      "id": "fontes:oracle:dwhsg:physical-design",
+      "kind": "physical_design",
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/data-warehouse-physical-design.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Official physical design chapter covering tablespaces, partitioning, indexes, constraints, materialized views, and dimensions as data-warehouse physical structures."
+    },
+    {
+      "id": "fontes:oracle:dwhsg:dimensions",
+      "kind": "dimension_objects",
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/dimensions.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Official dimensions chapter for CREATE DIMENSION, levels, hierarchies, child/parent rollups, normalized dimensions, attributes, and materialized-view rewrite support."
+    },
+    {
+      "id": "fontes:oracle:dwhsg:basic-materialized-views",
+      "kind": "materialized_views",
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/basic-materialized-views.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Official materialized-view chapter for warehouse summaries, aggregate views, fact-table summaries, precomputed joins/aggregations, and transparent query rewrite."
+    },
+    {
+      "id": "fontes:oracle:dwhsg:query-rewrite",
+      "kind": "query_rewrite_examples",
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/basic-query-rewrite-materialized-views.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Official query rewrite chapter with materialized-view join and aggregate examples; SQL examples remain code boundaries."
+    },
+    {
+      "id": "fontes:oracle:dwhsg:pdf-boundary",
+      "kind": "pdf_boundary",
+      "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/database-data-warehousing-guide.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "Full PDF manual identity only; do not commit or extract PDF body without separate rights review."
+    }
+  ]
+}
