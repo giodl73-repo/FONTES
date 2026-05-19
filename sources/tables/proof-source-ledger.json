@@ -1218,6 +1218,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; PostgreSQL and SQLite docs are metadata-only pending reuse review; PDFs, exams, assignments, Java labs, project materials, readings, code, examples, syntax diagrams, generated docs, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mathematics-foundations:statistics-algebra-topology",
+      "title": "Statistics, Probability, Abstract Algebra, Groups, and Topology Foundations",
+      "domain": "statistics-algebra-topology-support",
+      "source_family": "mathematics-foundations",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\mathematics-foundations\\statistics-algebra-topology\\work.json",
+      "custody_record": "sources\\open-source\\mathematics-foundations\\statistics-algebra-topology\\custody.md",
+      "inventory_record": "sources\\open-source\\mathematics-foundations\\statistics-algebra-topology\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-math-statistics-algebra-topology-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW pages are mapped as derived text; OpenIntro, Grinstead/Snell, Judson, and topology open-textbook identities are metadata-only pending reuse review; OCW PDFs, lecture videos, problem sets, exams, textbook PDFs, generated books, data files, exercises, diagrams, code, images, and linked assets remain boundary-checked."
     }
   ]
 }

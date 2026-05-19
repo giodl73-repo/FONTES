@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mathematics-foundations:statistics-algebra-topology",
+  "title": "Statistics, Probability, Abstract Algebra, Groups, and Topology Foundations",
+  "source_family": "mathematics-foundations",
+  "source_type": "open-education-and-open-textbook-documentation",
+  "canonical_url": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/",
+  "license_status": "mixed-open-education-and-open-textbook-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["statistics", "probability", "random variables", "inference", "hypothesis testing", "regression", "Bayesian statistics", "groups", "abstract algebra", "symmetry groups", "rings", "fields", "topology", "topological spaces", "continuity", "connectedness", "compactness", "fundamental group"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:18-650:course",
+      "kind": "statistics_course",
+      "url": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for theoretical foundations of statistical methods useful in applications."
+    },
+    {
+      "id": "fontes:mit:ocw:18-650:syllabus",
+      "kind": "statistics_syllabus",
+      "url": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus identity for introduction to statistics, parametric inference, maximum likelihood estimation, method of moments, hypothesis testing, goodness of fit, regression, Bayesian statistics, principal component analysis, and generalized linear models."
+    },
+    {
+      "id": "fontes:mit:ocw:18-440:course",
+      "kind": "probability_course",
+      "url": "https://ocw.mit.edu/courses/18-440-probability-and-random-variables-spring-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for probability and random variables, including distribution functions, common discrete and continuous distributions, conditional probability, Bayes theorem, joint distributions, Chebyshev inequality, law of large numbers, and central limit theorem."
+    },
+    {
+      "id": "fontes:mit:ocw:18-701:course",
+      "kind": "algebra_groups_course",
+      "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for Algebra I covering groups, vector spaces, linear transformations, symmetry groups, bilinear forms, and linear groups."
+    },
+    {
+      "id": "fontes:mit:ocw:18-703:course",
+      "kind": "modern_algebra_course",
+      "url": "https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for modern algebra, including finite group theory, ring theory, ideals, unique factorization in polynomial and Euclidean rings, field theory, and finite fields."
+    },
+    {
+      "id": "fontes:mit:ocw:18-901:course",
+      "kind": "topology_course",
+      "url": "https://ocw.mit.edu/courses/18-901-introduction-to-topology-fall-2004/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for topology, including topological spaces, continuous functions, connectedness, compactness, separation axioms, function spaces, metrization, embedding theorems, and the fundamental group."
+    },
+    {
+      "id": "fontes:openintro:statistics",
+      "kind": "open_statistics_textbook_identity",
+      "url": "https://www.openintro.org/book/os/",
+      "fetch_policy": "metadata_only",
+      "notes": "OpenIntro Statistics source identity for an open statistics textbook and associated resources; PDFs, translations, slides, videos, labs, data, and downloads remain license/provenance-reviewed before extraction."
+    },
+    {
+      "id": "fontes:dartmouth:grinstead-snell-probability",
+      "kind": "open_probability_textbook_identity",
+      "url": "https://math.dartmouth.edu/~prob/prob/prob.pdf",
+      "fetch_policy": "metadata_only",
+      "notes": "Introduction to Probability by Grinstead and Snell source identity referenced by MIT 18.440; PDF body remains boundary-checked before caching or extraction."
+    },
+    {
+      "id": "fontes:abstract-ups:judson",
+      "kind": "open_abstract_algebra_textbook_identity",
+      "url": "https://abstract.ups.edu/",
+      "fetch_policy": "metadata_only",
+      "notes": "Abstract Algebra: Theory and Applications source identity for algebra/group theory backup coverage; generated book bodies, PDFs, source files, exercises, and images remain license-reviewed before extraction."
+    },
+    {
+      "id": "fontes:topology-terilla:categorical-approach",
+      "kind": "open_topology_textbook_identity",
+      "url": "https://topology.terilla.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "Topology: A Categorical Approach source identity for topology reference coverage; book body, diagrams, examples, and linked resources remain license-reviewed before extraction."
+    }
+  ]
+}
