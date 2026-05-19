@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:database-query-systems:relational-execution",
+  "title": "Relational Database Query Processing, Optimization, and Transaction Foundations",
+  "source_family": "database-query-systems",
+  "source_type": "open-education-and-database-documentation",
+  "canonical_url": "https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/",
+  "license_status": "mixed-open-education-and-documentation-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["database systems", "relational algebra", "relational model", "schema normalization", "query processing", "query optimization", "cost estimation", "indexes", "join algorithms", "transactions", "locking", "MVCC", "recovery", "concurrency control", "query planner", "query executor"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-830:course",
+      "kind": "database_systems_course",
+      "url": "https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for database systems foundations, including relational algebra and data model, schema normalization, query optimization, and transactions."
+    },
+    {
+      "id": "fontes:mit:ocw:6-830:syllabus",
+      "kind": "database_systems_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus identity for data models, database design, normalization, integrity constraints, query processing, query optimization and cost estimation, transactions, recovery, concurrency control, isolation, consistency, distributed/parallel/heterogeneous databases, adaptive databases, triggers, key-value stores, ORMs, streaming databases, and database-as-a-service."
+    },
+    {
+      "id": "fontes:mit:ocw:6-830:lecture-notes",
+      "kind": "database_systems_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for relational model, schema design, database internals, operators/query processing, indexing/access methods, buffer pools, join algorithms, query optimization, Selinger optimizer, transactions/locking, optimistic concurrency control, recovery, consistency, distributed transactions, parallel databases, scientific databases, NoSQL, ORM, DryadLINQ, and streaming databases; PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:postgresql:planner-optimizer",
+      "kind": "database_planner_optimizer_documentation",
+      "url": "https://www.postgresql.org/docs/current/planner-optimizer.html",
+      "fetch_policy": "metadata_only",
+      "notes": "PostgreSQL planner/optimizer documentation identity for paths, plan trees, scan plans, index scans, join strategies, search limits, and genetic query optimization; documentation body and examples remain boundary-checked."
+    },
+    {
+      "id": "fontes:postgresql:executor",
+      "kind": "database_executor_documentation",
+      "url": "https://www.postgresql.org/docs/current/executor.html",
+      "fetch_policy": "metadata_only",
+      "notes": "PostgreSQL executor documentation identity for demand-pull plan-node execution, recursive plan processing, scans, sorts, joins, and row delivery; documentation body and examples remain boundary-checked."
+    },
+    {
+      "id": "fontes:postgresql:indexes",
+      "kind": "database_index_documentation",
+      "url": "https://www.postgresql.org/docs/current/indexes.html",
+      "fetch_policy": "metadata_only",
+      "notes": "PostgreSQL indexes documentation identity for indexes as performance structures and associated database overhead; documentation body and examples remain boundary-checked."
+    },
+    {
+      "id": "fontes:postgresql:mvcc",
+      "kind": "database_concurrency_documentation",
+      "url": "https://www.postgresql.org/docs/current/mvcc.html",
+      "fetch_policy": "metadata_only",
+      "notes": "PostgreSQL concurrency control documentation identity for simultaneous sessions, efficient access, and strict data integrity; documentation body and examples remain boundary-checked."
+    },
+    {
+      "id": "fontes:sqlite:query-planner",
+      "kind": "local_database_query_planner_documentation",
+      "url": "https://sqlite.org/queryplanner.html",
+      "fetch_policy": "metadata_only",
+      "notes": "SQLite query planner documentation identity for declarative SQL, planner selection among alternative algorithms, index use, query-engine background, and hints; documentation body, examples, diagrams, and images remain boundary-checked."
+    },
+    {
+      "id": "fontes:sqlite:transactions",
+      "kind": "local_database_transaction_documentation",
+      "url": "https://sqlite.org/lang_transaction.html",
+      "fetch_policy": "metadata_only",
+      "notes": "SQLite transaction documentation identity for BEGIN/COMMIT/ROLLBACK, automatic transactions, savepoint boundaries, and read/write transaction behavior; documentation body, syntax diagrams, and examples remain boundary-checked."
+    },
+    {
+      "id": "fontes:sqlite:locking",
+      "kind": "local_database_locking_documentation",
+      "url": "https://sqlite.org/lockingv3.html",
+      "fetch_policy": "metadata_only",
+      "notes": "SQLite locking documentation identity for rollback-mode locking, pager responsibilities, ACID behavior, concurrency, writer-starvation improvements, and atomic commits across files; documentation body, code references, and diagrams remain boundary-checked."
+    }
+  ]
+}

@@ -1202,6 +1202,22 @@
       "pebble_status": "source-identity",
       "crop_status": "source-identity",
       "rights_boundary": "All rows are metadata-only pending documentation, benchmark, paper, generated-doc, demo, repository, package, and example-code reuse review; standards PDFs, benchmarks, solver sources, binaries, proceedings, slides, paper PDFs, examples, demos, generated docs, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:database-query-systems:relational-execution",
+      "title": "Relational Database Query Processing, Optimization, and Transaction Foundations",
+      "domain": "database-query-system-support",
+      "source_family": "database-query-systems",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\database-query-systems\\relational-execution\\work.json",
+      "custody_record": "sources\\open-source\\database-query-systems\\relational-execution\\custody.md",
+      "inventory_record": "sources\\open-source\\database-query-systems\\relational-execution\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-database-query-systems-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; PostgreSQL and SQLite docs are metadata-only pending reuse review; PDFs, exams, assignments, Java labs, project materials, readings, code, examples, syntax diagrams, generated docs, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }
