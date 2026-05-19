@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:transportation-urban-logistics:mobility-supply-chain",
+  "title": "Transportation Systems, Urban Mobility, Logistics, Supply Chain, and Infrastructure Planning Foundations",
+  "source_family": "transportation-urban-logistics",
+  "source_type": "open-education-course-and-collection-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/",
+  "license_status": "mixed-open-education-course-collection-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["transportation systems", "transportation demand", "transportation economics", "urban transportation planning", "transportation sustainability", "freight", "aviation", "intelligent transportation systems", "logistics systems", "supply chains", "inventory planning", "vehicle routing", "fleet dispatching", "network design", "procurement", "supply contracts", "infrastructure finance", "project risk", "mobility"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:1-201j:syllabus",
+      "kind": "transportation_systems_analysis_syllabus",
+      "url": "https://ocw.mit.edu/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW transportation systems analysis syllabus identity for demand/economic aspects, transportation planning, investment, operations, maintenance, microeconomics, demand models, discrete choice analysis, cost models, production functions, pricing, congestion pricing, technological change, resource allocation, market structure, regulation, revenue forecasting, finance, project evaluation, urban passenger transportation, freight, aviation, and intelligent transportation systems."
+    },
+    {
+      "id": "fontes:mit:ocw:1-221j:course",
+      "kind": "transportation_clios_course",
+      "url": "https://ocw.mit.edu/courses/1-221j-transportation-systems-fall-2004/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW transportation systems course identity for transportation as a complex, large-scale, integrated, open system (CLIOS), qualitative modeling, complex transportation enterprises, regional strategic planning, institutional change, technology development/deployment, social/political/economic interactions, traveler/freight systems, planning, investment, operations, and maintenance."
+    },
+    {
+      "id": "fontes:mit:ocw:1-252j:syllabus",
+      "kind": "urban_transportation_planning_syllabus",
+      "url": "https://ocw.mit.edu/courses/1-252j-urban-transportation-planning-fall-2016/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW urban transportation planning syllabus identity for policy, politics, planning, engineering, Boston-area cases, method, policy, process, design, institutional structure, sustainability, environment/economy/equity tradeoffs, walking tours, public meetings, and planning assignments."
+    },
+    {
+      "id": "fontes:mit:ocw:esd-260j:syllabus",
+      "kind": "logistics_systems_syllabus",
+      "url": "https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW logistics systems syllabus identity for analytic tools in logistics and integrated supply chains, demand forecasting, inventory planning/control, transportation planning/operations, vehicle routing, scheduling, fleet dispatching, network design, procurement, sourcing, auctions, uncertainty management, supply contracts, collaboration, and real-data team projects."
+    },
+    {
+      "id": "fontes:mit:ocw:15-762j:syllabus",
+      "kind": "supply_chain_planning_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW supply chain planning syllabus identity for global supply-chain strategies, coordinated systems, tradeoffs, risk pooling, inventory placement, integrated planning, collaboration, information sharing, models, methods, supply-chain analysis, optimization, case discussions, and computer exercises."
+    },
+    {
+      "id": "fontes:mit:ocw:1-040:syllabus",
+      "kind": "infrastructure_project_management_syllabus",
+      "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW project management syllabus identity for infrastructure project organization, contracts, construction finance, public-private partnerships, private finance, project finance, risk analysis, risk management, project financial evaluation, cost-benefit analysis, capital program management, project control, procurement/construction, and uncertainty management."
+    },
+    {
+      "id": "fontes:mit:ocw:transportation-collection",
+      "kind": "transportation_collection_identity",
+      "url": "https://ocw.mit.edu/collections/transportation/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Transportation collection identity for transportation education and research across environmental impact, urban infrastructure planning, aviation efficiency, adaptive technologies, personal behavior, and Transportation@MIT coordination; linked course bodies and external initiative pages remain boundary-checked."
+    }
+  ]
+}

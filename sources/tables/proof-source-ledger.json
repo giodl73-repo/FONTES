@@ -1506,6 +1506,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus/collection pages are mapped as derived text; problem sets, exams, projects, textbooks, PDFs, lecture videos, OLL interactive features, model files, datasets, student work, external program pages, news links, images, diagrams, and linked third-party materials remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:transportation-urban-logistics:mobility-supply-chain",
+      "title": "Transportation Systems, Urban Mobility, Logistics, Supply Chain, and Infrastructure Planning Foundations",
+      "domain": "transportation-urban-logistics-support",
+      "source_family": "transportation-urban-logistics",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\transportation-urban-logistics\\mobility-supply-chain\\work.json",
+      "custody_record": "sources\\open-source\\transportation-urban-logistics\\mobility-supply-chain\\custody.md",
+      "inventory_record": "sources\\open-source\\transportation-urban-logistics\\mobility-supply-chain\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-transportation-urban-logistics-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus/collection pages are mapped as derived text; problem sets, exams, readings, textbooks, case studies, team projects, spreadsheets, real-data files, walking-tour materials, public-meeting artifacts, lecture notes, examples, PDFs, images, diagrams, and linked third-party materials remain boundary-checked."
     }
   ]
 }
