@@ -1,0 +1,78 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:stanford-see:ee261-fourier-transform",
+  "row_grain": "one row per mapped Stanford SEE source surface",
+  "rows": [
+    {
+      "surface_id": "course-page",
+      "title": "course_page",
+      "url": "https://see.stanford.edu/Course/EE261",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Course description, instructor bio, assignments, software/data files, and 30 lecture-session records."
+    },
+    {
+      "surface_id": "syllabus",
+      "title": "syllabus",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/Syllabus.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Syllabus PDF distributed by SEE."
+    },
+    {
+      "surface_id": "all-materials",
+      "title": "course_materials_zip",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/FourierTransformAllMaterials.zip",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "SEE all-course-materials ZIP for non-video course materials."
+    },
+    {
+      "surface_id": "assignments",
+      "title": "assignments",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/PS-1-2007.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative problem-set PDF; course page lists nine problem sets with solutions."
+    },
+    {
+      "surface_id": "software-data",
+      "title": "software_data_files",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/anti-aliasing.zip",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative support archive; page also lists Matlab/text/audio/image files for assignments."
+    },
+    {
+      "surface_id": "lecture-videos",
+      "title": "lecture_videos",
+      "url": "https://see.stanford.edu/Course/EE261",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "see-media-boundary",
+      "fetch_policy": "local_cache_allowed",
+      "proof_status": "media-boundary",
+      "notes": "SEE page lists 30 downloadable MP4 lectures. Keep media bytes out of git and cache through FLETCH only."
+    },
+    {
+      "surface_id": "lecture-transcripts",
+      "title": "lecture_transcripts",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/transcripts/TheFourierTransformAndItsApplications-Lecture01.html",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative transcript HTML; course sessions list transcript HTML and PDF files."
+    }
+  ]
+}

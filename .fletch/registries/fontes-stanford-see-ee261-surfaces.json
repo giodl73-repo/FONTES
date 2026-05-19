@@ -1,0 +1,71 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Stanford SEE EE261 source map",
+  "registry_id": "fontes-stanford-see-ee261-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.stanford-see.ee261.course-page",
+      "node_kind": "fletch",
+      "label": "ee261 course-page",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE261"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee261-fourier-transform", "table_record": "sources\\tables\\stanford-see-ee261-surfaces.json", "row_id": "course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "stanford-see", "ee261", "course-page", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.ee261.syllabus",
+      "node_kind": "fletch",
+      "label": "ee261 syllabus",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoftaee261/Syllabus.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee261-fourier-transform", "table_record": "sources\\tables\\stanford-see-ee261-surfaces.json", "row_id": "syllabus", "row_kind": "syllabus"},
+      "tags": ["fontes", "stanford-see", "ee261", "syllabus", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.ee261.all-materials",
+      "node_kind": "fletch",
+      "label": "ee261 all-materials",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoftaee261/FourierTransformAllMaterials.zip"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee261-fourier-transform", "table_record": "sources\\tables\\stanford-see-ee261-surfaces.json", "row_id": "all-materials", "row_kind": "course_materials_zip"},
+      "tags": ["fontes", "stanford-see", "ee261", "all-materials", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.ee261.assignments",
+      "node_kind": "fletch",
+      "label": "ee261 assignments",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoftaee261/PS-1-2007.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee261-fourier-transform", "table_record": "sources\\tables\\stanford-see-ee261-surfaces.json", "row_id": "assignments", "row_kind": "assignments"},
+      "tags": ["fontes", "stanford-see", "ee261", "assignments", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.ee261.software-data",
+      "node_kind": "fletch",
+      "label": "ee261 software-data",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoftaee261/anti-aliasing.zip"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee261-fourier-transform", "table_record": "sources\\tables\\stanford-see-ee261-surfaces.json", "row_id": "software-data", "row_kind": "software_data_files"},
+      "tags": ["fontes", "stanford-see", "ee261", "software-data-files", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.ee261.lecture-videos",
+      "node_kind": "fletch",
+      "label": "ee261 lecture-videos",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE261"}],
+      "metadata": {"fetch_policy": "local_cache_allowed", "license": "media-boundary", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee261-fourier-transform", "table_record": "sources\\tables\\stanford-see-ee261-surfaces.json", "row_id": "lecture-videos", "row_kind": "lecture_videos"},
+      "tags": ["fontes", "stanford-see", "ee261", "lecture-videos", "resource-row", "stable-url", "media-boundary"]
+    },
+    {
+      "id": "fontes.stanford-see.ee261.lecture-transcripts",
+      "node_kind": "fletch",
+      "label": "ee261 lecture-transcripts",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/lsoftaee261/transcripts/TheFourierTransformAndItsApplications-Lecture01.html"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee261-fourier-transform", "table_record": "sources\\tables\\stanford-see-ee261-surfaces.json", "row_id": "lecture-transcripts", "row_kind": "lecture_transcripts"},
+      "tags": ["fontes", "stanford-see", "ee261", "lecture-transcripts", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.ee261.surfaces-table",
+      "node_kind": "fletch",
+      "label": "EE261 normalized SEE source surfaces",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/EE261"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "mathematics-systems", "work_id": "fontes:stanford-see:ee261-fourier-transform", "table_record": "sources\\tables\\stanford-see-ee261-surfaces.json", "row_count": "7"},
+      "tags": ["fontes", "stanford-see", "ee261", "surfaces-table", "normalized-table"]
+    }
+  ]
+}

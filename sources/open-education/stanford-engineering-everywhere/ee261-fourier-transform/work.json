@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-see:ee261-fourier-transform",
+  "title": "EE261 The Fourier Transform and its Applications",
+  "source_family": "stanford-engineering-everywhere",
+  "source_type": "course",
+  "canonical_url": "https://see.stanford.edu/Course/EE261",
+  "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+  "license_url": "https://see.stanford.edu/UsingSEE",
+  "fetch_policy": "bundle_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["Fourier transform", "Fourier series", "signals", "sampling", "filters", "linear systems", "FFT", "imaging", "optics"],
+  "sources": [
+    {
+      "id": "fontes:stanford-see:ee261:course-page",
+      "kind": "course_page",
+      "url": "https://see.stanford.edu/Course/EE261",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description, instructor bio, assignments, software/data files, and 30 lecture-session records."
+    },
+    {
+      "id": "fontes:stanford-see:ee261:syllabus",
+      "kind": "syllabus",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/Syllabus.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Syllabus PDF distributed by SEE."
+    },
+    {
+      "id": "fontes:stanford-see:ee261:all-materials",
+      "kind": "course_materials_zip",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/FourierTransformAllMaterials.zip",
+      "fetch_policy": "bundle_allowed",
+      "notes": "SEE all-course-materials ZIP for non-video course materials."
+    },
+    {
+      "id": "fontes:stanford-see:ee261:assignments",
+      "kind": "assignments",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/PS-1-2007.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative problem-set PDF; course page lists nine problem sets with solutions."
+    },
+    {
+      "id": "fontes:stanford-see:ee261:software-data",
+      "kind": "software_data_files",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/anti-aliasing.zip",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative support archive; page also lists Matlab/text/audio/image files for assignments."
+    },
+    {
+      "id": "fontes:stanford-see:ee261:lecture-videos",
+      "kind": "lecture_videos",
+      "url": "https://see.stanford.edu/Course/EE261",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "SEE page lists 30 downloadable MP4 lectures. Keep media bytes out of git and cache through FLETCH only."
+    },
+    {
+      "id": "fontes:stanford-see:ee261:lecture-transcripts",
+      "kind": "lecture_transcripts",
+      "url": "https://see.stanford.edu/materials/lsoftaee261/transcripts/TheFourierTransformAndItsApplications-Lecture01.html",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative transcript HTML; course sessions list transcript HTML and PDF files."
+    }
+  ]
+}

@@ -482,6 +482,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course pages, assignments, exams, and download package are mapped; McMurry textbook readings remain metadata-only."
+    },
+    {
+      "work_id": "fontes:stanford-see:ee261-fourier-transform",
+      "title": "EE261 The Fourier Transform and its Applications",
+      "domain": "mathematics-systems",
+      "source_family": "stanford-engineering-everywhere",
+      "fetch_policy": "bundle_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-education\\stanford-engineering-everywhere\\ee261-fourier-transform\\work.json",
+      "custody_record": "sources\\open-education\\stanford-engineering-everywhere\\ee261-fourier-transform\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-engineering-everywhere\\ee261-fourier-transform\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-see-ee261-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "SEE non-video materials bundle-allowed; videos local-cache only; assignment support files require child-resource review before downstream package promotion."
     }
   ]
 }
