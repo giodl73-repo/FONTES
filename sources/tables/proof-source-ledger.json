@@ -786,6 +786,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, unit pages, course-note/problem/exam surfaces, and download page are mapped; lecture/problem-solving video media bytes, Java mathlets/interactive assets, and unit images remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:18-085-computational-science-engineering-i-fall-2008",
+      "title": "18.085 Computational Science and Engineering I",
+      "domain": "simulation-numerics-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\18-085-computational-science-engineering\\work.json",
+      "custody_record": "sources\\mit\\ocw\\18-085-computational-science-engineering\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\18-085-computational-science-engineering\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-18-085-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus/calendar, assignments, exams, and download page are mapped; MATLAB code files, video media bytes, assigned textbooks, book pages, and external resource links remain boundary-checked."
     }
   ]
 }
