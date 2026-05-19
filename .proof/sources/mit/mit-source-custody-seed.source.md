@@ -35,5 +35,6 @@ values.
 
 ## Publisher status
 
-FLETCH registry exists for seed URLs. Pebble and Crop outputs remain pending
-until source text extraction policy is explicit per source.
+FLETCH registries exist for the MIT seed and dedicated MIT Press book boundary
+surfaces. Pebble and Crop outputs remain pending until source text extraction
+policy is explicit per source.

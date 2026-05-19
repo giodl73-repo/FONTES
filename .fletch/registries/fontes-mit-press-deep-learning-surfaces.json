@@ -1,0 +1,61 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT Press Deep Learning source map",
+  "registry_id": "fontes-mit-press-deep-learning-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit-press.deep-learning.official-site",
+      "node_kind": "fletch",
+      "label": "Deep Learning official author-hosted site",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.deeplearningbook.org/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "metadata_only",
+        "license": "free-to-read-not-redistributable",
+        "work_id": "fontes:mit-press:deep-learning-goodfellow-bengio-courville-2016",
+        "domain": "ai-ml"
+      },
+      "tags": ["fontes", "mit-press", "deep-learning", "book", "metadata-only"]
+    },
+    {
+      "id": "fontes.mit-press.deep-learning.html-reader",
+      "node_kind": "fletch",
+      "label": "Deep Learning online HTML reader boundary",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.deeplearningbook.org/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "metadata_only",
+        "license": "free-to-read-not-redistributable",
+        "work_id": "fontes:mit-press:deep-learning-goodfellow-bengio-courville-2016",
+        "domain": "ai-ml"
+      },
+      "tags": ["fontes", "mit-press", "deep-learning", "html-reader", "rights-boundary"]
+    },
+    {
+      "id": "fontes.mit-press.deep-learning.pdf-boundary",
+      "node_kind": "fletch",
+      "label": "Deep Learning PDF distribution boundary",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://www.deeplearningbook.org/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "metadata_only",
+        "license": "pdf-distribution-forbidden-by-contract",
+        "work_id": "fontes:mit-press:deep-learning-goodfellow-bengio-courville-2016",
+        "domain": "ai-ml"
+      },
+      "tags": ["fontes", "mit-press", "deep-learning", "pdf", "blocked-rights"]
+    }
+  ]
+}

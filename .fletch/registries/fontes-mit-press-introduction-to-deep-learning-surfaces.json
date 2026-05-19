@@ -1,0 +1,43 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES MIT Press Introduction to Deep Learning source map",
+  "registry_id": "fontes-mit-press-introduction-to-deep-learning-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.mit-press.introduction-to-deep-learning.press-page",
+      "node_kind": "fletch",
+      "label": "Introduction to Deep Learning MIT Press page",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://mitpress.mit.edu/9780262537551/introduction-to-deep-learning/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "work_id": "fontes:mit-press:introduction-to-deep-learning-charniak-2019",
+        "domain": "ai-ml"
+      },
+      "tags": ["fontes", "mit-press", "deep-learning", "book", "license-review"]
+    },
+    {
+      "id": "fontes.mit-press.introduction-to-deep-learning.ebook-boundary",
+      "node_kind": "fletch",
+      "label": "Introduction to Deep Learning ebook rights boundary",
+      "shafts": [
+        {
+          "kind": "http",
+          "url": "https://mitpress.mit.edu/9780262537551/introduction-to-deep-learning/"
+        }
+      ],
+      "metadata": {
+        "fetch_policy": "license_review",
+        "license": "license-review",
+        "work_id": "fontes:mit-press:introduction-to-deep-learning-charniak-2019",
+        "domain": "ai-ml"
+      },
+      "tags": ["fontes", "mit-press", "deep-learning", "ebook", "rights-boundary"]
+    }
+  ]
+}
