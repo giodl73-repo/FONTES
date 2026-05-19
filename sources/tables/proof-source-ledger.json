@@ -1138,6 +1138,38 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW pages are mapped as derived text; OCW PDFs, generated textbook assets, interactive exercises, diagrams, media, source files, nLab/MathWorld/Wikipedia bodies, and third-party material remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:theory-of-computation:computability-complexity",
+      "title": "Computability and Complexity Theory Foundations",
+      "domain": "computability-complexity-theory-support",
+      "source_family": "theory-of-computation",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\mit\\ocw\\18-404j-theory-of-computation\\work.json",
+      "custody_record": "sources\\mit\\ocw\\18-404j-theory-of-computation\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\18-404j-theory-of-computation\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-computability-complexity-theory-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW pages and listing pages are mapped as derived text; PDFs, PPTs, lecture videos, problem sets, solutions, editable files, media, and third-party notes remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:compiler-theory:language-engineering",
+      "title": "Compiler Theory and Language Engineering Foundations",
+      "domain": "compiler-language-engineering-support",
+      "source_family": "compiler-theory",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\compiler-theory\\language-engineering\\work.json",
+      "custody_record": "sources\\open-source\\compiler-theory\\language-engineering\\custody.md",
+      "inventory_record": "sources\\open-source\\compiler-theory\\language-engineering\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-compiler-language-engineering-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW pages and listing pages are mapped as derived text; LLVM, Crafting Interpreters, and Stanford CS143 are metadata-only pending reuse review; PDFs, code bundles, skeletons, test inputs, solutions, videos, linked papers, generated docs, book bodies, examples, templates, and course-platform content remain boundary-checked."
     }
   ]
 }

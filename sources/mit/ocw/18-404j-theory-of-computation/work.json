@@ -1,0 +1,44 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:theory-of-computation:computability-complexity",
+  "title": "Computability and Complexity Theory Foundations",
+  "source_family": "theory-of-computation",
+  "source_type": "open-education-courseware",
+  "canonical_url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+  "license_status": "mit-ocw-with-pdf-media-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["computability", "complexity theory", "automata", "formal languages", "Turing machines", "decidability", "undecidability", "reducibility", "P", "NP", "NP-completeness", "hierarchy theorems", "probabilistic computation", "interactive proofs"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:18-404j:course",
+      "kind": "theory_of_computation_course",
+      "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for computability and computational complexity theory, including regular and context-free languages, decidable and undecidable problems, reducibility, recursive functions, time and space measures, completeness, hierarchy theorems, oracles, probabilistic computation, and interactive proof systems."
+    },
+    {
+      "id": "fontes:mit:ocw:18-404j:lecture-notes",
+      "kind": "theory_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for finite automata, regular expressions, CFGs, PDAs, Turing machines, Church-Turing thesis, decidability, undecidability, reducibility, recursion theorem, time complexity, P, NP, SAT, and polynomial-time reducibility; PDFs and PPTs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-045j:course",
+      "kind": "automata_computability_complexity_course",
+      "url": "https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for theoretical CS spanning finite automata, circuits, decision trees, Turing machines, computability, efficient algorithms, reducibility, P versus NP, NP-completeness, randomness, cryptography, computational learning theory, and quantum computing."
+    },
+    {
+      "id": "fontes:mit:ocw:6-045j:lecture-notes",
+      "kind": "automata_complexity_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for DFAs, NFAs, regular expressions, pumping lemma, Turing machines, decidability, PCP, mapping reducibility, Rice's theorem, complexity theory, NP-completeness, probabilistic Turing machines, and complexity classes; PDFs remain child-resource boundaries."
+    }
+  ]
+}

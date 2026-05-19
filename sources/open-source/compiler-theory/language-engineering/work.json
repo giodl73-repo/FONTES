@@ -1,0 +1,58 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:compiler-theory:language-engineering",
+  "title": "Compiler Theory and Language Engineering Foundations",
+  "source_family": "compiler-theory",
+  "source_type": "open-education-and-open-source-documentation",
+  "canonical_url": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/",
+  "license_status": "mixed-open-education-and-documentation-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["compiler theory", "language engineering", "lexing", "parsing", "semantic analysis", "intermediate representation", "code generation", "dataflow analysis", "optimization", "register allocation", "LLVM", "interpreters", "bytecode"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-035:course",
+      "kind": "compiler_course",
+      "url": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for higher-level programming-language implementation, compiler concepts, theory/practice interaction, tools, and a multiperson compiler design/implementation project."
+    },
+    {
+      "id": "fontes:mit:ocw:6-035:lecture-notes",
+      "kind": "compiler_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for regular expressions, context-free grammars, shift-reduce parsing, top-down parsing, intermediate formats, semantic analysis, code generation, program analysis, dataflow analysis, optimization, register allocation, parallelization, and memory optimization."
+    },
+    {
+      "id": "fontes:mit:ocw:6-035:projects",
+      "kind": "compiler_project_index",
+      "url": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/pages/projects/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Project index for a staged compiler project: scanner/parser, semantic checker, code generation, dataflow optimizations, and optimizer; downloadable assignments, skeletons, test inputs, and tool dependencies remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:llvm:docs",
+      "kind": "compiler_infrastructure_documentation",
+      "url": "https://llvm.org/docs/",
+      "fetch_policy": "metadata_only",
+      "notes": "LLVM documentation source identity for compiler infrastructure, design overview, tutorials, user guides, reference docs, IR, analysis, transformation, optimization, and JIT-related tooling; docs and linked papers remain license-reviewed before derived extraction."
+    },
+    {
+      "id": "fontes:crafting-interpreters:book",
+      "kind": "interpreter_implementation_book",
+      "url": "https://craftinginterpreters.com/",
+      "fetch_policy": "metadata_only",
+      "notes": "Crafting Interpreters source identity for parser, semantics, bytecode, garbage collection, lexical scope, closures, classes, and inheritance implementation patterns; online book body, code, and assets remain license-reviewed before caching."
+    },
+    {
+      "id": "fontes:stanford:cs143",
+      "kind": "compiler_course_source_identity",
+      "url": "https://web.stanford.edu/class/cs143/",
+      "fetch_policy": "metadata_only",
+      "notes": "Stanford CS143 public course identity for compiler assignments, handouts, syllabus, and exams; PDFs, solutions, templates, videos, and course-platform content remain boundary-checked."
+    }
+  ]
+}
