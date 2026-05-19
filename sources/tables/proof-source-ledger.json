@@ -738,6 +738,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, calendar, readings-list page, projects page, and download page are mapped; third-party papers, books, linked papers, and external formatting guidance remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mit:ocw:6-832-underactuated-robotics-spring-2009",
+      "title": "6.832 Underactuated Robotics",
+      "domain": "game-control-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\6-832-underactuated-robotics\\work.json",
+      "custody_record": "sources\\mit\\ocw\\6-832-underactuated-robotics\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\6-832-underactuated-robotics\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-6-832-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, calendar, readings, assignments, projects, exams, and download page are mapped; video media bytes, MATLAB/code files, recommended textbooks, and external updated course-note links remain boundary-checked."
     }
   ]
 }

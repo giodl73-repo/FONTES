@@ -1,0 +1,93 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-832-underactuated-robotics-spring-2009",
+  "title": "6.832 Underactuated Robotics",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/",
+  "license_status": "cc-by-nc-sa-4.0-with-code-video-textbook-and-external-note-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["underactuated robotics", "nonlinear dynamics", "optimal control", "motion planning", "reinforcement learning", "legged locomotion", "cart-pole", "acrobot", "game physics support", "character controller support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-832:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for nonlinear dynamics and underactuated mechanical control."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course goals, prerequisites, grading, robotics/control/ML framing, and textbook/course-note boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:calendar",
+      "kind": "calendar",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/calendar/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Session sequence covering pendulum, double integrator, dynamic programming, cart-pole, trajectory optimization, walking/running models, motion planning, stochastic control, Q-learning, and actor-critic methods."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:readings",
+      "kind": "readings",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/readings/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW readings page with course-note chapter links and recommended textbook metadata."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Problem-set listing and OCW-hosted PDFs with MATLAB/code file boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:projects",
+      "kind": "projects",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/projects/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Final project goals, components, and topic suggestions for underactuated control experiments."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:exams",
+      "kind": "exams",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/exams/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Midterm practice and midterm exam PDF surfaces."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:video-lectures",
+      "kind": "lecture_videos",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/video_galleries/video-lectures/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Lecture video gallery metadata is mapped; media bytes remain local-cache only."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:matlab-code-boundary",
+      "kind": "code_files",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/assignments/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Selected MATLAB files and solution code are courtesy resources; keep bytes out of git until downstream review."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:textbook-and-external-notes-boundary",
+      "kind": "recommended_textbooks_and_external_notes",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/pages/readings/",
+      "fetch_policy": "metadata_only",
+      "notes": "Recommended textbooks and external updated course-note links are citation metadata only."
+    },
+    {
+      "id": "fontes:mit:ocw:6-832:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course download package contains online course content and static resources, excluding audio/video materials."
+    }
+  ]
+}
