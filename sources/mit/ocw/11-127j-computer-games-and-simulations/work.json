@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:11-127j-computer-games-and-simulations-spring-2015",
+  "title": "11.127J / CMS.590J Computer Games and Simulations for Education and Exploration",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/",
+  "license_status": "cc-by-nc-sa-4.0-with-reading-and-project-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["educational games", "simulations", "game-based learning", "board games", "digital games", "field testing", "learning assessment", "project-based learning"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:11-127j:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for educational games and simulations."
+    },
+    {
+      "id": "fontes:mit:ocw:11-127j:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course overview, meeting times, grading, and game/simulation learning goals."
+    },
+    {
+      "id": "fontes:mit:ocw:11-127j:calendar",
+      "kind": "calendar",
+      "url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/calendar/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Fourteen-week topic and due-date schedule covering curriculum design, multiplayer games, board games, and digital games."
+    },
+    {
+      "id": "fontes:mit:ocw:11-127j:assignments",
+      "kind": "assignments",
+      "url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Prompts for game curriculum paper, gamer profile, board-game documentation, and digital-game presentation/documentation."
+    },
+    {
+      "id": "fontes:mit:ocw:11-127j:instructor-insights",
+      "kind": "instructor_insights",
+      "url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/instructor-insights/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "OCW instructor insights on ownership, teamwork, gamer profile assignment, project-based learning, and aligning teaching and research."
+    },
+    {
+      "id": "fontes:mit:ocw:11-127j:readings",
+      "kind": "readings",
+      "url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/readings/",
+      "fetch_policy": "metadata_only",
+      "notes": "Reading list includes central commercial texts and third-party articles; treat as citation metadata unless individual resources have explicit open terms."
+    },
+    {
+      "id": "fontes:mit:ocw:11-127j:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/11.127j-spring-2015.zip",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW course ZIP contains the online course content."
+    }
+  ]
+}

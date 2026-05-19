@@ -610,6 +610,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, assignments, and download package are mapped; serious-game examples and readings remain metadata-only third-party boundaries."
+    },
+    {
+      "work_id": "fontes:mit:ocw:11-127j-computer-games-and-simulations-spring-2015",
+      "title": "11.127J / CMS.590J Computer Games and Simulations for Education and Exploration",
+      "domain": "game-design-support",
+      "source_family": "mit-ocw",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\mit\\ocw\\11-127j-computer-games-and-simulations\\work.json",
+      "custody_record": "sources\\mit\\ocw\\11-127j-computer-games-and-simulations\\custody.md",
+      "inventory_record": "sources\\mit\\ocw\\11-127j-computer-games-and-simulations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mit-11-127j-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OCW course page, syllabus, calendar, assignments, instructor insights, and download package are mapped; readings and student project examples remain metadata-only boundaries unless separately reviewed."
     }
   ]
 }
