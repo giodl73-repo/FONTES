@@ -658,6 +658,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "OCW course page, syllabus, lecture notes, assignments, game-analysis guidance, and download package are mapped; readings, lab games, and third-party game content remain metadata-only boundaries."
+    },
+    {
+      "work_id": "fontes:open-yale:econ-159-game-theory",
+      "title": "ECON 159 Game Theory",
+      "domain": "game-design-support",
+      "source_family": "open-yale-courses",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-education\\open-yale-courses\\econ-159-game-theory\\work.json",
+      "custody_record": "sources\\open-education\\open-yale-courses\\econ-159-game-theory\\custody.md",
+      "inventory_record": "sources\\open-education\\open-yale-courses\\econ-159-game-theory\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-open-yale-econ-159-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "OYC course page, lecture transcript pages, exam page identities, and normalized sessions are mapped; assigned textbooks, media files, and third-party materials remain boundary-checked."
     }
   ]
 }
