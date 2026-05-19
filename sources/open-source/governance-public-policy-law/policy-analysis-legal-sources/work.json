@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:governance-public-policy-law:policy-analysis-legal-sources",
+  "title": "Governance, Public Policy, Policy Analysis, Regulation, and Legal Source Foundations",
+  "source_family": "governance-public-policy-law",
+  "source_type": "open-education-course-and-official-legal-source-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/",
+  "license_status": "mixed-open-education-official-legal-reference-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["public policy", "governance", "policy analysis", "public administration", "institutions", "stakeholders", "cost benefit analysis", "policy implementation", "policy evaluation", "public finance", "government intervention", "negotiation", "regulation", "United States Code", "Code of Federal Regulations", "Federal Register", "legal reference"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:11-002j:syllabus",
+      "kind": "public_policy_syllabus",
+      "url": "https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Making Public Policy syllabus identity for politics as competing advocacy within institutions/cultural ideas, problem definition, persuasive arguments, policy choice, policy evaluation, American political system context, health care, gun control, federal budget, immigration, same-sex marriage, energy, climate change, papers, oral project, and participation."
+    },
+    {
+      "id": "fontes:mit:ocw:11-003j:syllabus",
+      "kind": "policy_analysis_syllabus",
+      "url": "https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Methods of Policy Analysis syllabus identity for framing policy questions, identifying stakeholders and goals, designing policy options, weighing costs/benefits, evaluating outcomes, monitoring implementation, distributional impacts, unintended consequences, public/non-profit sector practice, case analysis, teamwork, and presentations."
+    },
+    {
+      "id": "fontes:mit:ocw:14-41:course",
+      "kind": "public_finance_policy_course",
+      "url": "https://ocw.mit.edu/courses/14-41-public-finance-and-public-policy-fall-2024/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Public Finance and Public Policy course identity for government's role in the economy, microeconomic tools for policy questions, global warming response, school choice, Social Security, health insurance, tax rates, reasons for government intervention, extent of intervention, and private-agent responses."
+    },
+    {
+      "id": "fontes:mit:ocw:11-011:syllabus",
+      "kind": "negotiation_governance_syllabus",
+      "url": "https://ocw.mit.edu/courses/11-011-the-art-and-science-of-negotiation-spring-2006/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW negotiation syllabus identity for planners, managers, lawyers, public officials, analysts, interdependencies, fragmented power, uncertainty, stable agreements, trust, bargaining, value creation, mutual gains, expectations, roles, relationships, and negotiation practice."
+    },
+    {
+      "id": "fontes:govinfo:us-code-help",
+      "kind": "official_statutory_code_source_identity",
+      "url": "https://www.govinfo.gov/help/uscode",
+      "fetch_policy": "metadata_only",
+      "notes": "GovInfo United States Code help identity for codification of general and permanent U.S. laws, 54 titles, Office of the Law Revision Counsel provenance, positive-law vs prima-facie evidence, virtual main editions, searching, citation retrieval, metadata fields, and verification cautions; statutory text, PDFs, XML, bulk data, and search exports remain boundary-checked."
+    },
+    {
+      "id": "fontes:ecfr:api-docs",
+      "kind": "official_regulatory_code_api_identity",
+      "url": "https://www.ecfr.gov/developers/documentation/api/v1",
+      "fetch_policy": "metadata_only",
+      "notes": "eCFR developer/API identity for programmatic access to the Electronic Code of Federal Regulations; web page notes automated scraping limits and directs users to developer APIs; CFR text, API payloads, bulk data, histories, and downloads remain boundary-checked."
+    },
+    {
+      "id": "fontes:federal-register:api-docs",
+      "kind": "official_rulemaking_publication_api_identity",
+      "url": "https://www.federalregister.gov/developers/documentation/api/v1",
+      "fetch_policy": "metadata_only",
+      "notes": "FederalRegister.gov developer/API identity for Federal Register access; web page notes automated scraping limits and directs programmatic users to developer APIs; notices, rules, proposed rules, documents, agency metadata, API payloads, and downloads remain boundary-checked."
+    },
+    {
+      "id": "fontes:cornell-lii:wex",
+      "kind": "legal_reference_identity",
+      "url": "https://www.law.cornell.edu/wex",
+      "fetch_policy": "metadata_only",
+      "notes": "Cornell Legal Information Institute Wex identity for a free legal dictionary and encyclopedia, law-student drafted entries under LII supervision, legal-language demystification, and explicit no-legal-advice disclaimer; article bodies, definitions, examples, linked statutes/cases, and exports remain boundary-checked."
+    }
+  ]
+}
