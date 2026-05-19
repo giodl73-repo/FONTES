@@ -1362,6 +1362,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; external course sites, Szeliski, Stanford CS231n, OpenCV, ROS 2, MoveIt, and Drake identities are metadata-only or license-review pending reuse review; OCW PDFs, lecture notes, slides, recordings, problem sets, exams, projects, student work, code, notebooks, demos, videos, images, diagrams, screenshots, datasets, benchmarks, model weights, simulation assets, robot descriptions, meshes, generated docs, package artifacts, repositories, book bodies, textbook PDFs, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:reinforcement-learning-decisions:sequential-decision-making",
+      "title": "Reinforcement Learning, Dynamic Programming, and Sequential Decision Foundations",
+      "domain": "reinforcement-learning-decision-support",
+      "source_family": "reinforcement-learning-decisions",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\reinforcement-learning-decisions\\sequential-decision-making\\work.json",
+      "custody_record": "sources\\open-source\\reinforcement-learning-decisions\\sequential-decision-making\\custody.md",
+      "inventory_record": "sources\\open-source\\reinforcement-learning-decisions\\sequential-decision-making\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-reinforcement-learning-decisions-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Sutton/Barto, Stanford CS234, OpenAI Spinning Up, and Gymnasium identities are metadata-only pending reuse review; OCW PDFs, solution PDFs, problem-set PDFs, errata PDFs, textbook bodies, book PDFs, code, slides, teaching aids, notation files, literature PDFs, course assignments, exams, project materials, generated docs, tutorials, notebooks, environments, images, GIFs, package artifacts, datasets, trained policies, videos, diagrams, repositories, and linked assets remain boundary-checked."
     }
   ]
 }

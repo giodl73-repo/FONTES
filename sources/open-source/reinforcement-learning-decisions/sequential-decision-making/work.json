@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:reinforcement-learning-decisions:sequential-decision-making",
+  "title": "Reinforcement Learning, Dynamic Programming, and Sequential Decision Foundations",
+  "source_family": "reinforcement-learning-decisions",
+  "source_type": "open-education-book-course-and-framework-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/",
+  "license_status": "mixed-open-education-book-course-framework-and-environment-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["reinforcement learning", "dynamic programming", "stochastic control", "sequential decision making", "optimal control", "finite horizon", "infinite horizon", "Markov decision processes", "Bellman equations", "value iteration", "policy iteration", "approximate dynamic programming", "rollout algorithms", "model predictive control", "agent environments", "reward", "evaluation"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-231:course",
+      "kind": "dynamic_programming_stochastic_control_course",
+      "url": "https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW course identity for sequential decision making under uncertainty, stochastic control, optimal control over finite and infinite horizons, finite/infinite state spaces, perfect/imperfect observation, and approximation methods for large state spaces."
+    },
+    {
+      "id": "fontes:mit:ocw:6-231:lecture-notes",
+      "kind": "dynamic_programming_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for dynamic programming, principle of optimality, shortest paths, stochastic dynamic programming, imperfect state information, sufficient statistics, suboptimal control, rollout, model predictive control, stochastic shortest paths, Bellman's equation, and value iteration; PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-231:assignments",
+      "kind": "dynamic_programming_assignment_index",
+      "url": "https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/pages/assignments/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Assignment index names Bertsekas Dynamic Programming and Optimal Control volumes and lists problem sets and solutions; textbook bodies, errata PDFs, homework PDFs, solutions, and linked resources remain boundary-checked."
+    },
+    {
+      "id": "fontes:sutton-barto:rl-introduction",
+      "kind": "reinforcement_learning_textbook_identity",
+      "url": "http://incompleteideas.net/book/the-book-2nd.html",
+      "fetch_policy": "metadata_only",
+      "notes": "Sutton and Barto Reinforcement Learning: An Introduction second-edition identity with book PDF, code, solutions, slides, teaching aids, literature links, and notation assets; book body, PDFs, code, slides, solutions, and linked papers remain boundary-checked."
+    },
+    {
+      "id": "fontes:stanford:cs234",
+      "kind": "reinforcement_learning_course_identity",
+      "url": "https://web.stanford.edu/class/cs234/",
+      "fetch_policy": "metadata_only",
+      "notes": "Stanford CS234 reinforcement-learning course identity with homework, exams, projects, coding-policy, and generative-AI collaboration constraints visible on the course site; course bodies, assignments, code, exams, project materials, Canvas content, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:openai:spinning-up",
+      "kind": "deep_rl_educational_docs_identity",
+      "url": "https://spinningup.openai.com/en/latest/",
+      "fetch_policy": "metadata_only",
+      "notes": "OpenAI Spinning Up documentation identity for deep reinforcement-learning educational material generated with Sphinx/Read the Docs; docs, code, examples, generated pages, diagrams, and linked assets remain boundary-checked pending reuse review."
+    },
+    {
+      "id": "fontes:farama:gymnasium",
+      "kind": "rl_environment_api_identity",
+      "url": "https://gymnasium.farama.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "Gymnasium identity as a maintained fork of OpenAI Gym and API standard for reinforcement learning with reference environments, reset/step episode semantics, rewards, termination/truncation, and migration guidance; docs, environments, code, examples, images, datasets, and package artifacts remain boundary-checked."
+    }
+  ]
+}
