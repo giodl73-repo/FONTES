@@ -1,0 +1,58 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:economics-market-systems:micro-macro-econometrics-game-theory",
+  "title": "Economics, Market Systems, Econometrics, and Economic Game Theory Foundations",
+  "source_family": "economics-market-systems",
+  "source_type": "open-education-course-and-textbook-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/",
+  "license_status": "mixed-open-education-course-and-textbook-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["microeconomics", "macroeconomics", "supply and demand", "firm behavior", "consumer behavior", "competition", "monopoly", "welfare economics", "output", "employment", "inflation", "monetary policy", "fiscal policy", "statistical methods", "econometrics", "regression", "instrumental variables", "policy evaluation", "game theory", "Nash equilibrium", "Bayesian games", "bargaining", "repeated games", "cooperative games"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:14-01sc:course",
+      "kind": "microeconomics_course",
+      "url": "https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW microeconomics course identity for microeconomic concepts and analysis, supply and demand, theories of firm and individual behavior, competition and monopoly, welfare economics, policy applications, lecture videos, reading assignments, quizzes, problem sets, exams, and further-study links."
+    },
+    {
+      "id": "fontes:mit:ocw:14-02:syllabus",
+      "kind": "macroeconomics_syllabus",
+      "url": "https://ocw.mit.edu/courses/14-02-principles-of-macroeconomics-spring-2023/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW macroeconomics syllabus identity for output, employment, unemployment, interest rates, inflation, monetary/fiscal policy, public debt, international issues, macroeconomic models, readings, problem sets, quizzes, grading, and collaboration policy."
+    },
+    {
+      "id": "fontes:mit:ocw:14-30:syllabus",
+      "kind": "economics_statistics_syllabus",
+      "url": "https://ocw.mit.edu/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW statistical methods in economics syllabus identity for probability theory, sampling theory, statistical estimation, hypothesis testing, preparation for econometrics, textbook references, problem sets, and exams."
+    },
+    {
+      "id": "fontes:mit:ocw:14-32:syllabus",
+      "kind": "econometrics_syllabus",
+      "url": "https://ocw.mit.edu/courses/14-32-econometrics-spring-2007/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW econometrics syllabus identity for statistical inference, regression, generalized least squares, instrumental variables, simultaneous equations models, evaluation of government policies/programs, Stata/SAS analytical exercises, readings, problem sets, midterm, and final."
+    },
+    {
+      "id": "fontes:mit:ocw:14-12:syllabus",
+      "kind": "economic_game_theory_syllabus",
+      "url": "https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW economic applications of game theory syllabus identity for multiperson decision theory, payoff interdependence, economics applications, conceptual game-theoretic tools, recitations, textbooks, problem sets, midterms, and final."
+    },
+    {
+      "id": "fontes:mit:ocw:14-126:syllabus",
+      "kind": "graduate_game_theory_syllabus",
+      "url": "https://ocw.mit.edu/courses/14-126-game-theory-spring-2016/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW graduate game theory syllabus identity for static games, rationalizability, Nash equilibrium, Bayesian Nash equilibrium, extensive-form games, backward induction, bargaining, imperfect information, signaling, repeated games, reputation, supermodular games, global games, cooperative games, and textbook boundary."
+    }
+  ]
+}

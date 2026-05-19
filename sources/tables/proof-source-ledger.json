@@ -1474,6 +1474,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Boyd/Vandenberghe, CVXPY, SciPy optimize, and Google OR-Tools identities are metadata-only pending reuse review; OCW assignments, exams, PDFs, problem sets, spreadsheets, projects, free-online book bodies, book PDFs, slides, exercises, generated docs, source code, examples, notebooks, benchmarks, package artifacts, solver binaries, proprietary manuals, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:economics-market-systems:micro-macro-econometrics-game-theory",
+      "title": "Economics, Market Systems, Econometrics, and Economic Game Theory Foundations",
+      "domain": "economics-market-systems-support",
+      "source_family": "economics-market-systems",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\economics-market-systems\\micro-macro-econometrics-game-theory\\work.json",
+      "custody_record": "sources\\open-source\\economics-market-systems\\micro-macro-econometrics-game-theory\\custody.md",
+      "inventory_record": "sources\\open-source\\economics-market-systems\\micro-macro-econometrics-game-theory\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-economics-market-systems-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; OCW videos, lecture notes, textbook bodies, readings, problem sets, problem-set solutions, exams, quizzes, software logs, Stata/SAS files, spreadsheets, datasets, news links, images, diagrams, and third-party linked materials remain boundary-checked."
     }
   ]
 }
