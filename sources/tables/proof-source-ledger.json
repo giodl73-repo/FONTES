@@ -978,6 +978,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Oracle Database Data Warehousing Guide pages are mapped as source identities only; documentation body text, SQL examples, diagrams, screenshots, the PDF manual, sample schemas, downloads, and linked product documentation remain rights-boundary material until separate license review."
+    },
+    {
+      "work_id": "fontes:microsoft-learn:dax-powerbi-tabular",
+      "title": "Microsoft DAX, Power BI Semantic Model, Power Pivot, and Tabular Model Documentation",
+      "domain": "data-warehouse-semantic-model-support",
+      "source_family": "microsoft-learn",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-education\\microsoft-learn\\dax-powerbi-tabular\\work.json",
+      "custody_record": "sources\\open-education\\microsoft-learn\\dax-powerbi-tabular\\custody.md",
+      "inventory_record": "sources\\open-education\\microsoft-learn\\dax-powerbi-tabular\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-microsoft-dax-powerbi-tabular-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "Microsoft Learn DAX, Power BI, and Analysis Services Tabular documentation text is mapped for derived text with attribution/terms awareness; Microsoft Support Power Pivot pages, screenshots, animations, UI captures, installers, sample workbooks/models, downloadable payloads, code snippets, and internal Microsoft assets remain boundary-checked."
     }
   ]
 }

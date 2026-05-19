@@ -1,0 +1,135 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:microsoft-learn:dax-powerbi-tabular",
+  "title": "Microsoft DAX, Power BI Semantic Model, Power Pivot, and Tabular Model Documentation",
+  "source_family": "microsoft-learn",
+  "source_type": "vendor-documentation",
+  "canonical_url": "https://learn.microsoft.com/en-us/dax/dax-overview",
+  "license_status": "microsoft-public-documentation-with-support-download-sample-media-and-code-boundaries",
+  "license_url": "https://learn.microsoft.com/en-us/legal/termsofuse",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["DAX", "Power BI", "semantic models", "Power Pivot", "Excel Data Model", "Analysis Services Tabular", "tabular models", "measures", "calculated columns", "calculated tables", "relationships", "star schema", "filter context", "row-level security"],
+  "sources": [
+    {
+      "id": "fontes:microsoft-learn:dax:overview",
+      "kind": "dax_overview",
+      "url": "https://learn.microsoft.com/en-us/dax/dax-overview",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official DAX overview defining DAX across Analysis Services, Power BI, and Power Pivot, including measures, calculated columns, calculated tables, row-level security, and queries."
+    },
+    {
+      "id": "fontes:microsoft-learn:dax:reference",
+      "kind": "dax_reference",
+      "url": "https://learn.microsoft.com/en-us/dax/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official DAX reference landing page for functions, operators, and expressions used in Power BI, Analysis Services, and Power Pivot tabular data models."
+    },
+    {
+      "id": "fontes:microsoft-learn:powerbi:star-schema",
+      "kind": "powerbi_star_schema_guidance",
+      "url": "https://learn.microsoft.com/en-us/power-bi/guidance/star-schema",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official Power BI guidance connecting semantic model design to star schemas, dimension tables, fact tables, grain, relationships, SCDs, role-playing dimensions, junk dimensions, degenerate dimensions, and factless facts."
+    },
+    {
+      "id": "fontes:microsoft-learn:powerbi:relationships",
+      "kind": "powerbi_model_relationships",
+      "url": "https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official Power BI relationship guidance covering filter propagation, relationship cardinality, star schema principles, disconnected tables, and relationship properties."
+    },
+    {
+      "id": "fontes:microsoft-learn:powerbi:measures",
+      "kind": "powerbi_measures",
+      "url": "https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-measures",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official Power BI measures guidance for DAX measures, report-level measures, dynamic context, organization, and data categories."
+    },
+    {
+      "id": "fontes:microsoft-learn:analysis-services:tabular-models",
+      "kind": "analysis_services_tabular_models",
+      "url": "https://learn.microsoft.com/en-us/analysis-services/tabular-models/tabular-models-ssas?view=asallproducts-allversions",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official Analysis Services Tabular overview covering in-memory and DirectQuery tabular models, VertiPaq, semantic model objects, tables, partitions, relationships, hierarchies, measures, and KPIs."
+    },
+    {
+      "id": "fontes:microsoft-support:power-pivot-overview",
+      "kind": "power_pivot_support_overview",
+      "url": "https://support.microsoft.com/en-us/office/power-pivot-overview-and-learning-f9001958-7901-4caa-ad80-028a6d2432ed",
+      "fetch_policy": "metadata_only",
+      "notes": "Microsoft Support Power Pivot overview for Excel Data Model, relationships, calculations, Power Query, and DAX; support-page prose, images, and tutorials remain metadata-only pending support-site terms review."
+    },
+    {
+      "id": "fontes:microsoft:powerbi-downloads-boundary",
+      "kind": "installer_sample_download_boundary",
+      "url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Public Power BI Desktop installer and sample/download surfaces can be locally cached only after download, license, security, and redistribution review; internal Microsoft assets are not mapped."
+    },
+    {
+      "id": "fontes:microsoft-learn:dax:function-reference",
+      "kind": "dax_function_reference",
+      "url": "https://learn.microsoft.com/en-us/dax/dax-function-reference",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official DAX function reference covering aggregation, date/time, filter, financial, INFO, information, logical, math/trig, parent-child, relationship, statistical, table manipulation, text, and time intelligence functions."
+    },
+    {
+      "id": "fontes:microsoft-learn:dax:syntax-reference",
+      "kind": "dax_syntax_reference",
+      "url": "https://learn.microsoft.com/en-us/dax/dax-syntax-reference",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official DAX syntax reference covering expressions, table/column references, naming rules, measures, columns, reserved keywords, and special characters."
+    },
+    {
+      "id": "fontes:microsoft-learn:dax:operator-reference",
+      "kind": "dax_operator_reference",
+      "url": "https://learn.microsoft.com/en-us/dax/dax-operator-reference",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official DAX operator reference for arithmetic, comparison, text concatenation, logical operators, IN, precedence, parentheses, and type coercion."
+    },
+    {
+      "id": "fontes:microsoft-learn:dax:queries",
+      "kind": "dax_queries",
+      "url": "https://learn.microsoft.com/en-us/dax/dax-queries",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official DAX query reference covering EVALUATE, ORDER BY, START AT, DEFINE, MEASURE, VAR, TABLE, COLUMN, DAX query view, and external query tools."
+    },
+    {
+      "id": "fontes:microsoft-learn:dax:variables-best-practice",
+      "kind": "dax_best_practice",
+      "url": "https://learn.microsoft.com/en-us/dax/best-practices/dax-variables",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official DAX variables best-practice article for performance, readability, debugging, and reducing complexity."
+    },
+    {
+      "id": "fontes:microsoft-learn:dax:filter-argument-best-practice",
+      "kind": "dax_best_practice",
+      "url": "https://learn.microsoft.com/en-us/power-bi/guidance/dax-avoid-avoid-filter-as-filter-argument",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official Power BI DAX guidance recommending Boolean filter arguments for CALCULATE/CALCULATETABLE when possible, with FILTER reserved for complex cases."
+    },
+    {
+      "id": "fontes:sqlbi:dax-guide",
+      "kind": "community_professional_reference",
+      "url": "https://dax.guide/",
+      "fetch_policy": "metadata_only",
+      "notes": "SQLBI DAX Guide source identity for curated DAX functions, operators, statements, data types, compatibility matrices, and row/filter/context-transition attributes; content remains metadata-only pending SQLBI terms review."
+    },
+    {
+      "id": "fontes:sqlbi:dax-patterns",
+      "kind": "community_professional_reference",
+      "url": "https://www.daxpatterns.com/",
+      "fetch_policy": "metadata_only",
+      "notes": "SQLBI DAX Patterns source identity for reusable business-calculation patterns, especially time intelligence; pattern bodies remain metadata-only pending SQLBI terms review."
+    },
+    {
+      "id": "fontes:dax-studio:homepage",
+      "kind": "tool_documentation_boundary",
+      "url": "https://daxstudio.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "DAX Studio source identity for DAX query and performance tooling; docs, binaries, examples, and traces remain boundary-checked pending terms and file review."
+    }
+  ]
+}
