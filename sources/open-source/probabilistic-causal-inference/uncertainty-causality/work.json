@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:probabilistic-causal-inference:uncertainty-causality",
+  "title": "Probabilistic Inference, Graphical Models, and Causal Inference Foundations",
+  "source_family": "probabilistic-causal-inference",
+  "source_type": "open-education-book-course-and-framework-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/",
+  "license_status": "mixed-open-education-book-course-framework-and-data-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["probability", "uncertainty", "statistical inference", "probabilistic systems", "random processes", "graphical models", "Bayesian networks", "factor graphs", "belief propagation", "variational inference", "Markov chain Monte Carlo", "particle filters", "causal inference", "target trials", "interventions", "counterfactuals", "causal graphs", "effect estimation"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-041sc:course",
+      "kind": "probabilistic_systems_course",
+      "url": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW probabilistic systems course identity for modeling, quantification, and analysis of uncertainty, probability theory, statistical inference, data analysis, and scientifically sound prediction under uncertainty."
+    },
+    {
+      "id": "fontes:mit:ocw:6-041sc:syllabus",
+      "kind": "probabilistic_systems_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus surface for probabilistic modeling, random processes, statistical inference, uncertainty, course prerequisites, and independent-study structure; videos, slides, readings, problem sets, solutions, exams, and downloads remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:6-438:course",
+      "kind": "graphical_model_inference_course",
+      "url": "https://ocw.mit.edu/courses/6-438-algorithms-for-inference-fall-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW graduate course identity for statistical inference with probabilistic models defined using graphical representations, supporting machine learning, signal processing, AI, computer vision, control, and communication."
+    },
+    {
+      "id": "fontes:mit:ocw:6-438:lecture-notes",
+      "kind": "graphical_model_lecture_notes_index",
+      "url": "https://ocw.mit.edu/courses/6-438-algorithms-for-inference-fall-2014/pages/lecture-notes/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Lecture-note index for directed/undirected/factor graphs, I-maps, Gaussian graphical models, elimination, sum-product, max-product, Gaussian belief propagation, Kalman filtering, junction trees, loopy belief propagation, variational inference, MCMC, particle filters, and graphical-model learning; PDFs remain child-resource boundaries."
+    },
+    {
+      "id": "fontes:hernan-robins:causal-inference-what-if",
+      "kind": "causal_inference_textbook_identity",
+      "url": "https://miguelhernan.org/whatifbook",
+      "fetch_policy": "metadata_only",
+      "notes": "Causal Inference: What If identity for causal inference without models, with models, and from complex longitudinal data, with downloadable book and associated code/data; book body, PDFs, code, datasets, figures, examples, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:pywhy:dowhy",
+      "kind": "causal_inference_framework_docs_identity",
+      "url": "https://www.pywhy.org/dowhy/main/",
+      "fetch_policy": "metadata_only",
+      "notes": "DoWhy documentation identity for causal thinking and analysis, effect estimation, causal structure learning, diagnosis, root-cause analysis, interventions, counterfactuals, explicit identifying assumptions, and separation between identification and estimation; docs, source, examples, notebooks, images, packages, and linked assets remain boundary-checked."
+    },
+    {
+      "id": "fontes:pgmpy:docs",
+      "kind": "probabilistic_causal_graphical_model_docs_identity",
+      "url": "https://pgmpy.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "pgmpy documentation identity for causal and probabilistic reasoning with graphical models, parameter estimation, probabilistic inference, causal identification/inference, example datasets/models, simulations, and scikit-learn-compatible APIs; docs, code, datasets, generated pages, examples, and package artifacts remain boundary-checked."
+    }
+  ]
+}

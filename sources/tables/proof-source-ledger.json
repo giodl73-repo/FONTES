@@ -1394,6 +1394,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; AIMA, AIMA Python, Planning.Wiki, and Fast Downward identities are metadata-only pending reuse review; OCW PDFs, lecture videos, problem-solving videos, programming assignments, problem sets, solutions, exams, course downloads, textbook bodies, book PDFs, exercises, figures, pseudocode PDFs, code repositories, notebooks, tests, examples, generated docs, planner source, planner binaries, benchmarks, PDDL examples, course-platform content, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:probabilistic-causal-inference:uncertainty-causality",
+      "title": "Probabilistic Inference, Graphical Models, and Causal Inference Foundations",
+      "domain": "probabilistic-causal-inference-support",
+      "source_family": "probabilistic-causal-inference",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\probabilistic-causal-inference\\uncertainty-causality\\work.json",
+      "custody_record": "sources\\open-source\\probabilistic-causal-inference\\uncertainty-causality\\custody.md",
+      "inventory_record": "sources\\open-source\\probabilistic-causal-inference\\uncertainty-causality\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-probabilistic-causal-inference-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Hernan/Robins, DoWhy, and pgmpy identities are metadata-only pending reuse review; OCW PDFs, lecture videos, slides, readings, problem sets, recitation materials, solutions, exams, textbook bodies, book PDFs, code, datasets, notebooks, examples, generated docs, package artifacts, images, diagrams, model files, simulation outputs, repositories, and linked assets remain boundary-checked."
     }
   ]
 }
