@@ -1,0 +1,100 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:apache-calcite:query-planning",
+  "title": "Apache Calcite Query Planning and Relational Algebra Documentation",
+  "source_family": "apache-calcite",
+  "source_type": "open-source-documentation",
+  "canonical_url": "https://calcite.apache.org/docs/",
+  "license_status": "apache-2.0-documentation-and-source-with-release-artifact-boundaries",
+  "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-19",
+  "subjects": ["Apache Calcite", "query planning", "relational algebra", "SQL parser", "SQL validator", "SQL optimizer", "planner rules", "cost model", "adapters", "lattices", "materialized views", "streaming SQL"],
+  "sources": [
+    {
+      "id": "fontes:apache-calcite:docs:overview",
+      "kind": "calcite_overview",
+      "url": "https://calcite.apache.org/docs/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official overview describing Calcite as a dynamic data-management framework that provides parser, validator, optimizer, models, adapters, and query federation without owning storage or execution."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:algebra",
+      "kind": "relational_algebra",
+      "url": "https://calcite.apache.org/docs/algebra.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official relational-algebra documentation for query trees, RelBuilder, logical operators, planner rules, semantic-preserving transformations, cost models, statistics, and extensible planning."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:tutorial",
+      "kind": "adapter_tutorial",
+      "url": "https://calcite.apache.org/docs/tutorial.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official CSV-adapter tutorial covering SchemaFactory, Schema, model JSON, views, Table, ScannableTable, FilterableTable, TranslatableTable, relational operators, and planner rules."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:adapters",
+      "kind": "adapter_catalog",
+      "url": "https://calcite.apache.org/docs/adapter.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official adapter and driver documentation covering Arrow, Cassandra, CSV, Druid, Elasticsearch, File, Geode, InnoDB, JDBC, MongoDB, OS, Pig, Redis, Spark, Splunk, Kafka, Avatica, and JDBC connection properties."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:model",
+      "kind": "model_files",
+      "url": "https://calcite.apache.org/docs/model.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official model-file documentation for JSON/YAML schemas, tables, functions, types, materializations, schema cache behavior, map schemas, custom schemas, and JDBC schemas."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:sql-reference",
+      "kind": "sql_reference",
+      "url": "https://calcite.apache.org/docs/reference.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official SQL grammar and parser reference for statements, queries, joins, pivots, unpivots, pattern recognition, grouping, windows, operators, data types, and dialect behavior."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:lattice",
+      "kind": "lattice_cube_materialization",
+      "url": "https://calcite.apache.org/docs/lattice.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official lattice documentation for star/snowflake schema modeling, many-to-one constraints, cube materialization lattice concepts, materialized-view recommendations, dimensions, and measures."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:materialized-views",
+      "kind": "materialized_view_rewrite",
+      "url": "https://calcite.apache.org/docs/materialized_views.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official materialized-view documentation for exposing views to Calcite, view-based query rewriting, substitution, structural matching, join/aggregate/rollup/partial/union rewrites, and limitations."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:streaming-sql",
+      "kind": "streaming_sql",
+      "url": "https://calcite.apache.org/docs/stream.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official streaming SQL documentation for Calcite's SQL and relational-algebra extensions for streams, STREAM queries, stream/table combinations, windows, grouping sets, sorting, and punctuation."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:howto",
+      "kind": "developer_howto",
+      "url": "https://calcite.apache.org/docs/howto.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official HOWTO page covering build/test flows, integration tests, adapter implementation, creating planner rules, tracing, generated classes, and release validation boundaries."
+    },
+    {
+      "id": "fontes:apache-calcite:docs:powered-by",
+      "kind": "ecosystem_adoption",
+      "url": "https://calcite.apache.org/docs/powered_by.html",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Official ecosystem page identifying Calcite use for SQL parsing, query optimization, streaming SQL, data virtualization, federation, materialized-view rewrite, and cost-based optimization."
+    },
+    {
+      "id": "fontes:apache-calcite:source-release-boundary",
+      "kind": "source_release_boundary",
+      "url": "https://github.com/apache/calcite",
+      "fetch_policy": "metadata_only",
+      "notes": "Source repository, release tarballs, generated docs, examples, adapter code, tests, dependencies, and logos remain boundary-checked for provenance, license notices, checksums, and redistribution before caching."
+    }
+  ]
+}

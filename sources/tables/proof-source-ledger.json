@@ -1010,6 +1010,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "Microsoft Learn MDX documentation text is mapped for derived text with attribution/terms awareness; MDX code examples, Adventure Works sample databases, screenshots, UI captures, downloadable tutorial assets, and local query traces remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:apache-calcite:query-planning",
+      "title": "Apache Calcite Query Planning and Relational Algebra Documentation",
+      "domain": "query-planning-relational-algebra-support",
+      "source_family": "apache-calcite",
+      "fetch_policy": "derived_text_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-source\\apache-calcite\\query-planning\\work.json",
+      "custody_record": "sources\\open-source\\apache-calcite\\query-planning\\custody.md",
+      "inventory_record": "sources\\open-source\\apache-calcite\\query-planning\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-apache-calcite-query-planning-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "Apache Calcite documentation text is mapped for derived text under Apache 2.0 posture; source repository files, release tarballs, generated Javadocs, example code, adapter implementations, tests, dependencies, logos, and binary artifacts remain boundary-checked for provenance, notices, checksums, and redistribution before caching."
     }
   ]
 }
