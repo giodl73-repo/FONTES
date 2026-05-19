@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-see:cs107-programming-paradigms",
+  "title": "CS107 Programming Paradigms",
+  "source_family": "stanford-engineering-everywhere",
+  "source_type": "course",
+  "canonical_url": "https://see.stanford.edu/Course/CS107",
+  "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+  "license_url": "https://see.stanford.edu/UsingSEE",
+  "fetch_policy": "bundle_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["systems programming", "C", "C++", "memory management", "assembly", "concurrency", "functional programming", "Python"],
+  "sources": [
+    {
+      "id": "fontes:stanford-see:cs107:course-page",
+      "kind": "course_page",
+      "url": "https://see.stanford.edu/Course/CS107",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description, instructor metadata, handout/resource/assignment tables, and 27 lecture-session records."
+    },
+    {
+      "id": "fontes:stanford-see:cs107:syllabus",
+      "kind": "syllabus",
+      "url": "https://see.stanford.edu/materials/icsppcs107/01-CS107-Course-Information.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Course information PDF distributed by SEE."
+    },
+    {
+      "id": "fontes:stanford-see:cs107:all-materials",
+      "kind": "course_materials_zip",
+      "url": "https://see.stanford.edu/materials/icsppcs107/ProgrammingParadigmsAllMaterials.zip",
+      "fetch_policy": "bundle_allowed",
+      "notes": "SEE all-course-materials ZIP for non-video course materials."
+    },
+    {
+      "id": "fontes:stanford-see:cs107:section-assignments",
+      "kind": "section_assignments",
+      "url": "https://see.stanford.edu/materials/icsppcs107/10-Section-Handout.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative section assignment handout; course page lists eight section assignments with solution PDFs."
+    },
+    {
+      "id": "fontes:stanford-see:cs107:programming-assignments",
+      "kind": "programming_assignments",
+      "url": "https://see.stanford.edu/materials/icsppcs107/04-Assignment-1-RSG.pdf",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative programming assignment; course page lists assignment PDFs, starter code, data files, FAQs, and selected solutions."
+    },
+    {
+      "id": "fontes:stanford-see:cs107:assignment-code-data",
+      "kind": "software_data_files",
+      "url": "https://see.stanford.edu/materials/icsppcs107/assn-1-rsg.zip",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative assignment starter/data archive; treat as SEE-distributed course material unless a child resource indicates otherwise."
+    },
+    {
+      "id": "fontes:stanford-see:cs107:lecture-videos",
+      "kind": "lecture_videos",
+      "url": "https://see.stanford.edu/Course/CS107",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "SEE page lists 27 downloadable MP4 lectures. Keep media bytes out of git and cache through FLETCH only."
+    },
+    {
+      "id": "fontes:stanford-see:cs107:lecture-transcripts",
+      "kind": "lecture_transcripts",
+      "url": "https://see.stanford.edu/materials/icsppcs107/transcripts/ProgrammingParadigms-Lecture01.html",
+      "fetch_policy": "bundle_allowed",
+      "notes": "Representative transcript HTML; course sessions list transcript HTML and PDF files."
+    }
+  ]
+}

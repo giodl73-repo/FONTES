@@ -1,0 +1,79 @@
+{
+  "schema_version": "fletch.registry.v1",
+  "generated_by": "FONTES Stanford SEE CS107 source map",
+  "registry_id": "fontes-stanford-see-cs107-surfaces",
+  "fletches": [
+    {
+      "id": "fontes.stanford-see.cs107.course-page",
+      "node_kind": "fletch",
+      "label": "cs107 course-page",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS107"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_id": "course-page", "row_kind": "course_page"},
+      "tags": ["fontes", "stanford-see", "cs107", "course-page", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs107.syllabus",
+      "node_kind": "fletch",
+      "label": "cs107 syllabus",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/icsppcs107/01-CS107-Course-Information.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_id": "syllabus", "row_kind": "syllabus"},
+      "tags": ["fontes", "stanford-see", "cs107", "syllabus", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs107.all-materials",
+      "node_kind": "fletch",
+      "label": "cs107 all-materials",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/icsppcs107/ProgrammingParadigmsAllMaterials.zip"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_id": "all-materials", "row_kind": "course_materials_zip"},
+      "tags": ["fontes", "stanford-see", "cs107", "all-materials", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs107.section-assignments",
+      "node_kind": "fletch",
+      "label": "cs107 section-assignments",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/icsppcs107/10-Section-Handout.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_id": "section-assignments", "row_kind": "section_assignments"},
+      "tags": ["fontes", "stanford-see", "cs107", "section-assignments", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs107.programming-assignments",
+      "node_kind": "fletch",
+      "label": "cs107 programming-assignments",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/icsppcs107/04-Assignment-1-RSG.pdf"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_id": "programming-assignments", "row_kind": "programming_assignments"},
+      "tags": ["fontes", "stanford-see", "cs107", "programming-assignments", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs107.assignment-code-data",
+      "node_kind": "fletch",
+      "label": "cs107 assignment-code-data",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/icsppcs107/assn-1-rsg.zip"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_id": "assignment-code-data", "row_kind": "software_data_files"},
+      "tags": ["fontes", "stanford-see", "cs107", "software-data-files", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs107.lecture-videos",
+      "node_kind": "fletch",
+      "label": "cs107 lecture-videos",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS107"}],
+      "metadata": {"fetch_policy": "local_cache_allowed", "license": "media-boundary", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_id": "lecture-videos", "row_kind": "lecture_videos"},
+      "tags": ["fontes", "stanford-see", "cs107", "lecture-videos", "resource-row", "stable-url", "media-boundary"]
+    },
+    {
+      "id": "fontes.stanford-see.cs107.lecture-transcripts",
+      "node_kind": "fletch",
+      "label": "cs107 lecture-transcripts",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/materials/icsppcs107/transcripts/ProgrammingParadigms-Lecture01.html"}],
+      "metadata": {"fetch_policy": "bundle_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_id": "lecture-transcripts", "row_kind": "lecture_transcripts"},
+      "tags": ["fontes", "stanford-see", "cs107", "lecture-transcripts", "resource-row", "stable-url"]
+    },
+    {
+      "id": "fontes.stanford-see.cs107.surfaces-table",
+      "node_kind": "fletch",
+      "label": "CS107 normalized SEE source surfaces",
+      "shafts": [{"kind": "http", "url": "https://see.stanford.edu/Course/CS107"}],
+      "metadata": {"fetch_policy": "derived_text_allowed", "license": "cc-by-nc-sa-4.0", "domain": "cs-software", "work_id": "fontes:stanford-see:cs107-programming-paradigms", "table_record": "sources\\tables\\stanford-see-cs107-surfaces.json", "row_count": "8"},
+      "tags": ["fontes", "stanford-see", "cs107", "surfaces-table", "normalized-table"]
+    }
+  ]
+}

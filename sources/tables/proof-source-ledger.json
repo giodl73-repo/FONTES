@@ -434,6 +434,22 @@
       "pebble_status": "blocked-rights",
       "crop_status": "metadata-only",
       "rights_boundary": "MIT Press source found; open terms not yet confirmed."
+    },
+    {
+      "work_id": "fontes:stanford-see:cs107-programming-paradigms",
+      "title": "CS107 Programming Paradigms",
+      "domain": "cs-software",
+      "source_family": "stanford-engineering-everywhere",
+      "fetch_policy": "bundle_allowed",
+      "custody_status": "source-mapped",
+      "work_record": "sources\\open-education\\stanford-engineering-everywhere\\cs107-programming-paradigms\\work.json",
+      "custody_record": "sources\\open-education\\stanford-engineering-everywhere\\cs107-programming-paradigms\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-engineering-everywhere\\cs107-programming-paradigms\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-see-cs107-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "SEE non-video materials bundle-allowed; videos local-cache only; assignment code/data archives require child-resource review before downstream package promotion."
     }
   ]
 }

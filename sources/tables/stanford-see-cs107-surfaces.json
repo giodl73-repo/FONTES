@@ -1,0 +1,88 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-18",
+  "work_id": "fontes:stanford-see:cs107-programming-paradigms",
+  "row_grain": "one row per mapped Stanford SEE source surface",
+  "rows": [
+    {
+      "surface_id": "course-page",
+      "title": "course_page",
+      "url": "https://see.stanford.edu/Course/CS107",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "derived_text_allowed",
+      "proof_status": "candidate",
+      "notes": "Course description, instructor metadata, handout/resource/assignment tables, and 27 lecture-session records."
+    },
+    {
+      "surface_id": "syllabus",
+      "title": "syllabus",
+      "url": "https://see.stanford.edu/materials/icsppcs107/01-CS107-Course-Information.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Course information PDF distributed by SEE."
+    },
+    {
+      "surface_id": "all-materials",
+      "title": "course_materials_zip",
+      "url": "https://see.stanford.edu/materials/icsppcs107/ProgrammingParadigmsAllMaterials.zip",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "SEE all-course-materials ZIP for non-video course materials."
+    },
+    {
+      "surface_id": "section-assignments",
+      "title": "section_assignments",
+      "url": "https://see.stanford.edu/materials/icsppcs107/10-Section-Handout.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative section assignment handout; course page lists eight section assignments with solution PDFs."
+    },
+    {
+      "surface_id": "programming-assignments",
+      "title": "programming_assignments",
+      "url": "https://see.stanford.edu/materials/icsppcs107/04-Assignment-1-RSG.pdf",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative programming assignment; course page lists assignment PDFs, starter code, data files, FAQs, and selected solutions."
+    },
+    {
+      "surface_id": "assignment-code-data",
+      "title": "software_data_files",
+      "url": "https://see.stanford.edu/materials/icsppcs107/assn-1-rsg.zip",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative assignment starter/data archive; child-resource review before downstream package promotion."
+    },
+    {
+      "surface_id": "lecture-videos",
+      "title": "lecture_videos",
+      "url": "https://see.stanford.edu/Course/CS107",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "see-media-boundary",
+      "fetch_policy": "local_cache_allowed",
+      "proof_status": "media-boundary",
+      "notes": "SEE page lists 27 downloadable MP4 lectures. Keep media bytes out of git and cache through FLETCH only."
+    },
+    {
+      "surface_id": "lecture-transcripts",
+      "title": "lecture_transcripts",
+      "url": "https://see.stanford.edu/materials/icsppcs107/transcripts/ProgrammingParadigms-Lecture01.html",
+      "owner": "Stanford Engineering Everywhere",
+      "license_status": "cc-by-nc-sa-4.0-unless-otherwise-indicated",
+      "fetch_policy": "bundle_allowed",
+      "proof_status": "candidate",
+      "notes": "Representative transcript HTML; course sessions list transcript HTML and PDF files."
+    }
+  ]
+}
