@@ -1,0 +1,79 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:mit:ocw:6-172-performance-engineering-fall-2018",
+  "title": "6.172 Performance Engineering of Software Systems",
+  "source_family": "mit-ocw",
+  "source_type": "course",
+  "canonical_url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/",
+  "license_status": "cc-by-nc-sa-4.0-with-code-bundle-and-media-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+  "fetch_policy": "derived_text_allowed",
+  "custody_status": "source-mapped",
+  "accessed": "2026-05-18",
+  "subjects": ["performance engineering", "software systems", "optimization", "parallel programming", "caching", "vectorization", "memory allocation", "game engine support"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-172:course-page",
+      "kind": "course_page",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course description and learning-resource metadata for scalable high-performance software systems."
+    },
+    {
+      "id": "fontes:mit:ocw:6-172:syllabus",
+      "kind": "syllabus",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Course prerequisites, description, grading, project weighting, and C programming language boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:6-172:calendar",
+      "kind": "calendar",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/calendar/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Fifteen-week schedule covering optimization, parallelism, memory allocation, caching, autotuning, synchronization, and graph optimization."
+    },
+    {
+      "id": "fontes:mit:ocw:6-172:projects",
+      "kind": "projects",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/projects/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Project structure, performance grading, team contracts, code reviews, and four project resource families including collision detection and Leiserchess."
+    },
+    {
+      "id": "fontes:mit:ocw:6-172:project-2-collision-detection",
+      "kind": "project",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/project-2-collision-detection/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative game-engine-relevant project PDF for collision detection."
+    },
+    {
+      "id": "fontes:mit:ocw:6-172:project-4-leiserchess",
+      "kind": "project",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/project-4-leiserchess/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Representative game-AI/performance project PDF for Leiserchess."
+    },
+    {
+      "id": "fontes:mit:ocw:6-172:code-bundles",
+      "kind": "code_bundles",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/projects/",
+      "fetch_policy": "local_cache_allowed",
+      "notes": "Project material ZIPs include source files and other assets; keep bytes out of git and cache only with explicit downstream review."
+    },
+    {
+      "id": "fontes:mit:ocw:6-172:lecture-notes",
+      "kind": "lecture_notes",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/lecture-notes/",
+      "fetch_policy": "metadata_only",
+      "notes": "OCW declares lecture notes, but current page capture is sparse; keep as metadata boundary until stable note links are found."
+    },
+    {
+      "id": "fontes:mit:ocw:6-172:download",
+      "kind": "course_download",
+      "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/",
+      "fetch_policy": "bundle_allowed",
+      "notes": "OCW download package contains online course content except audio/video materials."
+    }
+  ]
+}
