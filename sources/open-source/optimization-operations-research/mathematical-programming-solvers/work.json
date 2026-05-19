@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:optimization-operations-research:mathematical-programming-solvers",
+  "title": "Optimization, Operations Research, Mathematical Programming, and Solver Foundations",
+  "source_family": "optimization-operations-research",
+  "source_type": "open-education-course-textbook-and-tool-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/",
+  "license_status": "mixed-open-education-course-textbook-and-tool-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["optimization", "operations research", "mathematical programming", "linear programming", "integer programming", "network flows", "robust optimization", "dynamic optimization", "nonlinear optimization", "duality", "simplex", "interior point methods", "semidefinite optimization", "convex optimization", "constraint programming", "routing", "solver provenance"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:15-093j:course",
+      "kind": "optimization_methods_course",
+      "url": "https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW optimization methods course identity for linear, robust, network-flow, discrete, dynamic, nonlinear, Lagrangean, gradient, Newton, conjugate-gradient, affine-scaling, interior-point, and semidefinite optimization."
+    },
+    {
+      "id": "fontes:mit:ocw:15-093j:syllabus",
+      "kind": "optimization_methods_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Syllabus identity for optimization-methods topic sequence, AMPL/CPLEX tool references, homework, midterm, final, and grading; linked PDFs, tool guides, assignments, and exams remain boundary-checked."
+    },
+    {
+      "id": "fontes:mit:ocw:6-251j:syllabus",
+      "kind": "mathematical_programming_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW mathematical-programming syllabus identity for formulations, geometry of linear optimization, duality, simplex, sensitivity analysis, robust optimization, large-scale optimization, network flows, ellipsoid method, exponentially many constraints, interior-point methods, semidefinite optimization, and discrete optimization."
+    },
+    {
+      "id": "fontes:mit:ocw:15-053:syllabus",
+      "kind": "management_science_optimization_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-053-optimization-methods-in-management-science-spring-2013/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW management-science optimization syllabus identity for linear programming, integer programming, network flows, heuristics, decision trees, behavioral economics, Excel Solver use, and the free-online Applied Mathematical Programming reference; problem sets, spreadsheets, quizzes, projects, and book bodies remain boundary-checked."
+    },
+    {
+      "id": "fontes:boyd-vandenberghe:convex-optimization-book-site",
+      "kind": "convex_optimization_book_site_identity",
+      "url": "https://web.stanford.edu/~boyd/cvxbook/",
+      "fetch_policy": "metadata_only",
+      "notes": "Book-site identity for Boyd and Vandenberghe's Convex Optimization, including book PDF, lecture slides, additional exercises, code/example links, course links, and Cambridge University Press catalog link; book, slide, exercise, code, and example bodies require separate reuse review."
+    },
+    {
+      "id": "fontes:cvxpy:docs",
+      "kind": "convex_optimization_modeling_docs_identity",
+      "url": "https://www.cvxpy.org/",
+      "fetch_policy": "metadata_only",
+      "notes": "CVXPY documentation identity for Python-embedded convex optimization modeling, parametrized programming, geometric programming, mixed-integer convex programs, quasiconvex programming, nonlinear programming, tutorials, examples, solver benchmarks, and solver dependencies."
+    },
+    {
+      "id": "fontes:scipy:optimize-docs",
+      "kind": "optimization_library_docs_identity",
+      "url": "https://docs.scipy.org/doc/scipy/reference/optimize.html",
+      "fetch_policy": "metadata_only",
+      "notes": "SciPy optimize documentation identity for objective minimization/maximization with constraints, local/global nonlinear optimization, linear programming, constrained and nonlinear least squares, root finding, curve fitting, scalar minimization, BFGS, Newton-CG, L-BFGS-B, COBYLA, SLSQP, trust-region methods, and Hessian update strategies."
+    },
+    {
+      "id": "fontes:google:or-tools-docs",
+      "kind": "operations_research_tool_docs_identity",
+      "url": "https://developers.google.com/optimization/",
+      "fetch_policy": "metadata_only",
+      "notes": "Google OR-Tools documentation identity for operations-research tooling, constraint programming, integer/linear programming, routing, scheduling, graph/network-flow, and multi-language solver examples; generated docs, source, examples, package artifacts, and solver binaries remain boundary-checked."
+    }
+  ]
+}

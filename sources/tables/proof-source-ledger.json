@@ -1458,6 +1458,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Stanford EE102, SciPy signal, and python-control identities are metadata-only pending reuse review; OCW lecture notes, videos, open textbook assets, readings, labs, lab reports, problem sets, solutions, exams, assignments, projects, textbook bodies, generated docs, source code, examples, notebooks, tests, package artifacts, releases, images, diagrams, and linked assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:optimization-operations-research:mathematical-programming-solvers",
+      "title": "Optimization, Operations Research, Mathematical Programming, and Solver Foundations",
+      "domain": "optimization-operations-research-support",
+      "source_family": "optimization-operations-research",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\optimization-operations-research\\mathematical-programming-solvers\\work.json",
+      "custody_record": "sources\\open-source\\optimization-operations-research\\mathematical-programming-solvers\\custody.md",
+      "inventory_record": "sources\\open-source\\optimization-operations-research\\mathematical-programming-solvers\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-optimization-operations-research-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing pages are mapped as derived text; Boyd/Vandenberghe, CVXPY, SciPy optimize, and Google OR-Tools identities are metadata-only pending reuse review; OCW assignments, exams, PDFs, problem sets, spreadsheets, projects, free-online book bodies, book PDFs, slides, exercises, generated docs, source code, examples, notebooks, benchmarks, package artifacts, solver binaries, proprietary manuals, images, diagrams, and linked assets remain boundary-checked."
     }
   ]
 }
