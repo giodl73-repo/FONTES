@@ -1602,6 +1602,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW and Yale course/listing/syllabus pages are mapped as derived text; textbook bodies, readings, primary-source editions, films, art reproductions, music, lecture notes, lecture videos, audio, transcripts, exams, student papers, discussion/forum posts, museum materials, images, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:philosophy-ethics-religion:moral-reasoning-scripture-interpretation",
+      "title": "Philosophy, Ethics, Moral Reasoning, Religion, and Scripture Interpretation Foundations",
+      "domain": "philosophy-ethics-religion-support",
+      "source_family": "philosophy-ethics-religion",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\philosophy-ethics-religion\\moral-reasoning-scripture-interpretation\\work.json",
+      "custody_record": "sources\\open-source\\philosophy-ethics-religion\\moral-reasoning-scripture-interpretation\\custody.md",
+      "inventory_record": "sources\\open-source\\philosophy-ethics-religion\\moral-reasoning-scripture-interpretation\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-philosophy-ethics-religion-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW and Yale course/listing/syllabus pages are mapped as derived text; textbook bodies, anthologies, handouts, readings, course packets, articles, scriptures, translations, lecture notes, videos, audio, transcripts, exams, student papers, discussion posts, images, publisher pages, and linked third-party assets remain boundary-checked."
     }
   ]
 }

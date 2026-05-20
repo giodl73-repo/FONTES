@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:philosophy-ethics-religion:moral-reasoning-scripture-interpretation",
+  "title": "Philosophy, Ethics, Moral Reasoning, Religion, and Scripture Interpretation Foundations",
+  "source_family": "philosophy-ethics-religion",
+  "source_type": "open-education-course-and-textbook-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/24-02-moral-problems-and-the-good-life-fall-2008/",
+  "license_status": "mixed-open-education-course-textbook-reading-scripture-media-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["philosophy", "ethics", "moral reasoning", "metaethics", "normative ethics", "moral character", "virtue", "free will", "moral responsibility", "social justice", "good life", "happiness", "flourishing", "political legitimacy", "religion", "biblical interpretation", "historical-critical method", "scripture", "ancient Israel", "early Christianity"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:24-02:course",
+      "kind": "moral_philosophy_course",
+      "url": "https://ocw.mit.edu/courses/24-02-moral-problems-and-the-good-life-fall-2008/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Moral Problems and the Good Life course identity for social justice, euthanasia, marriage, racism, racial profiling, free speech, hunger, global inequality, multiple points of view, moral frameworks, and informed discussion of common moral concern."
+    },
+    {
+      "id": "fontes:mit:ocw:24-02:syllabus",
+      "kind": "moral_philosophy_syllabus",
+      "url": "https://ocw.mit.edu/courses/24-02-moral-problems-and-the-good-life-fall-2008/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW moral-philosophy syllabus identity for right/wrong, good life, happiness, longevity, success, desires, obligations to others, rights/needs of poor and oppressed people, loved ones, animals, fetuses, argument analysis, papers, final exam, and plagiarism boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:24-231:course",
+      "kind": "ethics_course",
+      "url": "https://ocw.mit.edu/courses/24-231-ethics-fall-2009/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Ethics course identity for metaethics, meaning of moral claims, objective validity, normative ethics, good lives, right/wrong action, obligations to others, moral character, virtue, responsibility, and free will."
+    },
+    {
+      "id": "fontes:mit:ocw:24-231:syllabus",
+      "kind": "ethics_syllabus",
+      "url": "https://ocw.mit.edu/courses/24-231-ethics-fall-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW ethics syllabus identity for seminar structure, metaethics, non-naturalism, non-cognitivism, cognitivism, moral relativism, goodness, rightness, distributive justice, virtue, free will, moral responsibility, discussion-board posts, presentations, papers, anthology and handout boundaries, and citation/plagiarism rules."
+    },
+    {
+      "id": "fontes:open-yale:phil-181:course",
+      "kind": "philosophy_human_nature_open_course",
+      "url": "https://online.yale.edu/courses/philosophy-and-science-human-nature",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Yale Online PHIL 181 source identity for pairing Western philosophical texts with cognitive science and related fields, organized around happiness/flourishing, morality/justice, and political legitimacy/social structures."
+    },
+    {
+      "id": "fontes:open-yale:rlst-145:course",
+      "kind": "hebrew_bible_religious_studies_open_course",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-145",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale RLST 145 source identity for Old Testament/Hebrew Bible as religious life and thought of ancient Israel and a foundational document of Western civilization, using source criticism, historical-critical method, tradition criticism, redaction criticism, and literary/canonical approaches."
+    },
+    {
+      "id": "fontes:open-yale:rlst-152:course",
+      "kind": "new_testament_religious_studies_open_course",
+      "url": "https://oyc.yale.edu/religious-studies/rlst-152",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale RLST 152 source identity for historical study of early Christianity and New Testament literature in historical context, emphasizing ancient literature, historical sources, differences within early Christianities, interpretation of scripture, apocalyptic, institutions, and postmodern interpretation."
+    }
+  ]
+}
