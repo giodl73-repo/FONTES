@@ -1746,6 +1746,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; readings, books, journal articles, lecture notes, lecture videos, problem sets, assignments, written examples, exams, exam solutions, team projects, forum posts, computer-based exercises, GIS/model outputs, maps, datasets, site inventories, landscape/physiography maps, client/project materials, studio outputs, handouts, presentations, papers, case-study materials, images, diagrams, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-urban-planning:environment-law-finance-policy",
+      "title": "Environmental Planning, Economic Development, Land-Use Law, Urban Public Finance, and Policy Analysis Foundations",
+      "domain": "architecture-urban-planning-iii-support",
+      "source_family": "architecture-urban-planning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-urban-planning\\environment-law-finance-policy\\work.json",
+      "custody_record": "sources\\open-source\\architecture-urban-planning\\environment-law-finance-policy\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-urban-planning\\environment-law-finance-policy\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-urban-planning-iii-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; readings, books, eBooks, videos, faculty commentary, legal cases, casebooks, supplemental legal materials, technical papers, lecture notes, assignment examples, student work, simulations, discussion cases, problem sets, solutions, exams, presentations, papers, memos, forum/survey/quiz data, uploaded course-site materials, community-contact data, images, diagrams, datasets, software, and linked third-party assets remain boundary-checked."
     }
   ]
 }
