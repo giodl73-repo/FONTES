@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:engineering-departments:electrical-computer-engineering",
+  "title": "Electrical and Computer Engineering Foundations",
+  "source_family": "engineering-departments",
+  "source_type": "open-education-course-and-lab-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/",
+  "license_status": "mixed-open-education-course-textbook-lab-video-software-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["electrical engineering", "computer engineering", "circuits", "electronics", "lumped circuit abstraction", "MOS transistors", "digital abstraction", "amplifiers", "signals and systems", "Fourier analysis", "Laplace transforms", "Z transforms", "sampling", "linear time-invariant systems", "digital systems", "computation structures", "logic gates", "finite-state machines", "processor design", "microelectronic devices", "semiconductors", "bipolar transistors", "field-effect transistors", "electromagnetics", "Maxwell equations", "waves", "radiation", "antennas", "power transmission"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:6-002:course",
+      "kind": "circuits_electronics_course",
+      "url": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Circuits and Electronics course identity for first EE/EECS core course, lumped circuit abstraction, resistive networks, sources, switches, MOS transistors, digital abstraction, amplifiers, energy storage, first/second-order dynamics, time/frequency design, analog/digital circuits, design/lab exercises, lecture videos, exams, problem sets, and textbook boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:6-002:syllabus",
+      "kind": "circuits_electronics_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW circuits syllabus identity for learning outcomes, lumped models, node/superposition/Thevenin methods, Boolean logic, gate design, noise margins, MOSFET switch-resistor model, small-signal amplifier analysis, RLC time/frequency behavior, lab measurement tools, op amps, CMOS power, audio playback design, prerequisites, textbook, homework, tutorials, ethics, and lab boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:6-003:course",
+      "kind": "signals_systems_course",
+      "url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Signals and Systems course identity for discrete-time and continuous-time signal representations, singularity functions, complex exponentials, Fourier representations, Laplace and Z transforms, sampling, LTI systems, difference/differential equations, block diagrams, system functions, poles and zeros, convolution, impulse/step/frequency responses, feedback/control, communications, signal processing, lecture notes/videos, open textbook, problem sets, solutions, and exams."
+    },
+    {
+      "id": "fontes:mit:ocw:6-003:syllabus",
+      "kind": "signals_systems_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW signals syllabus identity for course description, prerequisites, Oppenheim/Willsky textbook boundary, grading, exams, homework/participation, collaboration policy, code/graphics authorship, plagiarism policy, and MIT academic-integrity boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:6-004:course",
+      "kind": "computation_structures_course",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Computation Structures course identity for digital systems architecture, structural principles, multilevel implementation strategies, primitives such as gates/instructions/procedures/processes, mechanization using lower-level elements, concurrency, precedence constraints, performance measures, pipelining, multidimensional systems, instruction-set design, software-structure support, instructor insights, lecture notes/videos, podcasts, and programming assignments."
+    },
+    {
+      "id": "fontes:mit:ocw:6-004:syllabus",
+      "kind": "computation_structures_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW computation structures syllabus identity for digital-systems engineering, MOS transistors, logic gates, combinational/sequential circuits, finite-state machines, computers, complete systems, hardware/software design examples, gate-level RISC processor design, abstraction, latency/throughput, ROMs/logic arrays, pipelines, buses, CPU debugging, cache tuning, virtual memory, C-to-machine-language translation, MITx/tutorial problems, and collaboration boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:6-012:course",
+      "kind": "microelectronic_devices_course",
+      "url": "https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Microelectronic Devices and Circuits course identity for Devices, Circuits and Systems concentration, microelectronic device modeling, microelectronic circuit analysis/design, semiconductor junction and MOS devices, relation of electrical behavior to internal physical processes, circuit models, model limitations, incremental and large-signal techniques, bipolar and field-effect transistor circuits, digital circuits, amplifiers, integrated circuits, design assignments, exams, lecture notes, problem sets, and projects."
+    },
+    {
+      "id": "fontes:mit:ocw:6-012:syllabus",
+      "kind": "microelectronic_devices_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW microelectronic devices syllabus identity for lectures/recitations, topics handout, diagnostic exercises and solutions, required online textbook boundary, semiconductor device references, problem sets, collaboration policy, tutorials, exams, crib sheets, take-home circuit design problem, and grading boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:6-013:course",
+      "kind": "electromagnetics_course",
+      "url": "https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-fall-2005/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Electromagnetics and Applications course identity for electromagnetic phenomena in wireless communications, circuits, computer interconnects, peripherals, optical fiber links/components, microwave communications/radar, antennas, sensors, MEMS, motors, power generation/transmission, quasistatic/dynamic Maxwell solutions, waves, radiation, diffraction, media/structure coupling, guided/unguided waves, resonance, forces, power, energy, lecture notes, problem sets, solutions, exams, and acknowledgments boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:6-013:syllabus",
+      "kind": "electromagnetics_syllabus",
+      "url": "https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-fall-2005/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW electromagnetics syllabus identity for prerequisites, course-note text boundary, online textbook boundary, quizzes, formula sheets, final exam, homework, honor policy for solutions, interactive/traditional tutorials, and grading boundary."
+    }
+  ]
+}

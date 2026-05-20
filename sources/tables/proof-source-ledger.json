@@ -1682,6 +1682,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, lecture notes, problem sets, solutions, exams, quizzes, lab handouts, experimental data, take-home lab reports, student portfolios, student designs, LTA vehicle designs, project kits, OpenWetWare wiki pages, MITWorld videos, OCW videos, podcasts, tutorial videos, simulation videos, handouts, images, diagrams, software, datasets, readings, journal articles, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:engineering-departments:electrical-computer-engineering",
+      "title": "Electrical and Computer Engineering Foundations",
+      "domain": "engineering-departments-iii-support",
+      "source_family": "engineering-departments",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\engineering-departments\\electrical-computer-engineering\\work.json",
+      "custody_record": "sources\\open-source\\engineering-departments\\electrical-computer-engineering\\custody.md",
+      "inventory_record": "sources\\open-source\\engineering-departments\\electrical-computer-engineering\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-engineering-departments-iii-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, lecture notes, lecture videos, podcasts, problem sets, solutions, exams, quizzes, formula sheets, diagnostic exercises, handouts, lab exercises, measurement data, student circuits, processor designs, design assignments, projects, code, simulations, online textbook bodies, images, diagrams, applets, software, and linked third-party assets remain boundary-checked."
     }
   ]
 }
