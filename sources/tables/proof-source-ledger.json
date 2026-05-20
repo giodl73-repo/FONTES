@@ -2130,6 +2130,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, assigned readings, primary-text bodies, secondary-reading bodies, written assignments, papers, rewrites, exercises, exams, presentations, recitation artifacts, student work, external writing guidelines, policy pages, images, PDFs, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:anthropology-core:mit-anthropology-foundations",
+      "title": "MIT Anthropology Core: Culture, Symbolism, Race/Science, Power, and Cybercultures",
+      "domain": "anthropology-core-support",
+      "source_family": "anthropology-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\anthropology-core\\mit-anthropology-foundations\\work.json",
+      "custody_record": "sources\\open-source\\anthropology-core\\mit-anthropology-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\anthropology-core\\mit-anthropology-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-anthropology-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, required readings, supplementary readings, book bodies, article/chapter bodies, written assignments, papers, research papers, commentary papers, field reports, final projects, exams, problem sets, films, games, discussion artifacts, class-web-site materials, student work, reference databases, images, PDFs, and linked third-party assets remain boundary-checked."
     }
   ]
 }
