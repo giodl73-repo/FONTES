@@ -1938,6 +1938,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, journal articles, lecture notes, lecture videos, lecture audio, podcasts, problem sets, homework, exams, solutions, quizzes, student papers, experimental-design assignments, project reports, MATLAB/code files, lab/dissection materials, images, datasets, brain talks, selected videos, readings, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mathematics-core:mit-analysis-geometry-number-combinatorics",
+      "title": "MIT Mathematics Core II: Analysis, Complex Variables, Differential Geometry, Number Theory, and Combinatorics",
+      "domain": "mathematics-core-support",
+      "source_family": "mathematics-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\mathematics-core\\mit-analysis-geometry-number-combinatorics\\work.json",
+      "custody_record": "sources\\open-source\\mathematics-core\\mit-analysis-geometry-number-combinatorics\\custody.md",
+      "inventory_record": "sources\\open-source\\mathematics-core\\mit-analysis-geometry-number-combinatorics\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mathematics-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, textbook PDFs, lecture notes, problem-solving notes, problem sets, solutions, exams, exam solutions, quizzes, homework, diagrams, proofs, worked examples, supplemental readings, Google Books previews, external PDFs, and linked third-party assets remain boundary-checked."
     }
   ]
 }
