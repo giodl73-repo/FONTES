@@ -2082,6 +2082,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; literary work bodies, poems, plays, novels, translations, anthologies, textbooks, course packets, xeroxed materials, secondary readings, screenings, films, stage productions, videos, websites, online images, journals, essays, papers, drafts, revisions, exams, creative projects, forum posts, performances, student work, style guides, PDFs, images, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:management-core:mit-sloan-management-foundations",
+      "title": "MIT Sloan Management Core: Accounting, Optimization, Operations, Finance, and Communication",
+      "domain": "management-core-support",
+      "source_family": "management-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\management-core\\mit-sloan-management-foundations\\work.json",
+      "custody_record": "sources\\open-source\\management-core\\mit-sloan-management-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\management-core\\mit-sloan-management-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-management-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, problem sets, solutions, exams, quizzes, spreadsheets, software files, Solver models, online book bodies, textbooks, cases, case write-ups, simulation games, guest-lecture materials, readings, assignments, memos, cover letters, presentations, Q&A artifacts, discussion-board posts, student work, diagrams, images, videos, instructor insights, PDFs, and linked third-party assets remain boundary-checked."
     }
   ]
 }
