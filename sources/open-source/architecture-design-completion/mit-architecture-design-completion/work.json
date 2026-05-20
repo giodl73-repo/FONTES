@@ -1,0 +1,22 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:architecture-design-completion:mit-architecture-design-completion",
+  "title": "MIT Architecture Design Completion: Environmental Design, Design Fundamentals, and Landscape Studio",
+  "source_family": "architecture-design-completion",
+  "source_type": "open-education-mit-architecture-design-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/",
+  "license_status": "mixed-open-education-studio-assignment-model-drawing-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["architecture", "environmental design", "design fundamentals", "design studio", "landscape studio", "spatial representation", "model making", "drawing", "site analysis"],
+  "sources": [
+    {"id": "fontes:mit:ocw:4-111:course", "kind": "environmental_design_course", "url": "https://ocw.mit.edu/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 4.111 course identity for architecture/environmental design, spatial representation, design methodologies, assignments, drawings, models, site/scale exercises, and portfolio boundaries."},
+    {"id": "fontes:mit:ocw:4-111:syllabus", "kind": "environmental_design_syllabus", "url": "https://ocw.mit.edu/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 4.111 syllabus identity for design objectives, assignments, critiques, readings, studio work, drawings, models, and student-work boundaries."},
+    {"id": "fontes:mit:ocw:4-112:course", "kind": "architecture_design_fundamentals_course", "url": "https://ocw.mit.edu/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 4.112 course identity for architecture design fundamentals, nano-machine design exercises, assignments, documentation, drawings, models, project files, and studio artifact boundaries."},
+    {"id": "fontes:mit:ocw:4-112:syllabus", "kind": "architecture_design_fundamentals_syllabus", "url": "https://ocw.mit.edu/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 4.112 syllabus identity for design fundamentals, project sequence, studio expectations, assignments, presentations, and model/drawing boundaries."},
+    {"id": "fontes:mit:ocw:4-125:course", "kind": "landscape_studio_course", "url": "https://ocw.mit.edu/courses/4-125-architecture-studio-building-in-landscapes-fall-2002/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 4.125 course identity for architecture studio in landscapes, site analysis, building/landscape integration, live/work design scenarios, assignments, drawings, models, and project boundaries."},
+    {"id": "fontes:mit:ocw:4-125:syllabus", "kind": "landscape_studio_syllabus", "url": "https://ocw.mit.edu/courses/4-125-architecture-studio-building-in-landscapes-fall-2002/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 4.125 syllabus identity for studio structure, site analysis, design assignments, critiques, drawings, models, presentations, and student-work boundaries."}
+  ]
+}

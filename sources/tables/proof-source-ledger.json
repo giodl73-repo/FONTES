@@ -2306,6 +2306,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, slides, videos, problem sets, solutions, exams, quizzes, readings, textbook bodies, R/MATLAB/code files, interactive problem checkers, datasets, spreadsheets, figures, images, PDFs, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-design-completion:mit-architecture-design-completion",
+      "title": "MIT Architecture Design Completion: Environmental Design, Design Fundamentals, and Landscape Studio",
+      "domain": "architecture-design-completion-support",
+      "source_family": "architecture-design-completion",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-design-completion\\mit-architecture-design-completion\\work.json",
+      "custody_record": "sources\\open-source\\architecture-design-completion\\mit-architecture-design-completion\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-design-completion\\mit-architecture-design-completion\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-design-completion-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assignments, drawings, models, portfolios, project files, studio documentation, images, site data, critique materials, presentations, readings, PDFs, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }
