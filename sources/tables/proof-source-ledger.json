@@ -1730,6 +1730,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, MIT Press book text, Google Earth/KMZ files, ArcGIS/ESRI software/interface material, lecture notes, image galleries, problem sets, exams, quizzes, written assignments, papers, field-study materials, design-project reports, existing-building assessments, GIS datasets, maps, parcels, census extracts, employment/population forecasts, guest-speaker materials, videos, images, diagrams, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-urban-planning:housing-real-estate-transport-infrastructure",
+      "title": "Housing, Real Estate, Transportation, Infrastructure, and Urbanization Foundations",
+      "domain": "architecture-urban-planning-ii-support",
+      "source_family": "architecture-urban-planning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-urban-planning\\housing-real-estate-transport-infrastructure\\work.json",
+      "custody_record": "sources\\open-source\\architecture-urban-planning\\housing-real-estate-transport-infrastructure\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-urban-planning\\housing-real-estate-transport-infrastructure\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-urban-planning-ii-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; readings, books, journal articles, lecture notes, lecture videos, problem sets, assignments, written examples, exams, exam solutions, team projects, forum posts, computer-based exercises, GIS/model outputs, maps, datasets, site inventories, landscape/physiography maps, client/project materials, studio outputs, handouts, presentations, papers, case-study materials, images, diagrams, and linked third-party assets remain boundary-checked."
     }
   ]
 }
