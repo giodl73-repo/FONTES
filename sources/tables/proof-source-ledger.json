@@ -2018,6 +2018,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assigned books, articles, films, videos, media works, images, interviews, transcripts, student writing, workshop uploads, drafts, portfolios, examples, lecture notes, exams, handouts, textbook bodies, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:science-technology-society-core:mit-sts-foundations",
+      "title": "MIT Science, Technology, and Society Core: Technology History, Science History, Disease, Ethics, and Environment",
+      "domain": "science-technology-society-core-support",
+      "source_family": "science-technology-society-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\science-technology-society-core\\mit-sts-foundations\\work.json",
+      "custody_record": "sources\\open-source\\science-technology-society-core\\mit-sts-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\science-technology-society-core\\mit-sts-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-science-technology-society-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assigned books, articles, films, videos, lecture notes, readings, papers, quizzes, exams, discussion prompts, student writing, drafts, projects, blog posts, podcasts, infographics, guest-lecture materials, textbook bodies, Google Books previews, PDFs, images, and linked third-party assets remain boundary-checked."
     }
   ]
 }
