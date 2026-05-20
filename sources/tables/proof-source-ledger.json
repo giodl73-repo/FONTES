@@ -1906,6 +1906,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, MIT Press book bodies, lecture notes, lecture videos, problem-solving videos, assignments, problem sets, solutions, exams, recitation materials, instructor insights, simulations, figures, images, derivations, notebooks/code, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:chemistry-core:mit-chemistry-organic-physical-inorganic",
+      "title": "MIT Chemistry Core: Chemical Science, Organic II, Advanced Organic, Synthetic Organic, Thermodynamics/Kinetics, Physical Chemistry, and Inorganic Chemistry",
+      "domain": "chemistry-core-support",
+      "source_family": "chemistry-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\chemistry-core\\mit-chemistry-organic-physical-inorganic\\work.json",
+      "custody_record": "sources\\open-source\\chemistry-core\\mit-chemistry-organic-physical-inorganic\\custody.md",
+      "inventory_record": "sources\\open-source\\chemistry-core\\mit-chemistry-organic-physical-inorganic\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-chemistry-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, MIT Press or commercial book bodies, lecture notes, lecture videos, problem sets, solutions, exams, exam solutions, recitation materials, clicker questions, behind-the-scenes videos, diagrams, reaction schemes, molecular-structure drawings, spectroscopy data, lab data, software/tools, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }
