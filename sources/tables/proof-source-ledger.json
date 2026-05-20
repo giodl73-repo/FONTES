@@ -2274,6 +2274,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, lab protocols, lab notebooks, student portfolios, reports, oral presentations, problem sets, solutions, exams, quizzes, readings, textbook bodies, journal articles, BioBuilder animations, videos, datasets, biological design artifacts, models, software, code, figures, images, PDFs, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:hst-public-health-core:mit-hst-public-health-foundations",
+      "title": "MIT HST/Public Health Core: Pharmacology, Quantitative Genomics, and Global Medicine",
+      "domain": "hst-public-health-core-support",
+      "source_family": "hst-public-health-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\hst-public-health-core\\mit-hst-public-health-foundations\\work.json",
+      "custody_record": "sources\\open-source\\hst-public-health-core\\mit-hst-public-health-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\hst-public-health-core\\mit-hst-public-health-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-hst-public-health-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, readings, journal articles, clinical materials, assignments, exams, datasets, genomic data, software, videos, presentations, case studies, policy documents, patient/clinical examples, figures, images, PDFs, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:hst-public-health-core:mit-hst-public-health-foundations",
+  "title": "MIT HST/Public Health Core: Pharmacology, Quantitative Genomics, and Global Medicine",
+  "source_family": "hst-public-health-core",
+  "source_type": "open-education-mit-hst-public-health-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/hst-151-principles-of-pharmacology-spring-2005/",
+  "license_status": "mixed-open-education-clinical-reading-data-video-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["health sciences and technology", "public health", "pharmacology", "quantitative genomics", "global medicine", "health disparities", "clinical evidence", "biomedical data"],
+  "sources": [
+    {"id": "fontes:mit:ocw:hst-151:course", "kind": "pharmacology_course", "url": "https://ocw.mit.edu/courses/hst-151-principles-of-pharmacology-spring-2005/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW HST.151 course identity for pharmacology, drug action, dose-response, therapeutics, quantitative/clinical considerations, lecture notes, assignments, exams, and reading boundaries."},
+    {"id": "fontes:mit:ocw:hst-151:syllabus", "kind": "pharmacology_syllabus", "url": "https://ocw.mit.edu/courses/hst-151-principles-of-pharmacology-spring-2005/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW HST.151 syllabus identity for objectives, lectures, readings, assignments, exams, grading, and clinical/pharmaceutical material boundaries."},
+    {"id": "fontes:mit:ocw:hst-508:course", "kind": "quantitative_genomics_course", "url": "https://ocw.mit.edu/courses/hst-508-quantitative-genomics-fall-2005/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW HST.508 course identity for quantitative genomics, evolutionary/population genetics, comparative genomics, structural genomics/proteomics, functional genomics, notes, assignments, and data boundaries."},
+    {"id": "fontes:mit:ocw:hst-508:syllabus", "kind": "quantitative_genomics_syllabus", "url": "https://ocw.mit.edu/courses/hst-508-quantitative-genomics-fall-2005/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW HST.508 syllabus identity for genomic topics, lectures, readings, assignments, datasets, software, and assessment boundaries."},
+    {"id": "fontes:mit:ocw:hst-934j:course", "kind": "global_medicine_course", "url": "https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW HST.934J course identity for global medicine, bioscience, technologies, disparities, strategies, health systems, assignments, readings, case materials, and policy/clinical boundaries."},
+    {"id": "fontes:mit:ocw:hst-934j:syllabus", "kind": "global_medicine_syllabus", "url": "https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW HST.934J syllabus identity for global medicine schedule, assignments, readings, strategies, disparities, presentations, and case-study boundaries."}
+  ]
+}
