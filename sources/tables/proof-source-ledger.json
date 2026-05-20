@@ -1986,6 +1986,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, scholarly books/articles, readings, lecture notes, written assignments, student papers, quizzes, exams, presentations, NSC-style exercises, interview guides, mock-interview materials, online data-collection artifacts, datasets, projects, images, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:music-theater-arts-core:mit-music-theater-foundations",
+      "title": "MIT Music and Theater Arts Core: Western Music, World Music, Composition, Music Technology, and Playwriting",
+      "domain": "music-theater-arts-core-support",
+      "source_family": "music-theater-arts-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\music-theater-arts-core\\mit-music-theater-foundations\\work.json",
+      "custody_record": "sources\\open-source\\music-theater-arts-core\\mit-music-theater-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\music-theater-arts-core\\mit-music-theater-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-music-theater-arts-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, CDs, audio recordings, lecture notes, lecture videos, music audio, scores, notated examples, scripts, plays, student compositions, student plays, written assignments, projects, performance recordings, guest demonstrations, concert materials, workshop materials, software/circuit artifacts, images, and linked third-party assets remain boundary-checked."
     }
   ]
 }
