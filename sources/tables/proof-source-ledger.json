@@ -1794,6 +1794,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, readings, textbooks, online book bodies, problem sets, solutions, exams, assignments, videos, instructor insights, walking-tour materials, public-meeting artifacts, local case data, transit datasets, operations schedules, cost models, forecasts, project examples, regional architecture projects, term papers, diagrams, images, software, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-urban-planning:building-performance-computation",
+      "title": "Building Performance, Environmental Technologies, Daylighting, Construction Systems, and Design Computing Foundations",
+      "domain": "architecture-urban-planning-vi-support",
+      "source_family": "architecture-urban-planning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-urban-planning\\building-performance-computation\\work.json",
+      "custody_record": "sources\\open-source\\architecture-urban-planning\\building-performance-computation\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-urban-planning\\building-performance-computation\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-urban-planning-vi-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture slides/notes, readings, textbooks, software, plug-ins, simulation files, photographs, physical/digital models, building evaluations, project examples, assignments, problem sets, exams, solutions, presentations, labs, student projects, images, diagrams, datasets, and linked third-party assets remain boundary-checked."
     }
   ]
 }
