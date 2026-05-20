@@ -1,0 +1,72 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:engineering-practice-systems:systems-product-manufacturing-projects",
+  "title": "Engineering Practice, Systems, Product Design, Manufacturing, and Project Management Foundations",
+  "source_family": "engineering-practice-systems",
+  "source_type": "open-education-and-public-course-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/",
+  "license_status": "mixed-open-education-and-mit-public-course-textbook-case-lab-project-media-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["systems engineering", "systems thinking", "requirements", "design synthesis", "system validation", "lifecycle targets", "decision theory", "robust design", "design structure matrix", "modeling and simulation", "product design", "product development", "customer needs", "concept generation", "product architecture", "industrial design", "design for manufacturing", "manufacturing processes", "manufacturing systems", "assembly", "machining", "injection molding", "casting", "thermoforming", "quality", "rate", "cost", "flexibility", "project management", "construction management", "infrastructure projects", "project finance", "risk management", "project organization", "project control"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:esd-33:course",
+      "kind": "systems_engineering_course",
+      "url": "https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Systems Engineering course identity for interdisciplinary systems realization, customer needs, required functionality, requirements documentation, design synthesis, system validation, operations, performance, test, manufacturing, cost, schedule, decision theory, statistics, optimization, lecture notes, and projects."
+    },
+    {
+      "id": "fontes:mit:ocw:esd-33:syllabus",
+      "kind": "systems_engineering_syllabus",
+      "url": "https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW systems engineering syllabus identity for systems thinking, project plans, methodology applicability, system engineer roles, requirements development/management, robust design, Design Structure Matrix, modeling/simulation limits, data gathering plans, lifecycle targets, INCOSE/TRIZ/textbook boundaries, project presentations, homework, and Toyota recall case-study boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:15-783j:course",
+      "kind": "product_design_development_course",
+      "url": "https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Product Design and Development course identity for project-based design, modern product design/development tools, interdisciplinary management/engineering/industrial-design teams, physical product conception/design/prototyping, workshop sessions, cases, hands-on exercises, customer needs, concept generation, product architecture, industrial design, design-for-manufacturing, lecture notes, and project examples."
+    },
+    {
+      "id": "fontes:mit:ocw:15-783j:syllabus",
+      "kind": "product_design_development_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW product design syllabus identity for integration of marketing/design/manufacturing functions, product-development tools, role of marketing/finance/industrial design/engineering/production, interdisciplinary coordination, team project, grading, Ulrich/Eppinger textbook boundary, and Harvard Business School case boundaries."
+    },
+    {
+      "id": "fontes:mit:course:2-810:course-site",
+      "kind": "manufacturing_processes_systems_course_site",
+      "url": "https://web.mit.edu/2.810/www/",
+      "fetch_policy": "metadata_only",
+      "notes": "MIT 2.810 public course-site identity for manufacturing processes and systems, lectures/labs, units, grading, assembly, machining, injection molding, casting, thermoforming, physics/randomness effects on quality/rate/cost/flexibility, process/system and process/part-design relationships, and small-group fabrication project boundary."
+    },
+    {
+      "id": "fontes:mit:meche:2-810:featured-class",
+      "kind": "manufacturing_processes_systems_department_page",
+      "url": "https://meche.mit.edu/featured-classes/manufacturing-processes-and-systems",
+      "fetch_policy": "metadata_only",
+      "notes": "MIT Mechanical Engineering department page identity for 2.810 Manufacturing Processes and Systems, graduate 12-unit class, prerequisites, assembly/machining/injection molding/casting/thermoforming, physics/randomness, quality/rate/cost/flexibility, lab constraints, fabrication project, and faculty/technical-instructor page boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:1-040:course",
+      "kind": "project_management_course",
+      "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2009/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Project Management course identity for construction and infrastructure project management, finite projects, planning/execution/control, project finance, project evaluation, project organization, inception/design/planning/construction/transition phases, guest lectures, site visit, activity assignments, lecture notes, open textbooks, and written assignments."
+    },
+    {
+      "id": "fontes:mit:ocw:1-040:syllabus",
+      "kind": "project_management_syllabus",
+      "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW project management syllabus identity for project organization/contracts, construction finance, global work, public-private partnerships, private finance, case studies, risk analysis/management, project financial evaluation, cost-benefit analysis, capital program management, construction site visit, project control, engineering/procurement/construction, project uncertainty management, term project, and guest-lecture boundaries."
+    }
+  ]
+}

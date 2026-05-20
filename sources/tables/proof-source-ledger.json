@@ -1698,6 +1698,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, lecture notes, lecture videos, podcasts, problem sets, solutions, exams, quizzes, formula sheets, diagnostic exercises, handouts, lab exercises, measurement data, student circuits, processor designs, design assignments, projects, code, simulations, online textbook bodies, images, diagrams, applets, software, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:engineering-practice-systems:systems-product-manufacturing-projects",
+      "title": "Engineering Practice, Systems, Product Design, Manufacturing, and Project Management Foundations",
+      "domain": "engineering-practice-systems-support",
+      "source_family": "engineering-practice-systems",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\engineering-practice-systems\\systems-product-manufacturing-projects\\work.json",
+      "custody_record": "sources\\open-source\\engineering-practice-systems\\systems-product-manufacturing-projects\\custody.md",
+      "inventory_record": "sources\\open-source\\engineering-practice-systems\\systems-product-manufacturing-projects\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-engineering-practice-systems-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; non-OCW MIT public course/department pages are metadata-only; textbook bodies, INCOSE materials, TRIZ books, Harvard Business School cases, technical papers, lecture notes, project files, project presentations, product concepts, prototypes, team reports, design notebooks, manufacturing lab/shop materials, fabrication instructions, machine settings, student products, site-visit materials, guest-lecture materials, open textbook bodies, images, videos, datasets, software, and linked third-party assets remain boundary-checked."
     }
   ]
 }
