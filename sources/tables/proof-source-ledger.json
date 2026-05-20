@@ -1874,6 +1874,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, textbook web editions, lecture notes, lecture videos, tutorial videos, problem sets, solutions, exams, quizzes, recitation material, readings, primary literature, biological datasets, molecular diagrams, sequence data, software/tools, MITx platform-private content, assignments, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:earth-atmospheric-planetary-sciences:mit-eaps-major-foundations",
+      "title": "MIT EAPS Major Foundations: Geology, Atmosphere/Ocean Climate Dynamics, Planetary Science, Geophysics, Nonlinear Dynamics, and Geobiology",
+      "domain": "earth-atmospheric-planetary-sciences-support",
+      "source_family": "earth-atmospheric-planetary-sciences",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\earth-atmospheric-planetary-sciences\\mit-eaps-major-foundations\\work.json",
+      "custody_record": "sources\\open-source\\earth-atmospheric-planetary-sciences\\mit-eaps-major-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\earth-atmospheric-planetary-sciences\\mit-eaps-major-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-earth-atmospheric-planetary-sciences-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, supplementary readings, lecture notes, problem sets, solutions, exams, labs, field-observation materials, field trip materials, geologic maps, datasets, images, diagrams, numerical notebooks/code, student work, software/tools, and linked third-party assets remain boundary-checked."
     }
   ]
 }
