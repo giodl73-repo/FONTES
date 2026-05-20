@@ -1954,6 +1954,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, textbook PDFs, lecture notes, problem-solving notes, problem sets, solutions, exams, exam solutions, quizzes, homework, diagrams, proofs, worked examples, supplemental readings, Google Books previews, external PDFs, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:linguistics-core:mit-formal-linguistics-foundations",
+      "title": "MIT Linguistics Core: Introduction to Linguistics, Phonology, Syntax, Semantics/Pragmatics, and Logic",
+      "domain": "linguistics-core-support",
+      "source_family": "linguistics-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\linguistics-core\\mit-formal-linguistics-foundations\\work.json",
+      "custody_record": "sources\\open-source\\linguistics-core\\mit-formal-linguistics-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\linguistics-core\\mit-formal-linguistics-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-linguistics-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, lecture notes, slides, research articles, readings, listening/watching materials, problem sets, fieldwork data, language-consultant data, student papers, polished-paper drafts, exams, quizzes, squibs, errata PDFs, textbook previews, images, and linked third-party assets remain boundary-checked."
     }
   ]
 }
