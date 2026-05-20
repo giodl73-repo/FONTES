@@ -1778,6 +1778,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, readings, textbooks, problem sets, solutions, exams, assignments, writing samples, peer-review materials, role-play packets, negotiation scenarios, videos, taped student exercises, instructor insights, presentations, survey/interview artifacts, student projects, images, diagrams, datasets, software, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-urban-planning:transportation-systems-urban-mobility",
+      "title": "Transportation Systems, Urban Mobility, Transit, ITS, and Logistics Foundations",
+      "domain": "architecture-urban-planning-v-support",
+      "source_family": "architecture-urban-planning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-urban-planning\\transportation-systems-urban-mobility\\work.json",
+      "custody_record": "sources\\open-source\\architecture-urban-planning\\transportation-systems-urban-mobility\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-urban-planning\\transportation-systems-urban-mobility\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-urban-planning-v-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, readings, textbooks, online book bodies, problem sets, solutions, exams, assignments, videos, instructor insights, walking-tour materials, public-meeting artifacts, local case data, transit datasets, operations schedules, cost models, forecasts, project examples, regional architecture projects, term papers, diagrams, images, software, and linked third-party assets remain boundary-checked."
     }
   ]
 }
