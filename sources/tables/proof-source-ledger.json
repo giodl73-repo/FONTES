@@ -1714,6 +1714,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; non-OCW MIT public course/department pages are metadata-only; textbook bodies, INCOSE materials, TRIZ books, Harvard Business School cases, technical papers, lecture notes, project files, project presentations, product concepts, prototypes, team reports, design notebooks, manufacturing lab/shop materials, fabrication instructions, machine settings, student products, site-visit materials, guest-lecture materials, open textbook bodies, images, videos, datasets, software, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-urban-planning:building-city-planning-gis",
+      "title": "Architecture, Building Technology, Urban Design, Planning, and GIS Foundations",
+      "domain": "architecture-urban-planning-support",
+      "source_family": "architecture-urban-planning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-urban-planning\\building-city-planning-gis\\work.json",
+      "custody_record": "sources\\open-source\\architecture-urban-planning\\building-city-planning-gis\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-urban-planning\\building-city-planning-gis\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-urban-planning-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, MIT Press book text, Google Earth/KMZ files, ArcGIS/ESRI software/interface material, lecture notes, image galleries, problem sets, exams, quizzes, written assignments, papers, field-study materials, design-project reports, existing-building assessments, GIS datasets, maps, parcels, census extracts, employment/population forecasts, guest-speaker materials, videos, images, diagrams, and linked third-party assets remain boundary-checked."
     }
   ]
 }
