@@ -2050,6 +2050,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assigned books, articles, films, readings, lecture notes, editable files, PDFs, external public-domain copies, Google Books previews, response papers, oral presentations, student-led discussions, essays, drafts, final papers, projects, blog discussions, mock testimony, student work, images, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:global-languages-core:mit-global-language-foundations",
+      "title": "MIT Global Languages Core: Spanish, French, Chinese, Japanese, and German Language Learning",
+      "domain": "global-languages-core-support",
+      "source_family": "global-languages-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\global-languages-core\\mit-global-language-foundations\\work.json",
+      "custody_record": "sources\\open-source\\global-languages-core\\mit-global-language-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\global-languages-core\\mit-global-language-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-global-languages-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, workbook bodies, audio programs, video episodes, LLARC materials, cassettes, CDs, CD-ROMs, registered-student audio files, study materials, handouts, dictionaries, assignments, compositions, quizzes, exams, projects, student performances, images, third-party online tools, external videos, and linked third-party assets remain boundary-checked."
     }
   ]
 }
