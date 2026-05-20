@@ -2002,6 +2002,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, CDs, audio recordings, lecture notes, lecture videos, music audio, scores, notated examples, scripts, plays, student compositions, student plays, written assignments, projects, performance recordings, guest demonstrations, concert materials, workshop materials, software/circuit artifacts, images, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:comparative-media-writing-core:mit-cms-writing-foundations",
+      "title": "MIT Comparative Media Studies/Writing Core: Media Studies, Media Texts, Rhetoric, Science Writing, and Short Fiction",
+      "domain": "comparative-media-writing-core-support",
+      "source_family": "comparative-media-writing-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\comparative-media-writing-core\\mit-cms-writing-foundations\\work.json",
+      "custody_record": "sources\\open-source\\comparative-media-writing-core\\mit-cms-writing-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\comparative-media-writing-core\\mit-cms-writing-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-comparative-media-writing-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assigned books, articles, films, videos, media works, images, interviews, transcripts, student writing, workshop uploads, drafts, portfolios, examples, lecture notes, exams, handouts, textbook bodies, and linked third-party assets remain boundary-checked."
     }
   ]
 }
