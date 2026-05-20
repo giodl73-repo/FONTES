@@ -1570,6 +1570,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW and Open Yale course/listing/syllabus pages are mapped as derived text; videos, lecture notes, readings, commercial and free-online textbook bodies, exams, solutions, discussion content, student projects, blog posts, R/Mechanical Turk materials, experiment data, transcripts, media, images, diagrams, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:social-cultural-systems:anthropology-sociology-social-theory",
+      "title": "Social and Cultural Systems, Anthropology, Sociology, and Social Theory Foundations",
+      "domain": "social-cultural-systems-support",
+      "source_family": "social-cultural-systems",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\social-cultural-systems\\anthropology-sociology-social-theory\\work.json",
+      "custody_record": "sources\\open-source\\social-cultural-systems\\anthropology-sociology-social-theory\\custody.md",
+      "inventory_record": "sources\\open-source\\social-cultural-systems\\anthropology-sociology-social-theory\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-social-cultural-systems-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW and Yale course/listing/syllabus pages are mapped as derived text; textbook bodies, book previews, readings, films, lecture videos, audio, transcripts, student fieldwork, response papers, exams, discussion content, media, images, platform pages, and linked third-party assets remain boundary-checked."
     }
   ]
 }

@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:social-cultural-systems:anthropology-sociology-social-theory",
+  "title": "Social and Cultural Systems, Anthropology, Sociology, and Social Theory Foundations",
+  "source_family": "social-cultural-systems",
+  "source_type": "open-education-course-and-textbook-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2013/",
+  "license_status": "mixed-open-education-course-textbook-media-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["anthropology", "sociology", "culture", "ethnography", "social theory", "social analysis", "institutions", "social organization", "gender", "ethnicity", "language", "politics", "economics", "art", "fieldwork", "social thought", "political economy", "social justice", "science and technology studies"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:21a-00:course",
+      "kind": "anthropology_course",
+      "url": "https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2013/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to Anthropology course identity for comparative study of cultures, human experience, institutions, gender, ethnicity, language, politics, economics, and art."
+    },
+    {
+      "id": "fontes:mit:ocw:21a-00:syllabus",
+      "kind": "anthropology_syllabus",
+      "url": "https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2013/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW anthropology syllabus identity for lectures, recitations, participation, commentary papers, research papers, exams, required textbook boundaries, and social-science reference boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:21a-01:course",
+      "kind": "culture_ethnography_course",
+      "url": "https://ocw.mit.edu/courses/21a-01-how-culture-works-fall-2019/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW How Culture Works course identity for meanings and uses of culture, ethnography, first-hand observation, quantitative representations, interpretive analysis, and empirical research on cultural differences."
+    },
+    {
+      "id": "fontes:mit:ocw:21a-01:syllabus",
+      "kind": "culture_ethnography_syllabus",
+      "url": "https://ocw.mit.edu/courses/21a-01-how-culture-works-fall-2019/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW culture syllabus identity for ethnographic fieldwork techniques, anthropological debates about culture, family structure, material culture, exchange, personhood, animals and spirits, perception, language, readings, films, ethnographic projects, response essays, and citation boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:21a-859j:course",
+      "kind": "social_theory_course",
+      "url": "https://ocw.mit.edu/courses/21a-859j-social-theory-and-analysis-spring-2021/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Social Theory and Analysis course identity for social theory from the 17th century to the present, historical contexts, older theories under present conditions, institutions, knowledge claims, social and cultural forms, anthropology, sociology, political economy, and social justice."
+    },
+    {
+      "id": "fontes:mit:ocw:21a-859j:syllabus",
+      "kind": "social_theory_syllabus",
+      "url": "https://ocw.mit.edu/courses/21a-859j-social-theory-and-analysis-spring-2021/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW social theory syllabus identity for seminar discussion, response papers, social contract, liberal individualism, colonial contexts, critique of political economy, nations, migrations, states, publics, mediation, discourse, biopower, feminisms, racial formation, Indigenous formation, climate change, and global health."
+    },
+    {
+      "id": "fontes:open-yale:socy-151:course",
+      "kind": "sociology_social_theory_open_course",
+      "url": "https://online.yale.edu/courses/foundations-modern-social-theory",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale/Yale Online SOCY 151 source identity for major works of modern social thought, social and intellectual contexts, conceptual frameworks and methods, contemporary social analysis, and writers including Hobbes, Locke, Rousseau, Montesquieu, Adam Smith, Marx, Weber, and Durkheim."
+    }
+  ]
+}
