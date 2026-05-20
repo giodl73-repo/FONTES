@@ -2146,6 +2146,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, required readings, supplementary readings, book bodies, article/chapter bodies, written assignments, papers, research papers, commentary papers, field reports, final projects, exams, problem sets, films, games, discussion artifacts, class-web-site materials, student work, reference databases, images, PDFs, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:eecs-core:mit-eecs-foundations",
+      "title": "MIT EECS Core: Circuits, Signals, Digital Systems, Computer Systems, Operating Systems, and Security",
+      "domain": "eecs-core-support",
+      "source_family": "eecs-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\eecs-core\\mit-eecs-foundations\\work.json",
+      "custody_record": "sources\\open-source\\eecs-core\\mit-eecs-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\eecs-core\\mit-eecs-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-eecs-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, podcasts, open/commercial textbook bodies, research papers, problem sets, solutions, exams, quizzes, labs, lab handins, code reviews, student code, programming assignments, projects, design reports, oral presentations, peer-review artifacts, software, simulations, Athena/private environments, x86/C/Python/Javascript artifacts, diagrams, images, PDFs, and linked third-party assets remain boundary-checked."
     }
   ]
 }
