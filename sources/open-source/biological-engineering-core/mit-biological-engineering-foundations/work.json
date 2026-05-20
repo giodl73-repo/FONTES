@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:biological-engineering-core:mit-biological-engineering-foundations",
+  "title": "MIT Biological Engineering Core: Design, Laboratory Fundamentals, Biomolecular Thermodynamics, and Biomolecular/Cellular Systems",
+  "source_family": "biological-engineering-core",
+  "source_type": "open-education-mit-biological-engineering-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/20-020-introduction-to-biological-engineering-design-spring-2009/",
+  "license_status": "mixed-open-education-lab-project-data-video-textbook-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["biological engineering", "synthetic biology", "biological design", "laboratory fundamentals", "biomolecular thermodynamics", "cellular systems", "biomolecular systems", "data analysis", "scientific communication"],
+  "sources": [
+    {"id": "fontes:mit:ocw:20-020:course", "kind": "biological_engineering_design_course", "url": "https://ocw.mit.edu/courses/20-020-introduction-to-biological-engineering-design-spring-2009/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 20.020 course identity for biological engineering design, synthetic biology, BioBuilder animations, design projects, ethics/safety/security, readings, studio activities, and project artifact boundaries."},
+    {"id": "fontes:mit:ocw:20-020:syllabus", "kind": "biological_engineering_design_syllabus", "url": "https://ocw.mit.edu/courses/20-020-introduction-to-biological-engineering-design-spring-2009/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 20.020 syllabus identity for design objectives, class structure, projects, assignments, readings, presentations, and student-work boundaries."},
+    {"id": "fontes:mit:ocw:20-109:course", "kind": "biological_engineering_laboratory_course", "url": "https://ocw.mit.edu/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 20.109 course identity for experimental design, biological engineering labs, RNA/protein/cell-biomaterial modules, lab notebooks, protocols, data analysis, reports, oral presentations, and student-work boundaries."},
+    {"id": "fontes:mit:ocw:20-109:syllabus", "kind": "biological_engineering_laboratory_syllabus", "url": "https://ocw.mit.edu/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 20.109 syllabus identity for lab/lecture schedule, assignments, reports, presentations, quizzes, notebooks, journal clubs, and lab artifact boundaries."},
+    {"id": "fontes:mit:ocw:20-110j:course", "kind": "biomolecular_thermodynamics_course", "url": "https://ocw.mit.edu/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 20.110J course identity for biomolecular thermodynamics, equilibrium, macromolecular interactions, statistical thermodynamics, lecture notes, problem sets, exams, and textbook boundaries."},
+    {"id": "fontes:mit:ocw:20-110j:syllabus", "kind": "biomolecular_thermodynamics_syllabus", "url": "https://ocw.mit.edu/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 20.110J syllabus identity for prerequisites, lectures, recitations, problem sets, exams, readings, and solution boundaries."},
+    {"id": "fontes:mit:ocw:20-320:course", "kind": "biomolecular_cellular_systems_course", "url": "https://ocw.mit.edu/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 20.320 course identity for quantitative analysis of biomolecular/cellular systems, kinetics, networks, modeling, data analysis, problem sets, exams, and software/data boundaries."},
+    {"id": "fontes:mit:ocw:20-320:syllabus", "kind": "biomolecular_cellular_systems_syllabus", "url": "https://ocw.mit.edu/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 20.320 syllabus identity for system-analysis topics, assignments, exams, readings, modeling/data artifacts, and assessment boundaries."}
+  ]
+}

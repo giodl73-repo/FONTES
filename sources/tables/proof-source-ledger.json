@@ -2258,6 +2258,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, problem sets, solutions, exams, quizzes, textbooks, readings, labs, radiation data, reactor models, numerical code, MATLAB/Octave files, simulations, design project reports, presentations, safety analyses, diagrams, images, PDFs, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:biological-engineering-core:mit-biological-engineering-foundations",
+      "title": "MIT Biological Engineering Core: Design, Laboratory Fundamentals, Biomolecular Thermodynamics, and Biomolecular/Cellular Systems",
+      "domain": "biological-engineering-core-support",
+      "source_family": "biological-engineering-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\biological-engineering-core\\mit-biological-engineering-foundations\\work.json",
+      "custody_record": "sources\\open-source\\biological-engineering-core\\mit-biological-engineering-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\biological-engineering-core\\mit-biological-engineering-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-biological-engineering-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, lab protocols, lab notebooks, student portfolios, reports, oral presentations, problem sets, solutions, exams, quizzes, readings, textbook bodies, journal articles, BioBuilder animations, videos, datasets, biological design artifacts, models, software, code, figures, images, PDFs, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }
