@@ -2338,6 +2338,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; cases, simulations, spreadsheets, software/model files, decks, pitches, videos, exams, readings, datasets, business plans, project files, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:humanities-social-completion:mit-humanities-social-completion",
+      "title": "MIT Humanities and Social Sciences Completion: Religion, Sociology, Education, Area Studies, Theater, and Writing Listings",
+      "domain": "humanities-social-completion-support",
+      "source_family": "humanities-social-completion",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\humanities-social-completion\\mit-humanities-social-completion\\work.json",
+      "custody_record": "sources\\open-source\\humanities-social-completion\\mit-humanities-social-completion\\custody.md",
+      "inventory_record": "sources\\open-source\\humanities-social-completion\\mit-humanities-social-completion\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-humanities-social-completion-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW listing text is mapped as derived text; linked courses and child resources remain boundary-checked. Readings, books, films, scripts, performances, recordings, images, maps, datasets, assignments, drafts, portfolios, workshop materials, classroom artifacts, videos, PDFs, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }

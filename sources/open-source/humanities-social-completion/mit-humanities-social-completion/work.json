@@ -1,0 +1,22 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:humanities-social-completion:mit-humanities-social-completion",
+  "title": "MIT Humanities and Social Sciences Completion: Religion, Sociology, Education, Area Studies, Theater, and Writing Listings",
+  "source_family": "humanities-social-completion",
+  "source_type": "open-education-mit-humanities-social-listing-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/find-by-topic/#cat=socialsciences&subcat=religion",
+  "license_status": "mixed-open-education-listing-course-reading-media-performance-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["religion", "sociology", "education", "area studies", "theater arts", "writing", "humanities", "social sciences"],
+  "sources": [
+    {"id": "fontes:mit:ocw:topic:religion", "kind": "religion_listing", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=socialsciences&subcat=religion", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW religion topic listing for religious studies surfaces, scripture/interpretation materials, readings, books, films, images, assignments, and third-party boundaries."},
+    {"id": "fontes:mit:ocw:topic:sociology", "kind": "sociology_listing", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=socialsciences&subcat=sociology", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW sociology topic listing for social theory, institutions, inequality, community, race/class/gender, readings, data, assignments, and media boundaries."},
+    {"id": "fontes:mit:ocw:topic:education", "kind": "education_listing", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=education", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW education topic listing for teaching, learning, assessment, curriculum, educational technology, assignments, videos, readings, and classroom artifact boundaries."},
+    {"id": "fontes:mit:ocw:topic:area-studies", "kind": "area_studies_listing", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=areastudies", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW area-studies topic listing for regional studies, global cultures, language/culture interfaces, readings, films, images, maps, assignments, and third-party boundaries."},
+    {"id": "fontes:mit:ocw:topic:theater-arts", "kind": "theater_arts_listing", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=theaterarts", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW theater arts topic listing for acting, directing, script analysis, performance, scripts, recordings, images, assignments, and student-performance boundaries."},
+    {"id": "fontes:mit:ocw:topic:writing", "kind": "writing_listing", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=writing", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW writing topic listing for rhetoric, scientific/technical writing, creative writing, drafts, portfolios, workshops, readings, assignments, and student-work boundaries."}
+  ]
+}
