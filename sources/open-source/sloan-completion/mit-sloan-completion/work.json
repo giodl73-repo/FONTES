@@ -1,0 +1,26 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:sloan-completion:mit-sloan-completion",
+  "title": "MIT Sloan Completion: Organizations, Strategy, System Dynamics, Entrepreneurship, and Marketing",
+  "source_family": "sloan-completion",
+  "source_type": "open-education-mit-sloan-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010/",
+  "license_status": "mixed-open-education-case-simulation-spreadsheet-deck-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["management", "organizations", "strategy", "system dynamics", "entrepreneurship", "marketing", "leadership", "organizational behavior"],
+  "sources": [
+    {"id": "fontes:mit:ocw:15-668:course", "kind": "organizations_course", "url": "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.668 course identity for people, organizations, organizational behavior, leadership, cases, exercises, readings, assignments, and discussion-material boundaries."},
+    {"id": "fontes:mit:ocw:15-668:syllabus", "kind": "organizations_syllabus", "url": "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.668 syllabus identity for class structure, organizational analysis, readings, cases, assignments, and exam/project boundaries."},
+    {"id": "fontes:mit:ocw:15-902:course", "kind": "strategy_course", "url": "https://ocw.mit.edu/courses/15-902-strategic-management-i-fall-2006/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.902 course identity for strategic management, competitive advantage, industry analysis, cases, readings, assignments, and presentation boundaries."},
+    {"id": "fontes:mit:ocw:15-902:syllabus", "kind": "strategy_syllabus", "url": "https://ocw.mit.edu/courses/15-902-strategic-management-i-fall-2006/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.902 syllabus identity for strategic-management sequence, grading, case discussions, written assignments, exams, and reading boundaries."},
+    {"id": "fontes:mit:ocw:15-871:course", "kind": "system_dynamics_course", "url": "https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.871 course identity for system dynamics, feedback loops, modeling, simulations, assignments, software/model files, readings, and video boundaries."},
+    {"id": "fontes:mit:ocw:15-871:syllabus", "kind": "system_dynamics_syllabus", "url": "https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.871 syllabus identity for modeling sequence, assignments, simulations, software, cases, readings, and project boundaries."},
+    {"id": "fontes:mit:ocw:15-390:course", "kind": "entrepreneurship_course", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.390 course identity for entrepreneurship, new ventures, business plans, market analysis, team projects, cases, presentations, and pitch/deck boundaries."},
+    {"id": "fontes:mit:ocw:15-390:syllabus", "kind": "entrepreneurship_syllabus", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.390 syllabus identity for new-enterprise process, deliverables, assignments, teams, presentations, readings, and venture-project boundaries."},
+    {"id": "fontes:mit:ocw:15-810:course", "kind": "marketing_course", "url": "https://ocw.mit.edu/courses/15-810-marketing-management-fall-2010/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.810 course identity for marketing management, market research, segmentation, pricing, cases, assignments, data, spreadsheets, and deck boundaries."},
+    {"id": "fontes:mit:ocw:15-810:syllabus", "kind": "marketing_syllabus", "url": "https://ocw.mit.edu/courses/15-810-marketing-management-fall-2010/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.810 syllabus identity for marketing topics, assignments, case discussions, readings, exams, presentations, and data boundaries."}
+  ]
+}

@@ -2322,6 +2322,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assignments, drawings, models, portfolios, project files, studio documentation, images, site data, critique materials, presentations, readings, PDFs, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:sloan-completion:mit-sloan-completion",
+      "title": "MIT Sloan Completion: Organizations, Strategy, System Dynamics, Entrepreneurship, and Marketing",
+      "domain": "sloan-completion-support",
+      "source_family": "sloan-completion",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\sloan-completion\\mit-sloan-completion\\work.json",
+      "custody_record": "sources\\open-source\\sloan-completion\\mit-sloan-completion\\custody.md",
+      "inventory_record": "sources\\open-source\\sloan-completion\\mit-sloan-completion\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-sloan-completion-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; cases, simulations, spreadsheets, software/model files, decks, pitches, videos, exams, readings, datasets, business plans, project files, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }
