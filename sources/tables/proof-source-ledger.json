@@ -1826,6 +1826,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; readings, reference-book entries, primary sources, newspaper articles, speeches, letters, public reports, archived syllabus PDFs, instructor insights, student work, reaction papers, presentations, research proposals, term papers, class-discussion material, study-question content, carceral-learning-environment details, images, datasets, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-urban-planning:climate-sustainability-energy-justice",
+      "title": "Urban Energy, Climate Adaptation, Sustainable Development, Environmental Justice, and Community Climate Action Foundations",
+      "domain": "architecture-urban-planning-viii-support",
+      "source_family": "architecture-urban-planning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-urban-planning\\climate-sustainability-energy-justice\\work.json",
+      "custody_record": "sources\\open-source\\architecture-urban-planning\\climate-sustainability-energy-justice\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-urban-planning\\climate-sustainability-energy-justice\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-urban-planning-viii-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; readings, books/open textbooks, lecture videos, podcasts, lecture notes, image galleries, workshop videos, field-trip videos, assignments, reaction papers, term projects, final papers/manuals, presentations, CoolClimate calculator outputs, methane field data, GPS traces, handheld-probe data, maps, legal-case materials, client/community partner materials, student work, datasets, software/tools, and linked third-party assets remain boundary-checked."
     }
   ]
 }
