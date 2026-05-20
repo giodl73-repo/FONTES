@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:engineering-departments:mechanical-chemical-materials",
+  "title": "Mechanical Engineering, Chemical Engineering, and Materials Science Foundations",
+  "source_family": "engineering-departments",
+  "source_type": "open-education-course-and-lab-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/",
+  "license_status": "mixed-open-education-course-textbook-lab-software-media-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["mechanical engineering", "engineering design", "manufacturing", "robotics", "machine elements", "experimentation", "heat transfer", "mass transfer", "thermodynamics", "fluid mechanics", "chemical engineering", "reaction engineering", "reactors", "transport processes", "materials science", "solid state chemistry", "structure", "bonding", "thermodynamics of materials", "phase transformations", "diffraction"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:2-007:course",
+      "kind": "mechanical_design_course",
+      "url": "https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Design and Manufacturing I course identity for first engineering-design subject, robot design challenge, mechanical design, robotics, control systems, competition videos, lecture notes, problem sets, exams, projects, and examples."
+    },
+    {
+      "id": "fontes:mit:ocw:2-007:syllabus",
+      "kind": "mechanical_design_syllabus",
+      "url": "https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW mechanical-design syllabus identity for lab activities, robot design, design notebooks, oral reports, homework, exams, machine elements, experimentation, data analysis, mechanical drawings, parametric models, design-review presentations, and manufacturing/process boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:2-51:course",
+      "kind": "mechanical_heat_mass_transfer_course",
+      "url": "https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Intermediate Heat and Mass Transfer course identity for advanced undergraduate mechanical engineering heat and mass transfer, thermodynamics/fluid mechanics prerequisites, analysis emphasis, thermal science, and open textbook boundary."
+    },
+    {
+      "id": "fontes:mit:ocw:2-51:syllabus",
+      "kind": "mechanical_heat_mass_transfer_syllabus",
+      "url": "https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW heat/mass transfer syllabus identity for unsteady and multidimensional conduction, numerical simulation, forced and natural convection, condensation, boiling, evaporation, radiation, solar radiation, modelling, manufacturing/electronics/consumer-products/energy examples, homework, exams, and textbook/PDE-toolbox boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:10-37:course",
+      "kind": "chemical_reaction_engineering_course",
+      "url": "https://ocw.mit.edu/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Chemical and Biological Reaction Engineering course identity for reaction rate, stoichiometry, equilibrium, chemical/biological reacting systems, rate expressions, reactor design, kinetics, transport phenomena, mass/energy balances, catalysis, and reactor heat/mass transport."
+    },
+    {
+      "id": "fontes:mit:ocw:10-37:syllabus",
+      "kind": "chemical_reaction_engineering_syllabus",
+      "url": "https://ocw.mit.edu/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW reaction-engineering syllabus identity for pathways, cell growth kinetics, enzyme kinetics, CSTR, batch reactors, plug-flow reactors, reactor selection, non-ideal mixing, recitations, homework, quizzes, exams, required/recommended textbook boundaries, and honor-code boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:10-302:syllabus",
+      "kind": "chemical_transport_processes_syllabus",
+      "url": "https://ocw.mit.edu/courses/10-302-transport-processes-fall-2004/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Transport Processes syllabus identity for heat and mass transfer, diffusion, fluid systems, homework, recitations, quizzes, conduction and heat-exchanger labs, exams, collaboration policy, textbook/software/reference boundaries, and academic-integrity rules."
+    },
+    {
+      "id": "fontes:mit:ocw:3-091sc:course",
+      "kind": "solid_state_chemistry_course",
+      "url": "https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Scholar Introduction to Solid State Chemistry course identity for chemistry principles with emphasis on solid-state materials and engineering systems, lecture videos, course notes, readings, homework/solutions, further-study links, self-assessment, help-session videos, and OCW Scholar boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:3-012:course",
+      "kind": "materials_science_course",
+      "url": "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Fundamentals of Materials Science course identity for structure, energetics, bonding, thermodynamics, electronic bonding, quantum descriptions, heat capacities, phase transformations, multiphase equilibria, symmetry, diffraction, alloys, electronic/magnetic materials, ionic/network solids, polymers, and biomaterials."
+    },
+    {
+      "id": "fontes:mit:ocw:3-012:syllabus",
+      "kind": "materials_science_syllabus",
+      "url": "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW materials-science syllabus identity for DMSE curriculum, structure, bonding, thermodynamics, thermodynamic properties, synthesis/fabrication/processing, crystal structure, heat capacities, electron tunneling, spontaneous processes, diffraction, textbooks, prerequisites, lab-course links, and supplemental-reference boundaries."
+    }
+  ]
+}

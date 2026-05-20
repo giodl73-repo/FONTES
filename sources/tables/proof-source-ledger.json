@@ -1650,6 +1650,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, case packets, Harvard Business School cases, problem sets, solutions, exams, business plans, student pitches, advisory-board materials, guest speaker biographical details, market analyses, company-confidential material, discussion-board posts, simulation models, software downloads, datasets, images, diagrams, lecture notes, tutorial videos, projects, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:engineering-departments:mechanical-chemical-materials",
+      "title": "Mechanical Engineering, Chemical Engineering, and Materials Science Foundations",
+      "domain": "engineering-departments-support",
+      "source_family": "engineering-departments",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\engineering-departments\\mechanical-chemical-materials\\work.json",
+      "custody_record": "sources\\open-source\\engineering-departments\\mechanical-chemical-materials\\custody.md",
+      "inventory_record": "sources\\open-source\\engineering-departments\\mechanical-chemical-materials\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-engineering-departments-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, OCW Scholar lecture videos, help-session videos, tutorial videos, competition videos, lecture notes, course notes, problem sets, solutions, exams, quizzes, lab handouts, student robot designs, notebooks, design-review reports, CAD/solid models, software/toolbox docs, simulation models, datasets, diagrams, images, manuscripts, case studies, and linked third-party assets remain boundary-checked."
     }
   ]
 }
