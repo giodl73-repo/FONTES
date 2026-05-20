@@ -2290,6 +2290,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, readings, journal articles, clinical materials, assignments, exams, datasets, genomic data, software, videos, presentations, case studies, policy documents, patient/clinical examples, figures, images, PDFs, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:statistics-data-ids-core:mit-statistics-data-ids-foundations",
+      "title": "MIT Statistics/Data/IDS Core: Probability, Statistics, Applied Probability, and Statistical Data Analysis",
+      "domain": "statistics-data-ids-core-support",
+      "source_family": "statistics-data-ids-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\statistics-data-ids-core\\mit-statistics-data-ids-foundations\\work.json",
+      "custody_record": "sources\\open-source\\statistics-data-ids-core\\mit-statistics-data-ids-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\statistics-data-ids-core\\mit-statistics-data-ids-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-statistics-data-ids-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, slides, videos, problem sets, solutions, exams, quizzes, readings, textbook bodies, R/MATLAB/code files, interactive problem checkers, datasets, spreadsheets, figures, images, PDFs, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }

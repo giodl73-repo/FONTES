@@ -1,0 +1,26 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:statistics-data-ids-core:mit-statistics-data-ids-foundations",
+  "title": "MIT Statistics/Data/IDS Core: Probability, Statistics, Applied Probability, and Statistical Data Analysis",
+  "source_family": "statistics-data-ids-core",
+  "source_type": "open-education-mit-statistics-data-ids-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/",
+  "license_status": "mixed-open-education-note-video-code-data-textbook-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["probability", "statistics", "applied probability", "statistical data analysis", "IDS", "data science", "Bayesian inference", "hypothesis testing", "regression", "R", "MATLAB"],
+  "sources": [
+    {"id": "fontes:mit:ocw:18-05:course", "kind": "probability_statistics_course", "url": "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 18.05 course identity for probability, statistics, Bayesian inference, hypothesis testing, confidence intervals, regression, readings, in-class materials, R code, problem sets, exams, and interactive-material boundaries."},
+    {"id": "fontes:mit:ocw:18-05:syllabus", "kind": "probability_statistics_syllabus", "url": "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 18.05 syllabus identity for prerequisites, lectures, studios, problem sets, exams, R/code materials, and solution boundaries."},
+    {"id": "fontes:mit:ocw:18-650:course", "kind": "statistics_for_applications_course", "url": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 18.650 course identity for parametric inference, MLE, hypothesis testing, regression, Bayesian statistics, PCA, generalized linear models, lecture slides/videos, problem sets, and textbook boundaries."},
+    {"id": "fontes:mit:ocw:18-650:syllabus", "kind": "statistics_for_applications_syllabus", "url": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 18.650 syllabus identity for statistical topics, lectures, assignments, exams, readings, videos, and problem-set boundaries."},
+    {"id": "fontes:mit:ocw:6-436j:course", "kind": "fundamentals_probability_course", "url": "https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 6.436J course identity for probability spaces, random variables, expectation, convergence, stochastic processes, problem sets, exams, notes, and textbook boundaries."},
+    {"id": "fontes:mit:ocw:6-436j:syllabus", "kind": "fundamentals_probability_syllabus", "url": "https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 6.436J syllabus identity for probability prerequisites, lectures, assignments, exams, readings, and solution boundaries."},
+    {"id": "fontes:mit:ocw:6-041:course", "kind": "applied_probability_course", "url": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 6.041 course identity for probabilistic systems, applied probability, random processes, estimation, decision making, lecture notes, problem sets, exams, and recitation boundaries."},
+    {"id": "fontes:mit:ocw:6-041:syllabus", "kind": "applied_probability_syllabus", "url": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 6.041 syllabus identity for applied probability topics, problem sets, quizzes/exams, readings, recitations, and solution boundaries."},
+    {"id": "fontes:mit:ocw:15-075j:course", "kind": "statistical_data_analysis_course", "url": "https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.075J course identity for statistical thinking, data analysis, sampling, estimation, hypothesis testing, regression/ANOVA, categorical/nonparametric methods, MATLAB/problem sets, exams, and dataset boundaries."},
+    {"id": "fontes:mit:ocw:15-075j:syllabus", "kind": "statistical_data_analysis_syllabus", "url": "https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 15.075J syllabus identity for statistics/data-analysis topics, software expectations, problem sets, exams, readings, and solution boundaries."}
+  ]
+}
