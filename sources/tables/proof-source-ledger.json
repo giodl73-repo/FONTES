@@ -1842,6 +1842,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; readings, books/open textbooks, lecture videos, podcasts, lecture notes, image galleries, workshop videos, field-trip videos, assignments, reaction papers, term projects, final papers/manuals, presentations, CoolClimate calculator outputs, methane field data, GPS traces, handheld-probe data, maps, legal-case materials, client/community partner materials, student work, datasets, software/tools, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-urban-planning:architectural-design-representation-studios",
+      "title": "Architectural Design Studios, Representation, Geometric Disciplines, Environmental Design, and Landscape Studio Foundations",
+      "domain": "architecture-urban-planning-ix-support",
+      "source_family": "architecture-urban-planning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-urban-planning\\architectural-design-representation-studios\\work.json",
+      "custody_record": "sources\\open-source\\architecture-urban-planning\\architectural-design-representation-studios\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-urban-planning\\architectural-design-representation-studios\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-urban-planning-ix-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assignments, supporting-resource PDFs, tutorials, readings, quotations, lecture or demonstration videos, media assignments, project examples, student work, physical/digital models, drawings, images, software/tool files, site materials, presentations, and linked third-party assets remain boundary-checked."
     }
   ]
 }
