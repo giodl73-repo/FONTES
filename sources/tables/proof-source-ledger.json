@@ -2066,6 +2066,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, workbook bodies, audio programs, video episodes, LLARC materials, cassettes, CDs, CD-ROMs, registered-student audio files, study materials, handouts, dictionaries, assignments, compositions, quizzes, exams, projects, student performances, images, third-party online tools, external videos, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:literature-core:mit-literature-foundations",
+      "title": "MIT Literature Core: Classical/Medieval Texts, Poetry, Drama, Shakespeare, and Contemporary Fiction",
+      "domain": "literature-core-support",
+      "source_family": "literature-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\literature-core\\mit-literature-foundations\\work.json",
+      "custody_record": "sources\\open-source\\literature-core\\mit-literature-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\literature-core\\mit-literature-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-literature-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; literary work bodies, poems, plays, novels, translations, anthologies, textbooks, course packets, xeroxed materials, secondary readings, screenings, films, stage productions, videos, websites, online images, journals, essays, papers, drafts, revisions, exams, creative projects, forum posts, performances, student work, style guides, PDFs, images, and linked third-party assets remain boundary-checked."
     }
   ]
 }
