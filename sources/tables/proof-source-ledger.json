@@ -1922,6 +1922,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, MIT Press or commercial book bodies, lecture notes, lecture videos, problem sets, solutions, exams, exam solutions, recitation materials, clicker questions, behind-the-scenes videos, diagrams, reaction schemes, molecular-structure drawings, spectroscopy data, lab data, software/tools, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:brain-cognitive-sciences:mit-bcs-neuroscience-cognition-core",
+      "title": "MIT Brain and Cognitive Sciences Core: Neuroscience, Human Brain, Neuroanatomy, Animal Behavior, and Neural Computation",
+      "domain": "brain-cognitive-sciences-support",
+      "source_family": "brain-cognitive-sciences",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\brain-cognitive-sciences\\mit-bcs-neuroscience-cognition-core\\work.json",
+      "custody_record": "sources\\open-source\\brain-cognitive-sciences\\mit-bcs-neuroscience-cognition-core\\custody.md",
+      "inventory_record": "sources\\open-source\\brain-cognitive-sciences\\mit-bcs-neuroscience-cognition-core\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-brain-cognitive-sciences-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, journal articles, lecture notes, lecture videos, lecture audio, podcasts, problem sets, homework, exams, solutions, quizzes, student papers, experimental-design assignments, project reports, MATLAB/code files, lab/dissection materials, images, datasets, brain talks, selected videos, readings, and linked third-party assets remain boundary-checked."
     }
   ]
 }
