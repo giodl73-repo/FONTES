@@ -2114,6 +2114,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, problem-solving videos, problem sets, solutions, quizzes, exams, supplemental exam materials, open-textbook bodies, commercial textbook bodies, journal articles, readings, book chapters, films, written assignments, grading rubrics, datasets, Stata/SAS logs, statistical-software artifacts, MITx platform/certificate materials, instructor insights, images, PDFs, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:philosophy-core:mit-philosophy-foundations",
+      "title": "MIT Philosophy Core: Western Philosophy, Ethics, Food Politics, Philosophy of Mind, and Epistemology",
+      "domain": "philosophy-core-support",
+      "source_family": "philosophy-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\philosophy-core\\mit-philosophy-foundations\\work.json",
+      "custody_record": "sources\\open-source\\philosophy-core\\mit-philosophy-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\philosophy-core\\mit-philosophy-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-philosophy-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, assigned readings, primary-text bodies, secondary-reading bodies, written assignments, papers, rewrites, exercises, exams, presentations, recitation artifacts, student work, external writing guidelines, policy pages, images, PDFs, and linked third-party assets remain boundary-checked."
     }
   ]
 }
