@@ -2162,6 +2162,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, podcasts, open/commercial textbook bodies, research papers, problem sets, solutions, exams, quizzes, labs, lab handins, code reviews, student code, programming assignments, projects, design reports, oral presentations, peer-review artifacts, software, simulations, Athena/private environments, x86/C/Python/Javascript artifacts, diagrams, images, PDFs, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:mechanical-engineering-core:mit-mechanical-foundations",
+      "title": "MIT Mechanical Engineering Core: Dynamics, Control, Design, Robotics, Fluids, Heat Transfer, and Machine Elements",
+      "domain": "mechanical-engineering-core-support",
+      "source_family": "mechanical-engineering-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\mechanical-engineering-core\\mit-mechanical-foundations\\work.json",
+      "custody_record": "sources\\open-source\\mechanical-engineering-core\\mit-mechanical-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\mechanical-engineering-core\\mit-mechanical-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-mechanical-engineering-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, problem-solving videos, problem sets, solutions, exams, quizzes, open/commercial textbook bodies, manuscripts, readings, labs, lab check-offs, lab reports, design notebooks, oral reports, competition videos, robot/project artifacts, software, embedded code, simulations, shop/fabrication materials, measurements, experiments, CAD/models/drawings, student work, images, PDFs, and linked third-party assets remain boundary-checked."
     }
   ]
 }
