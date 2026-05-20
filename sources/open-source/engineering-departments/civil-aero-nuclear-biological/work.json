@@ -1,0 +1,86 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:engineering-departments:civil-aero-nuclear-biological",
+  "title": "Civil and Environmental, Aerospace, Nuclear, and Biological Engineering Foundations",
+  "source_family": "engineering-departments",
+  "source_type": "open-education-course-and-design-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/",
+  "license_status": "mixed-open-education-course-textbook-lab-design-media-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["civil engineering", "environmental engineering", "engineering mechanics", "mechanics of materials", "structures", "structural mechanics", "mass transport", "environmental flows", "river systems", "lake systems", "aerospace engineering", "aeronautics", "astronautics", "aerospace design", "lighter-than-air vehicles", "nuclear engineering", "ionizing radiation", "radiation detection", "radiation shielding", "fission", "fusion", "biological engineering", "synthetic biology", "DNA synthesis", "biological safety", "biosecurity", "ethics"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:1-050:course",
+      "kind": "civil_environmental_mechanics_course",
+      "url": "https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Engineering Mechanics I course identity for mechanics of materials and structures, physical properties, fundamental laws, civil/environmental engineering problem solving, structural mechanics, solid mechanics, lecture notes, and problem sets."
+    },
+    {
+      "id": "fontes:mit:ocw:1-050:syllabus",
+      "kind": "civil_environmental_mechanics_syllabus",
+      "url": "https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW engineering mechanics syllabus identity for lectures, recitations, example problems, simple experiments, lecture-summary slides, required lecture notes, team homework, exams, physical understanding, and engineering design of materials and structures."
+    },
+    {
+      "id": "fontes:mit:ocw:1-061:course",
+      "kind": "environmental_transport_course",
+      "url": "https://ocw.mit.edu/courses/1-061-transport-processes-in-the-environment-fall-2008/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Transport Processes in the Environment course identity for mass transport in environmental flows, river and lake systems, mass conservation equations, diffusion, boundary layers, dissolution, bed-water exchange, air-water exchange, particle transport, lecture notes, problem sets, and simulation videos."
+    },
+    {
+      "id": "fontes:mit:ocw:1-061:syllabus",
+      "kind": "environmental_transport_syllabus",
+      "url": "https://ocw.mit.edu/courses/1-061-transport-processes-in-the-environment-fall-2008/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW environmental transport syllabus identity for lecture schedule, prerequisites, linked environmental fluid transport/hydrology lab context, graduate-version boundary, Fischer/List/Koh/Imberger/Brooks reference boundary, homework, quizzes, and final exam."
+    },
+    {
+      "id": "fontes:mit:ocw:16-00:course",
+      "kind": "aerospace_engineering_design_course",
+      "url": "https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to Aerospace Engineering and Design course identity for aeronautics, astronautics, design, active-learning aerospace modules, student team lighter-than-air vehicle design/build/fly project, design reviews, LTA race competition, performance/weight estimates, assignments, problem sets, projects, and written assignments."
+    },
+    {
+      "id": "fontes:mit:ocw:16-00:syllabus",
+      "kind": "aerospace_engineering_design_syllabus",
+      "url": "https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW aerospace design syllabus identity for textbook boundary, class participation, personal design portfolio, problem sets, preliminary/critical design reviews, LTA vehicle design project, project kit, race constraints, grading, problem-set solutions, and handout boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:22-01:course",
+      "kind": "nuclear_engineering_radiation_course",
+      "url": "https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to Nuclear Engineering and Ionizing Radiation course identity for nuclear models, radioactivity, nuclear reactions, kinematics, interaction of ionizing radiation with matter, radiation detection, radiation shielding, radiation health effects, fission/fusion energy systems, industrial and medical applications, lecture videos, podcasts, problem sets, exams, and instructor insights."
+    },
+    {
+      "id": "fontes:mit:ocw:22-01:syllabus",
+      "kind": "nuclear_engineering_radiation_syllabus",
+      "url": "https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW nuclear engineering syllabus identity for first NSE undergraduate subject, context-first radiation approach, required textbook boundary, homework, quizzes, analytical questions, take-home laboratory questions, experimental data/reporting, team data collection, academic integrity, calendar topics, and lab-jig/scavenger-hunt boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:20-020:course",
+      "kind": "biological_engineering_design_course",
+      "url": "https://ocw.mit.edu/courses/20-020-introduction-to-biological-engineering-design-spring-2009/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to Biological Engineering Design course identity for project-based synthetic biological systems, real-world problems, biological technologies, prokaryotic/eukaryotic behavior, DNA synthesis, standards, abstraction, human practice, biological safety, security, ownership, sharing, innovation, ethics, OpenWetWare class-wiki boundary, lecture notes, projects, and tutorial videos."
+    },
+    {
+      "id": "fontes:mit:ocw:20-020:syllabus",
+      "kind": "biological_engineering_design_syllabus",
+      "url": "https://ocw.mit.edu/courses/20-020-introduction-to-biological-engineering-design-spring-2009/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW biological engineering design syllabus identity for lectures/studios, synthetic biological system design, DNA synthesis, standards, abstraction, safety/security/ownership/sharing/innovation/ethics, genetic programs, project plans, construction roadmaps, personal design portfolios, joint 20.902 reading/journal-club boundary, mentoring, and non-OCW MITWorld video boundary."
+    }
+  ]
+}

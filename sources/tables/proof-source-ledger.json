@@ -1666,6 +1666,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, OCW Scholar lecture videos, help-session videos, tutorial videos, competition videos, lecture notes, course notes, problem sets, solutions, exams, quizzes, lab handouts, student robot designs, notebooks, design-review reports, CAD/solid models, software/toolbox docs, simulation models, datasets, diagrams, images, manuscripts, case studies, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:engineering-departments:civil-aero-nuclear-biological",
+      "title": "Civil and Environmental, Aerospace, Nuclear, and Biological Engineering Foundations",
+      "domain": "engineering-departments-ii-support",
+      "source_family": "engineering-departments",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\engineering-departments\\civil-aero-nuclear-biological\\work.json",
+      "custody_record": "sources\\open-source\\engineering-departments\\civil-aero-nuclear-biological\\custody.md",
+      "inventory_record": "sources\\open-source\\engineering-departments\\civil-aero-nuclear-biological\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-engineering-departments-ii-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, lecture notes, problem sets, solutions, exams, quizzes, lab handouts, experimental data, take-home lab reports, student portfolios, student designs, LTA vehicle designs, project kits, OpenWetWare wiki pages, MITWorld videos, OCW videos, podcasts, tutorial videos, simulation videos, handouts, images, diagrams, software, datasets, readings, journal articles, and linked third-party assets remain boundary-checked."
     }
   ]
 }
