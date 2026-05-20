@@ -1970,6 +1970,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, lecture notes, slides, research articles, readings, listening/watching materials, problem sets, fieldwork data, language-consultant data, student papers, polished-paper drafts, exams, quizzes, squibs, errata PDFs, textbook previews, images, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:political-science-core:mit-american-politics-policy-methods",
+      "title": "MIT Political Science Core: American Politics, Foreign Policy, and Political Science Methods",
+      "domain": "political-science-core-support",
+      "source_family": "political-science-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\political-science-core\\mit-american-politics-policy-methods\\work.json",
+      "custody_record": "sources\\open-source\\political-science-core\\mit-american-politics-policy-methods\\custody.md",
+      "inventory_record": "sources\\open-source\\political-science-core\\mit-american-politics-policy-methods\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-political-science-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, scholarly books/articles, readings, lecture notes, written assignments, student papers, quizzes, exams, presentations, NSC-style exercises, interview guides, mock-interview materials, online data-collection artifacts, datasets, projects, images, and linked third-party assets remain boundary-checked."
     }
   ]
 }
