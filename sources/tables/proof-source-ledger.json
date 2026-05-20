@@ -2226,6 +2226,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, problem sets, solutions, exams, quizzes, textbooks, lab handouts, lab reports, experiment data, measurements, spectra, micrographs, material-property datasets, simulations, software, process diagrams, images, PDFs, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:chemical-engineering-core:mit-chemical-engineering-foundations",
+      "title": "MIT Chemical Engineering Core: Thermodynamics, Transport, Separation, Reaction Engineering, and Process Dynamics",
+      "domain": "chemical-engineering-core-support",
+      "source_family": "chemical-engineering-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\chemical-engineering-core\\mit-chemical-engineering-foundations\\work.json",
+      "custody_record": "sources\\open-source\\chemical-engineering-core\\mit-chemical-engineering-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\chemical-engineering-core\\mit-chemical-engineering-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-chemical-engineering-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, problem sets, solutions, exams, quizzes, textbooks, readings, process diagrams, reactor models, separation design examples, simulations, software/model files, datasets, figures, images, PDFs, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }

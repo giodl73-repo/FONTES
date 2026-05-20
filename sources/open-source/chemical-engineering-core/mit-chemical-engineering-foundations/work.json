@@ -1,0 +1,26 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:chemical-engineering-core:mit-chemical-engineering-foundations",
+  "title": "MIT Chemical Engineering Core: Thermodynamics, Transport, Separation, Reaction Engineering, and Process Dynamics",
+  "source_family": "chemical-engineering-core",
+  "source_type": "open-education-mit-chemical-engineering-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/10-40-chemical-engineering-thermodynamics-fall-2003/",
+  "license_status": "mixed-open-education-note-problem-exam-textbook-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["chemical engineering", "thermodynamics", "transport processes", "separation processes", "reaction engineering", "process dynamics", "process control", "mass transfer", "heat transfer", "chemical kinetics"],
+  "sources": [
+    {"id": "fontes:mit:ocw:10-40:course", "kind": "chemical_engineering_thermodynamics_course", "url": "https://ocw.mit.edu/courses/10-40-chemical-engineering-thermodynamics-fall-2003/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.40 course identity for classical/statistical thermodynamics, properties, equilibria, pure materials, mixtures, lecture notes, assignments, exams, and textbook boundaries."},
+    {"id": "fontes:mit:ocw:10-40:syllabus", "kind": "chemical_engineering_thermodynamics_syllabus", "url": "https://ocw.mit.edu/courses/10-40-chemical-engineering-thermodynamics-fall-2003/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.40 syllabus identity for course vision, prerequisites, lectures, homework, exams, participation, readings, and assessment boundaries."},
+    {"id": "fontes:mit:ocw:10-302:course", "kind": "transport_processes_course", "url": "https://ocw.mit.edu/courses/10-302-transport-processes-fall-2004/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.302 course identity for transport processes, momentum/heat/mass transfer, diffusion, convection, lecture notes, problem sets, exams, and figure/textbook boundaries."},
+    {"id": "fontes:mit:ocw:10-302:syllabus", "kind": "transport_processes_syllabus", "url": "https://ocw.mit.edu/courses/10-302-transport-processes-fall-2004/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.302 syllabus identity for transport topics, homework, exams, readings, grading, and problem-solution boundaries."},
+    {"id": "fontes:mit:ocw:10-32:course", "kind": "separation_processes_course", "url": "https://ocw.mit.edu/courses/10-32-separation-processes-spring-2005/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.32 course identity for separation processes, distillation, absorption, extraction, membranes, mass transfer, design calculations, assignments, exams, and process-diagram boundaries."},
+    {"id": "fontes:mit:ocw:10-32:syllabus", "kind": "separation_processes_syllabus", "url": "https://ocw.mit.edu/courses/10-32-separation-processes-spring-2005/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.32 syllabus identity for separations topics, homework, quizzes/exams, readings, design examples, and assessment boundaries."},
+    {"id": "fontes:mit:ocw:10-37:course", "kind": "reaction_engineering_course", "url": "https://ocw.mit.edu/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.37 course identity for chemical/biological reaction engineering, kinetics, reactor design, catalysis, bioreactors, lecture notes, assignments, exams, and textbook/software boundaries."},
+    {"id": "fontes:mit:ocw:10-37:syllabus", "kind": "reaction_engineering_syllabus", "url": "https://ocw.mit.edu/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.37 syllabus identity for reaction-engineering topics, problem sets, exams, readings, grading, and solution boundaries."},
+    {"id": "fontes:mit:ocw:10-450:course", "kind": "process_dynamics_control_course", "url": "https://ocw.mit.edu/courses/10-450-process-dynamics-operations-and-control-spring-2006/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.450 course identity for process dynamics, operations, feedback control, modeling, stability, controller design, assignments, exams, software/model boundaries."},
+    {"id": "fontes:mit:ocw:10-450:syllabus", "kind": "process_dynamics_control_syllabus", "url": "https://ocw.mit.edu/courses/10-450-process-dynamics-operations-and-control-spring-2006/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 10.450 syllabus identity for process-control prerequisites, lecture topics, homework, quizzes/exams, simulations, and assessment boundaries."}
+  ]
+}
