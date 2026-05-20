@@ -2210,6 +2210,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, problem sets, solutions, exams, quizzes, textbooks, readings, labs, field materials, site data, environmental datasets, hydrologic/geotechnical models, software, maps, diagrams, images, design projects, student portfolios, presentations, reports, PDFs, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:materials-core:mit-materials-foundations",
+      "title": "MIT Materials Science Core: Fundamentals, Laboratory, Electronic/Optical/Magnetic Properties, Mechanical Behavior, Processing, and Solid-State Chemistry",
+      "domain": "materials-core-support",
+      "source_family": "materials-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\materials-core\\mit-materials-foundations\\work.json",
+      "custody_record": "sources\\open-source\\materials-core\\mit-materials-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\materials-core\\mit-materials-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-materials-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, problem sets, solutions, exams, quizzes, textbooks, lab handouts, lab reports, experiment data, measurements, spectra, micrographs, material-property datasets, simulations, software, process diagrams, images, PDFs, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }

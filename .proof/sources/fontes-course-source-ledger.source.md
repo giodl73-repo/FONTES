@@ -18,9 +18,9 @@ extraction must use that JSON table as the proof input.
 
 ## Ledger summary
 
-The ledger currently covers 138 work-level source records:
+The ledger currently covers 139 work-level source records:
 
-- 122 candidate rows ready for surface-level PEBBLE/CROP expansion.
+- 123 candidate rows ready for surface-level PEBBLE/CROP expansion.
 - 13 source-identity rows that may only contribute source identity or gap status.
 - 3 blocked-rights rows that may only contribute source identity or gap status.
 
