@@ -1890,6 +1890,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, supplementary readings, lecture notes, problem sets, solutions, exams, labs, field-observation materials, field trip materials, geologic maps, datasets, images, diagrams, numerical notebooks/code, student work, software/tools, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:physics-core:mit-physics-major-core",
+      "title": "MIT Physics Major Core: Vibrations and Waves, Quantum Physics, and Statistical Physics",
+      "domain": "physics-core-support",
+      "source_family": "physics-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\physics-core\\mit-physics-major-core\\work.json",
+      "custody_record": "sources\\open-source\\physics-core\\mit-physics-major-core\\custody.md",
+      "inventory_record": "sources\\open-source\\physics-core\\mit-physics-major-core\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-physics-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, MIT Press book bodies, lecture notes, lecture videos, problem-solving videos, assignments, problem sets, solutions, exams, recitation materials, instructor insights, simulations, figures, images, derivations, notebooks/code, and linked third-party assets remain boundary-checked."
     }
   ]
 }
