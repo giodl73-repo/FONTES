@@ -2098,6 +2098,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, problem sets, solutions, exams, quizzes, spreadsheets, software files, Solver models, online book bodies, textbooks, cases, case write-ups, simulation games, guest-lecture materials, readings, assignments, memos, cover letters, presentations, Q&A artifacts, discussion-board posts, student work, diagrams, images, videos, instructor insights, PDFs, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:economics-core:mit-economics-foundations",
+      "title": "MIT Economics Core: Microeconomics, Macroeconomics, Statistical Methods, Econometrics, and Development",
+      "domain": "economics-core-support",
+      "source_family": "economics-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\economics-core\\mit-economics-foundations\\work.json",
+      "custody_record": "sources\\open-source\\economics-core\\mit-economics-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\economics-core\\mit-economics-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-economics-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, problem-solving videos, problem sets, solutions, quizzes, exams, supplemental exam materials, open-textbook bodies, commercial textbook bodies, journal articles, readings, book chapters, films, written assignments, grading rubrics, datasets, Stata/SAS logs, statistical-software artifacts, MITx platform/certificate materials, instructor insights, images, PDFs, and linked third-party assets remain boundary-checked."
     }
   ]
 }
