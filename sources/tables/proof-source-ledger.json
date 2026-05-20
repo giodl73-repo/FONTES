@@ -1810,6 +1810,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture slides/notes, readings, textbooks, software, plug-ins, simulation files, photographs, physical/digital models, building evaluations, project examples, assignments, problem sets, exams, solutions, presentations, labs, student projects, images, diagrams, datasets, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:architecture-urban-planning:urban-history-sociology",
+      "title": "Urban History, Institutions, Sociology, Community, Inequality, and Socio-Spatial Theory Foundations",
+      "domain": "architecture-urban-planning-vii-support",
+      "source_family": "architecture-urban-planning",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\architecture-urban-planning\\urban-history-sociology\\work.json",
+      "custody_record": "sources\\open-source\\architecture-urban-planning\\urban-history-sociology\\custody.md",
+      "inventory_record": "sources\\open-source\\architecture-urban-planning\\urban-history-sociology\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-architecture-urban-planning-vii-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; readings, reference-book entries, primary sources, newspaper articles, speeches, letters, public reports, archived syllabus PDFs, instructor insights, student work, reaction papers, presentations, research proposals, term papers, class-discussion material, study-question content, carceral-learning-environment details, images, datasets, and linked third-party assets remain boundary-checked."
     }
   ]
 }
