@@ -1,0 +1,28 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:cee-core:mit-cee-foundations",
+  "title": "MIT Civil and Environmental Engineering Core: Design, Solid/Fluid Mechanics, Environmental Transport, Hydrology, and Geotechnical Engineering",
+  "source_family": "cee-core",
+  "source_type": "open-education-mit-civil-environmental-engineering-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/",
+  "license_status": "mixed-open-education-design-lab-data-textbook-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["civil engineering", "environmental engineering", "design", "solid mechanics", "fluid mechanics", "environmental transport", "groundwater hydrology", "geotechnical engineering", "structures", "infrastructure", "labs", "field data", "models"],
+  "sources": [
+    {"id": "fontes:mit:ocw:1-101:course", "kind": "cee_design_course", "url": "https://ocw.mit.edu/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.101 course identity for CEE design, structures, systems, environmental modules, field/project work, student portfolios, reports, images, and design artifact boundaries."},
+    {"id": "fontes:mit:ocw:1-101:syllabus", "kind": "cee_design_syllabus", "url": "https://ocw.mit.edu/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.101 syllabus identity for design expectations, modules, assignments, field/lab work, presentations, reports, and student-work boundaries."},
+    {"id": "fontes:mit:ocw:1-050:course", "kind": "solid_mechanics_course", "url": "https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.050 course identity for statics, solid mechanics, structures, stress/strain, beams, torsion, problem sets, exams, notes, and textbook/diagram boundaries."},
+    {"id": "fontes:mit:ocw:1-050:syllabus", "kind": "solid_mechanics_syllabus", "url": "https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.050 syllabus identity for mechanics prerequisites, assignments, exams, readings, grading, and assessment boundaries."},
+    {"id": "fontes:mit:ocw:1-060:course", "kind": "fluid_mechanics_course", "url": "https://ocw.mit.edu/courses/1-060-engineering-mechanics-ii-spring-2006/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.060 course identity for fluid mechanics, conservation laws, pipe/channel flow, potential flow, boundary layers, problem sets, exams, notes, and textbook/figure boundaries."},
+    {"id": "fontes:mit:ocw:1-060:syllabus", "kind": "fluid_mechanics_syllabus", "url": "https://ocw.mit.edu/courses/1-060-engineering-mechanics-ii-spring-2006/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.060 syllabus identity for fluid-mechanics lecture sequence, problem sets, exams, readings, and solution boundaries."},
+    {"id": "fontes:mit:ocw:1-061:course", "kind": "environmental_transport_course", "url": "https://ocw.mit.edu/courses/1-061-transport-processes-in-the-environment-fall-2008/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.061 course identity for environmental transport, diffusion, advection, dispersion, mixing, contaminant transport, lecture notes, assignments, exams, and data/model boundaries."},
+    {"id": "fontes:mit:ocw:1-061:syllabus", "kind": "environmental_transport_syllabus", "url": "https://ocw.mit.edu/courses/1-061-transport-processes-in-the-environment-fall-2008/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.061 syllabus identity for transport topics, assignments, exams, readings, models, environmental datasets, and assessment boundaries."},
+    {"id": "fontes:mit:ocw:1-72:course", "kind": "groundwater_hydrology_course", "url": "https://ocw.mit.edu/courses/1-72-groundwater-hydrology-fall-2005/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.72 course identity for groundwater flow, aquifers, wells, contaminant transport, hydrologic models, lecture notes, assignments, exams, and field/data boundaries."},
+    {"id": "fontes:mit:ocw:1-72:syllabus", "kind": "groundwater_hydrology_syllabus", "url": "https://ocw.mit.edu/courses/1-72-groundwater-hydrology-fall-2005/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.72 syllabus identity for groundwater topics, homework, projects, exams, readings, model/data assets, and solution boundaries."},
+    {"id": "fontes:mit:ocw:1-364:course", "kind": "geotechnical_engineering_course", "url": "https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.364 course identity for geotechnical engineering, soil behavior, site characterization, foundations, numerical/geologic models, lecture notes, assignments, exams, and case-study boundaries."},
+    {"id": "fontes:mit:ocw:1-364:syllabus", "kind": "geotechnical_engineering_syllabus", "url": "https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/pages/syllabus/", "fetch_policy": "derived_text_allowed", "notes": "MIT OCW 1.364 syllabus identity for geotechnical topics, readings, assignments, projects, exams, field/case materials, and textbook boundaries."}
+  ]
+}
