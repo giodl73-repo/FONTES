@@ -1618,6 +1618,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW and Yale course/listing/syllabus pages are mapped as derived text; textbook bodies, anthologies, handouts, readings, course packets, articles, scriptures, translations, lecture notes, videos, audio, transcripts, exams, student papers, discussion posts, images, publisher pages, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:literature-arts-media:literary-media-film-interpretation",
+      "title": "Literature, Arts, Media Studies, Film, and Interpretation Foundations",
+      "domain": "literature-arts-media-support",
+      "source_family": "literature-arts-media",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\literature-arts-media\\literary-media-film-interpretation\\work.json",
+      "custody_record": "sources\\open-source\\literature-arts-media\\literary-media-film-interpretation\\custody.md",
+      "inventory_record": "sources\\open-source\\literature-arts-media\\literary-media-film-interpretation\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-literature-arts-media-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW and Open Yale course/listing/syllabus pages are mapped as derived text; textbook bodies, anthologies, course packets, poems, novels, literary works, film clips, films, television episodes, screenings, lecture videos, audio, transcripts, slides, archival materials, student papers, exams, images, media assets, publisher pages, and linked third-party assets remain boundary-checked."
     }
   ]
 }

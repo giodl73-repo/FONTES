@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:literature-arts-media:literary-media-film-interpretation",
+  "title": "Literature, Arts, Media Studies, Film, and Interpretation Foundations",
+  "source_family": "literature-arts-media",
+  "source_type": "open-education-course-and-textbook-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/",
+  "license_status": "mixed-open-education-course-textbook-film-media-reading-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["literature", "literary theory", "poetry", "fiction", "media studies", "film studies", "cinema", "comparative literature", "critical theory", "interpretation", "close reading", "narrative", "adaptation", "mediated communication", "visual culture", "writing", "oral presentation", "cultural criticism"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:21l-015:course",
+      "kind": "media_studies_course",
+      "url": "https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to Media Studies course identity for mediated communication, oral/print/theatrical/photographic/broadcast/cinematic/digital media, media history, institutions, social values, political beliefs, identities, behaviors, adaptation, class, gender, race, and media criticism."
+    },
+    {
+      "id": "fontes:mit:ocw:21l-015:syllabus",
+      "kind": "media_studies_syllabus",
+      "url": "https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW media-studies syllabus identity for lectures, screenings/labs, recitations, communication-intensive writing and oral presentations, essays, research essay, participation, plagiarism, writing-center, and communications-forum boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:21l-011:syllabus",
+      "kind": "film_studies_syllabus",
+      "url": "https://ocw.mit.edu/courses/21l-011-the-film-experience-fall-2013/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Film Experience syllabus identity for classic films as cultural/historical artifacts and works of art, film-analysis skills, history/cultural significance of movies, writing, screenings, film clips, prerecorded lectures, papers, oral expression, quiz, midterm, final exam, silent era, Hollywood genres, and international cinema."
+    },
+    {
+      "id": "fontes:mit:ocw:21l-706:course",
+      "kind": "film_literature_course",
+      "url": "https://ocw.mit.edu/courses/21l-706-studies-in-film-fall-2005/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Studies in Film course identity for relationships between film and literature, genre/topic/style across media, cinema, literary narrative, cultural/political/aesthetic boundaries, narrative theory, major filmmakers, and canonical literary works."
+    },
+    {
+      "id": "fontes:open-yale:engl-300:course",
+      "kind": "literary_theory_open_course",
+      "url": "https://oyc.yale.edu/english/engl-300",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale ENGL 300 source identity for twentieth-century literary theory, philosophical/social perspectives on literature, production, understanding, purpose, hermeneutics, formalism, structuralism, deconstruction, psychoanalysis, critical theory, historicism, feminism, African-American criticism, post-colonial criticism, queer theory, and institutional literary study."
+    },
+    {
+      "id": "fontes:open-yale:engl-310:course",
+      "kind": "modern_poetry_open_course",
+      "url": "https://oyc.yale.edu/english/engl-310",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale ENGL 310 source identity for modern poetry, modern and contemporary poetry anthology boundaries, Yeats, Eliot, Pound, Stevens, Moore, Bishop, Frost, World War I poetry, Imagism, Harlem Renaissance, close reading, and historical/biographical/gender criticism."
+    },
+    {
+      "id": "fontes:open-yale:engl-291:course",
+      "kind": "american_novel_open_course",
+      "url": "https://oyc.yale.edu/english/engl-291",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale ENGL 291 source identity for the American novel since 1945, formal and thematic developments, writers/readers, publishing, novel form, fiction and history, American culture, archival materials, literary analysis papers, passage readings, and exam boundaries."
+    }
+  ]
+}
