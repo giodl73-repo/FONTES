@@ -2178,6 +2178,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, problem-solving videos, problem sets, solutions, exams, quizzes, open/commercial textbook bodies, manuscripts, readings, labs, lab check-offs, lab reports, design notebooks, oral reports, competition videos, robot/project artifacts, software, embedded code, simulations, shop/fabrication materials, measurements, experiments, CAD/models/drawings, student work, images, PDFs, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:aerospace-core:mit-aerospace-foundations",
+      "title": "MIT Aerospace/Aeronautics Core: Aerospace Design, Unified Engineering, Control, Dynamics, Structures, Propulsion, and Space Systems",
+      "domain": "aerospace-core-support",
+      "source_family": "aerospace-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\aerospace-core\\mit-aerospace-foundations\\work.json",
+      "custody_record": "sources\\open-source\\aerospace-core\\mit-aerospace-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\aerospace-core\\mit-aerospace-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-aerospace-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; lecture notes, videos, simulations, problem sets, solutions, exams, quizzes, textbook bodies, readings, labs, lab reports, systems-problem materials, MATLAB/code/software, aircraft/spacecraft design artifacts, mission designs, requirements/trade studies, team presentations, project reports, diagrams, images, PDFs, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }
