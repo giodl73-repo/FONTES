@@ -1858,6 +1858,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assignments, supporting-resource PDFs, tutorials, readings, quotations, lecture or demonstration videos, media assignments, project examples, student work, physical/digital models, drawings, images, software/tool files, site materials, presentations, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:biology-life-sciences:mit-biology-major-foundations",
+      "title": "MIT Biology Major Foundations: Introductory Biology, Genetics, Biochemistry, Cell Biology, and Molecular Biology",
+      "domain": "biology-life-sciences-support",
+      "source_family": "biology-life-sciences",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\biology-life-sciences\\mit-biology-major-foundations\\work.json",
+      "custody_record": "sources\\open-source\\biology-life-sciences\\mit-biology-major-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\biology-life-sciences\\mit-biology-major-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-biology-life-sciences-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, textbook web editions, lecture notes, lecture videos, tutorial videos, problem sets, solutions, exams, quizzes, recitation material, readings, primary literature, biological datasets, molecular diagrams, sequence data, software/tools, MITx platform-private content, assignments, student work, and linked third-party assets remain boundary-checked."
     }
   ]
 }
