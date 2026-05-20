@@ -1,0 +1,65 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:history-humanities-civilization:historical-method-revolution-world-history",
+  "title": "History, Humanities, Civilization, Revolution, and Historical Method Foundations",
+  "source_family": "history-humanities-civilization",
+  "source_type": "open-education-course-and-textbook-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2013/",
+  "license_status": "mixed-open-education-course-textbook-media-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["history", "humanities", "civilization", "historical method", "revolution", "world history", "European history", "American history", "Civil War", "Reconstruction", "empire", "nation-states", "colonialism", "political transformation", "cultural development", "primary sources", "secondary sources"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:21h-001:course",
+      "kind": "revolution_history_course",
+      "url": "https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2013/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW How to Stage a Revolution course identity for causes and nature of revolutions, overthrowing rulers, new governments, political transformations, revolutionary ideals, violence, terror, success/failure, and source materials including writings, declarations, constitutions, music, films, art, novels, memoirs, and newspapers."
+    },
+    {
+      "id": "fontes:mit:ocw:21h-001:syllabus",
+      "kind": "revolution_history_syllabus",
+      "url": "https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2013/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW revolution-history syllabus identity for American, French, Haitian, and Egyptian revolutions, class participation, forum posts, writing assignments, revision, debates, communication-intensive requirements, readings, and academic-integrity boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:21h-009:course",
+      "kind": "world_history_course",
+      "url": "https://ocw.mit.edu/courses/21h-009-the-world-1400-present-spring-2014/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW The World: 1400-Present course identity for community interaction, transport technologies, Western Europe and United States world dominance, divergence between Western Europe and East Asia, environment, religious and political systems, race, class, gender, and interpretive methodologies."
+    },
+    {
+      "id": "fontes:mit:ocw:21h-009:syllabus",
+      "kind": "world_history_syllabus",
+      "url": "https://ocw.mit.edu/courses/21h-009-the-world-1400-present-spring-2014/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW world-history syllabus identity for economic and political evolution from 1400 to present, primary and secondary sources, architectural, musical, and visual evidence, debates, short assignments, visual exercises, final paper, textbook boundary, plagiarism boundary, empire, industrialization, colonialism, nation-states, and Atlantic revolutions."
+    },
+    {
+      "id": "fontes:open-yale:hist-202:course",
+      "kind": "modern_european_history_open_course",
+      "url": "https://oyc.yale.edu/history/hist-202",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale HIST 202 source identity for modern European history from the end of the Thirty Years' War to the aftermath of World War II, French Revolution, Napoleon, ordinary people, upheaval, demographic change, political revolution, cultural development, and art/literature/cinema boundaries."
+    },
+    {
+      "id": "fontes:open-yale:hist-116:course",
+      "kind": "american_revolution_open_course",
+      "url": "https://online.yale.edu/courses/american-revolution",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale/Yale Online HIST 116 source identity for the American Revolution as transformations from British colonists to American revolutionaries and from colonies to confederation, with participants' shifting identities as British subjects, colonial settlers, revolutionaries, and Americans."
+    },
+    {
+      "id": "fontes:open-yale:hist-119:course",
+      "kind": "civil_war_reconstruction_open_course",
+      "url": "https://oyc.yale.edu/history/hist-119",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "Open Yale HIST 119 source identity for causes, course, and consequences of the American Civil War and Reconstruction, national/sectional/racial/constitutional/social/intellectual/moral meanings, union and disunion, slavery, emancipation, modern total war, and Reconstruction."
+    }
+  ]
+}
