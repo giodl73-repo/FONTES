@@ -2034,6 +2034,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assigned books, articles, films, videos, lecture notes, readings, papers, quizzes, exams, discussion prompts, student writing, drafts, projects, blog posts, podcasts, infographics, guest-lecture materials, textbook bodies, Google Books previews, PDFs, images, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:womens-gender-studies-core:mit-wgs-foundations",
+      "title": "MIT Women and Gender Studies Core: Gender Studies, Sexuality, Technology, Health, and Science",
+      "domain": "womens-gender-studies-core-support",
+      "source_family": "womens-gender-studies-core",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\womens-gender-studies-core\\mit-wgs-foundations\\work.json",
+      "custody_record": "sources\\open-source\\womens-gender-studies-core\\mit-wgs-foundations\\custody.md",
+      "inventory_record": "sources\\open-source\\womens-gender-studies-core\\mit-wgs-foundations\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-womens-gender-studies-core-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; assigned books, articles, films, readings, lecture notes, editable files, PDFs, external public-domain copies, Google Books previews, response papers, oral presentations, student-led discussions, essays, drafts, final papers, projects, blog discussions, mock testimony, student work, images, and linked third-party assets remain boundary-checked."
     }
   ]
 }
