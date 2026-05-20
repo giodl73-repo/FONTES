@@ -1,0 +1,93 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:business-management-organizations:entrepreneurship-accounting-strategy",
+  "title": "Business, Management, Entrepreneurship, Accounting, Strategy, and Organizations Foundations",
+  "source_family": "business-management-organizations",
+  "source_type": "open-education-course-and-case-boundary-identities",
+  "canonical_url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/",
+  "license_status": "mixed-open-education-course-textbook-case-software-and-linked-asset-boundaries",
+  "license_url": "https://ocw.mit.edu/pages/terms-of-use/",
+  "fetch_policy": "mixed_policy",
+  "custody_status": "source-mapped-with-rights-boundary",
+  "accessed": "2026-05-19",
+  "subjects": ["business", "management", "entrepreneurship", "new ventures", "market analysis", "business planning", "accounting", "financial reporting", "managerial reporting", "organizational behavior", "managerial psychology", "teamwork", "leadership", "management communication", "service operations", "strategy", "system dynamics", "systems thinking", "organizational learning"],
+  "sources": [
+    {
+      "id": "fontes:mit:ocw:15-390:course",
+      "kind": "entrepreneurship_course",
+      "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW New Enterprises course identity for identifying and quantifying market opportunities, conceptualizing/planning/starting technology-based enterprises, startup business plans, management teams, entrepreneurs, and entrepreneurial process."
+    },
+    {
+      "id": "fontes:mit:ocw:15-390:syllabus",
+      "kind": "entrepreneurship_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW New Enterprises syllabus identity for innovation-based venture creation, business plans, investor pitches, market analysis, technology viability, competitive positioning, team-building, product lifecycle, marketing strategy, sales channels, organizational/legal formation, IP/equity boundaries, guest speakers, business-plan deliverables, and textbook/case boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:15-501:course",
+      "kind": "accounting_course",
+      "url": "https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to Financial and Managerial Accounting course identity for basic concepts of financial and managerial reporting from the viewpoint of readers of reports."
+    },
+    {
+      "id": "fontes:mit:ocw:15-501:syllabus",
+      "kind": "accounting_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW accounting syllabus identity for class discussion, written problem sets, exams, individual/group assignment boundaries, regrade policy, bulletin-board discussion, required textbook, case packet, supplementary texts, and accounting-problem/exam boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:15-301:course",
+      "kind": "managerial_psychology_course",
+      "url": "https://ocw.mit.edu/courses/15-301-managerial-psychology-fall-2006/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Managerial Psychology course identity for behavioral science theories, methods, tools, work and organizations, individual behavior, group/team behavior, organizations, behavioral research process, and oral/written presentation skills."
+    },
+    {
+      "id": "fontes:mit:ocw:15-301:syllabus",
+      "kind": "managerial_psychology_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-301-managerial-psychology-fall-2006/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW managerial psychology syllabus identity for organizations, human behavior in work settings, behavioral research methods, communications, teamwork, negotiation, conflict resolution, leadership, organizational analysis, recitation projects, case presentations, quizzes, papers, email assignments, and textbook/course-packet boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:15-279:course",
+      "kind": "management_communication_course",
+      "url": "https://ocw.mit.edu/courses/15-279-management-communication-for-undergraduates-fall-2012/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Management Communication course identity for strategic professional communication, audience/purpose/context analysis, writing, speaking, teamwork, cross-cultural communication, and future-manager communication roles."
+    },
+    {
+      "id": "fontes:mit:ocw:15-279:syllabus",
+      "kind": "management_communication_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-279-management-communication-for-undergraduates-fall-2012/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW management communication syllabus identity for communication strategy, clear/concise/convincing writing, presentations, feedback, listening, teamwork, cross-cultural communication, self-evaluation memos, case memo, cover letter, team report, presentations, and in-class exercise boundaries."
+    },
+    {
+      "id": "fontes:mit:ocw:15-768:course",
+      "kind": "service_management_course",
+      "url": "https://ocw.mit.edu/courses/15-768-management-of-services-concepts-design-and-delivery-fall-2010/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Management of Services course identity for operations tools and perspectives in service sectors, including health care, hospitality, internet services, supply chain, transportation, retailing, food service, entertainment, financial services, humanitarian services, and government services."
+    },
+    {
+      "id": "fontes:mit:ocw:15-871:course",
+      "kind": "system_dynamics_strategy_course",
+      "url": "https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW Introduction to System Dynamics course identity for systems thinking and system dynamics modeling applied to strategy, organizational change, policy design, simulation models, management flight simulators, case studies, and high-performance organizations."
+    },
+    {
+      "id": "fontes:mit:ocw:15-871:syllabus",
+      "kind": "system_dynamics_strategy_syllabus",
+      "url": "https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/pages/syllabus/",
+      "fetch_policy": "derived_text_allowed",
+      "notes": "MIT OCW system dynamics syllabus identity for business strategy failure, feedback effects, time delays, nonlinear responses, organizational learning, policy design, microworlds, management flight simulators, customers/competitors/suppliers/stakeholders, market growth/stagnation, technology diffusion, forecasting, rationality, healthcare, energy, environmental sustainability, textbook, reading, software, and model boundaries."
+    }
+  ]
+}

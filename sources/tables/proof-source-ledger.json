@@ -1634,6 +1634,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW and Open Yale course/listing/syllabus pages are mapped as derived text; textbook bodies, anthologies, course packets, poems, novels, literary works, film clips, films, television episodes, screenings, lecture videos, audio, transcripts, slides, archival materials, student papers, exams, images, media assets, publisher pages, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:business-management-organizations:entrepreneurship-accounting-strategy",
+      "title": "Business, Management, Entrepreneurship, Accounting, Strategy, and Organizations Foundations",
+      "domain": "business-management-organizations-support",
+      "source_family": "business-management-organizations",
+      "fetch_policy": "mixed_policy",
+      "custody_status": "source-mapped-with-rights-boundary",
+      "work_record": "sources\\open-source\\business-management-organizations\\entrepreneurship-accounting-strategy\\work.json",
+      "custody_record": "sources\\open-source\\business-management-organizations\\entrepreneurship-accounting-strategy\\custody.md",
+      "inventory_record": "sources\\open-source\\business-management-organizations\\entrepreneurship-accounting-strategy\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-business-management-organizations-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "candidate",
+      "crop_status": "candidate",
+      "rights_boundary": "MIT OCW course/listing/syllabus pages are mapped as derived text; textbook bodies, case packets, Harvard Business School cases, problem sets, solutions, exams, business plans, student pitches, advisory-board materials, guest speaker biographical details, market analyses, company-confidential material, discussion-board posts, simulation models, software downloads, datasets, images, diagrams, lecture notes, tutorial videos, projects, and linked third-party assets remain boundary-checked."
     }
   ]
 }
