@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:software-public-course-surfaces",
+  "title": "Stanford Public Programming/Software Course Sites: Intro Programming, Abstractions, Systems, iOS, Web, and Android Development",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/cs106a/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["programming", "software engineering", "programming abstractions", "computer systems", "systems programming", "mobile development", "web development", "application development"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:cs106a", "kind": "programming_methodology_course_homepage", "url": "https://web.stanford.edu/class/cs106a/", "fetch_policy": "metadata_only", "notes": "Stanford CS106A public course homepage identity for introductory programming, assignments, code, data, handouts, lecture materials, tools, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs106b", "kind": "programming_abstractions_course_homepage", "url": "https://web.stanford.edu/class/cs106b/", "fetch_policy": "metadata_only", "notes": "Stanford CS106B public course homepage identity for programming abstractions, data structures, assignments, code, handouts, tools, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs107", "kind": "computer_organization_systems_course_homepage", "url": "https://web.stanford.edu/class/cs107/", "fetch_policy": "metadata_only", "notes": "Stanford CS107 public course homepage identity for computer organization/systems, C programming, memory, assignments, labs, code, tools, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs110", "kind": "principles_of_computer_systems_course_homepage", "url": "https://web.stanford.edu/class/cs110/", "fetch_policy": "metadata_only", "notes": "Stanford CS110 public course homepage identity for computer systems, processes, concurrency, networking, assignments, labs, code, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs111", "kind": "operating_systems_principles_course_homepage", "url": "https://web.stanford.edu/class/cs111/", "fetch_policy": "metadata_only", "notes": "Stanford CS111 public course homepage identity for operating-systems principles, concurrency, filesystems, virtual memory, assignments, projects, code, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs193p", "kind": "ios_development_course_homepage", "url": "https://web.stanford.edu/class/cs193p/", "fetch_policy": "metadata_only", "notes": "Stanford CS193P public course homepage identity for iOS application development, assignments, projects, code, videos, slides, tools, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs193x", "kind": "web_development_course_homepage", "url": "https://web.stanford.edu/class/cs193x/", "fetch_policy": "metadata_only", "notes": "Stanford CS193X public course homepage identity for web development, assignments, projects, code, slides, tools, APIs, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs193a", "kind": "android_development_course_homepage", "url": "https://web.stanford.edu/class/cs193a/", "fetch_policy": "metadata_only", "notes": "Stanford CS193A public course homepage identity for Android application development, assignments, projects, code, tools, APIs, videos, and third-party boundaries."}
+  ]
+}
