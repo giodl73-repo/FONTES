@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:advanced-computational-methods-public-course-surfaces",
+  "title": "Stanford Public Advanced Computational Methods Course Sites: Computational Mathematics, Engineering Computation, Scientific Software, Machine Learning, and Numerical Optimization",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/cme200/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["computational mathematics", "engineering computation", "scientific software", "machine learning", "numerical optimization", "advanced computational methods"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:cme100", "kind": "computational_mathematics_course_homepage", "url": "https://web.stanford.edu/class/cme100/", "fetch_policy": "metadata_only", "notes": "Stanford CME 100 public course homepage identity for computational mathematics, class-information links, notes, assignments, code, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cme200", "kind": "engineering_computation_linear_algebra_course_homepage", "url": "https://web.stanford.edu/class/cme200/", "fetch_policy": "metadata_only", "notes": "Stanford CME 200 public course homepage identity for engineering computation and linear algebra, notes, assignments, code, examples, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cme211", "kind": "scientific_software_development_course_homepage", "url": "https://web.stanford.edu/class/cme211/", "fetch_policy": "metadata_only", "notes": "Stanford CME 211 public course homepage identity for scientific software development, assignments, projects, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cme212", "kind": "advanced_scientific_software_course_homepage", "url": "https://web.stanford.edu/class/cme212/", "fetch_policy": "metadata_only", "notes": "Stanford CME 212 public course homepage identity for advanced scientific software and computational engineering, assignments, projects, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cme241", "kind": "computational_methods_course_homepage", "url": "https://web.stanford.edu/class/cme241/", "fetch_policy": "metadata_only", "notes": "Stanford CME 241 public course homepage identity for computational methods, notes, assignments, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cme250", "kind": "machine_learning_course_homepage", "url": "https://web.stanford.edu/class/cme250/", "fetch_policy": "metadata_only", "notes": "Stanford CME 250 public course homepage identity for introduction to machine learning, notes, assignments, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cme323", "kind": "advanced_computational_methods_course_directory", "url": "https://web.stanford.edu/class/cme323/", "fetch_policy": "metadata_only", "notes": "Stanford CME 323 public course directory identity for advanced computational methods, directory-listed resources, code, data, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cme334", "kind": "advanced_numerical_optimization_course_homepage", "url": "https://web.stanford.edu/class/cme334/", "fetch_policy": "metadata_only", "notes": "Stanford CME 334 public course homepage identity for advanced methods in numerical optimization, notes, assignments, code, readings, and third-party boundaries."}
+  ]
+}

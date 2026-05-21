@@ -2674,6 +2674,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, problem sets, exams, notebooks, datasets, code, simulations, software environments, applications, readings, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:advanced-computational-methods-public-course-surfaces",
+      "title": "Stanford Public Advanced Computational Methods Course Sites: Computational Mathematics, Engineering Computation, Scientific Software, Machine Learning, and Numerical Optimization",
+      "domain": "stanford-advanced-computational-methods-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\advanced-computational-methods-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\advanced-computational-methods-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\advanced-computational-methods-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-advanced-computational-methods-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages and directories are source-identity anchors only; notes, slides, assignments, problem sets, exams, projects, code, notebooks, datasets, examples, software environments, directory-listed resources, readings, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
