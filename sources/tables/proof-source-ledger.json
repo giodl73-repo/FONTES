@@ -2546,6 +2546,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, exams, projects, datasets, code, models, software, cloud services, PDFs, readings, videos, transcripts, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:medicine-public-health-public-course-surfaces",
+      "title": "Stanford Public Medicine/Public Health Course Sites: Clinical Research, Epidemiology, Biostatistics, Genomics, Biomedical Vision, and Biomedical Informatics",
+      "domain": "stanford-medicine-public-health-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\medicine-public-health-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\medicine-public-health-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\medicine-public-health-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-medicine-public-health-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, exams, projects, datasets, code, clinical data, genomic data, protocols, software, readings, videos, transcripts, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }

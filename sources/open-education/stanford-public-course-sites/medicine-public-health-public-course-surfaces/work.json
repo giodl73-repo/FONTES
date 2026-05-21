@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:medicine-public-health-public-course-surfaces",
+  "title": "Stanford Public Medicine/Public Health Course Sites: Clinical Research, Epidemiology, Biostatistics, Genomics, Biomedical Vision, and Biomedical Informatics",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/hrp223/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["clinical research", "epidemiology", "biostatistics", "probability", "public health", "genomics", "personalized medicine", "biomedical informatics", "biomedical vision"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:hrp223", "kind": "clinical_research_course_homepage", "url": "https://web.stanford.edu/class/hrp223/", "fetch_policy": "metadata_only", "notes": "Stanford HRP 223 public course homepage identity for clinical research, epidemiology methods, readings, assignments, datasets, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:hrp225", "kind": "epidemiology_course_homepage", "url": "https://web.stanford.edu/class/hrp225/", "fetch_policy": "metadata_only", "notes": "Stanford HRP 225 public course homepage identity for epidemiology/public-health methods, notes, assignments, data, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:hrp226", "kind": "advanced_epidemiology_course_homepage", "url": "https://web.stanford.edu/class/hrp226/", "fetch_policy": "metadata_only", "notes": "Stanford HRP 226 public course homepage identity for advanced epidemiology/clinical research methods, notes, assignments, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:hrp251", "kind": "clinical_trials_course_homepage", "url": "https://web.stanford.edu/class/hrp251/", "fetch_policy": "metadata_only", "notes": "Stanford HRP 251 public course homepage identity for clinical trials and research design, notes, assignments, protocols, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:hrp259", "kind": "epidemiology_probability_statistics_course_homepage", "url": "https://web.stanford.edu/class/hrp259/", "fetch_policy": "metadata_only", "notes": "Stanford HRP 259 public course homepage identity for probability/statistics for epidemiology, notes, assignments, datasets, code, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:gene210", "kind": "personalized_medicine_course_homepage", "url": "https://web.stanford.edu/class/gene210/", "fetch_policy": "metadata_only", "notes": "Stanford GENE 210 public course homepage identity for genomics and personalized medicine, notes, assignments, clinical/genomic data, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:biods276", "kind": "biomedical_vision_course_homepage", "url": "https://web.stanford.edu/class/biods276/", "fetch_policy": "metadata_only", "notes": "Stanford BIODS 276/CS 286 public course homepage identity for computer vision and biomedicine, slides, assignments, projects, datasets, code, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:biomedin217", "kind": "biomedical_informatics_course_homepage", "url": "https://web.stanford.edu/class/biomedin217/", "fetch_policy": "metadata_only", "notes": "Stanford BIOMEDIN 217 public course homepage identity for biomedical informatics, notes, assignments, projects, code/data, readings, and third-party boundaries."}
+  ]
+}
