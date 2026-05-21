@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:psychology-cognition-culture-public-course-surfaces",
+  "title": "Stanford Public Psychology, Cognition, Culture, and Learning Course Sites",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/psych75/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["psychology", "cognition", "cultural psychology", "development", "learning", "social psychology", "cognitive science"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:psych60", "kind": "psychology_course_homepage", "url": "https://web.stanford.edu/class/psych60/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 60 public course homepage identity for psychology topics, notes, assignments, readings, experiments, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych75", "kind": "cultural_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych75/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 75 public course homepage identity for introduction to cultural psychology, readings, assignments, projects, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych80", "kind": "psychology_course_homepage", "url": "https://web.stanford.edu/class/psych80/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 80 public course homepage identity for psychology topics, notes, assignments, readings, experiments, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych90", "kind": "psychology_course_homepage", "url": "https://web.stanford.edu/class/psych90/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 90 public course homepage identity for psychology topics, notes, assignments, readings, experiments, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych101", "kind": "psychology_course_homepage", "url": "https://web.stanford.edu/class/psych101/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 101 public course homepage identity for psychology topics, notes, assignments, readings, experiments, data, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych110", "kind": "psychology_course_homepage", "url": "https://web.stanford.edu/class/psych110/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 110 public course homepage identity for psychology topics, notes, assignments, readings, experiments, data, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych121", "kind": "cognitive_neuroscience_course_homepage", "url": "https://web.stanford.edu/class/psych121/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 121 public course homepage identity for ion transport and intracellular messengers, neuroscience/cognition materials, notes, readings, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych125", "kind": "learning_stereotype_threat_course_homepage", "url": "https://web.stanford.edu/class/psych125/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 125/CTL 130 public course homepage identity for beyond stereotype threat, readings, assignments, learning materials, media, and third-party boundaries."}
+  ]
+}
