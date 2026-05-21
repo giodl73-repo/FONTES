@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:math-optimization-public-course-surfaces",
+  "title": "Stanford Public Math/Optimization Course Sites: Convex Optimization, Linear Systems, Fourier Methods, Stochastic Control, Algorithms, and Optimization",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/ee364a/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["convex optimization", "linear dynamical systems", "Fourier analysis", "stochastic control", "optimization algorithms", "network optimization", "large-scale optimization", "mathematical systems"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:ee364a", "kind": "convex_optimization_course_homepage", "url": "https://web.stanford.edu/class/ee364a/", "fetch_policy": "metadata_only", "notes": "Stanford EE364A public course homepage identity for convex optimization, lectures, notes, assignments, code, datasets, readings, videos, and textbook boundaries."},
+    {"id": "fontes:stanford:course-site:ee364b", "kind": "convex_optimization_ii_course_homepage", "url": "https://web.stanford.edu/class/ee364b/", "fetch_policy": "metadata_only", "notes": "Stanford EE364B public course homepage identity for advanced convex optimization, applications, projects, code, datasets, notes, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:ee263", "kind": "linear_dynamical_systems_course_homepage", "url": "https://web.stanford.edu/class/ee263/", "fetch_policy": "metadata_only", "notes": "Stanford EE263 public course homepage identity for linear dynamical systems, least squares, control, signals, notes, assignments, code, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:ee261", "kind": "fourier_transform_course_homepage", "url": "https://web.stanford.edu/class/ee261/", "fetch_policy": "metadata_only", "notes": "Stanford EE261 public course homepage identity for Fourier transforms, signal analysis, notes, assignments, readings, videos, code, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:ee365", "kind": "stochastic_control_course_homepage", "url": "https://web.stanford.edu/class/ee365/", "fetch_policy": "metadata_only", "notes": "Stanford EE365 public course homepage identity for stochastic control, dynamic programming, estimation/control, assignments, projects, code, notes, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:msande310", "kind": "linear_programming_course_homepage", "url": "https://web.stanford.edu/class/msande310/", "fetch_policy": "metadata_only", "notes": "Stanford MS&E 310 public course homepage identity for linear programming, optimization theory, algorithms, assignments, notes, readings, code, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:msande311", "kind": "optimization_course_homepage", "url": "https://web.stanford.edu/class/msande311/", "fetch_policy": "metadata_only", "notes": "Stanford MS&E 311 public course homepage identity for optimization, nonlinear programming, algorithms, assignments, notes, readings, software, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:msande318", "kind": "large_scale_optimization_course_homepage", "url": "https://web.stanford.edu/class/msande318/", "fetch_policy": "metadata_only", "notes": "Stanford MS&E 318 public course homepage identity for large-scale optimization, algorithms, applications, assignments, projects, code, data, readings, and third-party boundaries."}
+  ]
+}
