@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:hci-graphics-public-course-surfaces",
+  "title": "Stanford Public HCI/Graphics Course Sites: HCI, Design, Graphics, Visualization, Geometry, Animation, and Computer Vision",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/cs147/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["human-computer interaction", "design", "computer graphics", "visualization", "geometric modeling", "animation", "computer vision", "visual computing"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:cs147", "kind": "hci_course_homepage", "url": "https://web.stanford.edu/class/cs147/", "fetch_policy": "metadata_only", "notes": "Stanford CS147 public course homepage identity for HCI, design methods, prototyping, studio deliverables, assignments, project materials, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs247", "kind": "interaction_design_course_homepage", "url": "https://web.stanford.edu/class/cs247/", "fetch_policy": "metadata_only", "notes": "Stanford CS247 public course homepage identity for interaction design, prototyping, design process, assignments, projects, media, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs248", "kind": "graphics_course_homepage", "url": "https://web.stanford.edu/class/cs248/", "fetch_policy": "metadata_only", "notes": "Stanford CS248 public course homepage identity for computer graphics, rendering, geometry, assignments, code, images, notes, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs348b", "kind": "image_synthesis_course_homepage", "url": "https://web.stanford.edu/class/cs348b/", "fetch_policy": "metadata_only", "notes": "Stanford CS348B public course homepage identity for image synthesis, rendering, global illumination, assignments, code, images, papers, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs348c", "kind": "geometric_modeling_course_homepage", "url": "https://web.stanford.edu/class/cs348c/", "fetch_policy": "metadata_only", "notes": "Stanford CS348C public course homepage identity for geometric modeling, curves/surfaces, assignments, code, papers, notes, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs448b", "kind": "visualization_course_homepage", "url": "https://web.stanford.edu/class/cs448b/", "fetch_policy": "metadata_only", "notes": "Stanford CS448B public course homepage identity for data visualization, visual analytics, assignments, projects, datasets, code, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs148", "kind": "graphics_animation_course_homepage", "url": "https://web.stanford.edu/class/cs148/", "fetch_policy": "metadata_only", "notes": "Stanford CS148 public course homepage identity for introductory graphics and animation, assignments, projects, code, images, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs231a", "kind": "computer_vision_course_homepage", "url": "https://web.stanford.edu/class/cs231a/", "fetch_policy": "metadata_only", "notes": "Stanford CS231A public course homepage identity for computer vision, image formation, geometry, recognition, assignments, projects, datasets, code, and third-party boundaries."}
+  ]
+}

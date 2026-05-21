@@ -2402,6 +2402,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, exams, projects, code, datasets, software environments, readings, videos, transcripts, linked tools, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:hci-graphics-public-course-surfaces",
+      "title": "Stanford Public HCI/Graphics Course Sites: HCI, Design, Graphics, Visualization, Geometry, Animation, and Computer Vision",
+      "domain": "stanford-hci-graphics-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\hci-graphics-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\hci-graphics-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\hci-graphics-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-hci-graphics-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, exams, projects, prototypes, studio deliverables, code, datasets, images, videos, papers, readings, linked tools, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
