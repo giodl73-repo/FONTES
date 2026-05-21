@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:philosophy-ethics-public-course-surfaces",
+  "title": "Stanford Public Philosophy and Ethics Course Sites: Philosophy, Political Philosophy, and Personal Identity",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/phil30/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-21",
+  "subjects": ["philosophy", "ethics", "political philosophy", "personal identity", "philosophical argument", "humanities"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:phil10", "kind": "philosophy_course_homepage", "url": "https://web.stanford.edu/class/phil10/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 10 public course homepage identity for philosophy topics, readings, arguments, assignments, handouts, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:phil20", "kind": "philosophy_course_homepage", "url": "https://web.stanford.edu/class/phil20/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 20 public course homepage identity for philosophy topics, readings, arguments, assignments, handouts, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:phil30", "kind": "political_philosophy_course_homepage", "url": "https://web.stanford.edu/class/phil30/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 30 public course homepage identity for introduction to political philosophy, readings, arguments, assignments, handouts, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:phil50", "kind": "philosophy_course_homepage", "url": "https://web.stanford.edu/class/phil50/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 50 public course homepage identity for philosophy topics, readings, arguments, assignments, handouts, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:phil60", "kind": "philosophy_course_homepage", "url": "https://web.stanford.edu/class/phil60/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 60 public course homepage identity for philosophy topics, readings, arguments, assignments, handouts, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:phil102", "kind": "philosophy_course_homepage", "url": "https://web.stanford.edu/class/phil102/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 102 public course homepage identity for philosophy topics, readings, arguments, assignments, handouts, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:phil152", "kind": "philosophy_course_homepage", "url": "https://web.stanford.edu/class/phil152/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 152 public course homepage identity for philosophy topics, readings, arguments, assignments, handouts, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:phil188", "kind": "personal_identity_course_homepage", "url": "https://web.stanford.edu/class/phil188/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 188 public course homepage identity for personal identity, readings, arguments, assignments, handouts, and third-party boundaries."}
+  ]
+}
