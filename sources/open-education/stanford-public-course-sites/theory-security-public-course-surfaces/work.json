@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:theory-security-public-course-surfaces",
+  "title": "Stanford Public Theory/Security Course Sites: Automata, Logic, Internet Algorithms, Cryptography, Blockchain, and Complexity",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/cs154/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["automata theory", "logic", "algorithms", "cryptography", "blockchain", "security", "complexity", "algorithmic game theory"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:cs154", "kind": "automata_complexity_course_homepage", "url": "https://web.stanford.edu/class/cs154/", "fetch_policy": "metadata_only", "notes": "Stanford CS154 public course homepage identity for automata, computability, complexity, notes, assignments, exams, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs157", "kind": "logic_course_homepage", "url": "https://web.stanford.edu/class/cs157/", "fetch_policy": "metadata_only", "notes": "Stanford CS157 public course homepage identity for logic, formal reasoning, satisfiability/proof topics, notes, assignments, tools, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs168", "kind": "internet_algorithms_course_homepage", "url": "https://web.stanford.edu/class/cs168/", "fetch_policy": "metadata_only", "notes": "Stanford CS168 public course homepage identity for modern algorithmic toolbox/internet algorithms, notes, assignments, projects, code, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs255", "kind": "cryptography_course_homepage", "url": "https://web.stanford.edu/class/cs255/", "fetch_policy": "metadata_only", "notes": "Stanford CS255 public course homepage identity for cryptography, protocols, security, assignments, notes, readings, code, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs251", "kind": "blockchain_course_homepage", "url": "https://web.stanford.edu/class/cs251/", "fetch_policy": "metadata_only", "notes": "Stanford CS251 public course homepage identity for blockchain, cryptocurrencies, distributed protocols, assignments, projects, code, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs355", "kind": "advanced_cryptography_course_homepage", "url": "https://web.stanford.edu/class/cs355/", "fetch_policy": "metadata_only", "notes": "Stanford CS355 public course homepage identity for advanced cryptography, protocols, proofs, papers, assignments, notes, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs354", "kind": "computational_complexity_course_homepage", "url": "https://web.stanford.edu/class/cs354/", "fetch_policy": "metadata_only", "notes": "Stanford CS354 public course homepage identity for computational complexity, proof systems, hardness, notes, assignments, papers, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs261", "kind": "algorithmic_game_theory_course_homepage", "url": "https://web.stanford.edu/class/cs261/", "fetch_policy": "metadata_only", "notes": "Stanford CS261 public course homepage identity for algorithmic game theory, auctions/mechanism design, notes, assignments, papers, readings, and third-party boundaries."}
+  ]
+}
