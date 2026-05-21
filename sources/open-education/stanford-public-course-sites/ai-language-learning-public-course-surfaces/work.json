@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:ai-language-learning-public-course-surfaces",
+  "title": "Stanford Public AI, Language, Information Retrieval, and Learning Course Sites: Transformers, NLP, NLU, Graph ML, Deep Learning, ML Systems, and Meta-Learning",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/cs124/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["artificial intelligence", "transformers", "natural language processing", "natural language understanding", "graph machine learning", "deep learning", "information retrieval", "machine learning systems", "meta-learning"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:cs25", "kind": "transformers_course_homepage", "url": "https://web.stanford.edu/class/cs25/", "fetch_policy": "metadata_only", "notes": "Stanford CS25 public course homepage identity for transformers, guest lectures, readings, slides, videos, assignments, code, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs124", "kind": "natural_language_processing_course_homepage", "url": "https://web.stanford.edu/class/cs124/", "fetch_policy": "metadata_only", "notes": "Stanford CS124 public course homepage identity for natural language processing, assignments, projects, code, data, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs224u", "kind": "natural_language_understanding_course_homepage", "url": "https://web.stanford.edu/class/cs224u/", "fetch_policy": "metadata_only", "notes": "Stanford CS224U public course homepage identity for natural language understanding, notes, assignments, projects, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs224w", "kind": "graph_machine_learning_course_homepage", "url": "https://web.stanford.edu/class/cs224w/", "fetch_policy": "metadata_only", "notes": "Stanford CS224W public course homepage identity for machine learning with graphs, notes, assignments, projects, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs230", "kind": "deep_learning_course_homepage", "url": "https://web.stanford.edu/class/cs230/", "fetch_policy": "metadata_only", "notes": "Stanford CS230 public course homepage identity for deep learning, notes, assignments, projects, code, datasets, videos, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs276", "kind": "information_retrieval_web_search_course_homepage", "url": "https://web.stanford.edu/class/cs276/", "fetch_policy": "metadata_only", "notes": "Stanford CS276 public course homepage identity for information retrieval and web search, notes, assignments, projects, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs329s", "kind": "machine_learning_systems_course_homepage", "url": "https://web.stanford.edu/class/cs329s/", "fetch_policy": "metadata_only", "notes": "Stanford CS329S public course homepage identity for machine learning systems, notes, assignments, projects, code, datasets, infrastructure examples, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs330", "kind": "meta_learning_course_homepage", "url": "https://web.stanford.edu/class/cs330/", "fetch_policy": "metadata_only", "notes": "Stanford CS330 public course homepage identity for deep multi-task and meta learning, notes, assignments, projects, code, datasets, readings, and third-party boundaries."}
+  ]
+}

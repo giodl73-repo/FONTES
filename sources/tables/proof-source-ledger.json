@@ -2690,6 +2690,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages and directories are source-identity anchors only; notes, slides, assignments, problem sets, exams, projects, code, notebooks, datasets, examples, software environments, directory-listed resources, readings, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:ai-language-learning-public-course-surfaces",
+      "title": "Stanford Public AI, Language, Information Retrieval, and Learning Course Sites: Transformers, NLP, NLU, Graph ML, Deep Learning, ML Systems, and Meta-Learning",
+      "domain": "stanford-ai-language-learning-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\ai-language-learning-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\ai-language-learning-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\ai-language-learning-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-ai-language-learning-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; slides, notes, assignments, problem sets, exams, projects, code, datasets, models, notebooks, infrastructure examples, readings, guest materials, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
