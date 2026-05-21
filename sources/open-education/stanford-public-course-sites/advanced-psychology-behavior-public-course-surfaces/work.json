@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:advanced-psychology-behavior-public-course-surfaces",
+  "title": "Stanford Public Advanced Psychology and Behavior Course Sites",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/psych131/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-21",
+  "subjects": ["psychology", "advanced psychology", "behavior", "cognition", "social psychology", "developmental psychology", "neuroscience"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:psych131", "kind": "advanced_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych131/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 131 public course homepage identity for advanced psychology topics, notes, assignments, readings, experiments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych135", "kind": "advanced_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych135/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 135 public course homepage identity for advanced psychology topics, notes, assignments, readings, experiments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych141", "kind": "advanced_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych141/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 141 public course homepage identity for advanced psychology topics, notes, assignments, readings, experiments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych146", "kind": "advanced_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych146/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 146 public course homepage identity for advanced psychology topics, notes, assignments, readings, experiments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych147", "kind": "advanced_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych147/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 147 public course homepage identity for advanced psychology topics, notes, assignments, readings, experiments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych149", "kind": "advanced_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych149/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 149 public course homepage identity for advanced psychology topics, notes, assignments, readings, experiments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych167", "kind": "advanced_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych167/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 167 public course homepage identity for advanced psychology topics, notes, assignments, readings, experiments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych179", "kind": "advanced_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych179/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 179 public course homepage identity for advanced psychology topics, notes, assignments, readings, experiments, datasets, media, and third-party boundaries."}
+  ]
+}
