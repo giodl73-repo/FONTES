@@ -2722,6 +2722,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages and directories are source-identity anchors only; directory-listed resources, notes, slides, assignments, projects, project briefs, reports, policy materials, code, demos, data, tools, hardware/media assets, readings, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:advanced-physics-public-course-surfaces",
+      "title": "Stanford Public Advanced Physics Course Sites: Intermediate Physics Sequence, Modern Physics, Advanced Mechanics, and Continuum Mechanics",
+      "domain": "stanford-advanced-physics-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\advanced-physics-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\advanced-physics-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\advanced-physics-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-advanced-physics-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, problem sets, exams, lab materials, simulations, data, mathematical derivations, readings, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
