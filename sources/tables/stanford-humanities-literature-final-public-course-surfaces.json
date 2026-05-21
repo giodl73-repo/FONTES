@@ -1,0 +1,10 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-21",
+  "work_id": "fontes:stanford-public-course-sites:humanities-literature-final-public-course-surfaces",
+  "row_grain": "one row per mapped final Stanford public humanities/literature course homepage source identity",
+  "rows": [
+    {"surface_id": "stanford-history5n-homepage", "title": "stanford_history5n_history_homepage", "url": "https://web.stanford.edu/class/history5n/", "owner": "Stanford University", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public history course homepage identity; readings, primary sources, assignments, media, and linked assets require review."},
+    {"surface_id": "stanford-english90-homepage", "title": "stanford_english90_english_literature_homepage", "url": "https://web.stanford.edu/class/english90/", "owner": "Stanford University", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public English/literature course homepage identity; readings, writing assignments, essays, media, and linked assets require review."}
+  ]
+}

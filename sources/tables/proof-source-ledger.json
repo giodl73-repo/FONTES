@@ -2850,6 +2850,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages are source-identity anchors only; readings, syllabi, handouts, notes, slides, assignments, reporting materials, projects, datasets, code, software, media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:humanities-literature-final-public-course-surfaces",
+      "title": "Stanford Public Humanities and Literature Final Course Sites: History and English",
+      "domain": "stanford-humanities-literature-final-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\humanities-literature-final-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\humanities-literature-final-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\humanities-literature-final-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-humanities-literature-final-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; readings, primary sources, excerpts, books, articles, handouts, notes, slides, assignments, writing prompts, essays, media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:humanities-literature-final-public-course-surfaces",
+  "title": "Stanford Public Humanities and Literature Final Course Sites: History and English",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/history5n/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-21",
+  "subjects": ["history", "English", "literature", "humanities", "writing", "public course sites"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:history5n", "kind": "history_course_homepage", "url": "https://web.stanford.edu/class/history5n/", "fetch_policy": "metadata_only", "notes": "Stanford HISTORY 5N public course homepage identity for history topics, readings, primary sources, assignments, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:english90", "kind": "english_literature_course_homepage", "url": "https://web.stanford.edu/class/english90/", "fetch_policy": "metadata_only", "notes": "Stanford ENGLISH 90 public course homepage identity for English/literature topics, readings, writing assignments, media, and third-party boundaries."}
+  ]
+}
