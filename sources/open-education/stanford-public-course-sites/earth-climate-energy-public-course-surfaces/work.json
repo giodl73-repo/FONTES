@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:earth-climate-energy-public-course-surfaces",
+  "title": "Stanford Public Earth/Climate/Energy Course Sites: Earth Systems, Sustainable Development Data, Energy, Reservoir Engineering, Geophysics, and Energy AI",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/earthsys10/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["earth systems", "sustainable development", "climate data", "energy systems", "reservoir engineering", "geophysics", "energy AI", "earth-science computation"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:earthsys10", "kind": "earth_systems_course_homepage", "url": "https://web.stanford.edu/class/earthsys10/", "fetch_policy": "metadata_only", "notes": "Stanford EARTHSYS 10 public course homepage identity for earth systems, climate/environment context, readings, assignments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:earthsys105", "kind": "food_and_environment_course_homepage", "url": "https://web.stanford.edu/class/earthsys105/", "fetch_policy": "metadata_only", "notes": "Stanford EARTHSYS 105 public course homepage identity for food/environment systems, readings, assignments, data, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs325b", "kind": "sustainable_development_data_course_homepage", "url": "https://web.stanford.edu/class/cs325b/", "fetch_policy": "metadata_only", "notes": "Stanford CS325B/EARTHSYS 162/262 public course homepage identity for data for sustainable development, tutorials, slides, code, projects, datasets, cloud services, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:energy211", "kind": "earth_science_programming_course_homepage", "url": "https://web.stanford.edu/class/energy211/", "fetch_policy": "metadata_only", "notes": "Stanford ENERGY 211/CME 211 public course homepage identity for programming for earth scientists and engineers, assignments, code, data, software, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:energy221", "kind": "energy_course_homepage", "url": "https://web.stanford.edu/class/energy221/", "fetch_policy": "metadata_only", "notes": "Stanford ENERGY 221 public course homepage identity for energy systems/engineering, notes, assignments, data, software, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:energy281", "kind": "reservoir_engineering_math_course_homepage", "url": "https://web.stanford.edu/class/energy281/", "fetch_policy": "metadata_only", "notes": "Stanford ENERGY 281 public course homepage identity for applied mathematics in reservoir engineering, notes, PDFs, assignments, code/data, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:geophys220", "kind": "geophysics_course_homepage", "url": "https://web.stanford.edu/class/geophys220/", "fetch_policy": "metadata_only", "notes": "Stanford GEOPHYS 220 public course homepage identity for geophysics, notes, assignments, datasets, models, software, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:ee392b", "kind": "energy_ai_course_homepage", "url": "https://web.stanford.edu/class/ee392b/", "fetch_policy": "metadata_only", "notes": "Stanford EE392B public course homepage identity for industrial AI and sustainable energy, slides, assignments, projects, datasets, code/software, and third-party boundaries."}
+  ]
+}
