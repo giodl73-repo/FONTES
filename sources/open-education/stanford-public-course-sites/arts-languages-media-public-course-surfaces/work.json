@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:arts-languages-media-public-course-surfaces",
+  "title": "Stanford Public Arts/Languages/Media Course Sites: Music, Spanish, French, German, Chinese, and Japanese",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/music15n/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["music", "jazz", "music theory", "computer music", "Spanish language", "French language", "German language", "Chinese language", "Japanese language"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:music15n", "kind": "music_culture_course_homepage", "url": "https://web.stanford.edu/class/music15n/", "fetch_policy": "metadata_only", "notes": "Stanford MUSIC 15N public course homepage identity for jazz, film, and culture, readings, listening materials, media, assignments, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:music21", "kind": "music_theory_course_homepage", "url": "https://web.stanford.edu/class/music21/", "fetch_policy": "metadata_only", "notes": "Stanford MUSIC 21 public course homepage identity for music theory, notes, assignments, scores, audio/media, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:music220a", "kind": "computer_music_course_homepage", "url": "https://web.stanford.edu/class/music220a/", "fetch_policy": "metadata_only", "notes": "Stanford MUSIC 220A public course homepage identity for computer music, notes, assignments, code/software, audio/media, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:spanlang1", "kind": "spanish_language_course_homepage", "url": "https://web.stanford.edu/class/spanlang1/", "fetch_policy": "metadata_only", "notes": "Stanford SPANLANG 1 public course homepage identity for first-year Spanish, syllabi, assignments, audio/video, vocabulary, grammar, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:frenlang1", "kind": "french_language_course_homepage", "url": "https://web.stanford.edu/class/frenlang1/", "fetch_policy": "metadata_only", "notes": "Stanford FRENLANG 1 public course homepage identity for first-year French, syllabi, assignments, audio/video, vocabulary, grammar, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:gerlang1", "kind": "german_language_course_homepage", "url": "https://web.stanford.edu/class/gerlang1/", "fetch_policy": "metadata_only", "notes": "Stanford GERLANG 1 public course homepage identity for first-year German, syllabi, assignments, audio/video, vocabulary, grammar, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:chinlang2", "kind": "chinese_language_course_homepage", "url": "https://web.stanford.edu/class/chinlang2/", "fetch_policy": "metadata_only", "notes": "Stanford CHINLANG 2 public course homepage identity for Chinese language, syllabi, assignments, audio/video, character materials, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:japanlng3", "kind": "japanese_language_course_homepage", "url": "https://web.stanford.edu/class/japanlng3/", "fetch_policy": "metadata_only", "notes": "Stanford JAPANLNG 3 public course homepage identity for Japanese language, syllabi, assignments, audio/video, kanji/kana materials, readings, and third-party boundaries."}
+  ]
+}

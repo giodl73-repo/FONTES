@@ -2594,6 +2594,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages are source-identity anchors only; syllabi, notes, slides, readings, assignments, projects, project artifacts, datasets, code, legal materials, PDFs, media, videos, transcripts, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:arts-languages-media-public-course-surfaces",
+      "title": "Stanford Public Arts/Languages/Media Course Sites: Music, Spanish, French, German, Chinese, and Japanese",
+      "domain": "stanford-arts-languages-media-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\arts-languages-media-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\arts-languages-media-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\arts-languages-media-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-arts-languages-media-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; syllabi, notes, readings, assignments, scores, listening materials, audio/video, media, language exercises, vocabulary, grammar, character materials, code/software, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
