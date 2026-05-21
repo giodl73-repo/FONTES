@@ -2354,6 +2354,22 @@
       "pebble_status": "candidate",
       "crop_status": "candidate",
       "rights_boundary": "MIT OCW listing text is mapped as derived text; linked courses and child resources remain boundary-checked. Readings, books, films, scripts, performances, recordings, images, maps, datasets, assignments, drafts, portfolios, workshop materials, classroom artifacts, videos, PDFs, student work, and linked third-party assets remain boundary-checked."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:cs-ai-core-public-course-surfaces",
+      "title": "Stanford Public CS/AI Course Sites: AI, NLP, Vision, Data Mining, Algorithms, Networks, Graphical Models, and Reinforcement Learning",
+      "domain": "stanford-cs-ai-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\cs-ai-core-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\cs-ai-core-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\cs-ai-core-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-cs-ai-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, exams, projects, code, datasets, images, videos, transcripts, readings, linked tools, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }

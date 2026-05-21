@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:cs-ai-core-public-course-surfaces",
+  "title": "Stanford Public CS/AI Course Sites: AI, NLP, Vision, Data Mining, Algorithms, Networks, Graphical Models, and Reinforcement Learning",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/cs224n/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["artificial intelligence", "natural language processing", "computer vision", "data mining", "algorithms", "computer networks", "probabilistic graphical models", "reinforcement learning"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:cs221", "kind": "ai_course_homepage", "url": "https://web.stanford.edu/class/cs221/", "fetch_policy": "metadata_only", "notes": "Stanford CS221 public course homepage identity for artificial intelligence topics, course logistics, materials links, assignments, slides, notes, videos, code, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs224n", "kind": "nlp_course_homepage", "url": "https://web.stanford.edu/class/cs224n/", "fetch_policy": "metadata_only", "notes": "Stanford CS224N public course homepage identity for NLP, deep learning, language models, course logistics, slides, notes, assignments, projects, code, datasets, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs231n", "kind": "vision_course_homepage", "url": "https://cs231n.stanford.edu/", "fetch_policy": "metadata_only", "notes": "Stanford CS231N public course homepage identity for computer vision, deep learning, assignments, notes, projects, code, datasets, images, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs246", "kind": "data_mining_course_homepage", "url": "https://web.stanford.edu/class/cs246/", "fetch_policy": "metadata_only", "notes": "Stanford CS246 public course homepage identity for mining massive datasets, graph/mining methods, course materials, assignments, code, datasets, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs161", "kind": "algorithms_course_homepage", "url": "https://web.stanford.edu/class/cs161/", "fetch_policy": "metadata_only", "notes": "Stanford CS161 public course homepage identity for algorithms, course logistics, notes, assignments, exams, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs144", "kind": "networking_course_homepage", "url": "https://web.stanford.edu/class/cs144/", "fetch_policy": "metadata_only", "notes": "Stanford CS144 public course homepage identity for computer networking, labs, assignments, code, lecture materials, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs228", "kind": "pgm_course_homepage", "url": "https://web.stanford.edu/class/cs228/", "fetch_policy": "metadata_only", "notes": "Stanford CS228 public course homepage identity for probabilistic graphical models, materials, assignments, projects, code, datasets, videos, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs234", "kind": "rl_course_homepage", "url": "https://web.stanford.edu/class/cs234/", "fetch_policy": "metadata_only", "notes": "Stanford CS234 public course homepage identity for reinforcement learning, materials, assignments, projects, code, datasets, videos, and third-party boundaries."}
+  ]
+}
