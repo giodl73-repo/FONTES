@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:physical-sciences-public-course-surfaces",
+  "title": "Stanford Public Physical Sciences Course Sites: Physics and Chemistry Foundations",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/physics21/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["physics", "mechanics", "electricity and magnetism", "light and heat", "general chemistry", "organic chemistry", "structure and reactivity"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:physics21", "kind": "mechanics_course_homepage", "url": "https://web.stanford.edu/class/physics21/", "fetch_policy": "metadata_only", "notes": "Stanford PHYSICS 21 public course homepage identity for mechanics, notes, problem sets, exams, simulations, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:physics23", "kind": "electricity_magnetism_course_homepage", "url": "https://web.stanford.edu/class/physics23/", "fetch_policy": "metadata_only", "notes": "Stanford PHYSICS 23 public course homepage identity for electricity and magnetism, notes, problem sets, exams, simulations, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:physics41", "kind": "mechanics_foundations_course_homepage", "url": "https://web.stanford.edu/class/physics41/", "fetch_policy": "metadata_only", "notes": "Stanford PHYSICS 41 public course homepage identity for mechanics foundations, notes, assignments, labs, exams, simulations, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:physics43", "kind": "electromagnetism_foundations_course_homepage", "url": "https://web.stanford.edu/class/physics43/", "fetch_policy": "metadata_only", "notes": "Stanford PHYSICS 43 public course homepage identity for electricity and magnetism foundations, notes, assignments, labs, exams, simulations, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:chem31a", "kind": "general_chemistry_course_homepage", "url": "https://web.stanford.edu/class/chem31a/", "fetch_policy": "metadata_only", "notes": "Stanford CHEM 31A public course homepage identity for general chemistry, notes, assignments, problem sets, exams, lab materials, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:chem31b", "kind": "general_chemistry_continuation_course_homepage", "url": "https://web.stanford.edu/class/chem31b/", "fetch_policy": "metadata_only", "notes": "Stanford CHEM 31B public course homepage identity for general chemistry continuation, notes, assignments, problem sets, exams, lab materials, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:chem33", "kind": "organic_chemistry_structure_course_homepage", "url": "https://web.stanford.edu/class/chem33/", "fetch_policy": "metadata_only", "notes": "Stanford CHEM 33 public course homepage identity for structure and reactivity, notes, assignments, reaction schemes, spectra, exams, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:chem35", "kind": "organic_chemistry_course_homepage", "url": "https://web.stanford.edu/class/chem35/", "fetch_policy": "metadata_only", "notes": "Stanford CHEM 35 public course homepage identity for monofunctional organic compounds, notes, assignments, reaction schemes, spectra, exams, readings, and third-party boundaries."}
+  ]
+}
