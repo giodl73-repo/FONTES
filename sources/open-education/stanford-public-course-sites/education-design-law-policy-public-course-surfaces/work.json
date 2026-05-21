@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:education-design-law-policy-public-course-surfaces",
+  "title": "Stanford Public Education/Design/Law/Policy Course Sites: Education Technology, Design Thinking, Ethics, Teaching Law, Assistive Technology, and Media Policy",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/cs182/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["education technology", "design thinking", "ethics", "public policy", "teaching law", "assistive technology", "media technology", "learning"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:cs182", "kind": "technology_ethics_policy_course_homepage", "url": "https://web.stanford.edu/class/cs182/", "fetch_policy": "metadata_only", "notes": "Stanford CS182 public course homepage identity for ethics, public policy, and technological change, syllabi, readings, handouts, assignments, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs293", "kind": "education_language_technology_course_homepage", "url": "https://web.stanford.edu/class/cs293/", "fetch_policy": "metadata_only", "notes": "Stanford CS293/EDUC473 public course homepage identity for empowering educators via language technology, slides, assignments, projects, code, datasets, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:me113", "kind": "design_thinking_course_homepage", "url": "https://web.stanford.edu/class/me113/", "fetch_policy": "metadata_only", "notes": "Stanford ME113 public course homepage identity for design thinking, needfinding, prototyping, project artifacts, media, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:ed169x", "kind": "teaching_ethics_law_course_homepage", "url": "https://web.stanford.edu/class/ed169x/", "fetch_policy": "metadata_only", "notes": "Stanford ED169X/EDPS 410 public course homepage identity for ethics and law in teaching, syllabus pages, readings, assignments, legal materials, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:engr110", "kind": "assistive_technology_design_course_homepage", "url": "https://web.stanford.edu/class/engr110/2007/", "fetch_policy": "metadata_only", "notes": "Stanford ENGR110/E110 public course homepage identity for assistive technology and universal design, project materials, PDFs, media, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:educ201", "kind": "education_course_homepage", "url": "https://web.stanford.edu/class/educ201/", "fetch_policy": "metadata_only", "notes": "Stanford EDUC 201 public course homepage identity for education/learning, notes, assignments, readings, datasets, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:educ211", "kind": "learning_design_course_homepage", "url": "https://web.stanford.edu/class/educ211/", "fetch_policy": "metadata_only", "notes": "Stanford EDUC 211 public course homepage identity for learning, teaching, and design, notes, assignments, projects, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:comm1", "kind": "media_technology_society_course_homepage", "url": "https://web.stanford.edu/class/comm1/", "fetch_policy": "metadata_only", "notes": "Stanford COMM 1/211 public course homepage identity for media technologies, people, and society, policy topics, readings, assignments, media, and third-party boundaries."}
+  ]
+}
