@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:engineering-design-public-course-surfaces",
+  "title": "Stanford Public Engineering/Design Course Sites: Statics, Dynamics, Product Realization, Thermodynamics, Strength, and Materials",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/engr14/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["engineering mechanics", "statics", "dynamics", "electrical fundamentals", "product realization", "thermodynamics", "strength of materials", "materials science"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:engr14", "kind": "statics_course_homepage", "url": "https://web.stanford.edu/class/engr14/", "fetch_policy": "metadata_only", "notes": "Stanford ENGR 14 public course homepage identity for statics, notes, assignments, problem sets, diagrams, exams, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:engr15", "kind": "dynamics_course_homepage", "url": "https://web.stanford.edu/class/engr15/", "fetch_policy": "metadata_only", "notes": "Stanford ENGR 15 public course homepage identity for undergraduate dynamics, notes, assignments, simulations, exams, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:engr40m", "kind": "engineering_fundamentals_course_homepage", "url": "https://web.stanford.edu/class/engr40m/", "fetch_policy": "metadata_only", "notes": "Stanford ENGR 40M public course homepage identity for engineering fundamentals, labs, circuits/electronics materials, assignments, code/data, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:engr50", "kind": "engineering_design_course_homepage", "url": "https://web.stanford.edu/class/engr50/", "fetch_policy": "metadata_only", "notes": "Stanford ENGR 50 public course homepage identity for engineering design/fundamentals, labs, projects, assignments, hardware/software materials, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:me70", "kind": "mechanical_engineering_course_homepage", "url": "https://web.stanford.edu/class/me70/", "fetch_policy": "metadata_only", "notes": "Stanford ME 70 public course homepage identity for mechanical engineering foundations, notes, assignments, projects, labs, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:me80", "kind": "stress_strain_strength_course_homepage", "url": "https://web.stanford.edu/class/me80/", "fetch_policy": "metadata_only", "notes": "Stanford ME 80 public course homepage identity for stress, strain, and strength, notes, assignments, labs, diagrams, exams, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:me102", "kind": "product_realization_course_homepage", "url": "https://web.stanford.edu/class/me102/", "fetch_policy": "metadata_only", "notes": "Stanford ME 102 public course homepage identity for foundations of product realization, project artifacts, CAD/design files, assignments, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:matsci152", "kind": "materials_science_course_homepage", "url": "https://web.stanford.edu/class/matsci152/", "fetch_policy": "metadata_only", "notes": "Stanford MATSCI 152 public course homepage identity for materials science, notes, assignments, lab data, simulations, readings, and third-party boundaries."}
+  ]
+}
