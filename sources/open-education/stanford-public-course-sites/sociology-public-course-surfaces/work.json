@@ -1,0 +1,26 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:sociology-public-course-surfaces",
+  "title": "Stanford Public Sociology Course Sites: Social Inequality, Organizations, Networks, and Culture",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/soc115/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-21",
+  "subjects": ["sociology", "social inequality", "organizations", "social networks", "culture", "race and ethnicity", "gender", "social science methods"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:soc115", "kind": "sociology_course_homepage", "url": "https://web.stanford.edu/class/soc115/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 115 public course homepage identity for sociology topics, readings, assignments, datasets, methods materials, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc117", "kind": "sociology_course_homepage", "url": "https://web.stanford.edu/class/soc117/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 117 public course homepage identity for sociology topics, readings, assignments, datasets, methods materials, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc118", "kind": "sociology_course_homepage", "url": "https://web.stanford.edu/class/soc118/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 118 public course homepage identity for sociology topics, readings, assignments, datasets, methods materials, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc120", "kind": "social_inequality_course_homepage", "url": "https://web.stanford.edu/class/soc120/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 120 public course homepage identity for social inequality, readings, assignments, datasets, policy materials, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc126", "kind": "sociology_course_homepage", "url": "https://web.stanford.edu/class/soc126/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 126 public course homepage identity for sociology topics, readings, assignments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc128", "kind": "sociology_course_homepage", "url": "https://web.stanford.edu/class/soc128/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 128 public course homepage identity for sociology topics, readings, assignments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc141", "kind": "organizations_course_homepage", "url": "https://web.stanford.edu/class/soc141/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 141 public course homepage identity for organizations and institutions, readings, assignments, cases, datasets, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc142", "kind": "social_networks_course_homepage", "url": "https://web.stanford.edu/class/soc142/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 142 public course homepage identity for social networks, readings, assignments, datasets, code/software, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc180b", "kind": "sociology_course_homepage", "url": "https://web.stanford.edu/class/soc180b/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 180B public course homepage identity for sociology topics, readings, assignments, datasets, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc181b", "kind": "sociology_course_homepage", "url": "https://web.stanford.edu/class/soc181b/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 181B public course homepage identity for sociology topics, readings, assignments, datasets, and third-party boundaries."}
+  ]
+}

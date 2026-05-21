@@ -2818,6 +2818,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages and directories are source-identity anchors only; readings, syllabi, handouts, notes, slides, assignments, problem sets, exams, policy materials, datasets, code, media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:sociology-public-course-surfaces",
+      "title": "Stanford Public Sociology Course Sites: Social Inequality, Organizations, Networks, and Culture",
+      "domain": "stanford-sociology-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\sociology-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\sociology-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\sociology-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-sociology-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; readings, syllabi, handouts, notes, slides, assignments, problem sets, exams, cases, policy materials, datasets, code, software, media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
