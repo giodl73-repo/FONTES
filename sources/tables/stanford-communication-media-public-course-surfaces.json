@@ -1,0 +1,13 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-21",
+  "work_id": "fontes:stanford-public-course-sites:communication-media-public-course-surfaces",
+  "row_grain": "one row per mapped Stanford public communication/media course homepage source identity",
+  "rows": [
+    {"surface_id": "stanford-comm106-homepage", "title": "stanford_comm106_communication_homepage", "url": "https://web.stanford.edu/class/comm106/", "owner": "Stanford University", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public communication course homepage identity; readings, assignments, media, datasets, and linked assets require review."},
+    {"surface_id": "stanford-comm108-homepage", "title": "stanford_comm108_communication_homepage", "url": "https://web.stanford.edu/class/comm108/", "owner": "Stanford University", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public communication course homepage identity; readings, assignments, media, datasets, and linked assets require review."},
+    {"surface_id": "stanford-comm166-homepage", "title": "stanford_comm166_media_technology_homepage", "url": "https://web.stanford.edu/class/comm166/", "owner": "Stanford University", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public media/technology course homepage identity; readings, assignments, media, code/data, and linked assets require review."},
+    {"surface_id": "stanford-comm172-homepage", "title": "stanford_comm172_journalism_media_homepage", "url": "https://web.stanford.edu/class/comm172/", "owner": "Stanford University", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public journalism/media course homepage identity; readings, assignments, reporting materials, media, and linked assets require review."},
+    {"surface_id": "stanford-comm177-homepage", "title": "stanford_comm177_digital_media_homepage", "url": "https://web.stanford.edu/class/comm177/", "owner": "Stanford University", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public digital media course homepage identity; readings, assignments, media, datasets, and linked assets require review."}
+  ]
+}
