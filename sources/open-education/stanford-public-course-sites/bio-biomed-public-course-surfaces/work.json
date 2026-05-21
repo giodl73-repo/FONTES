@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:bio-biomed-public-course-surfaces",
+  "title": "Stanford Public Bio/Biomed Course Sites: Computational Biology, Biomedical Data, Bioengineering, Genomics, and Synthetic Biology",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/cs279/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["computational biology", "biomedical data", "bioengineering", "genomics", "synthetic biology", "biomedical informatics", "biodesign", "biological modeling"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:cs279", "kind": "computational_biology_course_homepage", "url": "https://web.stanford.edu/class/cs279/", "fetch_policy": "metadata_only", "notes": "Stanford CS279 public course homepage identity for computational biology, genomics, algorithms, assignments, projects, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs273a", "kind": "biomedical_data_course_homepage", "url": "https://web.stanford.edu/class/cs273a/", "fetch_policy": "metadata_only", "notes": "Stanford CS273A public course homepage identity for biomedical data science, machine learning for healthcare, assignments, projects, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:cs275", "kind": "translational_bioinformatics_course_homepage", "url": "https://web.stanford.edu/class/cs275/", "fetch_policy": "metadata_only", "notes": "Stanford CS275 public course homepage identity for translational bioinformatics, clinical/biomedical data, assignments, projects, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:bios221", "kind": "biomedical_statistics_course_homepage", "url": "https://web.stanford.edu/class/bios221/", "fetch_policy": "metadata_only", "notes": "Stanford BIOS 221 public course homepage identity for biomedical statistics/data analysis, notes, assignments, code, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:bioe131", "kind": "bioengineering_course_homepage", "url": "https://web.stanford.edu/class/bioe131/", "fetch_policy": "metadata_only", "notes": "Stanford BIOE 131 public course homepage identity for bioengineering, biological systems, assignments, labs, projects, code/data, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:bioe214", "kind": "biodesign_course_homepage", "url": "https://web.stanford.edu/class/bioe214/", "fetch_policy": "metadata_only", "notes": "Stanford BIOE 214 public course homepage identity for biomedical design/innovation, projects, case materials, presentations, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:bioe220", "kind": "synthetic_biology_course_homepage", "url": "https://web.stanford.edu/class/bioe220/", "fetch_policy": "metadata_only", "notes": "Stanford BIOE 220 public course homepage identity for synthetic biology, design/modeling, assignments, projects, code/data, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:gene211", "kind": "genomics_course_homepage", "url": "https://web.stanford.edu/class/gene211/", "fetch_policy": "metadata_only", "notes": "Stanford GENE 211 public course homepage identity for genomics, genetics, biomedical data, assignments, projects, datasets, readings, and third-party boundaries."}
+  ]
+}

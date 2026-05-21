@@ -2498,6 +2498,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, exams, projects, labs, code, HDL, datasets, hardware documentation, software, tools, readings, videos, transcripts, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:stanford-public-course-sites:bio-biomed-public-course-surfaces",
+      "title": "Stanford Public Bio/Biomed Course Sites: Computational Biology, Biomedical Data, Bioengineering, Genomics, and Synthetic Biology",
+      "domain": "stanford-bio-biomed-public-course-support",
+      "source_family": "stanford-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\stanford-public-course-sites\\bio-biomed-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\stanford-public-course-sites\\bio-biomed-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\stanford-public-course-sites\\bio-biomed-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-stanford-bio-biomed-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Stanford course homepages are source-identity anchors only; notes, slides, assignments, exams, projects, labs, code, datasets, clinical data, genomics data, case materials, presentations, software, tools, readings, videos, transcripts, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
