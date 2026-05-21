@@ -1,0 +1,24 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:stanford-public-course-sites:humanities-social-public-course-surfaces",
+  "title": "Stanford Public Humanities/Social Sciences Course Sites: Psychology, Sociology, Political Science, History, Philosophy, and English",
+  "source_family": "stanford-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://web.stanford.edu/class/psych1/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-20",
+  "subjects": ["psychology", "cognitive psychology", "social psychology", "sociology", "political science", "history", "philosophy", "English literature"],
+  "sources": [
+    {"id": "fontes:stanford:course-site:psych1", "kind": "introductory_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych1/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 1 public course homepage identity for introductory psychology, readings, assignments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych45", "kind": "learning_memory_course_homepage", "url": "https://web.stanford.edu/class/psych45/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 45 public course homepage identity for learning and memory, notes, assignments, experiments, datasets, readings, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:psych70", "kind": "social_psychology_course_homepage", "url": "https://web.stanford.edu/class/psych70/", "fetch_policy": "metadata_only", "notes": "Stanford PSYCH 70 public course homepage identity for social psychology, readings, assignments, datasets, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc1", "kind": "introductory_sociology_course_homepage", "url": "https://web.stanford.edu/class/soc1/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 1 public course homepage identity for introductory sociology, readings, assignments, datasets, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:soc114", "kind": "social_stratification_course_homepage", "url": "https://web.stanford.edu/class/soc114/", "fetch_policy": "metadata_only", "notes": "Stanford SOC 114 public course homepage identity for social stratification and inequality, readings, assignments, datasets, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:polisci1", "kind": "political_science_course_homepage", "url": "https://web.stanford.edu/class/polisci1/", "fetch_policy": "metadata_only", "notes": "Stanford POLISCI 1 public course homepage identity for political science, readings, assignments, policy materials, datasets, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:history202", "kind": "history_methods_course_homepage", "url": "https://web.stanford.edu/class/history202/", "fetch_policy": "metadata_only", "notes": "Stanford HISTORY 202 public course homepage identity for history methods/topics, readings, primary sources, assignments, media, and third-party boundaries."},
+    {"id": "fontes:stanford:course-site:phil80", "kind": "philosophy_course_homepage", "url": "https://web.stanford.edu/class/phil80/", "fetch_policy": "metadata_only", "notes": "Stanford PHIL 80 public course homepage identity for philosophy, readings, arguments, assignments, handouts, and third-party boundaries."}
+  ]
+}
