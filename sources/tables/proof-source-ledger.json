@@ -2946,6 +2946,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Berkeley course homepages are source-identity anchors only; notes, slides, assignments, homework, exams, projects, labs, code, data, datasets, discussion materials, lecture media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:berkeley-public-course-sites:robotics-mechatronics-public-course-surfaces",
+      "title": "Berkeley Public Robotics/Mechatronics Course Sites: Advanced Robotics, Introduction to Robotics, and Mechatronics",
+      "domain": "berkeley-robotics-mechatronics-public-course-support",
+      "source_family": "berkeley-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\berkeley-public-course-sites\\robotics-mechatronics-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\berkeley-public-course-sites\\robotics-mechatronics-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\berkeley-public-course-sites\\robotics-mechatronics-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-berkeley-robotics-mechatronics-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Berkeley course homepages are source-identity anchors only; notes, slides, assignments, homework, exams, projects, labs, code, design materials, readings, lecture media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }

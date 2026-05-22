@@ -1,0 +1,11 @@
+{
+  "schema": "fonte.source-surfaces.v1",
+  "generated": "2026-05-22",
+  "work_id": "fontes:berkeley-public-course-sites:robotics-mechatronics-public-course-surfaces",
+  "row_grain": "one row per mapped Berkeley public robotics/mechatronics course homepage source identity",
+  "rows": [
+    {"surface_id": "berkeley-cs287-homepage", "title": "berkeley_cs287_advanced_robotics_homepage", "url": "https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/", "owner": "University of California, Berkeley", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public advanced robotics course homepage identity; assignments, projects, code, readings, media, and linked assets require review."},
+    {"surface_id": "berkeley-ee125-homepage", "title": "berkeley_ee125_introduction_to_robotics_homepage", "url": "https://inst.eecs.berkeley.edu/~ee125/", "owner": "University of California, Berkeley", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public introduction to robotics course homepage identity; notes, homework, labs, projects, exams, code, and linked assets require review."},
+    {"surface_id": "berkeley-ee192-homepage", "title": "berkeley_ee192_mechatronics_homepage", "url": "https://inst.eecs.berkeley.edu/~ee192/", "owner": "University of California, Berkeley", "license_status": "public-web-course-site-with-unreviewed-material-rights", "fetch_policy": "metadata_only", "proof_status": "source-identity", "notes": "Public mechatronics course homepage identity; labs, projects, design materials, code, media, and linked assets require review."}
+  ]
+}
