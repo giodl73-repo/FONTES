@@ -1,0 +1,23 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:berkeley-public-course-sites:systems-security-theory-public-course-surfaces",
+  "title": "Berkeley Public Systems/Security/Theory Course Sites: Operating Systems, Security, Databases, Networking, Compilers, Algorithms, and Optimization",
+  "source_family": "berkeley-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://cs162.org/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-21",
+  "subjects": ["operating systems", "computer security", "databases", "networking", "algorithms", "compilers", "optimization"],
+  "sources": [
+    {"id": "fontes:berkeley:course-site:cs162", "kind": "operating_systems_course_homepage", "url": "https://cs162.org/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 162 public course homepage identity for operating systems, notes, projects, labs, code, exams, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs161", "kind": "computer_security_course_homepage", "url": "https://cs161.org/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 161 public course homepage identity for computer security, notes, projects, labs, code, exams, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs186", "kind": "database_systems_course_homepage", "url": "https://cs186berkeley.net/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 186 public course homepage identity for databases, notes, projects, code, datasets, exams, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs168", "kind": "networking_course_homepage", "url": "https://cs168.io/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 168 public course homepage identity for networking, notes, assignments, projects, code, labs, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs170", "kind": "algorithms_course_homepage", "url": "https://cs170.org/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 170 public course homepage identity for efficient algorithms, notes, homework, discussion materials, exams, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs164", "kind": "compilers_course_homepage", "url": "https://cs164.org/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 164 public course homepage identity for compilers/programming languages, notes, projects, code, exams, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:eecs127", "kind": "optimization_course_homepage", "url": "https://eecs127.github.io/", "fetch_policy": "metadata_only", "notes": "Berkeley EECS 127 public course homepage identity for optimization, notes, homework, code, datasets, exams, and third-party boundaries."}
+  ]
+}

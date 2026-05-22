@@ -2882,6 +2882,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Berkeley course homepages are source-identity anchors only; notes, slides, assignments, homework, exams, projects, labs, code, notebooks, datasets, autograder services, textbook links, readings, lecture media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:berkeley-public-course-sites:systems-security-theory-public-course-surfaces",
+      "title": "Berkeley Public Systems/Security/Theory Course Sites: Operating Systems, Security, Databases, Networking, Compilers, Algorithms, and Optimization",
+      "domain": "berkeley-systems-security-theory-public-course-support",
+      "source_family": "berkeley-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\berkeley-public-course-sites\\systems-security-theory-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\berkeley-public-course-sites\\systems-security-theory-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\berkeley-public-course-sites\\systems-security-theory-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-berkeley-systems-security-theory-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Berkeley course homepages are source-identity anchors only; notes, slides, assignments, homework, exams, projects, labs, code, datasets, discussion materials, lecture media, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
