@@ -1,0 +1,22 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:berkeley-public-course-sites:stats-probability-data-public-course-surfaces",
+  "title": "Berkeley Public Statistics/Probability/Data Course Sites: Probability, Data Inference, Data Engineering, Statistical Computing, Reproducibility, and Linear Modeling",
+  "source_family": "berkeley-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "http://prob140.org/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-21",
+  "subjects": ["probability", "statistics", "data science", "data inference", "data engineering", "statistical computing", "linear modeling"],
+  "sources": [
+    {"id": "fontes:berkeley:course-site:prob140", "kind": "probability_course_homepage", "url": "http://prob140.org/", "fetch_policy": "metadata_only", "notes": "Berkeley Prob 140 public course homepage identity for probability, notes, textbook/material links, assignments, code, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:data102", "kind": "data_inference_course_homepage", "url": "https://data102.org/", "fetch_policy": "metadata_only", "notes": "Berkeley Data 102 public course homepage identity for data inference, notes, assignments, notebooks, code, datasets, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:data101", "kind": "data_engineering_course_homepage", "url": "https://data101.org/", "fetch_policy": "metadata_only", "notes": "Berkeley Data 101 public course homepage identity for data engineering, notes, assignments, projects, code, datasets, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:stat133", "kind": "statistical_computing_course_homepage", "url": "https://stat133.berkeley.edu/", "fetch_policy": "metadata_only", "notes": "Berkeley Stat 133 public course homepage identity for statistical computing, notes, assignments, code, datasets, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:stat159", "kind": "reproducible_data_science_course_homepage", "url": "https://stat159.berkeley.edu/", "fetch_policy": "metadata_only", "notes": "Berkeley Stat 159 public course homepage identity for reproducible data science, notes, assignments, code, notebooks, datasets, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:stat151a", "kind": "linear_modeling_course_homepage", "url": "https://stat151a.berkeley.edu/", "fetch_policy": "metadata_only", "notes": "Berkeley Stat 151A public course homepage identity for linear modeling, notes, assignments, code, datasets, and third-party boundaries."}
+  ]
+}

@@ -2914,6 +2914,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Berkeley course homepages are source-identity anchors only; notes, slides, assignments, projects, code, models, image assets, datasets, readings, lecture media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:berkeley-public-course-sites:stats-probability-data-public-course-surfaces",
+      "title": "Berkeley Public Statistics/Probability/Data Course Sites: Probability, Data Inference, Data Engineering, Statistical Computing, Reproducibility, and Linear Modeling",
+      "domain": "berkeley-stats-probability-data-public-course-support",
+      "source_family": "berkeley-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\berkeley-public-course-sites\\stats-probability-data-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\berkeley-public-course-sites\\stats-probability-data-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\berkeley-public-course-sites\\stats-probability-data-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-berkeley-stats-probability-data-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Berkeley course homepages are source-identity anchors only; notes, slides, assignments, homework, projects, code, notebooks, datasets, textbook links, readings, lecture media, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
