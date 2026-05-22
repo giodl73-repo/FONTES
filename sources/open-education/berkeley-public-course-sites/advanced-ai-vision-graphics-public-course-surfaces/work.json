@@ -1,0 +1,21 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:berkeley-public-course-sites:advanced-ai-vision-graphics-public-course-surfaces",
+  "title": "Berkeley Public Advanced AI/Vision/Graphics Course Sites: Deep RL, Computer Vision, Graphics, and Computational Photography",
+  "source_family": "berkeley-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-21",
+  "subjects": ["deep reinforcement learning", "computer vision", "computer graphics", "computational photography", "visual computing", "artificial intelligence"],
+  "sources": [
+    {"id": "fontes:berkeley:course-site:cs285", "kind": "deep_reinforcement_learning_course_homepage", "url": "https://rail.eecs.berkeley.edu/deeprlcourse/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 285 public course homepage identity for deep reinforcement learning, notes, assignments, code, lecture media, readings, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs280", "kind": "computer_vision_course_homepage", "url": "https://cs280-berkeley.github.io/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 280 public course homepage identity for computer vision, notes, assignments, projects, code, datasets, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs184", "kind": "computer_graphics_course_homepage", "url": "https://cs184.eecs.berkeley.edu/sp24", "fetch_policy": "metadata_only", "notes": "Berkeley CS 184 public course homepage identity for computer graphics, notes, assignments, projects, code, models/assets, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs180", "kind": "computer_vision_course_homepage", "url": "https://inst.eecs.berkeley.edu/~cs180/fa23/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 180 public course homepage identity for computer vision, notes, assignments, projects, code, images/datasets, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs194-26", "kind": "computational_photography_course_homepage", "url": "https://inst.eecs.berkeley.edu/~cs194-26/fa22/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 194-26 public course homepage identity for computational photography, notes, projects, code, images/datasets, lecture media, and third-party boundaries."}
+  ]
+}

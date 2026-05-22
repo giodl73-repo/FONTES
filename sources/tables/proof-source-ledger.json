@@ -2898,6 +2898,22 @@
       "pebble_status": "metadata-only",
       "crop_status": "source-identity",
       "rights_boundary": "Public Berkeley course homepages are source-identity anchors only; notes, slides, assignments, homework, exams, projects, labs, code, datasets, discussion materials, lecture media, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
+    },
+    {
+      "work_id": "fontes:berkeley-public-course-sites:advanced-ai-vision-graphics-public-course-surfaces",
+      "title": "Berkeley Public Advanced AI/Vision/Graphics Course Sites: Deep RL, Computer Vision, Graphics, and Computational Photography",
+      "domain": "berkeley-advanced-ai-vision-graphics-public-course-support",
+      "source_family": "berkeley-public-course-sites",
+      "fetch_policy": "metadata_only",
+      "custody_status": "source-identity-mapped-with-rights-boundary",
+      "work_record": "sources\\open-education\\berkeley-public-course-sites\\advanced-ai-vision-graphics-public-course-surfaces\\work.json",
+      "custody_record": "sources\\open-education\\berkeley-public-course-sites\\advanced-ai-vision-graphics-public-course-surfaces\\custody.md",
+      "inventory_record": "sources\\open-education\\berkeley-public-course-sites\\advanced-ai-vision-graphics-public-course-surfaces\\inventory.md",
+      "fletch_registry": ".fletch\\registries\\fontes-berkeley-advanced-ai-vision-graphics-public-course-surfaces.json",
+      "proof_record": ".proof\\sources\\fontes-course-source-ledger.source.md",
+      "pebble_status": "metadata-only",
+      "crop_status": "source-identity",
+      "rights_boundary": "Public Berkeley course homepages are source-identity anchors only; notes, slides, assignments, projects, code, models, image assets, datasets, readings, lecture media, videos, linked services, and third-party assets remain boundary-checked until each course resource is separately reviewed."
     }
   ]
 }
