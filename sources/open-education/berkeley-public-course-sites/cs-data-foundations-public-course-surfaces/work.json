@@ -1,0 +1,23 @@
+{
+  "schema": "fonte.work.v1",
+  "id": "fontes:berkeley-public-course-sites:cs-data-foundations-public-course-surfaces",
+  "title": "Berkeley Public CS/Data Foundations Course Sites: Programming, Data Structures, Theory, AI, ML, and Data Science",
+  "source_family": "berkeley-public-course-sites",
+  "source_type": "public-course-homepage-source-identities",
+  "canonical_url": "https://cs61a.org/",
+  "license_status": "public-web-course-sites-with-unreviewed-material-rights",
+  "license_url": null,
+  "fetch_policy": "metadata_only",
+  "custody_status": "source-identity-mapped-with-rights-boundary",
+  "accessed": "2026-05-21",
+  "subjects": ["computer science", "programming", "data structures", "discrete mathematics", "artificial intelligence", "machine learning", "data science"],
+  "sources": [
+    {"id": "fontes:berkeley:course-site:cs61a", "kind": "programming_course_homepage", "url": "https://cs61a.org/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 61A public course homepage identity for programming, notes, assignments, exams, code, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs61b", "kind": "data_structures_course_homepage", "url": "https://sp24.datastructur.es/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 61B public course homepage identity for data structures, notes, projects, labs, code, autograder services, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs70", "kind": "discrete_math_probability_course_homepage", "url": "https://www.eecs70.org/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 70 public course homepage identity for discrete mathematics and probability, notes, homework, exams, discussion materials, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs188", "kind": "artificial_intelligence_course_homepage", "url": "https://inst.eecs.berkeley.edu/~cs188/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 188 public course homepage identity for artificial intelligence, notes, projects, code, datasets, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:cs189", "kind": "machine_learning_course_homepage", "url": "https://people.eecs.berkeley.edu/~jrs/189/", "fetch_policy": "metadata_only", "notes": "Berkeley CS 189 public course homepage identity for machine learning, notes, assignments, code, datasets, lecture media, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:data8", "kind": "data_science_course_homepage", "url": "https://www.data8.org/", "fetch_policy": "metadata_only", "notes": "Berkeley Data 8 public course homepage identity for data science, notebooks, assignments, datasets, textbook/material links, and third-party boundaries."},
+    {"id": "fontes:berkeley:course-site:data100", "kind": "data_science_course_homepage", "url": "https://ds100.org/", "fetch_policy": "metadata_only", "notes": "Berkeley Data 100 public course homepage identity for data science, notes, assignments, notebooks, code, datasets, lecture media, and third-party boundaries."}
+  ]
+}
