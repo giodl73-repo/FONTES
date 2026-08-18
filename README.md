@@ -54,3 +54,14 @@ git grep -n "FONTES" -- README.md PRODUCT_PLAN.md context\waves\PHASES.md
 git grep -n "fetch_policy" -- sources .fletch\registries
 git status --short
 ```
+
+## Reuse boundary
+
+FONTES is intentionally a specialist source-custody corpus, not a runtime
+dependency. Its registries, custody records, proof records, Pebble candidates,
+and Crop views are FONTES-owned evidence artifacts whose schemas and publisher
+loop are still evolving. MAXIM consumes the resulting authority layer as
+reviewed content, but does not pin a versioned FONTES package or own a
+compatibility proof. Direct reuse should wait for a bounded, versioned artifact
+contract and a real downstream manifest; copied records, shared methods, and
+planned consumers do not establish that contract.
