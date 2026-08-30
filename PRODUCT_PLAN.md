@@ -78,7 +78,7 @@ into downstream knowledge repos.
 | CANON | Planned | Canonicalize works, authors, institutions, editions, and concept IDs. |
 | MAXIM | Consumer | Uses FONTES as a backsourced authority layer, not as generated prose. |
 | SLICE | Planned later | Query source metadata once selectors stabilize. |
-| ROLES | Planned later | Add source/license/citation review panels after first seed stabilizes. |
+| ROLES | Active | Source/license/citation, publisher-artifact, and consumer-boundary review panels protect source custody and publication decisions. |
 
 ## Non-goals
 

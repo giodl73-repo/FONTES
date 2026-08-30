@@ -7,6 +7,9 @@ reference guides; it records where source authority comes from, what can be
 fetched or cached, what must remain metadata-only, and which generated proof,
 Pebble, and Crop artifacts downstream systems may trust.
 
+**Review roles:** `.roles/ROLE.md` governs source custody, fetch policy,
+publisher artifacts, citation authority, and downstream consumer boundaries.
+
 ## Product thesis
 
 Public knowledge sources are generous but uneven. MIT OpenCourseWare pages,
@@ -52,6 +55,7 @@ FONTES registry
 ```powershell
 git grep -n "FONTES" -- README.md PRODUCT_PLAN.md context\waves\PHASES.md
 git grep -n "fetch_policy" -- sources .fletch\registries
+pwsh -NoProfile -File tests\test_fontes_pitfall_policy.ps1
 git status --short
 ```
 

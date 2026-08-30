@@ -17,5 +17,5 @@ planned review gates.
 
 PITFALL records what FONTES must remember about source-custody work. It does
 not replace rights review, publisher terms, schema validation, FLETCH registry
-checks, PROOF source records, downstream consumer acceptance, or future ROLES
-review panels.
+checks, PROOF source records, downstream consumer acceptance, or repo-local
+ROLES review.

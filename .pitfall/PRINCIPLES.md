@@ -54,15 +54,17 @@ not decide that claim or imply the consumer has adopted a stable contract.
 
 **Evidence:** `README.md`, `PRODUCT_PLAN.md`, and `context/waves/PHASES.md`.
 
-## FONTES-P-05: Planned Review Panels Are Not Existing Gates
+## FONTES-P-05: Review Panels Must Be Existing Gates
 
 **Status:** ACTIVE
 
-**Statement:** ROLES-based source, license, and citation panels remain planned
-until a repo-local `.roles` layer exists and is used by a pulse.
+**Statement:** ROLES-based source, license, citation, publisher, and consumer
+panels count only when a repo-local `.roles` layer exists and is used by a
+pulse.
 
-**Decision rule:** Do not close source-custody or publication risks by citing a
-planned panel; cite existing docs, schemas, ledgers, registries, or validation
-commands instead.
+**Decision rule:** Do not close source-custody or publication risks by citing
+planned review. Cite existing role files, docs, schemas, ledgers, registries, or
+validation commands.
 
-**Evidence:** `PRODUCT_PLAN.md` and `context/waves/PHASES.md`.
+**Evidence:** `.roles/ROLE.md`, `PRODUCT_PLAN.md`, and
+`context/waves/PHASES.md`.

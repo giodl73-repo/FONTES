@@ -38,8 +38,8 @@ redistribution permission.
 child-resource boundary before fetching, caching, bundling, or transferring
 source content.
 
-**Evidence:** `README.md`, `PRODUCT_PLAN.md`, `sources/mit/README.md`, and
-`sources/mit/ocw/TERMS.md`.
+**Evidence:** `README.md`, `PRODUCT_PLAN.md`, `sources/mit/README.md`,
+`sources/mit/ocw/TERMS.md`, and `.roles/ROLE.md`.
 
 **Test:** `tests/test_fontes_pitfall_policy.ps1` checks that the repo-visible source policy keeps online visibility separate from mirroring permission.
 
@@ -82,8 +82,8 @@ and promote fetch/cache handling only for the specific resource class that has
 clear terms.
 
 **Evidence:** `sources/mit/ocw/TERMS.md`,
-`sources/ACQUISITION_PRIORITIES.md`, `schemas/fonte.source.v1.json`, and
-`.fletch/registries`.
+`sources/ACQUISITION_PRIORITIES.md`, `schemas/fonte.source.v1.json`,
+`.fletch/registries`, and `.roles/fetch-policy-reviewer.md`.
 
 **Test:** `tests/test_fontes_pitfall_policy.ps1` checks that source and registry surfaces keep fetch policy explicit.
 
@@ -125,7 +125,7 @@ own extracted context, claim quality, citation sufficiency, and interpretation.
 context, citation sufficiency, and consumer-authored claims.
 
 **Evidence:** `.proof/sources/fontes-course-source-ledger.source.md`,
-`README.md`, and `PRODUCT_PLAN.md`.
+`README.md`, `PRODUCT_PLAN.md`, and `.roles/citation-authority-reviewer.md`.
 
 **Test:** `tests/test_fontes_pitfall_policy.ps1` checks that source identity remains distinct from downstream authored claims.
 
@@ -167,7 +167,8 @@ own artifact generation; downstream repos own adoption gates.
 publisher status, and downstream readiness in generated artifacts.
 
 **Evidence:** `.proof/sources/fontes-course-source-ledger.source.md`, `.pebble`,
-`.crop`, and `context/waves/PHASES.md`.
+`.crop`, `context/waves/PHASES.md`, and
+`.roles/publisher-artifact-reviewer.md`.
 
 **Test:** `tests/test_fontes_pitfall_policy.ps1` checks that generated/publisher-facing records preserve non-ready states.
 
