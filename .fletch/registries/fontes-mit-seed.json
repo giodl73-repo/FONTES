@@ -266,6 +266,7 @@
       ],
       "metadata": {
         "fetch_policy": "metadata_only",
+        "license": "free-to-read-not-redistributable",
         "work_id": "fontes:mit-press:deep-learning-goodfellow-bengio-courville-2016"
       },
       "tags": ["fontes", "mit-press", "deep-learning", "metadata-only"]

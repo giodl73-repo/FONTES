@@ -79,6 +79,7 @@
       ],
       "metadata": {
         "fetch_policy": "license_review",
+        "license": "license-review",
         "family_id": "fontes:open-education:uc-berkeley-ocw"
       },
       "tags": ["fontes", "open-education", "berkeley", "license-review"]
@@ -94,6 +95,7 @@
       ],
       "metadata": {
         "fetch_policy": "metadata_only",
+        "license": "metadata-only-directory-boundary",
         "family_id": "fontes:open-education:open-education-global"
       },
       "tags": ["fontes", "open-education", "oeglobal", "metadata-only"]

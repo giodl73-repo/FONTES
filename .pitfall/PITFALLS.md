@@ -78,16 +78,20 @@ and external readings.
 those labels rather than infer broader cache rights.
 
 **Structural solution:** Keep metadata-only and license-review states visible,
-and promote fetch/cache handling only for the specific resource class that has
-clear terms.
+require every FLETCH registry row to carry row-level `fetch_policy` and
+`license` metadata, and promote fetch/cache handling only for the specific
+resource class that has clear terms.
 
 **Evidence:** `sources/mit/ocw/TERMS.md`,
 `sources/ACQUISITION_PRIORITIES.md`, `schemas/fonte.source.v1.json`,
 `.fletch/registries`, and `.roles/fetch-policy-reviewer.md`.
 
-**Test:** `tests/test_fontes_pitfall_policy.ps1` checks that source and registry surfaces keep fetch policy explicit.
+**Test:** `tests/test_fontes_pitfall_policy.ps1` checks that source and
+registry surfaces keep fetch policy explicit, and parses every
+`.fletch/registries/*.json` row to require paired `metadata.fetch_policy` and
+`metadata.license` fields.
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 ## FONTES-PF-03: Source Identity Becomes Citation Authority
 
