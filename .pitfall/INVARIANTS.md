@@ -74,3 +74,21 @@ relationships do not prove compatibility by themselves.
 **Evidence:** `README.md`, `PRODUCT_PLAN.md`, and `context/waves/PHASES.md`.
 
 **Test:** `git grep -n "not a runtime dependency\|planned consumers do not establish that contract" -- README.md PRODUCT_PLAN.md`.
+
+## FONTES-I-06: Source Boundaries Stay Machine-Readable
+
+**Status:** VERIFIED
+
+**Invariant:** Online visibility, source identity, citation authority,
+publisher artifacts, rights clearance, and package readiness are recorded in
+`docs/source-boundaries.v1.json` with explicit ownership and blocked claims.
+
+**Why it matters:** Source rows and generated artifacts are useful because they
+look organized and reusable, but that same polish can make visibility, custody,
+or publisher output look like mirroring permission, claim correctness, rights
+clearance, or downstream readiness.
+
+**Evidence:** `docs/source-boundaries.v1.json` and
+`tests/test_fontes_pitfall_policy.ps1`.
+
+**Test:** `powershell -NoProfile -ExecutionPolicy Bypass -File tests\test_fontes_pitfall_policy.ps1`.

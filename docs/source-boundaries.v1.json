@@ -1,0 +1,74 @@
+{
+  "schema": "fontes.source-boundaries.v1",
+  "owner_repo": "FONTES",
+  "authority": {
+    "source_identity": "FONTES",
+    "custody_status": "FONTES",
+    "fetch_policy": "FONTES",
+    "rights_clearance": "explicit source and resource terms",
+    "claim_correctness": "owning downstream knowledge repositories",
+    "citation_sufficiency": "owning downstream knowledge repositories",
+    "package_readiness": "owning publisher or consumer repositories"
+  },
+  "boundaries": [
+    {
+      "pitfall_id": "FONTES-PF-01",
+      "boundary": "online_visibility_not_mirroring_permission",
+      "required_before_transfer": [
+        "source owner",
+        "resource-level fetch policy",
+        "resource-level rights posture",
+        "child-resource boundary",
+        "custody note"
+      ],
+      "blocked_claims": [
+        "visible URL permits mirroring",
+        "public course page permits bulk cache",
+        "linked PDF permits redistribution",
+        "source discovery permits bundle transfer"
+      ]
+    },
+    {
+      "pitfall_id": "FONTES-PF-03",
+      "boundary": "source_identity_not_citation_authority",
+      "fontes_can_claim": [
+        "source row exists",
+        "source owner is named",
+        "custody and fetch policy are recorded",
+        "proof ledger can cite source status"
+      ],
+      "owned_elsewhere": [
+        "MAXIM authored claims",
+        "CANON identity decisions",
+        "downstream extraction review",
+        "claim correctness",
+        "citation sufficiency",
+        "currentness and completeness"
+      ],
+      "blocked_claims": [
+        "source row proves claim correctness",
+        "source identity proves citation sufficiency",
+        "proof ledger replaces authored interpretation",
+        "FONTES source map approves MAXIM or CANON use"
+      ]
+    },
+    {
+      "pitfall_id": "FONTES-PF-04",
+      "boundary": "publisher_artifact_not_rights_clearance",
+      "artifact_must_repeat": [
+        "custody status",
+        "fetch policy",
+        "rights notes",
+        "publisher status",
+        "downstream readiness"
+      ],
+      "blocked_claims": [
+        "PROOF record is license clearance",
+        "PEBBLE candidate is package ready",
+        "CROP view is rights cleared",
+        "FLETCH registry row is redistribution approval",
+        "machine-readable artifact proves downstream readiness"
+      ]
+    }
+  ]
+}

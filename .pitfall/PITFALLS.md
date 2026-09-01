@@ -34,16 +34,19 @@ it were source custody.
 fetch/cache mechanics; downstream consumers must not reinterpret visibility as
 redistribution permission.
 
-**Structural solution:** Require exact fetch policy, rights posture, owner, and
-child-resource boundary before fetching, caching, bundling, or transferring
-source content.
+**Structural solution:** Require exact fetch policy, rights posture, owner,
+child-resource boundary, and a machine-readable source-boundary contract before
+fetching, caching, bundling, or transferring source content.
 
-**Evidence:** `README.md`, `PRODUCT_PLAN.md`, `sources/mit/README.md`,
-`sources/mit/ocw/TERMS.md`, and `.roles/ROLE.md`.
+**Evidence:** `docs/source-boundaries.v1.json`, `README.md`,
+`PRODUCT_PLAN.md`, `sources/mit/README.md`, `sources/mit/ocw/TERMS.md`, and
+`.roles/ROLE.md`.
 
-**Test:** `tests/test_fontes_pitfall_policy.ps1` checks that the repo-visible source policy keeps online visibility separate from mirroring permission.
+**Test:** `tests/test_fontes_pitfall_policy.ps1` parses
+`docs/source-boundaries.v1.json` and checks that repo-visible source policy
+keeps online visibility separate from mirroring permission.
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 ## FONTES-PF-02: Fetch Policy Becomes Bulk Cache Authorization
 
@@ -126,14 +129,18 @@ work.
 own extracted context, claim quality, citation sufficiency, and interpretation.
 
 **Structural solution:** Separate source identity, source custody, extracted
-context, citation sufficiency, and consumer-authored claims.
+context, citation sufficiency, and consumer-authored claims through a
+machine-readable source-boundary contract.
 
-**Evidence:** `.proof/sources/fontes-course-source-ledger.source.md`,
-`README.md`, `PRODUCT_PLAN.md`, and `.roles/citation-authority-reviewer.md`.
+**Evidence:** `docs/source-boundaries.v1.json`,
+`.proof/sources/fontes-course-source-ledger.source.md`, `README.md`,
+`PRODUCT_PLAN.md`, and `.roles/citation-authority-reviewer.md`.
 
-**Test:** `tests/test_fontes_pitfall_policy.ps1` checks that source identity remains distinct from downstream authored claims.
+**Test:** `tests/test_fontes_pitfall_policy.ps1` parses
+`docs/source-boundaries.v1.json` and checks that source identity remains
+distinct from downstream authored claims.
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 ## FONTES-PF-04: Publisher Artifact Looks Rights-Cleared
 
@@ -168,15 +175,19 @@ are explicit.
 own artifact generation; downstream repos own adoption gates.
 
 **Structural solution:** Repeat custody state, fetch policy, rights notes,
-publisher status, and downstream readiness in generated artifacts.
+publisher status, downstream readiness, and blocked publisher-overclaim rules
+in generated artifacts.
 
-**Evidence:** `.proof/sources/fontes-course-source-ledger.source.md`, `.pebble`,
-`.crop`, `context/waves/PHASES.md`, and
+**Evidence:** `docs/source-boundaries.v1.json`,
+`.proof/sources/fontes-course-source-ledger.source.md`, `.pebble`, `.crop`,
+`context/waves/PHASES.md`, and
 `.roles/publisher-artifact-reviewer.md`.
 
-**Test:** `tests/test_fontes_pitfall_policy.ps1` checks that generated/publisher-facing records preserve non-ready states.
+**Test:** `tests/test_fontes_pitfall_policy.ps1` parses
+`docs/source-boundaries.v1.json` and checks that generated/publisher-facing
+records preserve non-ready states.
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 ## FONTES-PF-05: Planned Consumer Contract Becomes Adopted Dependency
 
